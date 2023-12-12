@@ -1,0 +1,2 @@
+/drive/mnt/invoiceProduct/exacto/static/eips_data/user_active_learning_data/edb8c0f2/kip_test/SC-s_2.txt Salesperson ID
+/drive/mnt/invoiceProduct/exacto/static/eips_data/user_active_learning_data/edb8c0f2/kip_test/SC-s_3.txt Shipping Method

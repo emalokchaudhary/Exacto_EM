@@ -1,0 +1,1055 @@
+ExxonMobil Oil Corporation
+22777 Springwoods Village Parkway
+Spring, TX 77389
+
+Attention                  : Kelly Schultz
+                                                                        Contents
+MOVEMENT                   : Load                                        Voyage Analysis Report
+                                                                         Shore Tank Quantity
+VESSEL                     : Oregon                                      Vessel Quantity Report
+LOCATION                   : ExxonMobil - Baytown, TX                    Line Displacement
+                                                                         Timelog
+File N°                    : BAY-2069                                    LOP/NAD
+DATE                       : 01/14/2021 - 01/19/2021                     Analytical Report
+REFERENCE N°               : 5216827-250
+
+
+Dear Client,
+
+Please find attached our Inspection Report No. BAY-2069 corresponding to the Load operation of the
+captioned vessel, at place and date(s) shown above. The complete report is composed of individual field
+reports, which we believe are self-explanatory.
+
+
+We trust that this report supplies the proper input needed so that we comply with your requirements. Should
+there be any points that need further clarification, please do not hesitate to contact us.
+
+Gauges, temperatures and volumes were obtained in accordance to the latest procedures in applicable API
+MPMS Chapters and Sections 3.x,4.x,5.x,7,8.x,10.x,11.x,12.x & 17.x
+
+All Camin Cargo Control measurement devices and methods used for quantity and quality determination meet
+the pertinent requirements of 40 CFR 98.3 et. seq. (Greenhouse Gas Mandatory Reporting Rule)
+
+
+
+
+                                                                     Yours Sincerely,
+
+                                                                     Camin Cargo Control
+                                                                     6118 Bayway Drive Baytown, TX 77520
+                                                                     Phone: 832-982-2001
+                                                                     opsbaytown@camincargo.com
+ EXXM01-14 / 557475                                                  www.camincargo.com
+
+
+
+
+                                                   Page 1 of 15
+                                              VOYAGE ANALYSIS REPORT N° BAY-2069
+VESSEL                 : Oregon                                                                                           MOVEMENT               : Load
+LOCATION               : ExxonMobil - Baytown, TX                                                                         JOB COMPLETED          : 17-JAN-2021
+PRODUCT                : MOGAS 87 OCT CBOB                                                                                REFERENCE N°           : 5216827-250
+
+                          Port                                                                                     VCF    Voyage#                  Gauge Date
+LOAD                     : ExxonMobil - Baytown, TX                                                                6B     ON FILE                  14-JAN-2021
+DISCHARGE
+Barrels @ 60 °F                         API @ 60 °F               TCV                      FW                  GSV                  S&W                  NSV          Reference
+I. SHORE/SHORE COMPARISON-NOT AVAILABLE
+1.   Loading Quantity                         65.6         319,383.07                     0.00            319,383.07                   0.00         319,383.07
+2.   Outturn
+3.   Difference                                                                                                                                                       (2-1)
+4.   Difference %                                                                                                                                                     (3/1*100)
+     Adjusted TCV Difference                                                                                                                                          (3-b+l)
+
+
+II. VESSEL/SHORE COMPARISON AT LOADPORT
+a.   After Loading                                         319,148.87                     0.00            319,148.87                   Liquid            Non-Liquid
+b.   OBQ                                                          0.00                    0.00                     0.00
+
+c.   Vessel Received                                       319,148.87                     0.00            319,148.87                                                  (a-b)
+d.   Difference                                               -234.20                     0.00               -234.20                                                  (c-1)
+e.   Difference %                                               -0.07                                          -0.07                                                  (d/1*100)
+f.   Load Ratio                                                   0.99927
+                                                                                                                                                                      (c/1)
+g.   VEF                                                          1.0004
+
+h.   Theoretical Shore                                     319,021.26                                                                                                 (c/g)
+i.   Theoretical Shore Diff.                                  -361.81
+                                                                                                                                                                      (h-1)
+j.   Theoretical Shore Diff. %                                  -0.11                                                                                                 (i/1*100)
+III. VESSEL/SHORE COMPARISON AT DISPORT-NOT AVAILABLE
+k.   Before Discharge                                                                                                                  Liquid            Non-Liquid
+l.   ROB
+m. Vessel Delivered                                                                                                                                                   (k-l)
+n.   Difference                                                                                                                                                       (2-m)
+o.   Difference %                                                                                                                                                     (n/2*100)
+p.   Discharge Ratio                                                                                                                                                  (m/2)
+q.   VEF
+r.   Theoretical Shore                                                                                                                                                (m/q)
+s.   Theoretical Shore Diff.                                                                                                                                          (2-r)
+t.   Theoretical Shore Diff. %                                                                                                                                        (s/2*100)
+IV. VESSEL IN TRANSIT COMPARISON-NOT AVAILABLE
+u.   In-Transit Diff.                                                                                                                                                 (k-a)
+v.   In-Transit Diff. %                                                                                                                Liquid            Non-Liquid (u/a*100)
+w. OBQ/ROB Difference                                                                                                                                                 (b-l)
+                          Adjusted TCV Difference                                                S&W at Loadport     0.000 %        S&W at Disport ---
+
+
+
+
+Calculated as per Chapter 17.5
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: 832-982-2001
+Email: opsbaytown@camincargo.com
+
+EXXM01-14 / 557475 / January 19, 2021
+                                                                                     Page 2 of 15
+                                                       QUANTITY CERTIFICATE N° BAY- 2069
+                                                                                 Based on Shore Measurements
+VESSEL                 : Oregon                                                                                                         MOVEMENT      : Load
+LOCATION               : ExxonMobil - Baytown, TX                                                                                       JOB COMPLETED : 17-JAN-2021
+PRODUCT                : MOGAS 87 OCT CBOB                                               GRADE       : CFP L4                           REFERENCE N° : 5216827-250
+
+
+                                         Water         Water                     Roof                      Amb.                                                                   S&W
+         Gauge          TOV                                          CTSh                     GOV                       Temp.     API       VCF          GSV          S&W                          NSV
+                                         Gauge          Vol.                     Corr.                     Temp                                                                    Vol.
+Tank: 855                                              Ref. Gauge Ht: 64-05 03/0                          Gauge Date Open: 16-Jan 18:45                   Gauge Date Close: 17-Jan 07:55
+      Ft-In (Inn.)      Bbls             Ft-In           Bbls        Factor      Bbls         Bbls           °F          °F      @ 60°F      6B       Bbls @ 60°F     %          @ 60°F         Bbls @ 60°F
+ O    51-00 03/04      120,978.21                ---        Nil      0.99998       -18.05   120,957.74        59.0        58.3   66.4 (T)   1.00122     121,105.31        ---             ---     121,105.31
+ C    07-00 05/08       16,938.77                ---        Nil      0.99998       -17.67     16,920.76       58.0        57.8   66.4 (T)   1.00158      16,947.50        ---             ---      16,947.50
+                       104,039.44                               0                           104,036.98                                                  104,157.81                                104,157.81
+                                                                                                          Line:                                                 ---
+                                                                                                          Adjustment:                                           ---
+
+Tank: 856                                              Ref. Gauge Ht: 64-04-1/                            Gauge Date Open: 15-Jan 03:05                   Gauge Date Close: 16-Jan 10:35
+      Ft-In (Inn.)      Bbls             Ft-In           Bbls        Factor      Bbls         Bbls           °F          °F      @ 60°F      6B       Bbls @ 60°F     %          @ 60°F         Bbls @ 60°F
+ O    50-00 00/00      118,590.32                ---        Nil      0.99995       -23.91   118,560.48        44.0        57.5   65.1 (T)   1.00178     118,771.52        ---             ---     118,771.52
+ C    06-10 01/04       16,689.85                ---        Nil      0.99996       -23.91     16,665.27       51.0        57.7   65.1 (T)   1.00164      16,692.60        ---             ---      16,692.60
+                       101,900.47                               0                           101,895.21                                                  102,078.92                                102,078.92
+                                                                                                          Line:                                                 ---
+                                                                                                          Adjustment:                                           ---
+
+Tank: 863                                              Ref. Gauge Ht: 67-01 03/0                          Gauge Date Open: 16-Jan 07:45                   Gauge Date Close: 16-Jan 21:30
+      Ft-In (Inn.)      Bbls             Ft-In           Bbls        Factor      Bbls         Bbls           °F          °F      @ 60°F      6B       Bbls @ 60°F     %          @ 60°F         Bbls @ 60°F
+ O    53-00 00/00      124,787.81                ---        Nil      0.99998        2.15    124,787.46        45.0        60.0   65.4 (T)   1.00000     124,787.46        ---             ---     124,787.46
+ C    05-00 07/08       11,600.27                ---        Nil      0.99994        4.30      11,603.87       49.0        55.5   65.4 (T)   1.00321      11,641.12        ---             ---      11,641.12
+                       113,187.54                               0                           113,183.59                                                  113,146.34                                113,146.34
+                                                                                                          Line:                                                 ---
+                                                                                                          Adjustment:                                           ---
+
+S=Submitted / C=Calculated / T=Tested by CCC / W=Tested by Terminal/Refinery & Witnessed by CCC
+Totals computed using appropriate tables corresponding to Delivered API.
+Notes for 855: inside stop 7-1-3/8 remote stop 17-0-7/8
+
+                                                                    MOGAS 87 OCT CBOB - TOTAL QUANTITIES - DELIVERED
+TCV, Barrels @ 60 °F                             319,383.07             S&W         ---
+Free Water Barrels                                     0.00                   ---
+                                                  GSV                            NSV                                                                    GSW                          NSW
+Barrels @ 60 °F                                  319,383.07                    319,383.07             Long Tons - Air                                  35,788.305                   35,788.305
+Gallons @ 60 °F                            13,414,088.94                    13,414,088.94             Metric Tons - Air                                36,362.597                   36,362.597
+Cubic Meters @ 60 °F                              50,777.840                     50,777.840           Short Tons - Air                                 40,082.902                   40,082.902
+Cubic Meters @ 15 °C                              50,741.824                     50,741.824           Kilograms - Air                             36,362,597.0                  36,362,597.0
+Liters @ 60 °F                             50,777,840.0                     50,777,840.0              Pounds - Air                                80,165,804.0                  80,165,804.0
+Liters @ 15 °C                             50,741,824.0                     50,741,824.0
+API Gravity @ 60 °F (C)                                  65.6
+Lb/Gal @ 60 °F                                   5.976239159
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 6118 Bayway Drive
+ Baytown, TX 77520
+ Office Phone: 832-982-2001
+ Email: opsbaytown@camincargo.com
+
+ EXXM01-14 / 557475 / January 19, 2021                                                           Page 3 of 15
+                                             VESSEL QUANTITY REPORT N° BAY-2069
+VESSEL                 : Oregon                                                                           MOVEMENT      : Load
+LOCATION               : ExxonMobil - Baytown, TX                                                         JOB COMPLETED : 17-JAN-2021
+PRODUCT                : MOGAS 87 OCT CBOB                                                                REFERENCE N° : 5216827-250
+Comp. Chart RH                 Phy GH       Gauge            TOV       Water             Water          Temp.      VCF      GSV @ 60 °F
+No     Meters                   Meters      Meters           Bbls      Gauge              Bbls            °F        6B           Bbls
+01P         17.9900                17.99      0.00              Nil    0.00               Nil
+01S         17.9750                17.97      0.00              Nil    0.00               Nil
+02P         17.9800                17.98      0.00              Nil    0.00               Nil
+02S         17.9850                17.98      0.00              Nil    0.00               Nil
+03P         17.9900                17.99      0.00              Nil    0.00               Nil
+03S         17.9800                17.98      0.00              Nil    0.00               Nil
+04P         17.9950                17.99      0.00              Nil    0.00               Nil
+04S         17.9750                17.97      0.00              Nil    0.00               Nil
+05P         17.9350                17.93      0.00              Nil    0.00               Nil
+05S         18.0000                18.00      0.00              Nil    0.00               Nil
+06P         17.9500                17.95      0.00              Nil    0.00               Nil
+06S         17.9700                17.97      0.00              Nil    0.00               Nil
+07P         18.0200                18.02      0.00              Nil    0.00               Nil
+07S         17.9900                17.99      0.00              Nil    0.00               Nil
+                                                                Nil                        Nil
+Gauge Date             General Information                                                                                          Sea Valves
+14-JAN-2021            Last Three Cargoes   : ON FILE                                                                  SN=26954     N/A
+                       Sea Condition        : Calm                                                                     SN=26954
+Draft (m)            Fwd (P)              Fwd (S)            Aft (P)      Aft (S)                Trim           List
+Before               6.10                  6.10              8.40         8.40                   2.30           0.00
+Note:
+No Trim Correction was applied.
+Vessel was gauged/sampled using a Closed/Restricted System
+
+
+VESSEL QUANTITIES                          ARRIVAL
+TCV, Barrels @ 60 °F                           0.00
+Free Water Barrels                             0.00
+                                                  GSV
+Barrels @ 60 °F                                   0.00
+Gallons @ 60 °F                                   0.00
+Cubic Meters @ 60 °F                              0.000
+Cubic Meters @ 15 °C                              0.000
+Liters @ 60 °F                                    0.0
+Liters @ 15 °C                                    0.0
+API Gravity @ 60 °F
+Lb/Gal @ 60 °F
+
+
+
+
+ 6118 Bayway Drive
+ Baytown, TX 77520
+ Office Phone: 832-982-2001
+ Email: opsbaytown@camincargo.com
+
+ EXXM01-14 / 557475 / January 19, 2021
+                                                                          Page 4 of 15
+                                               VESSEL QUANTITY REPORT N° BAY-2069
+VESSEL                 : Oregon                                                                                           MOVEMENT      : Load
+LOCATION               : ExxonMobil - Baytown, TX                                                                         JOB COMPLETED : 17-JAN-2021
+PRODUCT                : MOGAS 87 OCT CBOB                                                                                REFERENCE N° : 5216827-250
+Comp. Chart RH          Phy GH             Gauge        Corr. Gauge             TOV        Water             Water        Temp.             VCF     GSV @ 60 °F
+No    Meters            Meters             Meters                               Bbls       Gauge              Bbls          °F               6B          Bbls
+01P         17.9900           17.990        3.16             3.22             16,001.76                         Nil         59.2          1.00057       16,010.88
+01S         17.9750           17.970        3.09             3.17             16,063.37                         Nil         58.8          1.00085       16,077.02
+02P         17.9800           17.980        1.66             1.74             23,276.70                         Nil         59.0          1.00071       23,293.23
+02S         17.9850           17.980        1.54             1.61             23,444.74                         Nil         58.7          1.00093       23,466.54
+03P         17.9900           17.990        1.49             1.56             24,386.56                         Nil         58.6          1.00100       24,410.95
+03S         17.9800           17.980        1.50             1.58             24,358.67                         Nil         58.5          1.00107       24,384.73
+04P         17.9950           17.990        1.47             1.53             24,421.42                         Nil         58.8          1.00085       24,442.18
+04S         17.9750           17.980        1.51             1.59             24,337.75                         Nil         58.6          1.00100       24,362.09
+05P         17.9350        17..935          1.50             1.62             24,295.91                         Nil         58.6          1.00100       24,320.21
+05S         18.0000           18.000        1.51             1.57             24,372.61                         Nil         58.6          1.00100       24,396.98
+06P         17.9500           17.950        1.51             1.62             24,302.88                         Nil         58.6          1.00100       24,327.18
+06S         17.9700           17.970        1.50             1.59             24,344.73                         Nil         58.8          1.00085       24,365.42
+07P         18.0200           18.020        1.51             1.55             22,653.86                         Nil         59.4          1.00043       22,663.60
+07S         17.9900           17.990        1.51             1.58             22,614.97                         Nil         59.2          1.00057       22,627.86
+                                                                            318,875.93                          Nil         58.8                       319,148.87
+
+Gauge Date              General Information                                                                                                                  Sea Valves
+14-JAN-2021             Last Three Cargoes   : ON FILE                                                                                      SN=26955         N/A
+                        Sea Condition        : Calm                                                                                         SN=26955
+Draft (m)             Fwd (P)              Fwd (S)                  Aft (P)               Aft (S)               Trim               List
+Before                6.10                    6.10                  8.40                  8.40                  2.30               0.00
+After                 10.68                   11.58                 10.68                 11.58                 0.00               0.00
+Note:
+Trim Correction was applied.
+Vessel was gauged/sampled using a Closed/Restricted System
+
+
+
+VESSEL QUANTITIES                           DEPARTURE                   RECEIVED
+TCV, Barrels @ 60 °F                        319,148.87                 319,148.87            S&W          ---
+Free Water Barrels                                0.00                       0.00                         ---
+                                                  GSV                        GSV                          NSV                                            GSW                NSW
+Barrels @ 60 °F                             319,148.87                 319,148.87                      319,148.87      Long Tons - Air                 35,834.908         35,834.908
+Gallons @ 60 °F                          13,404,252.54              13,404,252.54                   13,404,252.54      Metric Tons - Air               36,409.947         36,409.947
+Cubic Meters @ 60 °F                         50,740.606                 50,740.606                       50,740.606 Short Tons - Air                   40,135.097         40,135.097
+Cubic Meters @ 15 °C                         50,704.615                 50,704.615                       50,704.615 Kilograms - Air               36,409,947.0        36,409,947.0
+Liters @ 60 °F                           50,740,606.0               50,740,606.0                    50,740,606.0       Pounds - Air               80,270,194.0        80,270,194.0
+Liters @ 15 °C                           50,704,615.0               50,704,615.0                    50,704,615.0
+API Gravity @ 60 °F                                65.2(T)                      65.2(T)
+Lb/Gal @ 60 °F                                     5.988412517                 5.988412517
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 6118 Bayway Drive
+ Baytown, TX 77520
+ Office Phone: 832-982-2001
+ Email: opsbaytown@camincargo.com
+
+ EXXM01-14 / 557475 / January 19, 2021
+                                                                                          Page 5 of 15
+                                             LINE DISPLACEMENT REPORT N° BAY-2069
+VESSEL                 : Oregon                                                                                          MOVEMENT      : Load
+LOCATION               : ExxonMobil - Baytown, TX                                                                        JOB COMPLETED : 17-JAN-2021
+PRODUCT                : MOGAS 87 OCT CBOB                                                                               REFERENCE N° : 5216827-250
+
+
+                   Shore Tank                Observed Gauges                 TOV            Temp.            API                  VCF                   TCV
+
+            Gauge Date: 15-JAN-2021            Ft-In (Inn.)                  Bbls             °F           @ 60 °F                6B                Bbls @ 60 °F
+                                         O    50-00 00/00              118,590.32
+                       856                                                                   57.5           65.0              1.00178                3,356.13
+                                         C    48-07 01/04              115,240.15
+                                                                        3,350.17
+
+                                                   Total                3,350.17                                                                     3,356.13
+
+          Shore Line                              Length                     Size                Nominal Capacity              Condition Before Displacement
+                                                   0 km                      0″                  2500.00 Bbls                                Full
+
+
+                       Vessel                Observed Gauges                 TOV            Temp.            API                  VCF                   TCV
+
+                       Oregon                  Meter (Ull.)                  Bbls             °F           @ 60 °F                6B                Bbls @ 60 °F
+                                         O         0.00                      0.00
+                       06P                                                                   0.0             65.0              1.04206               1,755.56
+                                         C        16.65                  1,684.70
+                                                                         1,684.70
+
+                                         O         0.00                      0.00
+                       06S                                                                   0.0             65.0              1.04206               1,768.13
+                                         C        16.64                  1,696.76
+                                                                         1,696.76
+
+                                                   Total                 3,381.46                                                                    3,523.69
+
+          Vessel's System                     Condition Before        Condition After            Nominal Capacity            Adjusted Volume Displaced
+                                                  Empty                  Empty                     0.00 Bbls                                0.00
+
+
+
+
+          No quantity adjustment was applied
+          Note: LINE 18 REC DISP 2500BBLS TOL 150BBLS
+
+
+                                                                                     TOV
+                                                           Barrels                                             Gallons
+          Total Tank                                             3,350.17                                           140,707.14
+
+          Total Vessel                                           3,381.46                                           142,021.32
+
+          Volume Difference                                          31.29                                            1,314.18
+
+          % Difference                                                0.93                                                 0.93
+
+
+As per API Ch. 17.6 TOV of the product displaced was at least 120% of the combined capacity of all designated vessel and shore transfer lines unless the conditions referred to in
+17.6.8.1.1 applied, then 100 % of line capacity.
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 6118 Bayway Drive
+ Baytown, TX 77520
+ Office Phone: 832-982-2001
+ Email: opsbaytown@camincargo.com
+
+ EXXM01-14 / 557475 / January 19, 2021                                              Page 6 of 15
+                                                        TIME LOG REPORT N° BAY-2069
+VESSEL            : Oregon                                                                     MOVEMENT        : Load
+LOCATION          : ExxonMobil - Baytown, TX                                                   JOB COMPLETED   : 17-JAN-2021
+PRODUCT           : MOGAS 87 OCT CBOB                                                          REFERENCE N°    : 5216827-250
+
+Date              Time          Description
+14-JAN-2021       18:24         End of Sea Passage
+                  18:24         Notice of Readiness Tendered
+                  18:42         Pilot on Board
+                  22:06         First Line Ashore
+                  22:48         All Fast - Exxon Dock #2
+                  23:05         Gangway Down
+                  23:05         Inspector Notified
+                  23:30         Inspector Arrived
+                  23:40         Inspector on Board
+15-JAN-2021       00:05         Key Meeting Held
+                  00:15         Preliminary Inspection Commenced
+                  01:30         Preliminary Inspection Completed
+                  01:35         Preliminary Calculations Commenced
+                  01:45         Preliminary Calculations Completed
+                  02:00         Inspector Departed
+                  02:05         Cargo Hose Connection Delay Due To Crane Issues
+                  02:25         Inspector Arrived At Shore Tank 856 / C3 Called for Operator
+                  02:40         Operator Arrived At Shore Tank 856
+                  03:05         Shore Tank 856 Gauged Open
+                  13:30         Cargo Hoses Connected
+                  14:00         Notice Of Readiness Accepted
+                  17:30         Commenced Loading
+                  18:05         Suspended Loading For Line Verification
+                  18:05         Inspector Notified For Line Verification
+                  18:30         Inspector Arrived
+                  18:40         Inspector Onboard
+                  18:45         Commenced Gauging Vsl For Line Verification
+                  19:05         Completed Gauging Vsl For Line Verification
+                  19:20         Commenced Sampling For Exxon First Foot
+                  19:45         Completed Sampling For Exxon First Foot
+                  19:50         Inspector Departed
+                  20:05         Samples Delivered To Exxon lab
+                  20:10         Inspector Arrived At Shore Tank 856 / C3 Called for Operator
+                  20:20         Operator Arrived At Shore Tank 856
+                  20:30         Shore Tank 856 Gauged For Line Verification
+                  20:35         Line Verification Approved / Exxon Notified
+                  20:41         Line Verification Ticket Sent
+                  20:55         Exxon Advised First Foot Samples Failed
+                  21:00         Load Resumed
+                  21:20         Inspector Arrived
+                  21:30         Inspector Onboard
+                  21:30         Commence Re-sampling For Exxon First Foots
+                  21:45         Complete Re-sampling For Exxon First Foots
+                  22:00         Inspector Departed
+                  22:15         Samples Delivered To Exxon Lab
+                  23:15         Inspector Notified For One Meters Across Vessel
+                  23:30         Inspector Arrived
+
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: 832-982-2001
+Email: opsbaytown@camincargo.com
+
+EXXM01-14 / 557475 / January 19, 2021
+
+                                                                               Page 7 of 15
+                                                         TIME LOG REPORT N° BAY-2069
+VESSEL            : Oregon                                                                                MOVEMENT        : Load
+LOCATION          : ExxonMobil - Baytown, TX                                                              JOB COMPLETED   : 17-JAN-2021
+PRODUCT           : MOGAS 87 OCT CBOB                                                                     REFERENCE N°    : 5216827-250
+
+Date              Time          Description
+15-JAN-2021       23:40         Inspector Onboard
+                  23:45         Commenced First Foot Sampling
+16-JAN-2021       01:20         Completed First Foot Sampling
+                  01:40         Inspector Departed
+                  02:57         Samples Delivered To Camin Cargo Lab
+                  07:20         Inspector Arrived At Shore Tank 863 / C3 Called for Operator
+                  07:30         Operator Arrived At Shore Tank 863
+                  07:45         Shore Tank 863 Gauged Open
+                  10:00         Inspector Arrived At Shore Tank 856 / C3 Called for Operator
+                  10:25         Operator Arrived At Shore Tank 856
+                  10:35         Shore Tank 856 Gauged Close
+                  10:50         Inspector Departed
+                  17:58         Inspector Notified-By C3 to open Shore Tank 855
+                  18:00         Inspector Arrived at Shore Tank 855
+                  18:15         Operator Arrived Shore Tank 855
+                  18:30         Shore Tank 855 Gauged Open
+                  18:40         Inspector Departed
+                  21:15         Inspector Arrived at Shore Tank 863
+                  21:30         Shore Tank 863 Gauged Close
+                  21:40         Inspector Departed
+17-JAN-2021       05:15         Inspectors #1 & #2 Arrived
+                  05:20         Inspectors #1 & #2 on Board
+                  05:25         Sampling Commenced - Inspector #2
+                  05:48         Load Completed
+                  05:50         Inspectors #1 & #2 Notified
+                  06:12         Final Inspection Commenced - Inspector #1
+                  07:12         Final Inspection Completed - Inspector #1
+                  07:30         Final Calculations Commenced - Inspector #1
+                  07:30         Sampling Completed - Inspector #2
+                  07:40         Inspector Arrived at Shore tank 855 - Inspector #2
+                  07:45         Shore Tank 855 Gauged Close - Inspector #2
+                  08:10         Inspector Departed Shore tank 855 - Inspector #2
+                  08:30         Final Calculations Completed - Inspector #1
+                  08:45         Inspector Departed - Inspector #2
+                  09:15         Inspector Departed - Inspector #1
+                  10:00         Cargo Hose Disconnected
+                  10:20         Slop Hose Connected (1x8")
+                  11:00         Commenced Discharging Slops
+                  13:30         Completed Discharging Slops
+                  13:40         Inspector on Board - Inspector #1 SLOP S
+                  13:45         Final Inspection Commenced - Inspector #1 SLOP S
+                  13:55         Final Inspection Completed - Inspector #1 SLOP S
+                  14:00         Inspector Departed - Inspector #1 SLOP S
+                  14:30         Slop Hose Disconnected SLOP S
+                  14:35         Vessel Released To Terminal
+19-JAN-2021       09:24         Sent For Confirmation
+                  11:36         Received Confirmation From The Terminal
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: 832-982-2001
+Email: opsbaytown@camincargo.com
+
+EXXM01-14 / 557475 / January 19, 2021                                             Page 8 of 15
+                                                 LETTER OF PROTEST ° BAY-2069
+VESSEL              : Oregon                                                               MOVEMENT      : Load
+LOCATION            : ExxonMobil - Baytown, TX                                             JOB COMPLETED : 17-JAN-2021
+PRODUCT             : MOGAS 87 OCT CBOB
+
+
+
+
+TO                  : Terminal                                                             REFERENCE         : Delays
+
+On Behalf of our Principals, we do hereby note the following Protest:
+Waiting on Terminal Readiness
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                    Respectfully,
+Signature:
+Print Name:
+Position:                                                                          ___________________________________
+Date/Time:                                                                                      Camin Cargo Control
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: 832-982-2001
+Email: opsbaytown@camincargo.com
+
+EXXM01-14 / 557475 / January 19, 2021
+                                                                  Page 9 of 15
+                                                 LETTER OF PROTEST ° BAY-2069
+VESSEL              : Oregon                                                               MOVEMENT      : Load
+LOCATION            : ExxonMobil - Baytown, TX                                             JOB COMPLETED : 17-JAN-2021
+PRODUCT             : MOGAS 87 OCT CBOB
+
+
+
+
+TO                  : Terminal                                                             REFERENCE         : Line Displacement
+
+On Behalf of our Principals, we do hereby note the following Protest:
+Volume of Line Displacement Noted on Completion
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                    Respectfully,
+Signature:
+Print Name:
+Position:                                                                          ___________________________________
+Date/Time:                                                                                      Camin Cargo Control
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: 832-982-2001
+Email: opsbaytown@camincargo.com
+
+EXXM01-14 / 557475 / January 19, 2021
+                                                                  Page 10 of 15
+                                                 LETTER OF PROTEST ° BAY-2069
+VESSEL              : Oregon                                                               MOVEMENT      : Load
+LOCATION            : ExxonMobil - Baytown, TX                                             JOB COMPLETED : 17-JAN-2021
+PRODUCT             : MOGAS 87 OCT CBOB
+
+
+
+
+TO                  : Terminal                                                             REFERENCE         : Shore to Vessel variance after
+                                                                                                               Load
+
+On Behalf of our Principals, we do hereby note the following Protest:
+Shore to Vessel Volume Noted on Completion
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                    Respectfully,
+Signature:
+Print Name:
+Position:                                                                          ___________________________________
+Date/Time:                                                                                      Camin Cargo Control
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: 832-982-2001
+Email: opsbaytown@camincargo.com
+
+EXXM01-14 / 557475 / January 19, 2021
+                                                                  Page 11 of 15
+                                                   CERTIFICATE OF ANALYSIS N° BAY-2069
+      VESSEL                      :   Oregon
+      LOCATION                    :   ExxonMobil - Baytown, TX                                            MOVEMENT    : Load
+      PRODUCT                     :   MOGAS 87 OCT CBOB                                                   REF. NO.    : 5216827-250
+      GRADE                       :   CFP L4
+
+004   TK :                       856                  Running                Before Load           Sample N° :   4        15-JAN-2021
+                                                                                                                          Sampled at
+                                                                                                                          03:05
+                                                                                                                      0
+
+
+
+
+      D 4052                     API Gravity @ 60°F                             65.1 °API
+006                                                   1st Ft Composite         During              Sample N° :   6        16-JAN-2021
+                                                                                                                          Sampled at
+                                                                                                                          01:15
+                                                                                                                      0
+
+
+
+
+      D   4052                   API Gravity @ 60°F                               65.2 °API
+                                                                                                                      0
+
+
+
+
+      D   4176 (1)               Appearance                              Clear & Bright
+                                                                                                                      0
+
+
+
+
+      D   5191 (1L)              DVPE (ASTM)                                      9.65 psi
+                                                                                                                      0
+
+
+
+
+      D   2622                   Sulfur                                           21.9 mg/kg
+002   TK :                       863                  Running                 Before Load          Sample N° :   24       16-JAN-2021
+  4                                                                                                                       Sampled at
+                                                                                                                          07:45
+                                                                                                                      0
+
+
+
+
+      D 4052                     API Gravity @ 60°F                             65.4 °API
+002   TK :                       01P                  Running                After Load        ~   Sample N° :   25       17-JAN-2021
+  5                                                                                                                       Sampled at
+                                                                                                                          08:00
+                                                                                                                      0
+
+
+
+
+      D 4052                     API Gravity @ 60°F (neat)                      65.6 °API
+                                                                                                                      0
+
+
+
+
+      D 5191 (1L)                DVPE (ASTM)                                   10.46 psi
+002   TK :                       01S                  Running                After Load        ~   Sample N° :   26       17-JAN-2021
+  6                                                                                                                       Sampled at
+                                                                                                                          08:00
+                                                                                                                      0
+
+
+
+
+      D 4052                     API Gravity @ 60°F (neat)                      65.5 °API
+                                                                                                                      0
+
+
+
+
+      D 5191 (1L)                DVPE (ASTM)                                    9.77 psi
+002   TK :                       02P                  Running                After Load        ~   Sample N° :   27       17-JAN-2021
+  7                                                                                                                       Sampled at
+                                                                                                                          08:00
+                                                                                                                      0
+
+
+
+
+      D 4052                     API Gravity @ 60°F (neat)                      65.5 °API
+                                                                                                                      0
+
+
+
+
+      D 5191 (1L)                DVPE (ASTM)                                    9.69 psi
+002   TK :                       02S                  Running                After Load        ~   Sample N° :   28       17-JAN-2021
+  8                                                                                                                       Sampled at
+                                                                                                                          08:00
+                                                                                                                      0
+
+
+
+
+      D 4052                     API Gravity @ 60°F (neat)                      65.5 °API
+                                                                                                                      0
+
+
+
+
+      D 5191 (1L)                DVPE (ASTM)                                    9.75 psi
+002   TK :                       03P                  Running                After Load        ~   Sample N° :   29       17-JAN-2021
+  9                                                                                                                       Sampled at
+                                                                                                                          08:00
+                                                                                                                      0
+
+
+
+
+      D 4052                     API Gravity @ 60°F (neat)                      65.6 °API
+                                                                                                                      0
+
+
+
+
+      D 5191 (1L)                DVPE (ASTM)                                    9.72 psi
+003   TK :                       03S                  Running                After Load        ~   Sample N° :   30       17-JAN-2021
+  0                                                                                                                       Sampled at
+                                                                                                                          08:00
+                                                                                                                      0
+
+
+
+
+      D 4052                     API Gravity @ 60°F (neat)                      65.5 °API
+                                                                                                                      0
+
+
+
+
+      D 5191 (1L)                DVPE (ASTM)                                    9.71 psi
+003   TK :                       04P                  Running                After Load        ~   Sample N° :   31       17-JAN-2021
+  1                                                                                                                       Sampled at
+                                                                                                                          08:00
+                                                                                                                      0
+
+
+
+
+      D 4052                     API Gravity @ 60°F (neat)                       65.4 °API
+
+
+
+ 6118 Bayway Drive
+ Baytown, TX 77520
+ Office Phone: 832-982-2001
+ Email: opsbaytown@camincargo.com
+
+ EXXM01-14 / 557475 / OK / R0 / 7032008 / Generated: January 19, 2021
+
+
+
+
+                                                                          Page 12 of 15
+                                                   CERTIFICATE OF ANALYSIS N° BAY-2069
+      VESSEL                      :   Oregon
+      LOCATION                    :   ExxonMobil - Baytown, TX                                        MOVEMENT    : Load
+      PRODUCT                     :   MOGAS 87 OCT CBOB                                               REF. NO.    : 5216827-250
+      GRADE                       :   CFP L4
+
+003   TK :                       04P                  Running              After Load      ~   Sample N° :   31       17-JAN-2021
+  1                                                                                                                   Sampled at
+                                                                                                                      08:00
+                                                                                                                  0
+
+
+
+
+      D 5191 (1L)                DVPE (ASTM)                                  9.84 psi
+003   TK :                       04S                  Running              After Load      ~   Sample N° :   32       17-JAN-2021
+  2                                                                                                                   Sampled at
+                                                                                                                      08:00
+                                                                                                                  0
+
+
+
+
+      D 4052                     API Gravity @ 60°F (neat)                    65.4 °API
+                                                                                                                  0
+
+
+
+
+      D 5191 (1L)                DVPE (ASTM)                                  9.62 psi
+003   TK :                       05P                  Running              After Load      ~   Sample N° :   33       17-JAN-2021
+  3                                                                                                                   Sampled at
+                                                                                                                      08:00
+                                                                                                                  0
+
+
+
+
+      D 4052                     API Gravity @ 60°F (neat)                    65.5 °API
+                                                                                                                  0
+
+
+
+
+      D 5191 (1L)                DVPE (ASTM)                                  9.66 psi
+003   TK :                       05S                  Running              After Load      ~   Sample N° :   34       17-JAN-2021
+  4                                                                                                                   Sampled at
+                                                                                                                      08:00
+                                                                                                                  0
+
+
+
+
+      D 4052                     API Gravity @ 60°F (neat)                    65.5 °API
+                                                                                                                  0
+
+
+
+
+      D 5191 (1L)                DVPE (ASTM)                                  9.72 psi
+003   TK :                       06P                  Running              After Load      ~   Sample N° :   35       17-JAN-2021
+  5                                                                                                                   Sampled at
+                                                                                                                      08:00
+                                                                                                                  0
+
+
+
+
+      D 4052                     API Gravity @ 60°F (neat)                    65.5 °API
+                                                                                                                  0
+
+
+
+
+      D 5191 (1L)                DVPE (ASTM)                                  9.69 psi
+003   TK :                       06S                  Running              After Load      ~   Sample N° :   36       17-JAN-2021
+  6                                                                                                                   Sampled at
+                                                                                                                      08:00
+                                                                                                                  0
+
+
+
+
+      D 4052                     API Gravity @ 60°F (neat)                    65.4 °API
+                                                                                                                  0
+
+
+
+
+      D 5191 (1L)                DVPE (ASTM)                                  9.70 psi
+003   TK :                       07P                  Running              After Load      ~   Sample N° :   37       17-JAN-2021
+  7                                                                                                                   Sampled at
+                                                                                                                      08:00
+                                                                                                                  0
+
+
+
+
+      D 4052                     API Gravity @ 60°F (neat)                    65.7 °API
+                                                                                                                  0
+
+
+
+
+      D 5191 (1L)                DVPE (ASTM)                                  9.95 psi
+003   TK :                       07S                  Running              After Load      ~   Sample N° :   38       17-JAN-2021
+  8                                                                                                                   Sampled at
+                                                                                                                      08:00
+                                                                                                                  0
+
+
+
+
+      D 4052                     API Gravity @ 60°F (neat)                    65.7 °API
+                                                                                                                  0
+
+
+
+
+      D 5191 (1L)                DVPE (ASTM)                                  9.93 psi
+                                                                                                                  0
+
+
+
+
+      D 5191 (1L)                DVPE (ASTM)                                  68.5 kPa
+003                                                   Volumetric           After Load      ~   Sample N° :   39       17-JAN-2021
+  9                                                   Composite                                                       Sampled at
+                                                                                                                      08:00
+                                                                                                                  0
+
+
+
+
+      D 4052                     API Gravity @ 60°F                            65.2 °API
+                                                                                                                  0
+
+
+
+
+      D 4052                     API Gravity @ 60°F (w/ Ethanol)               63.5 °API
+      D 86                       Distillation of Petroleum Products
+                                   IBP                                         83.9 °F
+                                   IBP (w/ Ethanol)                            85.6 °F
+                                   10%                                        118.5 °F
+
+
+ 6118 Bayway Drive
+ Baytown, TX 77520
+ Office Phone: 832-982-2001
+ Email: opsbaytown@camincargo.com
+
+ EXXM01-14 / 557475 / OK / R0 / 7032008 / Generated: January 19, 2021
+
+
+
+
+                                                                        Page 13 of 15
+                                                   CERTIFICATE OF ANALYSIS N° BAY-2069
+      VESSEL                      :   Oregon
+      LOCATION                    :   ExxonMobil - Baytown, TX                                                  MOVEMENT    : Load
+      PRODUCT                     :   MOGAS 87 OCT CBOB                                                         REF. NO.    : 5216827-250
+      GRADE                       :   CFP L4
+
+003                                                   Volumetric           After Load                ~   Sample N° :   39       17-JAN-2021
+  9                                                   Composite                                                                 Sampled at
+                                                                                                                                08:00
+                                   10% (w/ Ethanol)                           119.6     °F
+                                   50%                                        198.1     °F
+                                   50% (w/ Ethanol)                           158.6     °F
+                                   90%                                        337.3     °F
+                                   90% (w/ Ethanol)                           332.6     °F
+                                   EP                                         404.8     °F
+                                   EP (w/ Ethanol)                            408.0     °F
+                                                                                                                            0
+
+
+
+
+      D   5191 (1L)              DVPE (ASTM) - Calc. Average                Pending
+                                                                                                                            0
+
+
+
+
+      D   5191 (1L)              DVPE (ASTM) (w/ Ethanol)                      73.4     kPa
+                                                                                                                            0
+
+
+
+
+      D   2699                   Octanes, RON                                  86.3     Rating
+                                                                                                                            0
+
+
+
+
+      D   2700                   Octanes, MON                                  80.8     Rating
+                                                                                                                            0
+
+
+
+
+      D   4814-X1                Octanes, (R+M)/2                              83.6     Rating
+                                                                                                                            0
+
+
+
+
+      D   2699                   Octanes, RON (w/ Ethanol)                     91.7     Rating
+                                                                                                                            0
+
+
+
+
+      D   2700                   Octanes, MON (w/ Ethanol)                     83.2     Rating
+                                                                                                                            0
+
+
+
+
+      D   4814-X1                Octanes, (R+M)/2 (w/ Ethanol)                 87.4     Rating
+                                                                                                                            0
+
+
+
+
+      D   5769                   Aromatics by GC-MS                            14.4     Vol. %
+                                                                                                                            0
+
+
+
+
+      D   6550                   Olefins (Correlated to D1319)                  8.9     Vol. %
+                                                                                                                            0
+
+
+
+
+      D   3606 Proc B            Benzene (Correlated to D5769)                 0.50     Vol. %
+                                                                                                                            0
+
+
+
+
+      D   2622                   Sulfur                                         7.1     mg/kg(ppm)
+      D   5599                   Oxygenates by GC
+                                   Methanol                                   <0.10     Vol. %
+                                   Ethanol                                    <0.10     Vol. %
+                                   i - Propanol                               <0.10     Vol. %
+                                   t - Butanol                                <0.10     Vol. %
+                                   n - Propanol                               <0.10     Vol. %
+                                   MTBE                                       <0.10     Vol. %
+                                   s - Butanol                                <0.10     Vol. %
+                                   DIPE                                       <0.10     Vol. %
+                                   i - Butanol                                <0.10     Vol. %
+                                   ETBE                                       <0.10     Vol. %
+                                   t - Pentanol                               <0.10     Vol. %
+                                   n - Butanol                                <0.10     Vol. %
+                                   TAME                                       <0.10     Vol. %
+                                   Oxygenates                                 <0.10     Vol. %
+                                   Oxygen                                      <0.1     Wt. %
+
+
+
+
+ 6118 Bayway Drive
+ Baytown, TX 77520
+ Office Phone: 832-982-2001
+ Email: opsbaytown@camincargo.com
+
+ EXXM01-14 / 557475 / OK / R0 / 7032008 / Generated: January 19, 2021
+
+
+
+
+                                                                        Page 14 of 15
+                                                   CERTIFICATE OF ANALYSIS N° BAY-2069
+      VESSEL                      :   Oregon
+      LOCATION                    :   ExxonMobil - Baytown, TX                                                                          MOVEMENT                  : Load
+      PRODUCT                     :   MOGAS 87 OCT CBOB                                                                                 REF. NO.                  : 5216827-250
+      GRADE                       :   CFP L4
+
+004   TK :                       855                  UML Comp                             Before Load                         Sample N° :        44                   16-JAN-2021
+  4                                                                                                                                                                    Sampled at
+                                                                                                                                                                       15:45
+                                                                                                                                                                   0
+
+
+
+
+      D 4052                     API Gravity @ 60°F                                              66.4 °API
+REPORT HEADER
+
+
+
+
+The results apply to the samples as received and specifically to the items listed on this certificate.
+Data contained in this report is confidential to the addressee and shall not be disclosed to any other party without their approval. This report may not be reproduced except
+in full without the written consent of the Camin Cargo Control.
+All testing is performed on premises by Camin Cargo Control and in accordance to the latest referenced test method unless specifically stated otherwise.
+
+
+
+
+                                                                                                                                                 Joe Mermella Jr / Laboratory Technician
+
+
+
+ 6118 Bayway Drive
+ Baytown, TX 77520
+ Office Phone: 832-982-2001
+ Email: opsbaytown@camincargo.com
+
+ EXXM01-14 / 557475 / OK / R0 / 7032008 / Generated: January 19, 2021
+                                                                                        Page 15 of 15
+
