@@ -1,0 +1,23 @@
+Product:                 Aromatic Concentrate                              Terminal:      ExxonMobil
+Subject:                 Report of Discharge                               Port:          Baton Rouge, Louisiana
+EMCC Ref. #: 5380303                                                       File Number:   102333
+
+
+                                                   TIME LOG OF EVENTS
+
+April 5, 2021               1305          hrs.     Barge(s) NOR Tendered
+April 8, 2021               1507          hrs.     Barge(s) called in
+April 8, 2021               1508          hrs.     Surveyor notified
+April 8, 2021               1720          hrs.     Barge(s) arrived
+April 8, 2021               1820          hrs.     Barge(s) docked
+April 8, 2021               1820          hrs.     Commenced arrival barge inspection
+April 8, 2021               1920          hrs.     Completed arrival barge inspection
+April 8, 2021               2035          hrs.     Cargo hose(s) connected
+April 8, 2021               2145          hrs.     Commenced transfer
+April 9, 2021               1730          hrs.     Surveyor notified
+April 9, 2021               1830          hrs.     Completed transfer
+April 9, 2021               1850          hrs.     Commenced departure barge inspection
+April 9, 2021               1900          hrs.     Cargo hose(s) disconnected
+April 9, 2021               1905          hrs.     Completed departure barge inspection
+April 9, 2021               1930          hrs.     Barge(s) Released
+April 9, 2021               2000          hrs.     Barge(s) Sailed

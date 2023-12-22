@@ -1,0 +1,21 @@
+CLEANED !!!
+TRIP: USEBARGCHE-2012-047                                                                    20E552683 VER 1 (ISSUED)
+
+Parcel Summary
+Transport       Location     Activity    Grade   Quantity    ETA    Supply Contract Window   Inspector   Inspection Requirements
+ CBC1383        BATON        Load        IPA     1,300,000   23     n/a                      COASTAL     Quality / Quantity / Time
+ (VS00055325)   ROUGE                    BR      Kilograms   Dec                             GULF        log
+                REFINERY,                VL                  2020
+                LA (United
+                States)
+ CBC1383        DEER         Discharge   IPA     1,300,000   30     n/a                      Saybolt     Quality / Quantity / Time
+ (VS00055325)   PARK, TX -               BR      Kilograms   Dec                                         log
+                VOPAK                    VL                  2020
+                (United
+                States)
+
+
+
+
+                                                        Page 1 of 4
+ 

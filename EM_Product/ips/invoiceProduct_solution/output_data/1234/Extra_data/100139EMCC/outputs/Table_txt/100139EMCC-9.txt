@@ -1,0 +1,30 @@
+CLEANED !!!
+                                COASTAL GULF &
+                              INTERNATIONAL, INC.                                   VESSEL EXPERIENCE FACTOR SEQUENTIAL
+                                              "Precision"
+                                        Inspection & Analytical
+                                               Services
+                                  P.O. Box 429 Kenner, LA. 70063-429
+                                Phone (985)785-0765 Fax (985)785-1328                                                                                                                  Assuring accuracy through expertise!
+
+Vessel:             CBC 1388                                                                                                                    Date:      December 31, 2020
+
+Type of Movement:               Loading
+                                                                                                                                                                           Step 2
+                                                                                                    Enter all units as Barrels                                              Qual
+                                                                                                                                                                   Step 1 Voy            Qualifying Voyages
+                                                                                     Vessel                          Vessel                                        Gross (+0.30
+       Voyage  Cargo                               Terminal or                       Sailing          Vessel          Load               Outturn                   Error > %) Y/N       Vessel               Shore
+ Cargo Number Description                             Port               Date         TCV              OBQ            TCV                 TCV           Ratio       2%?      ?           TCV                 TCV
+      Last                 Methyl Ethyl      Deer Park (United          11-Apr-20       10,080.71               0         10,080.71        10,190.55     0.98922                  NO
+                           Ketone            States)
+      2nd                  Nonexempt         Lemont (United States)     30-Mar-19        9,954.26               0          9,954.26         9,998.96     0.99553                  NO
+                           Mineral Spirits
+       3rd
+          4th
+          5th
+          6th
+          7th
+          8th
+          9th
+      10th

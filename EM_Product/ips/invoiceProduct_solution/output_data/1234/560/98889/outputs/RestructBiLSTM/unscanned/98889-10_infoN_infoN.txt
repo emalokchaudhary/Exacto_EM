@@ -1,0 +1,49 @@
+                                COASTAL GULF &
+                              INTERNATIONAL, INC.
+                                              "Precision"
+                                        Inspection & Analytical
+                                                Services
+                                 13615 River Road, Luling, LA. 70070
+                     ®          Phone (985)785-0765 Fax (985)785-1328                                             Assuring accuracy through expertise!
+
+Vessel:                  EMS 3009 & 3041B                                       Date:                   October 2, 2020
+Product:                 CSO/MCB                                                Terminal:               P.F.T
+Subject:                 Report of Loading                                      Port:                   MT Airy, Louisiana
+ExxonMobil Ref. #: 5048618                                                      File Number:            98889
+Cabot Ref. #: 108258-117517
+                                                  LETTER OF PROTEST
+   On Behalf of our principals, we herby notify you that on the above date, the following occurred:
+           Shore Tank was active during movement.
+           Terminal would not allow a Line Displacement to take place
+           Terminal didn’t allow adequate settling time after movement.
+           In transit Difference:                      GSV at Loadport Departure:                         0.00
+                                                          GSV at Disport Arrival:                      2265.56
+                                                                       Difference                      2265.56    #DIV/0!
+           OBQ / ROB Difference:                                        OBQ at Loadport:                  0.00
+                                                                         ROB at Disport:              43103.38
+                                                                               Difference             43103.38    #DIV/0!
+           Shore to Shore Difference:                                   GSV at Loadport:                  0.00
+                                                                         GSV on Disport:              40945.48
+                                                                               Difference             40945.48    #DIV/0!
+           Vessel to Shore Difference:                                   Vessel Del./Rec.             40,837.82
+                                                                          Shore Del./Rec.             40,945.48
+                                                                               Difference                107.66    0.26%
+           Vessel to Shore Difference:                      Vessel W/VEF Del./Rec.                    40,780.73
+           With VEF Applied                                         Shore Del./Rec.                   40,945.48
+                                                                        Difference                       164.75     0.4%
+           Barge company not able to provide sequential log.
+           VEF Info: 20 Total Movements: 9 Qualifying Movements / 11 Non-Qualifying Movements
+           VEF Qualifying Range: 25.10 Bbls Shore over Barge to 169.29 Bbls Barge over Shore
+           VEF Total Range: 278.15 Bbls Shore over Barge to 326.59 Bbls Barge over Shore
+           Delay From 17:00 on 9/29/20 to 12:25 on 10/1/20 due to Awaiting Terminal Readiness
+
+
+
+
+   Accordingly, we are holding your terminal, Operators, and other interested parties responsible for the loss and damage
+   thereby sustained, as well as any consequential loss and damage arising therefrom. Will you kindly acknowledge receipt on
+   the copy thereof and return to us. The signatures thus obtained are for receipt only and in no way acknowledge
+   responsibility for the incident.
+                     Josh Richardson                                            Refused to Sign                   10/2/2020
+                      CGI Inspector                                          Vessel / Terminal Rep.                 Date
+

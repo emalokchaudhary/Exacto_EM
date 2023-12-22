@@ -1,0 +1,16 @@
+Product:               IPA                                                   Terminal:      ExxonMobil
+Subject:               Report of       Loading                               Port:          Baton Rouge, Louisiana
+EMCC Ref. #: 5270944                                                         File Number:   104885
+
+
+
+                                                      BARGE SEAL REPORT
+                                                           CBC 197
+
+                             TANK MANWAYS             BALL VALVE
+                        1 Center       0688103 1 Center         0688101
+                         2 Port        0688105 2 Port             22467
+                         2 Stbd        0688108 2 Stbd             22797
+                         3 Port        0688111 3 Port             22267
+                         3 Stbd        0688114 3 Stbd             22977
+                        4 Center       0688117 4 Center           22626

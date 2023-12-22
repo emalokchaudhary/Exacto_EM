@@ -1,0 +1,7 @@
+
+2022-02-07 06:33:48,812:__main__:
+Filename: CEPAP_7083355.pdf. Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 549, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/bc251ca7/test27/CEPAP_7083355/outputs/Table_txt'

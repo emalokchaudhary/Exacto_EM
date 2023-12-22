@@ -1,0 +1,1609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="20.11.0">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="16" family="BCDEEE+Calibri" color="#000000"/>
+	<fontspec id="1" size="13" family="Arial" color="#000000"/>
+	<fontspec id="2" size="13" family="ArialMT" color="#000000"/>
+	<fontspec id="3" size="30" family="Arial" color="#000000"/>
+	<fontspec id="4" size="16" family="Arial" color="#000000"/>
+	<fontspec id="5" size="13" family="AAAAAB+Arial" color="#000000"/>
+	<fontspec id="6" size="30" family="Cedarville-Cursive" color="#000000"/>
+	<fontspec id="7" size="10" family="PEKTHR+Arial" color="#000000"/>
+	<fontspec id="8" size="10" family="KCERDE+TimesNewRoman" color="#000000"/>
+<image top="37" left="31" width="72" height="75" src="./../output_data/1234/560/BR26799_Chem3213_AromaticConcentrate_EMCC_Final/BR26799_Chem3213_AromaticConcentrate_EMCC_Final-1_1.png"/>
+<image top="967" left="636" width="144" height="37" src="./../output_data/1234/560/BR26799_Chem3213_AromaticConcentrate_EMCC_Final/BR26799_Chem3213_AromaticConcentrate_EMCC_Final-1_2.png"/>
+<text top="94" left="830" width="64" height="17" font="0">9/2/2020</text>
+<text top="299" left="393" width="41" height="12" font="1"><b>Result</b></text>
+<text top="299" left="545" width="34" height="12" font="1"><b>Units</b></text>
+<text top="299" left="823" width="56" height="12" font="1"><b>Off-Spec</b></text>
+<text top="322" left="444" width="19" height="12" font="2">0.4</text>
+<text top="322" left="543" width="37" height="12" font="2">mg/kg</text>
+<text top="322" left="704" width="4" height="12" font="2">-</text>
+<text top="410" left="393" width="41" height="12" font="1"><b>Result</b></text>
+<text top="410" left="545" width="34" height="12" font="1"><b>Units</b></text>
+<text top="410" left="823" width="56" height="12" font="1"><b>Off-Spec</b></text>
+<text top="432" left="440" width="26" height="12" font="2">62.2</text>
+<text top="432" left="704" width="4" height="12" font="2">-</text>
+<text top="454" left="432" width="41" height="12" font="2">0.7304</text>
+<text top="454" left="543" width="37" height="12" font="2">g/cm3</text>
+<text top="454" left="704" width="4" height="12" font="2">-</text>
+<text top="476" left="438" width="30" height="12" font="2">Pass</text>
+<text top="476" left="704" width="4" height="12" font="2">-</text>
+<text top="498" left="438" width="30" height="12" font="2">Pass</text>
+<text top="498" left="704" width="4" height="12" font="2">-</text>
+<text top="519" left="438" width="30" height="12" font="2">Pass</text>
+<text top="519" left="704" width="4" height="12" font="2">-</text>
+<text top="541" left="440" width="26" height="12" font="2">22.0</text>
+<text top="541" left="540" width="42" height="12" font="2">Deg C.</text>
+<text top="541" left="704" width="4" height="12" font="2">-</text>
+<text top="563" left="446" width="15" height="12" font="2">&lt;5</text>
+<text top="563" left="527" width="69" height="12" font="2">Pt-Co Units</text>
+<text top="563" left="704" width="4" height="12" font="2">-</text>
+<text top="563" left="753" width="15" height="12" font="2">30</text>
+<text top="585" left="440" width="27" height="12" font="2">&lt;1.0</text>
+<text top="585" left="543" width="37" height="12" font="2">mg.kg</text>
+<text top="585" left="704" width="4" height="12" font="2">-</text>
+<text top="585" left="757" width="8" height="12" font="2">1</text>
+<text top="607" left="440" width="27" height="12" font="2">&lt;0.3</text>
+<text top="607" left="543" width="37" height="12" font="2">mg.kg</text>
+<text top="607" left="704" width="4" height="12" font="2">-</text>
+<text top="607" left="757" width="8" height="12" font="2">1</text>
+<text top="628" left="440" width="27" height="12" font="2">&lt;0.4</text>
+<text top="628" left="543" width="37" height="12" font="2">mg.kg</text>
+<text top="628" left="704" width="4" height="12" font="2">-</text>
+<text top="628" left="751" width="19" height="12" font="2">0.4</text>
+<text top="650" left="440" width="27" height="12" font="2">&lt;0.6</text>
+<text top="650" left="543" width="37" height="12" font="2">mg.kg</text>
+<text top="650" left="704" width="4" height="12" font="2">-</text>
+<text top="650" left="751" width="19" height="12" font="2">0.6</text>
+<text top="672" left="432" width="41" height="12" font="2">25.105</text>
+<text top="672" left="549" width="25" height="12" font="2">wt%</text>
+<text top="672" left="645" width="15" height="12" font="2">20</text>
+<text top="672" left="704" width="4" height="12" font="2">-</text>
+<text top="694" left="436" width="34" height="12" font="2">3.551</text>
+<text top="694" left="549" width="25" height="12" font="2">wt%</text>
+<text top="694" left="704" width="4" height="12" font="2">-</text>
+<text top="694" left="753" width="15" height="12" font="2">25</text>
+<text top="715" left="436" width="34" height="12" font="2">0.990</text>
+<text top="715" left="549" width="25" height="12" font="2">wt%</text>
+<text top="715" left="704" width="4" height="12" font="2">-</text>
+<text top="715" left="757" width="8" height="12" font="2">4</text>
+<text top="737" left="436" width="34" height="12" font="2">0.029</text>
+<text top="737" left="549" width="25" height="12" font="2">wt%</text>
+<text top="737" left="704" width="4" height="12" font="2">-</text>
+<text top="737" left="748" width="26" height="12" font="2">0.15</text>
+<text top="759" left="432" width="42" height="12" font="2">&lt;0.001</text>
+<text top="759" left="549" width="25" height="12" font="2">wt%</text>
+<text top="759" left="704" width="4" height="12" font="2">-</text>
+<text top="759" left="757" width="8" height="12" font="2">1</text>
+<text top="781" left="436" width="34" height="12" font="2">0.177</text>
+<text top="781" left="549" width="25" height="12" font="2">wt%</text>
+<text top="781" left="704" width="4" height="12" font="2">-</text>
+<text top="781" left="757" width="8" height="12" font="2">7</text>
+<text top="803" left="436" width="34" height="12" font="2">0.016</text>
+<text top="803" left="549" width="25" height="12" font="2">wt%</text>
+<text top="803" left="704" width="4" height="12" font="2">-</text>
+<text top="803" left="757" width="8" height="12" font="2">4</text>
+<text top="824" left="436" width="34" height="12" font="2">0.002</text>
+<text top="824" left="549" width="25" height="12" font="2">wt%</text>
+<text top="824" left="704" width="4" height="12" font="2">-</text>
+<text top="824" left="751" width="19" height="12" font="2">2.5</text>
+<text top="846" left="432" width="41" height="12" font="2">20.765</text>
+<text top="846" left="547" width="29" height="12" font="2">vol%</text>
+<text top="846" left="704" width="4" height="12" font="2">-</text>
+<text top="868" left="436" width="34" height="12" font="2">2.978</text>
+<text top="868" left="547" width="29" height="12" font="2">vol%</text>
+<text top="868" left="704" width="4" height="12" font="2">-</text>
+<text top="890" left="436" width="34" height="12" font="2">0.013</text>
+<text top="890" left="547" width="29" height="12" font="2">vol%</text>
+<text top="890" left="704" width="4" height="12" font="2">-</text>
+<text top="912" left="442" width="23" height="12" font="2">&lt;10</text>
+<text top="912" left="543" width="37" height="12" font="2">mg/kg</text>
+<text top="912" left="704" width="4" height="12" font="2">-</text>
+<text top="912" left="749" width="23" height="12" font="2">100</text>
+<text top="845" left="229" width="53" height="12" font="2">Benzene</text>
+<text top="867" left="231" width="49" height="12" font="2">Toluene</text>
+<text top="889" left="215" width="81" height="12" font="2">C8 Aromatics</text>
+<text top="911" left="237" width="37" height="12" font="2">MTBE</text>
+<text top="824" left="171" width="168" height="12" font="2">C9 &amp; Heavier Hydrocarbons</text>
+<text top="780" left="203" width="105" height="12" font="2">C5 Hydrocarbons</text>
+<text top="802" left="215" width="81" height="12" font="2">C8 Aromatics</text>
+<text top="867" left="29" width="40" height="12" font="2">D6730</text>
+<text top="889" left="29" width="40" height="12" font="2">D6730</text>
+<text top="911" left="29" width="51" height="12" font="2">D7754M</text>
+<text top="715" left="29" width="40" height="12" font="2">D6730</text>
+<text top="432" left="29" width="44" height="12" font="2">D4052 </text>
+<text top="432" left="196" width="118" height="12" font="2">API Gravity @ 60°F</text>
+<text top="562" left="239" width="32" height="12" font="2">Color</text>
+<text top="497" left="221" width="69" height="12" font="2">Free Water</text>
+<text top="453" left="183" width="144" height="12" font="2">Specific Gravity @ 60°F</text>
+<text top="475" left="206" width="98" height="12" font="2">Clear and Bright</text>
+<text top="519" left="220" width="71" height="12" font="2">Particulates</text>
+<text top="540" left="202" width="107" height="12" font="2">Test Temperature</text>
+<text top="584" left="221" width="69" height="12" font="2">Total Sulfur</text>
+<text top="606" left="230" width="51" height="12" font="2">Nitrogen</text>
+<text top="628" left="210" width="91" height="12" font="2">Total Chlorides</text>
+<text top="649" left="224" width="64" height="12" font="2">Thiophene</text>
+<text top="671" left="229" width="53" height="12" font="2">Benzene</text>
+<text top="671" left="29" width="40" height="12" font="2">D6730</text>
+<text top="693" left="29" width="40" height="12" font="2">D6730</text>
+<text top="802" left="29" width="40" height="12" font="2">D6730</text>
+<text top="453" left="29" width="44" height="12" font="2">D4052 </text>
+<text top="475" left="29" width="40" height="12" font="2">D4176</text>
+<text top="519" left="29" width="40" height="12" font="2">D4176</text>
+<text top="540" left="29" width="40" height="12" font="2">D4176</text>
+<text top="562" left="29" width="40" height="12" font="2">D1209</text>
+<text top="584" left="29" width="40" height="12" font="2">D5453</text>
+<text top="606" left="29" width="40" height="12" font="2">D4629</text>
+<text top="628" left="29" width="51" height="12" font="2">D7536M</text>
+<text top="649" left="29" width="40" height="12" font="2">D7011</text>
+<text top="497" left="29" width="40" height="12" font="2">D4176</text>
+<text top="693" left="231" width="49" height="12" font="2">Toluene</text>
+<text top="715" left="234" width="42" height="12" font="2">Olefins</text>
+<text top="737" left="230" width="52" height="12" font="2">Diolefins</text>
+<text top="758" left="174" width="163" height="12" font="2">C4 &amp; Lighter Hydrocarbons</text>
+<text top="737" left="29" width="40" height="12" font="2">D6730</text>
+<text top="758" left="29" width="40" height="12" font="2">D6730</text>
+<text top="780" left="29" width="40" height="12" font="2">D6730</text>
+<text top="824" left="29" width="40" height="12" font="2">D6730</text>
+<text top="845" left="29" width="40" height="12" font="2">D6730</text>
+<text top="234" left="29" width="87" height="12" font="1"><b>Sample Type:</b></text>
+<text top="299" left="29" width="48" height="12" font="1"><b>Method</b></text>
+<text top="234" left="393" width="113" height="12" font="1"><b>Sample Location:</b></text>
+<text top="410" left="29" width="48" height="12" font="1"><b>Method</b></text>
+<text top="299" left="628" width="156" height="12" font="1"><b>Min              -             Max</b></text>
+<text top="321" left="29" width="51" height="12" font="2">D1022M</text>
+<text top="321" left="198" width="116" height="12" font="2">Hydrogen Peroxide</text>
+<text top="234" left="717" width="72" height="12" font="1"><b>Chem 3213</b></text>
+<text top="345" left="29" width="87" height="12" font="1"><b>Sample Type:</b></text>
+<text top="234" left="173" width="194" height="12" font="1"><b>Nitrogen Purged Amber Bottle</b></text>
+<text top="299" left="232" width="75" height="12" font="1"><b>Component</b></text>
+<text top="85" left="159" width="315" height="28" font="3"><b>Certificate of Analysis</b></text>
+<text top="95" left="703" width="99" height="15" font="4"><b>Report Date:</b></text>
+<text top="124" left="29" width="121" height="12" font="1"><b>Vessel/Equipment:</b></text>
+<text top="145" left="29" width="78" height="12" font="1"><b>Shore Tank:</b></text>
+<text top="124" left="393" width="83" height="12" font="1"><b>File Number:</b></text>
+<text top="145" left="393" width="83" height="12" font="1"><b>Lab Number:</b></text>
+<text top="167" left="29" width="56" height="12" font="1"><b>Product:</b></text>
+<text top="189" left="29" width="61" height="12" font="1"><b>Terminal:</b></text>
+<text top="210" left="29" width="53" height="12" font="1"><b>Subject:</b></text>
+<text top="167" left="393" width="42" height="12" font="1"><b>Client:</b></text>
+<text top="189" left="393" width="111" height="12" font="1"><b>Client Reference:</b></text>
+<text top="124" left="724" width="56" height="12" font="2">BR26799</text>
+<text top="145" left="716" width="72" height="12" font="2">090220-002</text>
+<text top="167" left="733" width="39" height="12" font="2">EMCC</text>
+<text top="189" left="716" width="72" height="12" font="2">4997409-10</text>
+<text top="124" left="235" width="70" height="12" font="2">Chem 3213</text>
+<text top="145" left="259" width="23" height="12" font="2">N/A</text>
+<text top="167" left="204" width="131" height="12" font="2">Aromatic Concentrate</text>
+<text top="189" left="206" width="127" height="12" font="2">Placid, Port Allen, LA</text>
+<text top="210" left="219" width="102" height="12" font="2">Barge After Load</text>
+<text top="345" left="235" width="70" height="12" font="1"><b>Composite</b></text>
+<text top="345" left="393" width="113" height="12" font="1"><b>Sample Location:</b></text>
+<text top="345" left="717" width="72" height="12" font="1"><b>Chem 3213</b></text>
+<text top="410" left="232" width="75" height="12" font="1"><b>Component</b></text>
+<text top="410" left="628" width="156" height="12" font="1"><b>Min              -             Max</b></text>
+<text top="1024" left="561" width="81" height="15" font="5">Reviewed by:</text>
+<text top="1024" left="716" width="86" height="15" font="5">Glenn Hanson</text>
+<text top="1042" left="704" width="111" height="15" font="5">VP of Laboratories</text>
+<text top="963" left="88" width="172" height="44" font="6">Kody Dauzat</text>
+<text top="1023" left="28" width="46" height="15" font="5">Signed:</text>
+<text top="1023" left="73" width="52" height="15" font="2">              </text>
+<text top="1023" left="125" width="81" height="15" font="2">Kody Dauzat </text>
+<text top="1040" left="28" width="178" height="12" font="2">           Assistant Lab Manager</text>
+<text top="1119" left="355" width="29" height="10" font="7">13615</text>
+<text top="1120" left="384" width="3" height="10" font="8"> </text>
+<text top="1119" left="387" width="24" height="10" font="7">River</text>
+<text top="1120" left="411" width="3" height="10" font="8"> </text>
+<text top="1119" left="414" width="28" height="10" font="7">Road,</text>
+<text top="1120" left="442" width="3" height="10" font="8"> </text>
+<text top="1119" left="444" width="31" height="10" font="7">Luling,</text>
+<text top="1120" left="475" width="3" height="10" font="8"> </text>
+<text top="1119" left="478" width="13" height="10" font="7">LA</text>
+<text top="1120" left="490" width="3" height="10" font="8"> </text>
+<text top="1119" left="493" width="29" height="10" font="7">70070</text>
+<text top="1133" left="317" width="33" height="10" font="7">Phone:</text>
+<text top="1134" left="350" width="3" height="10" font="8"> </text>
+<text top="1133" left="353" width="24" height="10" font="7">(985)</text>
+<text top="1134" left="377" width="3" height="10" font="8"> </text>
+<text top="1133" left="380" width="44" height="10" font="7">785-0765</text>
+<text top="1134" left="424" width="8" height="10" font="8">   </text>
+<text top="1133" left="432" width="29" height="10" font="7">Email:</text>
+<text top="1134" left="461" width="3" height="10" font="8"> </text>
+<text top="1133" left="463" width="96" height="10" font="7">cgi@coastalgulf.com</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="9" size="15" family="Arial" color="#000000"/>
+	<fontspec id="10" size="11" family="ArialMT" color="#000000"/>
+	<fontspec id="11" size="11" family="Arial" color="#000000"/>
+	<fontspec id="12" size="15" family="ArialMT" color="#000000"/>
+<text top="66" left="55" width="362" height="14" font="9"><b>Detailed Hydrocarbon Analysis Summary Report - </b></text>
+<text top="104" left="61" width="516" height="11" font="10">RawFile: C:\Chem32\2\DATA\090220A\081920B 2020-09-02 03-23-19\103F0301.D\103F0301.CDF</text>
+<text top="122" left="61" width="108" height="11" font="10">Sample: 090220-002</text>
+<text top="140" left="61" width="106" height="11" font="10">Processed 97 Peaks</text>
+<text top="184" left="61" width="104" height="11" font="10">Location: DEFAULT</text>
+<text top="104" left="619" width="159" height="11" font="10">Acquired: 02-Sep-20, 07:13:34</text>
+<text top="122" left="619" width="168" height="11" font="10">Analyzed: 9/2/2020 11:16:10 AM</text>
+<text top="177" left="621" width="133" height="11" font="10">Normalized to 100.0000%</text>
+<text top="69" left="619" width="183" height="11" font="10">Report Date: 9/2/2020 11:16:10 AM</text>
+<text top="158" left="62" width="352" height="11" font="10">Reference File: C:\Chem32\2\References\PONA VII_MASTER.DHA</text>
+<text top="286" left="401" width="114" height="11" font="11"><b>SUMMARY REPORT</b></text>
+<text top="309" left="219" width="67" height="11" font="11"><b>Group Type</b></text>
+<text top="309" left="344" width="76" height="11" font="11"><b>Total(Mass%)</b></text>
+<text top="309" left="467" width="64" height="11" font="11"><b>Total(Vol%)</b></text>
+<text top="332" left="467" width="42" height="11" font="10">19.3882</text>
+<text top="332" left="354" width="42" height="11" font="10">17.6987</text>
+<text top="332" left="230" width="50" height="11" font="10">Paraffins:</text>
+<text top="354" left="224" width="57" height="11" font="10">I-Paraffins:</text>
+<text top="372" left="238" width="40" height="11" font="10">Olefins:</text>
+<text top="372" left="354" width="36" height="11" font="10">0.9897</text>
+<text top="354" left="354" width="42" height="11" font="10">47.6183</text>
+<text top="354" left="467" width="42" height="11" font="10">50.9754</text>
+<text top="372" left="467" width="36" height="11" font="10">1.0188</text>
+<text top="393" left="467" width="36" height="11" font="10">4.8111</text>
+<text top="413" left="467" width="42" height="11" font="10">23.7579</text>
+<text top="435" left="467" width="36" height="11" font="10">0.0000</text>
+<text top="453" left="467" width="36" height="11" font="10">0.0486</text>
+<text top="453" left="354" width="36" height="11" font="10">0.0468</text>
+<text top="435" left="354" width="36" height="11" font="10">0.0000</text>
+<text top="413" left="354" width="42" height="11" font="10">28.6742</text>
+<text top="393" left="354" width="36" height="11" font="10">4.9723</text>
+<text top="393" left="212" width="66" height="11" font="10">Naphthenes:</text>
+<text top="413" left="223" width="55" height="11" font="10">Aromatics:</text>
+<text top="435" left="218" width="60" height="11" font="10">Total C14+:</text>
+<text top="453" left="192" width="86" height="11" font="10">Total Unknowns:</text>
+<text top="520" left="82" width="64" height="11" font="10">Oxygenates:</text>
+<text top="547" left="154" width="29" height="11" font="10">Total:</text>
+<text top="572" left="154" width="115" height="11" font="10">Total Oxygen Content:</text>
+<text top="546" left="316" width="82" height="11" font="10">0.0000(Mass%)</text>
+<text top="571" left="316" width="82" height="11" font="10">0.0000(Mass%)</text>
+<text top="546" left="442" width="71" height="11" font="10">0.0000(Vol%)</text>
+<text top="606" left="442" width="71" height="11" font="10">0.0111(Vol%)</text>
+<text top="606" left="316" width="82" height="11" font="10">0.0133(Mass%)</text>
+<text top="607" left="82" width="139" height="11" font="10">Multisubstituted Aromatics:</text>
+<text top="634" left="82" width="184" height="11" font="10">Average Molecular W eight: 89.5700</text>
+<text top="661" left="82" width="125" height="11" font="10">Relative Density: 0.7270</text>
+<text top="687" left="82" width="276" height="11" font="10">Reid Vapor Pressure @ 100F: 0.8865psi - 6.1120kPa</text>
+<text top="713" left="82" width="169" height="11" font="10">Calculated Octane Number: 66.3</text>
+<text top="760" left="253" width="24" height="14" font="12">IBP</text>
+<text top="760" left="343" width="26" height="14" font="12">T10</text>
+<text top="760" left="424" width="26" height="14" font="12">T50</text>
+<text top="760" left="514" width="26" height="14" font="12">T90</text>
+<text top="760" left="595" width="29" height="14" font="12">FBP</text>
+<text top="781" left="595" width="36" height="11" font="10">231.13</text>
+<text top="781" left="514" width="36" height="11" font="10">197.33</text>
+<text top="781" left="343" width="36" height="11" font="10">155.71</text>
+<text top="781" left="253" width="36" height="11" font="10">136.36</text>
+<text top="781" left="83" width="105" height="11" font="10">BP by Mass (Deg F)</text>
+<text top="827" left="82" width="130" height="11" font="10">Percent Carbon: 86.1281</text>
+<text top="827" left="513" width="142" height="11" font="10">Percent Hydrogen: 13.8719</text>
+<text top="846" left="82" width="175" height="11" font="10">Bromine Number (D1169): 0.0000</text>
+<text top="309" left="565" width="67" height="11" font="11"><b>Total(Mol%)</b></text>
+<text top="332" left="565" width="42" height="11" font="10">17.9336</text>
+<text top="354" left="565" width="42" height="11" font="10">43.6818</text>
+<text top="372" left="565" width="36" height="11" font="10">0.9749</text>
+<text top="393" left="565" width="36" height="11" font="10">5.1125</text>
+<text top="413" left="565" width="42" height="11" font="10">32.2538</text>
+<text top="435" left="565" width="36" height="11" font="10">0.0000</text>
+<text top="453" left="565" width="36" height="11" font="10">0.0434</text>
+<text top="798" left="93" width="94" height="11" font="10">BP by Vol (Deg F)</text>
+<text top="798" left="253" width="36" height="11" font="10">136.36</text>
+<text top="798" left="343" width="36" height="11" font="10">155.71</text>
+<text top="798" left="424" width="36" height="11" font="10">176.16</text>
+<text top="798" left="514" width="36" height="11" font="10">197.33</text>
+<text top="798" left="595" width="36" height="11" font="10">231.13</text>
+<text top="736" left="82" width="254" height="11" font="10">Motor Octane Number (Jenkins Calculation): 62.0</text>
+<text top="869" left="82" width="165" height="11" font="10">Bromine Index  (D2710): 0.0000</text>
+<text top="869" left="514" width="123" height="11" font="10">MAV (IFP9407): 5.3367</text>
+<text top="891" left="83" width="181" height="11" font="10">Diene Value (DV UOP326): 2.7626</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="13" size="15" family="Arial" color="#000000"/>
+<text top="104" left="61" width="516" height="11" font="10">RawFile: C:\Chem32\2\DATA\090220A\081920B 2020-09-02 03-23-19\103F0301.D\103F0301.CDF</text>
+<text top="122" left="61" width="108" height="11" font="10">Sample: 090220-002</text>
+<text top="140" left="61" width="106" height="11" font="10">Processed 97 Peaks</text>
+<text top="184" left="61" width="59" height="11" font="10">Comments:</text>
+<text top="104" left="619" width="159" height="11" font="10">Acquired: 02-Sep-20, 07:13:34</text>
+<text top="122" left="619" width="168" height="11" font="10">Analyzed: 9/2/2020 11:16:10 AM</text>
+<text top="177" left="621" width="133" height="11" font="10">Normalized to 100.0000%</text>
+<text top="158" left="62" width="352" height="11" font="10">Reference File: C:\Chem32\2\References\PONA VII_MASTER.DHA</text>
+<text top="66" left="55" width="334" height="14" font="9"><b>Detailed Hydrocarbon Analysis Detail Report - </b></text>
+<text top="69" left="619" width="183" height="11" font="10">Report Date: 9/2/2020 11:16:10 AM</text>
+<text top="266" left="54" width="85" height="14" font="9"><b>Oxygenates</b></text>
+<text top="288" left="81" width="80" height="14" font="9"><b>Compound</b></text>
+<text top="288" left="288" width="51" height="14" font="9"><b>Mass%</b></text>
+<text top="288" left="396" width="110" height="14" font="9"><b>Mass% Oxygen</b></text>
+<text top="288" left="540" width="37" height="14" font="9"><b>Vol%</b></text>
+<text top="327" left="81" width="183" height="14" font="12">No Oxy Compounds Found</text>
+<text top="327" left="288" width="46" height="14" font="12">0.0000</text>
+<text top="327" left="396" width="46" height="14" font="12">0.0000</text>
+<text top="327" left="540" width="46" height="14" font="12">0.0000</text>
+<text top="366" left="54" width="112" height="14" font="9"><b>Octane Number</b></text>
+<text top="388" left="82" width="189" height="14" font="9"><b>Research Octane Number:</b></text>
+<text top="389" left="288" width="29" height="14" font="12">66.3</text>
+<text top="452" left="82" width="314" height="14" font="13"><i>(Calculated from Individual Component Values)</i></text>
+<text top="417" left="82" width="164" height="14" font="9"><b>Motor Octane Number:</b></text>
+<text top="418" left="288" width="29" height="14" font="12">62.0</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="104" left="61" width="516" height="11" font="10">RawFile: C:\Chem32\2\DATA\090220A\081920B 2020-09-02 03-23-19\103F0301.D\103F0301.CDF</text>
+<text top="122" left="61" width="108" height="11" font="10">Sample: 090220-002</text>
+<text top="140" left="61" width="106" height="11" font="10">Processed 97 Peaks</text>
+<text top="184" left="61" width="59" height="11" font="10">Comments:</text>
+<text top="104" left="619" width="159" height="11" font="10">Acquired: 02-Sep-20, 07:13:34</text>
+<text top="122" left="619" width="168" height="11" font="10">Analyzed: 9/2/2020 11:16:10 AM</text>
+<text top="177" left="621" width="133" height="11" font="10">Normalized to 100.0000%</text>
+<text top="158" left="62" width="352" height="11" font="10">Reference File: C:\Chem32\2\References\PONA VII_MASTER.DHA</text>
+<text top="66" left="55" width="334" height="14" font="9"><b>Detailed Hydrocarbon Analysis Detail Report - </b></text>
+<text top="69" left="619" width="183" height="11" font="10">Report Date: 9/2/2020 11:16:10 AM</text>
+<text top="271" left="54" width="419" height="14" font="9"><b>Totals by Group Type &amp; Carbon Number (in Mass Percent)</b></text>
+<text top="298" left="160" width="60" height="14" font="12">Paraffins</text>
+<text top="298" left="241" width="130" height="14" font="12">I-Paraffins Olefins</text>
+<text top="298" left="394" width="158" height="14" font="12">Naphthenes Aromatics</text>
+<text top="298" left="668" width="34" height="14" font="12">Total</text>
+<text top="298" left="569" width="70" height="14" font="12">Unknowns</text>
+<text top="319" left="160" width="36" height="11" font="10">0.0000</text>
+<text top="319" left="241" width="36" height="11" font="10">0.0000</text>
+<text top="319" left="323" width="36" height="11" font="10">0.0000</text>
+<text top="319" left="394" width="36" height="11" font="10">0.0000</text>
+<text top="319" left="484" width="36" height="11" font="10">0.0000</text>
+<text top="319" left="669" width="36" height="11" font="10">0.0000</text>
+<text top="319" left="74" width="15" height="11" font="10">C1</text>
+<text top="319" left="570" width="36" height="11" font="10">0.0000</text>
+<text top="337" left="160" width="36" height="11" font="10">0.0000</text>
+<text top="337" left="241" width="36" height="11" font="10">0.0000</text>
+<text top="337" left="323" width="36" height="11" font="10">0.0000</text>
+<text top="337" left="394" width="36" height="11" font="10">0.0000</text>
+<text top="337" left="484" width="36" height="11" font="10">0.0000</text>
+<text top="337" left="669" width="36" height="11" font="10">0.0000</text>
+<text top="337" left="74" width="15" height="11" font="10">C2</text>
+<text top="337" left="570" width="36" height="11" font="10">0.0000</text>
+<text top="354" left="160" width="36" height="11" font="10">0.0000</text>
+<text top="354" left="241" width="36" height="11" font="10">0.0000</text>
+<text top="354" left="323" width="36" height="11" font="10">0.0000</text>
+<text top="354" left="394" width="36" height="11" font="10">0.0000</text>
+<text top="354" left="484" width="36" height="11" font="10">0.0000</text>
+<text top="354" left="669" width="36" height="11" font="10">0.0000</text>
+<text top="354" left="74" width="15" height="11" font="10">C3</text>
+<text top="354" left="570" width="36" height="11" font="10">0.0000</text>
+<text top="372" left="160" width="36" height="11" font="10">0.0008</text>
+<text top="372" left="241" width="36" height="11" font="10">0.0000</text>
+<text top="372" left="323" width="36" height="11" font="10">0.0000</text>
+<text top="372" left="394" width="36" height="11" font="10">0.0000</text>
+<text top="372" left="484" width="36" height="11" font="10">0.0000</text>
+<text top="372" left="669" width="36" height="11" font="10">0.0008</text>
+<text top="372" left="74" width="15" height="11" font="10">C4</text>
+<text top="372" left="570" width="36" height="11" font="10">0.0000</text>
+<text top="390" left="160" width="36" height="11" font="10">0.0673</text>
+<text top="390" left="241" width="36" height="11" font="10">0.0258</text>
+<text top="390" left="323" width="36" height="11" font="10">0.0034</text>
+<text top="390" left="394" width="36" height="11" font="10">0.0802</text>
+<text top="390" left="484" width="36" height="11" font="10">0.0000</text>
+<text top="390" left="669" width="36" height="11" font="10">0.1767</text>
+<text top="390" left="74" width="15" height="11" font="10">C5</text>
+<text top="390" left="570" width="36" height="11" font="10">0.0000</text>
+<text top="408" left="160" width="42" height="11" font="10">14.3652</text>
+<text top="408" left="241" width="36" height="11" font="10">7.9423</text>
+<text top="408" left="323" width="36" height="11" font="10">0.4380</text>
+<text top="408" left="394" width="36" height="11" font="10">3.6121</text>
+<text top="408" left="484" width="42" height="11" font="10">25.1049</text>
+<text top="408" left="669" width="42" height="11" font="10">51.4697</text>
+<text top="408" left="74" width="15" height="11" font="10">C6</text>
+<text top="408" left="570" width="36" height="11" font="10">0.0072</text>
+<text top="426" left="160" width="36" height="11" font="10">3.2592</text>
+<text top="426" left="241" width="42" height="11" font="10">39.2207</text>
+<text top="426" left="323" width="36" height="11" font="10">0.5484</text>
+<text top="426" left="394" width="36" height="11" font="10">1.2645</text>
+<text top="426" left="484" width="36" height="11" font="10">3.5512</text>
+<text top="426" left="669" width="42" height="11" font="10">47.8549</text>
+<text top="426" left="74" width="15" height="11" font="10">C7</text>
+<text top="426" left="570" width="36" height="11" font="10">0.0110</text>
+<text top="444" left="160" width="36" height="11" font="10">0.0062</text>
+<text top="444" left="241" width="36" height="11" font="10">0.4295</text>
+<text top="444" left="323" width="36" height="11" font="10">0.0000</text>
+<text top="444" left="394" width="36" height="11" font="10">0.0154</text>
+<text top="444" left="484" width="36" height="11" font="10">0.0159</text>
+<text top="444" left="669" width="36" height="11" font="10">0.4957</text>
+<text top="444" left="74" width="15" height="11" font="10">C8</text>
+<text top="444" left="570" width="36" height="11" font="10">0.0286</text>
+<text top="462" left="160" width="36" height="11" font="10">0.0000</text>
+<text top="462" left="241" width="36" height="11" font="10">0.0000</text>
+<text top="462" left="323" width="36" height="11" font="10">0.0000</text>
+<text top="462" left="394" width="36" height="11" font="10">0.0000</text>
+<text top="462" left="484" width="36" height="11" font="10">0.0022</text>
+<text top="462" left="669" width="36" height="11" font="10">0.0022</text>
+<text top="462" left="74" width="15" height="11" font="10">C9</text>
+<text top="462" left="570" width="36" height="11" font="10">0.0000</text>
+<text top="479" left="160" width="36" height="11" font="10">0.0000</text>
+<text top="479" left="241" width="36" height="11" font="10">0.0000</text>
+<text top="479" left="323" width="36" height="11" font="10">0.0000</text>
+<text top="479" left="394" width="36" height="11" font="10">0.0000</text>
+<text top="479" left="484" width="36" height="11" font="10">0.0000</text>
+<text top="479" left="669" width="36" height="11" font="10">0.0000</text>
+<text top="479" left="74" width="22" height="11" font="10">C10</text>
+<text top="479" left="570" width="36" height="11" font="10">0.0000</text>
+<text top="497" left="160" width="36" height="11" font="10">0.0000</text>
+<text top="497" left="241" width="36" height="11" font="10">0.0000</text>
+<text top="497" left="323" width="36" height="11" font="10">0.0000</text>
+<text top="497" left="394" width="36" height="11" font="10">0.0000</text>
+<text top="497" left="484" width="36" height="11" font="10">0.0000</text>
+<text top="497" left="669" width="36" height="11" font="10">0.0000</text>
+<text top="497" left="74" width="22" height="11" font="10">C11</text>
+<text top="497" left="570" width="36" height="11" font="10">0.0000</text>
+<text top="515" left="160" width="36" height="11" font="10">0.0000</text>
+<text top="515" left="241" width="36" height="11" font="10">0.0000</text>
+<text top="515" left="323" width="36" height="11" font="10">0.0000</text>
+<text top="515" left="394" width="36" height="11" font="10">0.0000</text>
+<text top="515" left="484" width="36" height="11" font="10">0.0000</text>
+<text top="515" left="669" width="36" height="11" font="10">0.0000</text>
+<text top="515" left="74" width="22" height="11" font="10">C12</text>
+<text top="515" left="570" width="36" height="11" font="10">0.0000</text>
+<text top="533" left="160" width="36" height="11" font="10">0.0000</text>
+<text top="533" left="241" width="36" height="11" font="10">0.0000</text>
+<text top="533" left="323" width="36" height="11" font="10">0.0000</text>
+<text top="533" left="394" width="36" height="11" font="10">0.0000</text>
+<text top="533" left="484" width="36" height="11" font="10">0.0000</text>
+<text top="533" left="669" width="36" height="11" font="10">0.0000</text>
+<text top="533" left="74" width="22" height="11" font="10">C13</text>
+<text top="533" left="570" width="36" height="11" font="10">0.0000</text>
+<text top="551" left="74" width="29" height="11" font="10">Total:</text>
+<text top="551" left="160" width="42" height="11" font="10">17.6987</text>
+<text top="551" left="241" width="42" height="11" font="10">47.6183</text>
+<text top="551" left="323" width="36" height="11" font="10">0.9897</text>
+<text top="551" left="394" width="36" height="11" font="10">4.9723</text>
+<text top="551" left="484" width="42" height="11" font="10">28.6742</text>
+<text top="551" left="670" width="42" height="11" font="10">99.9532</text>
+<text top="582" left="162" width="61" height="11" font="10">Oxygenates</text>
+<text top="604" left="162" width="86" height="11" font="10">Total Unknowns:</text>
+<text top="582" left="396" width="60" height="11" font="10">Total C14+:</text>
+<text top="604" left="396" width="64" height="11" font="10">Grand Total:</text>
+<text top="582" left="250" width="36" height="11" font="10">0.0000</text>
+<text top="603" left="278" width="36" height="11" font="10">0.0468</text>
+<text top="582" left="484" width="36" height="11" font="10">0.0000</text>
+<text top="603" left="485" width="49" height="11" font="10">100.0000</text>
+<text top="551" left="570" width="36" height="11" font="10">0.0468</text>
+<text top="657" left="54" width="437" height="14" font="9"><b>Totals by Group Type &amp; Carbon Number (in Volume Percent)</b></text>
+<text top="684" left="160" width="60" height="14" font="12">Paraffins</text>
+<text top="684" left="241" width="130" height="14" font="12">I-Paraffins Olefins</text>
+<text top="684" left="394" width="158" height="14" font="12">Naphthenes Aromatics</text>
+<text top="684" left="670" width="34" height="14" font="12">Total</text>
+<text top="684" left="569" width="70" height="14" font="12">Unknowns</text>
+<text top="705" left="160" width="36" height="11" font="10">0.0000</text>
+<text top="705" left="241" width="36" height="11" font="10">0.0000</text>
+<text top="705" left="323" width="36" height="11" font="10">0.0000</text>
+<text top="705" left="394" width="36" height="11" font="10">0.0000</text>
+<text top="705" left="484" width="36" height="11" font="10">0.0000</text>
+<text top="705" left="672" width="36" height="11" font="10">0.0000</text>
+<text top="705" left="74" width="15" height="11" font="10">C1</text>
+<text top="705" left="570" width="36" height="11" font="10">0.0000</text>
+<text top="723" left="160" width="36" height="11" font="10">0.0000</text>
+<text top="723" left="241" width="36" height="11" font="10">0.0000</text>
+<text top="723" left="323" width="36" height="11" font="10">0.0000</text>
+<text top="723" left="394" width="36" height="11" font="10">0.0000</text>
+<text top="723" left="484" width="36" height="11" font="10">0.0000</text>
+<text top="723" left="672" width="36" height="11" font="10">0.0000</text>
+<text top="723" left="74" width="15" height="11" font="10">C2</text>
+<text top="723" left="570" width="36" height="11" font="10">0.0000</text>
+<text top="741" left="160" width="36" height="11" font="10">0.0000</text>
+<text top="741" left="241" width="36" height="11" font="10">0.0000</text>
+<text top="741" left="323" width="36" height="11" font="10">0.0000</text>
+<text top="741" left="394" width="36" height="11" font="10">0.0000</text>
+<text top="741" left="484" width="36" height="11" font="10">0.0000</text>
+<text top="741" left="672" width="36" height="11" font="10">0.0000</text>
+<text top="741" left="74" width="15" height="11" font="10">C3</text>
+<text top="741" left="570" width="36" height="11" font="10">0.0000</text>
+<text top="758" left="160" width="36" height="11" font="10">0.0011</text>
+<text top="758" left="241" width="36" height="11" font="10">0.0000</text>
+<text top="758" left="323" width="36" height="11" font="10">0.0000</text>
+<text top="758" left="394" width="36" height="11" font="10">0.0000</text>
+<text top="758" left="484" width="36" height="11" font="10">0.0000</text>
+<text top="758" left="672" width="36" height="11" font="10">0.0011</text>
+<text top="758" left="74" width="15" height="11" font="10">C4</text>
+<text top="758" left="570" width="36" height="11" font="10">0.0000</text>
+<text top="776" left="160" width="36" height="11" font="10">0.0781</text>
+<text top="776" left="241" width="36" height="11" font="10">0.0303</text>
+<text top="776" left="323" width="36" height="11" font="10">0.0036</text>
+<text top="776" left="394" width="36" height="11" font="10">0.0783</text>
+<text top="776" left="484" width="36" height="11" font="10">0.0000</text>
+<text top="776" left="672" width="36" height="11" font="10">0.1902</text>
+<text top="776" left="74" width="15" height="11" font="10">C5</text>
+<text top="776" left="570" width="36" height="11" font="10">0.0000</text>
+<text top="794" left="160" width="42" height="11" font="10">15.8372</text>
+<text top="794" left="241" width="36" height="11" font="10">8.7563</text>
+<text top="794" left="323" width="36" height="11" font="10">0.4508</text>
+<text top="794" left="394" width="36" height="11" font="10">3.4913</text>
+<text top="794" left="484" width="42" height="11" font="10">20.7651</text>
+<text top="794" left="672" width="42" height="11" font="10">49.3082</text>
+<text top="794" left="74" width="15" height="11" font="10">C6</text>
+<text top="794" left="570" width="36" height="11" font="10">0.0075</text>
+<text top="812" left="160" width="36" height="11" font="10">3.4654</text>
+<text top="812" left="241" width="42" height="11" font="10">41.7424</text>
+<text top="812" left="323" width="36" height="11" font="10">0.5644</text>
+<text top="812" left="394" width="36" height="11" font="10">1.2269</text>
+<text top="812" left="484" width="36" height="11" font="10">2.9776</text>
+<text top="812" left="672" width="42" height="11" font="10">49.9881</text>
+<text top="812" left="74" width="15" height="11" font="10">C7</text>
+<text top="812" left="570" width="36" height="11" font="10">0.0114</text>
+<text top="830" left="160" width="36" height="11" font="10">0.0064</text>
+<text top="830" left="241" width="36" height="11" font="10">0.4465</text>
+<text top="830" left="323" width="36" height="11" font="10">0.0000</text>
+<text top="830" left="394" width="36" height="11" font="10">0.0146</text>
+<text top="830" left="484" width="36" height="11" font="10">0.0133</text>
+<text top="830" left="672" width="36" height="11" font="10">0.5106</text>
+<text top="830" left="74" width="15" height="11" font="10">C8</text>
+<text top="830" left="570" width="36" height="11" font="10">0.0297</text>
+<text top="848" left="160" width="36" height="11" font="10">0.0000</text>
+<text top="848" left="241" width="36" height="11" font="10">0.0000</text>
+<text top="848" left="323" width="36" height="11" font="10">0.0000</text>
+<text top="848" left="394" width="36" height="11" font="10">0.0000</text>
+<text top="848" left="484" width="36" height="11" font="10">0.0018</text>
+<text top="848" left="672" width="36" height="11" font="10">0.0018</text>
+<text top="848" left="74" width="15" height="11" font="10">C9</text>
+<text top="848" left="570" width="36" height="11" font="10">0.0000</text>
+<text top="866" left="160" width="36" height="11" font="10">0.0000</text>
+<text top="866" left="241" width="36" height="11" font="10">0.0000</text>
+<text top="866" left="323" width="36" height="11" font="10">0.0000</text>
+<text top="866" left="394" width="36" height="11" font="10">0.0000</text>
+<text top="866" left="484" width="36" height="11" font="10">0.0000</text>
+<text top="866" left="672" width="36" height="11" font="10">0.0000</text>
+<text top="866" left="74" width="22" height="11" font="10">C10</text>
+<text top="866" left="570" width="36" height="11" font="10">0.0000</text>
+<text top="883" left="160" width="36" height="11" font="10">0.0000</text>
+<text top="883" left="241" width="36" height="11" font="10">0.0000</text>
+<text top="883" left="323" width="36" height="11" font="10">0.0000</text>
+<text top="883" left="394" width="36" height="11" font="10">0.0000</text>
+<text top="883" left="484" width="36" height="11" font="10">0.0000</text>
+<text top="883" left="672" width="36" height="11" font="10">0.0000</text>
+<text top="883" left="74" width="22" height="11" font="10">C11</text>
+<text top="883" left="570" width="36" height="11" font="10">0.0000</text>
+<text top="901" left="160" width="36" height="11" font="10">0.0000</text>
+<text top="901" left="241" width="36" height="11" font="10">0.0000</text>
+<text top="901" left="323" width="36" height="11" font="10">0.0000</text>
+<text top="901" left="394" width="36" height="11" font="10">0.0000</text>
+<text top="901" left="484" width="36" height="11" font="10">0.0000</text>
+<text top="901" left="672" width="36" height="11" font="10">0.0000</text>
+<text top="901" left="74" width="22" height="11" font="10">C12</text>
+<text top="901" left="570" width="36" height="11" font="10">0.0000</text>
+<text top="919" left="160" width="36" height="11" font="10">0.0000</text>
+<text top="919" left="241" width="36" height="11" font="10">0.0000</text>
+<text top="919" left="323" width="36" height="11" font="10">0.0000</text>
+<text top="919" left="394" width="36" height="11" font="10">0.0000</text>
+<text top="919" left="484" width="36" height="11" font="10">0.0000</text>
+<text top="919" left="672" width="36" height="11" font="10">0.0000</text>
+<text top="919" left="74" width="22" height="11" font="10">C13</text>
+<text top="919" left="570" width="36" height="11" font="10">0.0000</text>
+<text top="937" left="74" width="29" height="11" font="10">Total:</text>
+<text top="937" left="160" width="42" height="11" font="10">19.3882</text>
+<text top="937" left="241" width="42" height="11" font="10">50.9754</text>
+<text top="937" left="323" width="36" height="11" font="10">1.0188</text>
+<text top="937" left="394" width="36" height="11" font="10">4.8111</text>
+<text top="937" left="484" width="42" height="11" font="10">23.7579</text>
+<text top="937" left="674" width="42" height="11" font="10">99.9514</text>
+<text top="969" left="162" width="61" height="11" font="10">Oxygenates</text>
+<text top="991" left="162" width="86" height="11" font="10">Total Unknowns:</text>
+<text top="969" left="396" width="60" height="11" font="10">Total C14+:</text>
+<text top="991" left="396" width="64" height="11" font="10">Grand Total:</text>
+<text top="969" left="250" width="36" height="11" font="10">0.0000</text>
+<text top="990" left="278" width="36" height="11" font="10">0.0486</text>
+<text top="969" left="484" width="36" height="11" font="10">0.0000</text>
+<text top="990" left="485" width="49" height="11" font="10">100.0000</text>
+<text top="937" left="570" width="36" height="11" font="10">0.0486</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="104" left="61" width="516" height="11" font="10">RawFile: C:\Chem32\2\DATA\090220A\081920B 2020-09-02 03-23-19\103F0301.D\103F0301.CDF</text>
+<text top="122" left="61" width="108" height="11" font="10">Sample: 090220-002</text>
+<text top="140" left="61" width="106" height="11" font="10">Processed 97 Peaks</text>
+<text top="176" left="61" width="59" height="11" font="10">Comments:</text>
+<text top="176" left="619" width="133" height="11" font="10">Normalized to 100.0000%</text>
+<text top="122" left="619" width="168" height="11" font="10">Analyzed: 9/2/2020 11:16:10 AM</text>
+<text top="104" left="619" width="159" height="11" font="10">Acquired: 02-Sep-20, 07:13:34</text>
+<text top="262" left="269" width="381" height="14" font="9"><b>Diene Components Listed in Chromatographic Order</b></text>
+<text top="286" left="60" width="53" height="14" font="12">Minutes</text>
+<text top="286" left="129" width="37" height="14" font="12">Index</text>
+<text top="286" left="242" width="78" height="14" font="12">Component</text>
+<text top="286" left="450" width="53" height="14" font="12">Mass %</text>
+<text top="286" left="520" width="124" height="14" font="12">Volume % Mol %</text>
+<text top="158" left="62" width="352" height="11" font="10">Reference File: C:\Chem32\2\References\PONA VII_MASTER.DHA</text>
+<text top="234" left="64" width="26" height="11" font="11"><b>Hold</b></text>
+<text top="66" left="55" width="483" height="14" font="9"><b>Detailed Hydrocarbon Analysis - Dienes (Di-Olefins) Detail Report - </b></text>
+<text top="69" left="619" width="183" height="11" font="10">Report Date: 9/2/2020 11:16:10 AM</text>
+<text top="262" left="750" width="54" height="14" font="9"><b>Page: 4</b></text>
+<text top="286" left="189" width="42" height="14" font="12">Group</text>
+<text top="308" left="62" width="34" height="13" font="2">8.224</text>
+<text top="308" left="129" width="49" height="13" font="2">508.110</text>
+<text top="309" left="242" width="136" height="13" font="2">2-methylbutadiene-1,3</text>
+<text top="309" left="453" width="42" height="13" font="2">0.0005</text>
+<text top="308" left="520" width="42" height="13" font="2">0.0006</text>
+<text top="308" left="600" width="42" height="13" font="2">0.0007</text>
+<text top="309" left="190" width="18" height="13" font="2">O5</text>
+<text top="329" left="62" width="42" height="13" font="2">11.142</text>
+<text top="329" left="129" width="49" height="13" font="2">579.470</text>
+<text top="330" left="242" width="148" height="13" font="2">2-methyl-1,4-pentadiene</text>
+<text top="330" left="453" width="42" height="13" font="2">0.0003</text>
+<text top="329" left="520" width="42" height="13" font="2">0.0004</text>
+<text top="329" left="600" width="42" height="13" font="2">0.0004</text>
+<text top="330" left="190" width="18" height="13" font="2">O6</text>
+<text top="351" left="62" width="42" height="13" font="2">14.311</text>
+<text top="351" left="129" width="49" height="13" font="2">640.440</text>
+<text top="352" left="242" width="166" height="13" font="2">cyclic diolefin or triolefin-[2]</text>
+<text top="352" left="453" width="42" height="13" font="2">0.0063</text>
+<text top="351" left="520" width="42" height="13" font="2">0.0064</text>
+<text top="351" left="600" width="42" height="13" font="2">0.0068</text>
+<text top="352" left="190" width="18" height="13" font="2">O7</text>
+<text top="372" left="62" width="42" height="13" font="2">14.584</text>
+<text top="372" left="129" width="49" height="13" font="2">645.290</text>
+<text top="373" left="242" width="44" height="13" font="2">diolefin</text>
+<text top="373" left="453" width="42" height="13" font="2">0.0233</text>
+<text top="372" left="520" width="42" height="13" font="2">0.0242</text>
+<text top="372" left="600" width="42" height="13" font="2">0.0254</text>
+<text top="373" left="190" width="18" height="13" font="2">O6</text>
+<text top="393" left="62" width="42" height="13" font="2">15.589</text>
+<text top="393" left="129" width="49" height="13" font="2">662.160</text>
+<text top="394" left="242" width="118" height="13" font="2">diolefin (hexadiene)</text>
+<text top="394" left="453" width="42" height="13" font="2">0.0055</text>
+<text top="393" left="520" width="42" height="13" font="2">0.0057</text>
+<text top="393" left="600" width="42" height="13" font="2">0.0050</text>
+<text top="394" left="190" width="18" height="13" font="2">O6</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="104" left="61" width="516" height="11" font="10">RawFile: C:\Chem32\2\DATA\090220A\081920B 2020-09-02 03-23-19\103F0301.D\103F0301.CDF</text>
+<text top="122" left="61" width="108" height="11" font="10">Sample: 090220-002</text>
+<text top="140" left="61" width="106" height="11" font="10">Processed 97 Peaks</text>
+<text top="176" left="61" width="59" height="11" font="10">Comments:</text>
+<text top="176" left="619" width="133" height="11" font="10">Normalized to 100.0000%</text>
+<text top="122" left="619" width="168" height="11" font="10">Analyzed: 9/2/2020 11:16:10 AM</text>
+<text top="104" left="619" width="159" height="11" font="10">Acquired: 02-Sep-20, 07:13:34</text>
+<text top="262" left="291" width="335" height="14" font="9"><b>Components Listed in Chromatographic Order</b></text>
+<text top="286" left="60" width="53" height="14" font="12">Minutes</text>
+<text top="286" left="129" width="37" height="14" font="12">Index</text>
+<text top="286" left="242" width="78" height="14" font="12">Component</text>
+<text top="286" left="450" width="53" height="14" font="12">Mass %</text>
+<text top="286" left="520" width="124" height="14" font="12">Volume % Mol %</text>
+<text top="158" left="62" width="352" height="11" font="10">Reference File: C:\Chem32\2\References\PONA VII_MASTER.DHA</text>
+<text top="234" left="64" width="26" height="11" font="11"><b>Hold</b></text>
+<text top="66" left="55" width="334" height="14" font="9"><b>Detailed Hydrocarbon Analysis Detail Report - </b></text>
+<text top="69" left="619" width="183" height="11" font="10">Report Date: 9/2/2020 11:16:10 AM</text>
+<text top="262" left="750" width="54" height="14" font="9"><b>Page: 5</b></text>
+<text top="286" left="189" width="42" height="14" font="12">Group</text>
+<text top="286" left="674" width="39" height="14" font="12">BP(F)</text>
+<text top="286" left="744" width="41" height="14" font="12">BP(C)</text>
+<text top="286" left="802" width="31" height="14" font="12">CAS</text>
+<text top="310" left="62" width="42" height="13" font="2">5.1114</text>
+<text top="310" left="129" width="57" height="13" font="2">397.7500</text>
+<text top="312" left="242" width="54" height="13" font="2">n-butane</text>
+<text top="312" left="453" width="42" height="13" font="2">0.0008</text>
+<text top="310" left="522" width="42" height="13" font="2">0.0011</text>
+<text top="310" left="602" width="42" height="13" font="2">0.0013</text>
+<text top="312" left="190" width="17" height="13" font="2">P4</text>
+<text top="310" left="678" width="42" height="13" font="2">31.100</text>
+<text top="310" left="746" width="39" height="13" font="2">-0.500</text>
+<text top="336" left="62" width="42" height="13" font="2">6.9776</text>
+<text top="336" left="129" width="57" height="13" font="2">475.2200</text>
+<text top="338" left="242" width="57" height="13" font="2">i-pentane</text>
+<text top="338" left="453" width="42" height="13" font="2">0.0258</text>
+<text top="336" left="522" width="42" height="13" font="2">0.0303</text>
+<text top="336" left="602" width="42" height="13" font="2">0.0320</text>
+<text top="338" left="190" width="12" height="13" font="2">I5</text>
+<text top="336" left="678" width="42" height="13" font="2">82.112</text>
+<text top="336" left="746" width="42" height="13" font="2">27.840</text>
+<text top="362" left="62" width="42" height="13" font="2">7.7558</text>
+<text top="362" left="129" width="57" height="13" font="2">495.0900</text>
+<text top="363" left="242" width="106" height="13" font="2">2-methylbutene-1</text>
+<text top="363" left="453" width="42" height="13" font="2">0.0003</text>
+<text top="362" left="522" width="42" height="13" font="2">0.0003</text>
+<text top="362" left="602" width="42" height="13" font="2">0.0004</text>
+<text top="363" left="190" width="18" height="13" font="2">O5</text>
+<text top="362" left="678" width="42" height="13" font="2">88.070</text>
+<text top="362" left="746" width="42" height="13" font="2">31.150</text>
+<text top="388" left="62" width="42" height="13" font="2">7.9031</text>
+<text top="388" left="129" width="57" height="13" font="2">498.4200</text>
+<text top="389" left="242" width="61" height="13" font="2">n-pentane</text>
+<text top="389" left="453" width="42" height="13" font="2">0.0673</text>
+<text top="388" left="522" width="42" height="13" font="2">0.0781</text>
+<text top="388" left="602" width="42" height="13" font="2">0.0835</text>
+<text top="389" left="190" width="17" height="13" font="2">P5</text>
+<text top="388" left="678" width="42" height="13" font="2">96.908</text>
+<text top="388" left="746" width="42" height="13" font="2">36.060</text>
+<text top="414" left="62" width="42" height="13" font="2">8.2240</text>
+<text top="414" left="129" width="57" height="13" font="2">508.1100</text>
+<text top="415" left="242" width="136" height="13" font="2">2-methylbutadiene-1,3</text>
+<text top="415" left="453" width="42" height="13" font="2">0.0005</text>
+<text top="414" left="522" width="42" height="13" font="2">0.0006</text>
+<text top="414" left="602" width="42" height="13" font="2">0.0007</text>
+<text top="415" left="190" width="18" height="13" font="2">O5</text>
+<text top="414" left="678" width="42" height="13" font="2">93.308</text>
+<text top="414" left="746" width="42" height="13" font="2">34.060</text>
+<text top="440" left="62" width="42" height="13" font="2">8.5153</text>
+<text top="440" left="129" width="57" height="13" font="2">517.0400</text>
+<text top="441" left="242" width="128" height="13" font="2">3,3-dimethylbutene-1</text>
+<text top="441" left="453" width="42" height="13" font="2">0.0003</text>
+<text top="440" left="522" width="42" height="13" font="2">0.0003</text>
+<text top="440" left="602" width="42" height="13" font="2">0.0004</text>
+<text top="441" left="190" width="18" height="13" font="2">O5</text>
+<text top="440" left="678" width="49" height="13" font="2">106.232</text>
+<text top="440" left="746" width="42" height="13" font="2">41.240</text>
+<text top="466" left="62" width="42" height="13" font="2">8.7006</text>
+<text top="466" left="129" width="57" height="13" font="2">522.4500</text>
+<text top="467" left="242" width="106" height="13" font="2">2-methylbutene-2</text>
+<text top="467" left="453" width="42" height="13" font="2">0.0017</text>
+<text top="466" left="522" width="42" height="13" font="2">0.0019</text>
+<text top="466" left="602" width="42" height="13" font="2">0.0022</text>
+<text top="467" left="190" width="18" height="13" font="2">O5</text>
+<text top="466" left="678" width="49" height="13" font="2">101.408</text>
+<text top="466" left="746" width="42" height="13" font="2">38.560</text>
+<text top="492" left="62" width="42" height="13" font="2">9.2749</text>
+<text top="492" left="129" width="57" height="13" font="2">538.0300</text>
+<text top="493" left="242" width="117" height="13" font="2">2,2-dimethylbutane</text>
+<text top="493" left="453" width="42" height="13" font="2">0.1650</text>
+<text top="492" left="522" width="42" height="13" font="2">0.1848</text>
+<text top="492" left="602" width="42" height="13" font="2">0.1715</text>
+<text top="493" left="190" width="12" height="13" font="2">I6</text>
+<text top="492" left="678" width="49" height="13" font="2">121.514</text>
+<text top="492" left="746" width="42" height="13" font="2">49.730</text>
+<text top="518" left="62" width="42" height="13" font="2">9.9933</text>
+<text top="518" left="129" width="57" height="13" font="2">555.4100</text>
+<text top="519" left="242" width="80" height="13" font="2">cyclopentene</text>
+<text top="519" left="453" width="42" height="13" font="2">0.0005</text>
+<text top="518" left="522" width="42" height="13" font="2">0.0005</text>
+<text top="518" left="602" width="42" height="13" font="2">0.0006</text>
+<text top="519" left="190" width="18" height="13" font="2">O5</text>
+<text top="518" left="678" width="49" height="13" font="2">111.614</text>
+<text top="518" left="746" width="42" height="13" font="2">44.230</text>
+<text top="544" left="62" width="49" height="13" font="2">10.1956</text>
+<text top="544" left="129" width="57" height="13" font="2">559.9500</text>
+<text top="545" left="242" width="54" height="13" font="2">unknown</text>
+<text top="545" left="453" width="42" height="13" font="2">0.0009</text>
+<text top="544" left="522" width="42" height="13" font="2">0.0009</text>
+<text top="544" left="602" width="42" height="13" font="2">0.0012</text>
+<text top="544" left="678" width="49" height="13" font="2">111.614</text>
+<text top="544" left="746" width="42" height="13" font="2">44.230</text>
+<text top="570" left="62" width="49" height="13" font="2">10.2365</text>
+<text top="570" left="129" width="57" height="13" font="2">560.8500</text>
+<text top="571" left="242" width="113" height="13" font="2">4-methylpentene-1</text>
+<text top="571" left="453" width="42" height="13" font="2">0.0015</text>
+<text top="570" left="522" width="42" height="13" font="2">0.0016</text>
+<text top="570" left="602" width="42" height="13" font="2">0.0016</text>
+<text top="571" left="190" width="18" height="13" font="2">O6</text>
+<text top="570" left="678" width="49" height="13" font="2">128.948</text>
+<text top="570" left="746" width="42" height="13" font="2">53.860</text>
+<text top="596" left="62" width="49" height="13" font="2">10.4392</text>
+<text top="596" left="129" width="57" height="13" font="2">565.2300</text>
+<text top="597" left="242" width="80" height="13" font="2">cyclopentane</text>
+<text top="597" left="453" width="42" height="13" font="2">0.0802</text>
+<text top="596" left="522" width="42" height="13" font="2">0.0783</text>
+<text top="596" left="602" width="42" height="13" font="2">0.1025</text>
+<text top="597" left="190" width="17" height="13" font="2">N5</text>
+<text top="596" left="678" width="49" height="13" font="2">120.650</text>
+<text top="596" left="746" width="42" height="13" font="2">49.250</text>
+<text top="622" left="62" width="49" height="13" font="2">10.5441</text>
+<text top="622" left="129" width="57" height="13" font="2">567.4500</text>
+<text top="623" left="242" width="117" height="13" font="2">2,3-dimethylbutane</text>
+<text top="623" left="453" width="42" height="13" font="2">0.4910</text>
+<text top="622" left="522" width="42" height="13" font="2">0.5395</text>
+<text top="622" left="602" width="42" height="13" font="2">0.5103</text>
+<text top="623" left="190" width="12" height="13" font="2">I6</text>
+<text top="622" left="678" width="49" height="13" font="2">136.364</text>
+<text top="622" left="746" width="42" height="13" font="2">57.980</text>
+<text top="648" left="62" width="49" height="13" font="2">10.6244</text>
+<text top="648" left="129" width="57" height="13" font="2">569.1200</text>
+<text top="649" left="242" width="54" height="13" font="2">unknown</text>
+<text top="649" left="453" width="42" height="13" font="2">0.0042</text>
+<text top="648" left="522" width="42" height="13" font="2">0.0044</text>
+<text top="648" left="602" width="42" height="13" font="2">0.0044</text>
+<text top="648" left="678" width="49" height="13" font="2">136.364</text>
+<text top="648" left="746" width="42" height="13" font="2">57.980</text>
+<text top="673" left="62" width="49" height="13" font="2">10.7766</text>
+<text top="673" left="129" width="57" height="13" font="2">572.2500</text>
+<text top="675" left="242" width="102" height="13" font="2">2-methylpentane</text>
+<text top="675" left="453" width="42" height="13" font="2">3.1111</text>
+<text top="673" left="522" width="42" height="13" font="2">3.4630</text>
+<text top="673" left="602" width="42" height="13" font="2">3.2335</text>
+<text top="675" left="190" width="12" height="13" font="2">I6</text>
+<text top="673" left="678" width="49" height="13" font="2">140.468</text>
+<text top="673" left="746" width="42" height="13" font="2">60.260</text>
+<text top="699" left="62" width="49" height="13" font="2">10.8353</text>
+<text top="699" left="129" width="57" height="13" font="2">573.4300</text>
+<text top="700" left="242" width="128" height="13" font="2">2,3-dimethylbutene-1</text>
+<text top="700" left="453" width="42" height="13" font="2">0.0290</text>
+<text top="699" left="522" width="42" height="13" font="2">0.0309</text>
+<text top="699" left="602" width="42" height="13" font="2">0.0309</text>
+<text top="700" left="190" width="18" height="13" font="2">O6</text>
+<text top="699" left="678" width="49" height="13" font="2">132.098</text>
+<text top="699" left="746" width="42" height="13" font="2">55.610</text>
+<text top="725" left="62" width="49" height="13" font="2">11.1417</text>
+<text top="725" left="129" width="57" height="13" font="2">579.4700</text>
+<text top="726" left="242" width="148" height="13" font="2">2-methyl-1,4-pentadiene</text>
+<text top="726" left="453" width="42" height="13" font="2">0.0003</text>
+<text top="725" left="522" width="42" height="13" font="2">0.0004</text>
+<text top="725" left="602" width="42" height="13" font="2">0.0004</text>
+<text top="726" left="190" width="18" height="13" font="2">O6</text>
+<text top="725" left="678" width="49" height="13" font="2">132.800</text>
+<text top="725" left="746" width="42" height="13" font="2">56.000</text>
+<text top="751" left="62" width="49" height="13" font="2">11.3901</text>
+<text top="751" left="129" width="57" height="13" font="2">584.1900</text>
+<text top="752" left="242" width="102" height="13" font="2">3-methylpentane</text>
+<text top="752" left="453" width="42" height="13" font="2">4.1752</text>
+<text top="751" left="522" width="42" height="13" font="2">4.5691</text>
+<text top="751" left="602" width="42" height="13" font="2">4.3395</text>
+<text top="752" left="190" width="12" height="13" font="2">I6</text>
+<text top="751" left="678" width="49" height="13" font="2">145.886</text>
+<text top="751" left="746" width="42" height="13" font="2">63.270</text>
+<text top="777" left="62" width="49" height="13" font="2">11.5750</text>
+<text top="777" left="129" width="57" height="13" font="2">587.6000</text>
+<text top="778" left="242" width="54" height="13" font="2">unknown</text>
+<text top="778" left="453" width="42" height="13" font="2">0.0007</text>
+<text top="777" left="522" width="42" height="13" font="2">0.0008</text>
+<text top="777" left="602" width="42" height="13" font="2">0.0008</text>
+<text top="777" left="678" width="49" height="13" font="2">145.886</text>
+<text top="777" left="746" width="42" height="13" font="2">63.270</text>
+<text top="803" left="62" width="49" height="13" font="2">11.6116</text>
+<text top="803" left="129" width="57" height="13" font="2">588.2600</text>
+<text top="804" left="242" width="113" height="13" font="2">2-methylpentene-1</text>
+<text top="804" left="453" width="42" height="13" font="2">0.0207</text>
+<text top="803" left="522" width="42" height="13" font="2">0.0220</text>
+<text top="803" left="602" width="42" height="13" font="2">0.0220</text>
+<text top="804" left="190" width="18" height="13" font="2">O6</text>
+<text top="803" left="678" width="49" height="13" font="2">143.780</text>
+<text top="803" left="746" width="42" height="13" font="2">62.100</text>
+<text top="829" left="62" width="49" height="13" font="2">11.6588</text>
+<text top="829" left="129" width="57" height="13" font="2">589.1200</text>
+<text top="830" left="242" width="55" height="13" font="2">hexene-1</text>
+<text top="830" left="453" width="42" height="13" font="2">0.0106</text>
+<text top="829" left="522" width="42" height="13" font="2">0.0114</text>
+<text top="829" left="602" width="42" height="13" font="2">0.0113</text>
+<text top="830" left="190" width="18" height="13" font="2">O6</text>
+<text top="829" left="678" width="49" height="13" font="2">146.246</text>
+<text top="829" left="746" width="42" height="13" font="2">63.470</text>
+<text top="855" left="62" width="49" height="13" font="2">11.7867</text>
+<text top="855" left="129" width="57" height="13" font="2">591.4100</text>
+<text top="856" left="242" width="54" height="13" font="2">unknown</text>
+<text top="856" left="453" width="42" height="13" font="2">0.0006</text>
+<text top="855" left="522" width="42" height="13" font="2">0.0006</text>
+<text top="855" left="602" width="42" height="13" font="2">0.0006</text>
+<text top="855" left="678" width="49" height="13" font="2">146.246</text>
+<text top="855" left="746" width="42" height="13" font="2">63.470</text>
+<text top="881" left="62" width="49" height="13" font="2">11.8200</text>
+<text top="881" left="129" width="57" height="13" font="2">592.0000</text>
+<text top="882" left="242" width="54" height="13" font="2">unknown</text>
+<text top="882" left="453" width="42" height="13" font="2">0.0008</text>
+<text top="881" left="522" width="42" height="13" font="2">0.0008</text>
+<text top="881" left="602" width="42" height="13" font="2">0.0008</text>
+<text top="881" left="678" width="49" height="13" font="2">146.246</text>
+<text top="881" left="746" width="42" height="13" font="2">63.470</text>
+<text top="907" left="62" width="49" height="13" font="2">12.2723</text>
+<text top="907" left="129" width="57" height="13" font="2">599.7900</text>
+<text top="908" left="242" width="56" height="13" font="2">n-hexane</text>
+<text top="908" left="453" width="49" height="13" font="2">14.3652</text>
+<text top="907" left="522" width="49" height="13" font="2">15.8372</text>
+<text top="907" left="602" width="49" height="13" font="2">14.9306</text>
+<text top="908" left="190" width="17" height="13" font="2">P6</text>
+<text top="907" left="678" width="49" height="13" font="2">155.714</text>
+<text top="907" left="746" width="42" height="13" font="2">68.730</text>
+<text top="933" left="62" width="49" height="13" font="2">12.3159</text>
+<text top="933" left="129" width="57" height="13" font="2">600.6900</text>
+<text top="934" left="242" width="64" height="13" font="2">t-hexene-3</text>
+<text top="934" left="453" width="42" height="13" font="2">0.0397</text>
+<text top="933" left="522" width="42" height="13" font="2">0.0423</text>
+<text top="933" left="602" width="42" height="13" font="2">0.0423</text>
+<text top="934" left="190" width="18" height="13" font="2">O6</text>
+<text top="933" left="678" width="49" height="13" font="2">152.744</text>
+<text top="933" left="746" width="42" height="13" font="2">67.080</text>
+<text top="959" left="62" width="49" height="13" font="2">12.3497</text>
+<text top="959" left="129" width="57" height="13" font="2">601.4400</text>
+<text top="960" left="242" width="67" height="13" font="2">c-hexene-3</text>
+<text top="960" left="453" width="42" height="13" font="2">0.0258</text>
+<text top="959" left="522" width="42" height="13" font="2">0.0274</text>
+<text top="959" left="602" width="42" height="13" font="2">0.0274</text>
+<text top="960" left="190" width="18" height="13" font="2">O6</text>
+<text top="959" left="678" width="49" height="13" font="2">151.592</text>
+<text top="959" left="746" width="42" height="13" font="2">66.440</text>
+<text top="985" left="62" width="49" height="13" font="2">12.4275</text>
+<text top="985" left="129" width="57" height="13" font="2">603.1500</text>
+<text top="986" left="242" width="64" height="13" font="2">t-hexene-2</text>
+<text top="986" left="453" width="42" height="13" font="2">0.0694</text>
+<text top="985" left="522" width="42" height="13" font="2">0.0739</text>
+<text top="985" left="602" width="42" height="13" font="2">0.0738</text>
+<text top="986" left="190" width="18" height="13" font="2">O6</text>
+<text top="985" left="678" width="49" height="13" font="2">154.184</text>
+<text top="985" left="746" width="42" height="13" font="2">67.880</text>
+<text top="1011" left="62" width="49" height="13" font="2">12.5372</text>
+<text top="1011" left="129" width="57" height="13" font="2">605.5300</text>
+<text top="1012" left="242" width="113" height="13" font="2">2-methylpentene-2</text>
+<text top="1012" left="453" width="42" height="13" font="2">0.0915</text>
+<text top="1011" left="522" width="42" height="13" font="2">0.0963</text>
+<text top="1011" left="602" width="42" height="13" font="2">0.0974</text>
+<text top="1012" left="190" width="18" height="13" font="2">O6</text>
+<text top="1011" left="678" width="49" height="13" font="2">153.140</text>
+<text top="1011" left="746" width="42" height="13" font="2">67.300</text>
+<text top="1037" left="62" width="49" height="13" font="2">12.6693</text>
+<text top="1037" left="129" width="57" height="13" font="2">608.3600</text>
+<text top="1038" left="242" width="133" height="13" font="2">4-methylcyclopentene</text>
+<text top="1038" left="453" width="42" height="13" font="2">0.0575</text>
+<text top="1037" left="522" width="42" height="13" font="2">0.0548</text>
+<text top="1037" left="602" width="42" height="13" font="2">0.0627</text>
+<text top="1038" left="190" width="18" height="13" font="2">O6</text>
+<text top="1037" left="678" width="49" height="13" font="2">148.820</text>
+<text top="1037" left="746" width="42" height="13" font="2">64.900</text>
+<text top="1063" left="62" width="49" height="13" font="2">12.7306</text>
+<text top="1063" left="129" width="57" height="13" font="2">609.6600</text>
+<text top="1064" left="242" width="38" height="13" font="2">O6-[1]</text>
+<text top="1064" left="453" width="42" height="13" font="2">0.0091</text>
+<text top="1063" left="522" width="42" height="13" font="2">0.0095</text>
+<text top="1063" left="602" width="42" height="13" font="2">0.0097</text>
+<text top="1064" left="190" width="18" height="13" font="2">O6</text>
+<text top="1063" left="678" width="49" height="13" font="2">148.820</text>
+<text top="1063" left="746" width="42" height="13" font="2">64.900</text>
+<text top="1089" left="62" width="49" height="13" font="2">12.8669</text>
+<text top="1089" left="129" width="57" height="13" font="2">612.5200</text>
+<text top="1090" left="242" width="133" height="13" font="2">3-methylcyclopentene</text>
+<text top="1090" left="453" width="42" height="13" font="2">0.0342</text>
+<text top="1089" left="522" width="42" height="13" font="2">0.0326</text>
+<text top="1089" left="602" width="42" height="13" font="2">0.0372</text>
+<text top="1090" left="190" width="18" height="13" font="2">O6</text>
+<text top="1089" left="678" width="49" height="13" font="2">149.000</text>
+<text top="1089" left="746" width="42" height="13" font="2">65.000</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="104" left="61" width="516" height="11" font="10">RawFile: C:\Chem32\2\DATA\090220A\081920B 2020-09-02 03-23-19\103F0301.D\103F0301.CDF</text>
+<text top="122" left="61" width="108" height="11" font="10">Sample: 090220-002</text>
+<text top="140" left="61" width="106" height="11" font="10">Processed 97 Peaks</text>
+<text top="176" left="61" width="59" height="11" font="10">Comments:</text>
+<text top="176" left="619" width="133" height="11" font="10">Normalized to 100.0000%</text>
+<text top="122" left="619" width="168" height="11" font="10">Analyzed: 9/2/2020 11:16:10 AM</text>
+<text top="104" left="619" width="159" height="11" font="10">Acquired: 02-Sep-20, 07:13:34</text>
+<text top="262" left="291" width="335" height="14" font="9"><b>Components Listed in Chromatographic Order</b></text>
+<text top="286" left="60" width="53" height="14" font="12">Minutes</text>
+<text top="286" left="129" width="37" height="14" font="12">Index</text>
+<text top="286" left="242" width="78" height="14" font="12">Component</text>
+<text top="286" left="450" width="53" height="14" font="12">Mass %</text>
+<text top="286" left="520" width="124" height="14" font="12">Volume % Mol %</text>
+<text top="158" left="62" width="352" height="11" font="10">Reference File: C:\Chem32\2\References\PONA VII_MASTER.DHA</text>
+<text top="234" left="64" width="26" height="11" font="11"><b>Hold</b></text>
+<text top="66" left="55" width="334" height="14" font="9"><b>Detailed Hydrocarbon Analysis Detail Report - </b></text>
+<text top="69" left="619" width="183" height="11" font="10">Report Date: 9/2/2020 11:16:10 AM</text>
+<text top="262" left="750" width="54" height="14" font="9"><b>Page: 6</b></text>
+<text top="286" left="189" width="42" height="14" font="12">Group</text>
+<text top="286" left="674" width="39" height="14" font="12">BP(F)</text>
+<text top="286" left="744" width="41" height="14" font="12">BP(C)</text>
+<text top="286" left="802" width="31" height="14" font="12">CAS</text>
+<text top="308" left="62" width="49" height="13" font="2">13.1843</text>
+<text top="308" left="129" width="57" height="13" font="2">619.0100</text>
+<text top="309" left="242" width="135" height="13" font="2">3,3-dimethylpentene-1</text>
+<text top="309" left="453" width="42" height="13" font="2">0.1051</text>
+<text top="308" left="522" width="42" height="13" font="2">0.1088</text>
+<text top="308" left="602" width="42" height="13" font="2">0.0959</text>
+<text top="309" left="190" width="18" height="13" font="2">O7</text>
+<text top="308" left="678" width="49" height="13" font="2">171.446</text>
+<text top="308" left="746" width="42" height="13" font="2">77.470</text>
+<text top="334" left="62" width="49" height="13" font="2">13.3723</text>
+<text top="334" left="129" width="57" height="13" font="2">622.7600</text>
+<text top="335" left="242" width="124" height="13" font="2">2,2-dimethylpentane</text>
+<text top="335" left="453" width="42" height="13" font="2">2.5122</text>
+<text top="334" left="522" width="42" height="13" font="2">2.7104</text>
+<text top="334" left="602" width="42" height="13" font="2">2.2455</text>
+<text top="335" left="190" width="12" height="13" font="2">I7</text>
+<text top="334" left="678" width="49" height="13" font="2">174.542</text>
+<text top="334" left="746" width="42" height="13" font="2">79.190</text>
+<text top="360" left="62" width="49" height="13" font="2">13.4852</text>
+<text top="360" left="129" width="57" height="13" font="2">624.9700</text>
+<text top="361" left="242" width="121" height="13" font="2">methylcyclopentane</text>
+<text top="361" left="453" width="42" height="13" font="2">3.1721</text>
+<text top="360" left="522" width="42" height="13" font="2">3.0804</text>
+<text top="360" left="602" width="42" height="13" font="2">3.3759</text>
+<text top="361" left="190" width="17" height="13" font="2">N6</text>
+<text top="360" left="678" width="49" height="13" font="2">161.240</text>
+<text top="360" left="746" width="42" height="13" font="2">71.800</text>
+<text top="386" left="62" width="49" height="13" font="2">13.7229</text>
+<text top="386" left="129" width="57" height="13" font="2">629.5500</text>
+<text top="387" left="242" width="124" height="13" font="2">2,4-dimethylpentane</text>
+<text top="387" left="453" width="42" height="13" font="2">3.1104</text>
+<text top="386" left="522" width="42" height="13" font="2">3.3613</text>
+<text top="386" left="602" width="42" height="13" font="2">2.7803</text>
+<text top="387" left="190" width="12" height="13" font="2">I7</text>
+<text top="386" left="678" width="49" height="13" font="2">176.882</text>
+<text top="386" left="746" width="42" height="13" font="2">80.490</text>
+<text top="412" left="62" width="49" height="13" font="2">13.8533</text>
+<text top="412" left="129" width="57" height="13" font="2">632.0200</text>
+<text top="413" left="242" width="54" height="13" font="2">unknown</text>
+<text top="413" left="453" width="42" height="13" font="2">0.0013</text>
+<text top="412" left="522" width="42" height="13" font="2">0.0013</text>
+<text top="412" left="602" width="42" height="13" font="2">0.0012</text>
+<text top="412" left="678" width="49" height="13" font="2">176.882</text>
+<text top="412" left="746" width="42" height="13" font="2">80.490</text>
+<text top="438" left="62" width="49" height="13" font="2">13.8675</text>
+<text top="438" left="129" width="57" height="13" font="2">632.2900</text>
+<text top="439" left="242" width="54" height="13" font="2">unknown</text>
+<text top="439" left="453" width="42" height="13" font="2">0.0022</text>
+<text top="438" left="522" width="42" height="13" font="2">0.0023</text>
+<text top="438" left="602" width="42" height="13" font="2">0.0020</text>
+<text top="438" left="678" width="49" height="13" font="2">176.882</text>
+<text top="438" left="746" width="42" height="13" font="2">80.490</text>
+<text top="464" left="62" width="49" height="13" font="2">13.8720</text>
+<text top="464" left="129" width="57" height="13" font="2">632.3700</text>
+<text top="465" left="242" width="141" height="13" font="2">2,2,3-trimethylbutene-1</text>
+<text top="465" left="453" width="42" height="13" font="2">0.0007</text>
+<text top="464" left="522" width="42" height="13" font="2">0.0008</text>
+<text top="464" left="602" width="42" height="13" font="2">0.0007</text>
+<text top="465" left="190" width="18" height="13" font="2">O7</text>
+<text top="464" left="678" width="49" height="13" font="2">172.202</text>
+<text top="464" left="746" width="42" height="13" font="2">77.890</text>
+<text top="490" left="62" width="49" height="13" font="2">13.9300</text>
+<text top="490" left="129" width="57" height="13" font="2">633.4600</text>
+<text top="491" left="242" width="129" height="13" font="2">2,2,3-trimethylbutane</text>
+<text top="491" left="453" width="42" height="13" font="2">0.3617</text>
+<text top="490" left="522" width="42" height="13" font="2">0.3811</text>
+<text top="490" left="602" width="42" height="13" font="2">0.3233</text>
+<text top="491" left="190" width="12" height="13" font="2">I7</text>
+<text top="490" left="678" width="49" height="13" font="2">177.584</text>
+<text top="490" left="746" width="42" height="13" font="2">80.880</text>
+<text top="516" left="62" width="49" height="13" font="2">14.1050</text>
+<text top="516" left="129" width="57" height="13" font="2">636.7000</text>
+<text top="517" left="242" width="54" height="13" font="2">unknown</text>
+<text top="517" left="453" width="42" height="13" font="2">0.0075</text>
+<text top="516" left="522" width="42" height="13" font="2">0.0078</text>
+<text top="516" left="602" width="42" height="13" font="2">0.0067</text>
+<text top="516" left="678" width="49" height="13" font="2">177.584</text>
+<text top="516" left="746" width="42" height="13" font="2">80.880</text>
+<text top="542" left="62" width="49" height="13" font="2">14.3108</text>
+<text top="542" left="129" width="57" height="13" font="2">640.4400</text>
+<text top="543" left="242" width="166" height="13" font="2">cyclic diolefin or triolefin-[2]</text>
+<text top="543" left="453" width="42" height="13" font="2">0.0063</text>
+<text top="542" left="522" width="42" height="13" font="2">0.0064</text>
+<text top="542" left="602" width="42" height="13" font="2">0.0068</text>
+<text top="543" left="190" width="18" height="13" font="2">O7</text>
+<text top="542" left="678" width="42" height="13" font="2">32.000</text>
+<text top="542" left="746" width="34" height="13" font="2">0.000</text>
+<text top="568" left="62" width="49" height="13" font="2">14.3547</text>
+<text top="568" left="129" width="57" height="13" font="2">641.2200</text>
+<text top="569" left="242" width="38" height="13" font="2">O7-[1]</text>
+<text top="569" left="453" width="42" height="13" font="2">0.0026</text>
+<text top="568" left="522" width="42" height="13" font="2">0.0027</text>
+<text top="568" left="602" width="42" height="13" font="2">0.0028</text>
+<text top="569" left="190" width="18" height="13" font="2">O7</text>
+<text top="568" left="678" width="42" height="13" font="2">32.000</text>
+<text top="568" left="746" width="34" height="13" font="2">0.000</text>
+<text top="594" left="62" width="49" height="13" font="2">14.5842</text>
+<text top="594" left="129" width="57" height="13" font="2">645.2900</text>
+<text top="595" left="242" width="44" height="13" font="2">diolefin</text>
+<text top="595" left="453" width="42" height="13" font="2">0.0233</text>
+<text top="594" left="522" width="42" height="13" font="2">0.0242</text>
+<text top="594" left="602" width="42" height="13" font="2">0.0254</text>
+<text top="595" left="190" width="18" height="13" font="2">O6</text>
+<text top="594" left="678" width="42" height="13" font="2">32.000</text>
+<text top="594" left="746" width="34" height="13" font="2">0.000</text>
+<text top="619" left="62" width="49" height="13" font="2">14.7127</text>
+<text top="619" left="129" width="57" height="13" font="2">647.5300</text>
+<text top="621" left="242" width="135" height="13" font="2">2,4-dimethylpentene-1</text>
+<text top="621" left="453" width="42" height="13" font="2">0.0420</text>
+<text top="619" left="522" width="42" height="13" font="2">0.0437</text>
+<text top="619" left="602" width="42" height="13" font="2">0.0383</text>
+<text top="621" left="190" width="18" height="13" font="2">O7</text>
+<text top="619" left="678" width="49" height="13" font="2">178.880</text>
+<text top="619" left="746" width="42" height="13" font="2">81.600</text>
+<text top="645" left="62" width="49" height="13" font="2">14.9712</text>
+<text top="645" left="129" width="57" height="13" font="2">651.9700</text>
+<text top="646" left="242" width="51" height="13" font="2">benzene</text>
+<text top="646" left="453" width="49" height="13" font="2">25.1049</text>
+<text top="645" left="522" width="49" height="13" font="2">20.7651</text>
+<text top="645" left="602" width="49" height="13" font="2">28.7867</text>
+<text top="646" left="190" width="17" height="13" font="2">A6</text>
+<text top="645" left="678" width="49" height="13" font="2">176.162</text>
+<text top="645" left="746" width="42" height="13" font="2">80.090</text>
+<text top="671" left="62" width="49" height="13" font="2">15.1152</text>
+<text top="671" left="129" width="57" height="13" font="2">654.3900</text>
+<text top="672" left="242" width="124" height="13" font="2">3,3-dimethylpentane</text>
+<text top="672" left="453" width="42" height="13" font="2">2.3624</text>
+<text top="671" left="522" width="42" height="13" font="2">2.4775</text>
+<text top="671" left="602" width="42" height="13" font="2">2.1117</text>
+<text top="672" left="190" width="12" height="13" font="2">I7</text>
+<text top="671" left="678" width="49" height="13" font="2">186.908</text>
+<text top="671" left="746" width="42" height="13" font="2">86.060</text>
+<text top="697" left="62" width="49" height="13" font="2">15.3194</text>
+<text top="697" left="129" width="57" height="13" font="2">657.7800</text>
+<text top="698" left="242" width="75" height="13" font="2">cyclohexane</text>
+<text top="698" left="453" width="42" height="13" font="2">0.4401</text>
+<text top="697" left="522" width="42" height="13" font="2">0.4109</text>
+<text top="697" left="602" width="42" height="13" font="2">0.4684</text>
+<text top="698" left="190" width="17" height="13" font="2">N6</text>
+<text top="697" left="678" width="49" height="13" font="2">177.296</text>
+<text top="697" left="746" width="42" height="13" font="2">80.720</text>
+<text top="723" left="62" width="49" height="13" font="2">15.4742</text>
+<text top="723" left="129" width="57" height="13" font="2">660.3000</text>
+<text top="724" left="242" width="122" height="13" font="2">2-methyl-t-hexene-3</text>
+<text top="724" left="453" width="42" height="13" font="2">0.0547</text>
+<text top="723" left="522" width="42" height="13" font="2">0.0572</text>
+<text top="723" left="602" width="42" height="13" font="2">0.0499</text>
+<text top="724" left="190" width="18" height="13" font="2">O7</text>
+<text top="723" left="678" width="49" height="13" font="2">186.620</text>
+<text top="723" left="746" width="42" height="13" font="2">85.900</text>
+<text top="749" left="62" width="49" height="13" font="2">15.5892</text>
+<text top="749" left="129" width="57" height="13" font="2">662.1600</text>
+<text top="750" left="242" width="118" height="13" font="2">diolefin (hexadiene)</text>
+<text top="750" left="453" width="42" height="13" font="2">0.0055</text>
+<text top="749" left="522" width="42" height="13" font="2">0.0057</text>
+<text top="749" left="602" width="42" height="13" font="2">0.0050</text>
+<text top="750" left="190" width="18" height="13" font="2">O6</text>
+<text top="749" left="678" width="49" height="13" font="2">158.000</text>
+<text top="749" left="746" width="42" height="13" font="2">70.000</text>
+<text top="775" left="62" width="49" height="13" font="2">15.6589</text>
+<text top="775" left="129" width="57" height="13" font="2">663.2800</text>
+<text top="776" left="242" width="152" height="13" font="2">2-ethyl-3-methylbutene-1</text>
+<text top="776" left="453" width="42" height="13" font="2">0.0230</text>
+<text top="775" left="522" width="42" height="13" font="2">0.0234</text>
+<text top="775" left="602" width="42" height="13" font="2">0.0210</text>
+<text top="776" left="190" width="18" height="13" font="2">O7</text>
+<text top="775" left="678" width="49" height="13" font="2">187.448</text>
+<text top="775" left="746" width="42" height="13" font="2">86.360</text>
+<text top="801" left="62" width="49" height="13" font="2">16.0396</text>
+<text top="801" left="129" width="57" height="13" font="2">669.2600</text>
+<text top="802" left="242" width="97" height="13" font="2">2-methylhexane</text>
+<text top="802" left="453" width="49" height="13" font="2">14.7334</text>
+<text top="801" left="522" width="49" height="13" font="2">15.7835</text>
+<text top="801" left="602" width="49" height="13" font="2">13.1697</text>
+<text top="802" left="190" width="12" height="13" font="2">I7</text>
+<text top="801" left="678" width="49" height="13" font="2">194.090</text>
+<text top="801" left="746" width="42" height="13" font="2">90.050</text>
+<text top="827" left="62" width="49" height="13" font="2">16.0990</text>
+<text top="827" left="129" width="57" height="13" font="2">670.1800</text>
+<text top="828" left="242" width="124" height="13" font="2">2,3-dimethylpentane</text>
+<text top="828" left="453" width="42" height="13" font="2">2.6881</text>
+<text top="827" left="522" width="42" height="13" font="2">2.8113</text>
+<text top="827" left="602" width="42" height="13" font="2">2.4028</text>
+<text top="828" left="190" width="12" height="13" font="2">I7</text>
+<text top="827" left="678" width="49" height="13" font="2">193.604</text>
+<text top="827" left="746" width="42" height="13" font="2">89.780</text>
+<text top="853" left="62" width="49" height="13" font="2">16.2292</text>
+<text top="853" left="129" width="57" height="13" font="2">672.1800</text>
+<text top="854" left="242" width="155" height="13" font="2">1,1-dimethylcyclopentane</text>
+<text top="854" left="453" width="42" height="13" font="2">0.2713</text>
+<text top="853" left="522" width="42" height="13" font="2">0.2614</text>
+<text top="853" left="602" width="42" height="13" font="2">0.2475</text>
+<text top="854" left="190" width="17" height="13" font="2">N7</text>
+<text top="853" left="678" width="49" height="13" font="2">189.464</text>
+<text top="853" left="746" width="42" height="13" font="2">87.480</text>
+<text top="879" left="62" width="49" height="13" font="2">16.3431</text>
+<text top="879" left="129" width="57" height="13" font="2">673.9100</text>
+<text top="880" left="242" width="75" height="13" font="2">cyclohexene</text>
+<text top="880" left="453" width="42" height="13" font="2">0.0200</text>
+<text top="879" left="522" width="42" height="13" font="2">0.0179</text>
+<text top="879" left="602" width="42" height="13" font="2">0.0218</text>
+<text top="880" left="190" width="18" height="13" font="2">O6</text>
+<text top="879" left="678" width="49" height="13" font="2">181.346</text>
+<text top="879" left="746" width="42" height="13" font="2">82.970</text>
+<text top="905" left="62" width="49" height="13" font="2">16.5751</text>
+<text top="905" left="129" width="57" height="13" font="2">677.3800</text>
+<text top="906" left="242" width="97" height="13" font="2">3-methylhexane</text>
+<text top="906" left="453" width="49" height="13" font="2">12.5033</text>
+<text top="905" left="522" width="49" height="13" font="2">13.2288</text>
+<text top="905" left="602" width="49" height="13" font="2">11.1763</text>
+<text top="906" left="190" width="12" height="13" font="2">I7</text>
+<text top="905" left="678" width="49" height="13" font="2">197.330</text>
+<text top="905" left="746" width="42" height="13" font="2">91.850</text>
+<text top="931" left="62" width="49" height="13" font="2">16.6928</text>
+<text top="931" left="129" width="57" height="13" font="2">679.1200</text>
+<text top="932" left="242" width="152" height="13" font="2">3,4-dimethyl-c-pentene-2</text>
+<text top="932" left="453" width="42" height="13" font="2">0.0671</text>
+<text top="931" left="522" width="42" height="13" font="2">0.0679</text>
+<text top="931" left="602" width="42" height="13" font="2">0.0612</text>
+<text top="932" left="190" width="18" height="13" font="2">O7</text>
+<text top="931" left="678" width="49" height="13" font="2">192.650</text>
+<text top="931" left="746" width="42" height="13" font="2">89.250</text>
+<text top="957" left="62" width="49" height="13" font="2">16.8767</text>
+<text top="957" left="129" width="57" height="13" font="2">681.8000</text>
+<text top="958" left="242" width="162" height="13" font="2">1c,3-dimethylcyclopentane</text>
+<text top="958" left="453" width="42" height="13" font="2">0.3101</text>
+<text top="957" left="522" width="42" height="13" font="2">0.3027</text>
+<text top="957" left="602" width="42" height="13" font="2">0.2829</text>
+<text top="958" left="190" width="17" height="13" font="2">N7</text>
+<text top="957" left="678" width="49" height="13" font="2">195.386</text>
+<text top="957" left="746" width="42" height="13" font="2">90.770</text>
+<text top="983" left="62" width="49" height="13" font="2">17.0379</text>
+<text top="983" left="129" width="57" height="13" font="2">684.1300</text>
+<text top="984" left="242" width="159" height="13" font="2">1t,3-dimethylcyclopentane</text>
+<text top="984" left="453" width="42" height="13" font="2">0.2715</text>
+<text top="983" left="522" width="42" height="13" font="2">0.2636</text>
+<text top="983" left="602" width="42" height="13" font="2">0.2476</text>
+<text top="984" left="190" width="17" height="13" font="2">N7</text>
+<text top="983" left="678" width="49" height="13" font="2">197.096</text>
+<text top="983" left="746" width="42" height="13" font="2">91.720</text>
+<text top="1009" left="62" width="49" height="13" font="2">17.1333</text>
+<text top="1009" left="129" width="57" height="13" font="2">685.4900</text>
+<text top="1010" left="242" width="90" height="13" font="2">3-ethylpentane</text>
+<text top="1010" left="453" width="42" height="13" font="2">0.9493</text>
+<text top="1009" left="522" width="42" height="13" font="2">0.9886</text>
+<text top="1009" left="602" width="42" height="13" font="2">0.8486</text>
+<text top="1010" left="190" width="12" height="13" font="2">I7</text>
+<text top="1009" left="678" width="49" height="13" font="2">200.246</text>
+<text top="1009" left="746" width="42" height="13" font="2">93.470</text>
+<text top="1035" left="62" width="49" height="13" font="2">17.2280</text>
+<text top="1035" left="129" width="57" height="13" font="2">686.8300</text>
+<text top="1036" left="242" width="159" height="13" font="2">1t,2-dimethylcyclopentane</text>
+<text top="1036" left="453" width="42" height="13" font="2">0.3270</text>
+<text top="1035" left="522" width="42" height="13" font="2">0.3164</text>
+<text top="1035" left="602" width="42" height="13" font="2">0.2983</text>
+<text top="1036" left="190" width="17" height="13" font="2">N7</text>
+<text top="1035" left="678" width="49" height="13" font="2">197.366</text>
+<text top="1035" left="746" width="42" height="13" font="2">91.870</text>
+<text top="1060" left="62" width="49" height="13" font="2">17.3130</text>
+<text top="1060" left="129" width="57" height="13" font="2">688.0300</text>
+<text top="1062" left="242" width="137" height="13" font="2">2,2,4-trimethylpentane</text>
+<text top="1062" left="453" width="42" height="13" font="2">0.0481</text>
+<text top="1060" left="522" width="42" height="13" font="2">0.0505</text>
+<text top="1060" left="602" width="42" height="13" font="2">0.0377</text>
+<text top="1062" left="190" width="12" height="13" font="2">I8</text>
+<text top="1060" left="678" width="49" height="13" font="2">210.632</text>
+<text top="1060" left="746" width="42" height="13" font="2">99.240</text>
+<text top="1086" left="62" width="49" height="13" font="2">17.3568</text>
+<text top="1086" left="129" width="57" height="13" font="2">688.6400</text>
+<text top="1087" left="242" width="60" height="13" font="2">heptene-1</text>
+<text top="1087" left="453" width="42" height="13" font="2">0.0310</text>
+<text top="1086" left="522" width="42" height="13" font="2">0.0323</text>
+<text top="1086" left="602" width="42" height="13" font="2">0.0283</text>
+<text top="1087" left="190" width="18" height="13" font="2">O7</text>
+<text top="1086" left="678" width="49" height="13" font="2">200.552</text>
+<text top="1086" left="746" width="42" height="13" font="2">93.640</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="104" left="61" width="516" height="11" font="10">RawFile: C:\Chem32\2\DATA\090220A\081920B 2020-09-02 03-23-19\103F0301.D\103F0301.CDF</text>
+<text top="122" left="61" width="108" height="11" font="10">Sample: 090220-002</text>
+<text top="140" left="61" width="106" height="11" font="10">Processed 97 Peaks</text>
+<text top="176" left="61" width="59" height="11" font="10">Comments:</text>
+<text top="176" left="619" width="133" height="11" font="10">Normalized to 100.0000%</text>
+<text top="122" left="619" width="168" height="11" font="10">Analyzed: 9/2/2020 11:16:10 AM</text>
+<text top="104" left="619" width="159" height="11" font="10">Acquired: 02-Sep-20, 07:13:34</text>
+<text top="262" left="291" width="335" height="14" font="9"><b>Components Listed in Chromatographic Order</b></text>
+<text top="286" left="60" width="53" height="14" font="12">Minutes</text>
+<text top="286" left="129" width="37" height="14" font="12">Index</text>
+<text top="286" left="242" width="78" height="14" font="12">Component</text>
+<text top="286" left="450" width="53" height="14" font="12">Mass %</text>
+<text top="286" left="520" width="124" height="14" font="12">Volume % Mol %</text>
+<text top="158" left="62" width="352" height="11" font="10">Reference File: C:\Chem32\2\References\PONA VII_MASTER.DHA</text>
+<text top="234" left="64" width="26" height="11" font="11"><b>Hold</b></text>
+<text top="66" left="55" width="334" height="14" font="9"><b>Detailed Hydrocarbon Analysis Detail Report - </b></text>
+<text top="69" left="619" width="183" height="11" font="10">Report Date: 9/2/2020 11:16:10 AM</text>
+<text top="262" left="750" width="54" height="14" font="9"><b>Page: 7</b></text>
+<text top="286" left="189" width="42" height="14" font="12">Group</text>
+<text top="286" left="674" width="39" height="14" font="12">BP(F)</text>
+<text top="286" left="744" width="41" height="14" font="12">BP(C)</text>
+<text top="286" left="802" width="31" height="14" font="12">CAS</text>
+<text top="308" left="62" width="49" height="13" font="2">17.7443</text>
+<text top="308" left="129" width="57" height="13" font="2">693.9900</text>
+<text top="309" left="242" width="125" height="13" font="2">3-methyl-c-hexene-3</text>
+<text top="309" left="453" width="42" height="13" font="2">0.0235</text>
+<text top="308" left="522" width="42" height="13" font="2">0.0238</text>
+<text top="308" left="602" width="42" height="13" font="2">0.0214</text>
+<text top="309" left="190" width="18" height="13" font="2">O7</text>
+<text top="308" left="678" width="49" height="13" font="2">203.720</text>
+<text top="308" left="746" width="42" height="13" font="2">95.400</text>
+<text top="334" left="62" width="49" height="13" font="2">18.0348</text>
+<text top="334" left="129" width="57" height="13" font="2">697.9000</text>
+<text top="335" left="242" width="69" height="13" font="2">t-heptene-3</text>
+<text top="335" left="453" width="42" height="13" font="2">0.0242</text>
+<text top="334" left="522" width="42" height="13" font="2">0.0250</text>
+<text top="334" left="602" width="42" height="13" font="2">0.0221</text>
+<text top="335" left="190" width="18" height="13" font="2">O7</text>
+<text top="334" left="678" width="49" height="13" font="2">204.206</text>
+<text top="334" left="746" width="42" height="13" font="2">95.670</text>
+<text top="360" left="62" width="49" height="13" font="2">18.1926</text>
+<text top="360" left="129" width="57" height="13" font="2">700.0000</text>
+<text top="361" left="242" width="61" height="13" font="2">n-heptane</text>
+<text top="361" left="453" width="42" height="13" font="2">3.2592</text>
+<text top="360" left="522" width="42" height="13" font="2">3.4654</text>
+<text top="360" left="602" width="42" height="13" font="2">2.9133</text>
+<text top="361" left="190" width="17" height="13" font="2">P7</text>
+<text top="360" left="678" width="49" height="13" font="2">209.156</text>
+<text top="360" left="746" width="42" height="13" font="2">98.420</text>
+<text top="386" left="62" width="49" height="13" font="2">18.2931</text>
+<text top="386" left="129" width="57" height="13" font="2">701.2300</text>
+<text top="387" left="242" width="72" height="13" font="2">c-heptene-3</text>
+<text top="387" left="453" width="42" height="13" font="2">0.0615</text>
+<text top="386" left="522" width="42" height="13" font="2">0.0636</text>
+<text top="386" left="602" width="42" height="13" font="2">0.0561</text>
+<text top="387" left="190" width="18" height="13" font="2">O7</text>
+<text top="386" left="678" width="49" height="13" font="2">204.350</text>
+<text top="386" left="746" width="42" height="13" font="2">95.750</text>
+<text top="412" left="62" width="49" height="13" font="2">18.3751</text>
+<text top="412" left="129" width="57" height="13" font="2">702.2200</text>
+<text top="413" left="242" width="125" height="13" font="2">3-methyl-c-hexene-2</text>
+<text top="413" left="453" width="42" height="13" font="2">0.0303</text>
+<text top="412" left="522" width="42" height="13" font="2">0.0309</text>
+<text top="412" left="602" width="42" height="13" font="2">0.0276</text>
+<text top="413" left="190" width="18" height="13" font="2">O7</text>
+<text top="412" left="678" width="49" height="13" font="2">203.738</text>
+<text top="412" left="746" width="42" height="13" font="2">95.410</text>
+<text top="438" left="62" width="49" height="13" font="2">18.5054</text>
+<text top="438" left="129" width="57" height="13" font="2">703.8000</text>
+<text top="439" left="242" width="69" height="13" font="2">t-heptene-2</text>
+<text top="439" left="453" width="42" height="13" font="2">0.0156</text>
+<text top="438" left="522" width="42" height="13" font="2">0.0161</text>
+<text top="438" left="602" width="42" height="13" font="2">0.0143</text>
+<text top="439" left="190" width="18" height="13" font="2">O7</text>
+<text top="438" left="678" width="49" height="13" font="2">208.310</text>
+<text top="438" left="746" width="42" height="13" font="2">97.950</text>
+<text top="464" left="62" width="49" height="13" font="2">18.6317</text>
+<text top="464" left="129" width="57" height="13" font="2">705.3100</text>
+<text top="465" left="242" width="101" height="13" font="2">3-ethylpentene-2</text>
+<text top="465" left="453" width="42" height="13" font="2">0.0155</text>
+<text top="464" left="522" width="42" height="13" font="2">0.0155</text>
+<text top="464" left="602" width="42" height="13" font="2">0.0141</text>
+<text top="465" left="190" width="18" height="13" font="2">O7</text>
+<text top="464" left="678" width="49" height="13" font="2">204.818</text>
+<text top="464" left="746" width="42" height="13" font="2">96.010</text>
+<text top="490" left="62" width="49" height="13" font="2">18.8678</text>
+<text top="490" left="129" width="57" height="13" font="2">708.1100</text>
+<text top="491" left="242" width="122" height="13" font="2">3-methyl-t-hexene-2</text>
+<text top="491" left="453" width="42" height="13" font="2">0.0271</text>
+<text top="490" left="522" width="42" height="13" font="2">0.0275</text>
+<text top="490" left="602" width="42" height="13" font="2">0.0248</text>
+<text top="491" left="190" width="18" height="13" font="2">O7</text>
+<text top="490" left="678" width="49" height="13" font="2">203.324</text>
+<text top="490" left="746" width="42" height="13" font="2">95.180</text>
+<text top="516" left="62" width="49" height="13" font="2">19.1850</text>
+<text top="516" left="129" width="57" height="13" font="2">711.7900</text>
+<text top="517" left="242" width="72" height="13" font="2">c-heptene-2</text>
+<text top="517" left="453" width="42" height="13" font="2">0.0177</text>
+<text top="516" left="522" width="42" height="13" font="2">0.0181</text>
+<text top="516" left="602" width="42" height="13" font="2">0.0162</text>
+<text top="517" left="190" width="18" height="13" font="2">O7</text>
+<text top="516" left="678" width="49" height="13" font="2">209.138</text>
+<text top="516" left="746" width="42" height="13" font="2">98.410</text>
+<text top="542" left="62" width="49" height="13" font="2">19.4983</text>
+<text top="542" left="129" width="57" height="13" font="2">715.3600</text>
+<text top="543" left="242" width="38" height="13" font="2">O7-[2]</text>
+<text top="543" left="453" width="42" height="13" font="2">0.0006</text>
+<text top="542" left="522" width="42" height="13" font="2">0.0006</text>
+<text top="542" left="602" width="42" height="13" font="2">0.0005</text>
+<text top="543" left="190" width="18" height="13" font="2">O7</text>
+<text top="542" left="678" width="49" height="13" font="2">209.138</text>
+<text top="542" left="746" width="42" height="13" font="2">98.410</text>
+<text top="568" left="62" width="49" height="13" font="2">19.6330</text>
+<text top="568" left="129" width="57" height="13" font="2">716.8700</text>
+<text top="569" left="242" width="54" height="13" font="2">unknown</text>
+<text top="569" left="453" width="42" height="13" font="2">0.0266</text>
+<text top="568" left="522" width="42" height="13" font="2">0.0276</text>
+<text top="568" left="602" width="42" height="13" font="2">0.0243</text>
+<text top="568" left="678" width="49" height="13" font="2">209.138</text>
+<text top="568" left="746" width="42" height="13" font="2">98.410</text>
+<text top="594" left="62" width="49" height="13" font="2">19.7017</text>
+<text top="594" left="129" width="57" height="13" font="2">717.6400</text>
+<text top="595" left="242" width="162" height="13" font="2">1c,2-dimethylcyclopentane</text>
+<text top="595" left="453" width="42" height="13" font="2">0.0603</text>
+<text top="594" left="522" width="42" height="13" font="2">0.0599</text>
+<text top="594" left="602" width="42" height="13" font="2">0.0550</text>
+<text top="595" left="190" width="17" height="13" font="2">N7</text>
+<text top="594" left="678" width="49" height="13" font="2">211.154</text>
+<text top="594" left="746" width="42" height="13" font="2">99.530</text>
+<text top="619" left="62" width="49" height="13" font="2">19.8963</text>
+<text top="619" left="129" width="57" height="13" font="2">719.7900</text>
+<text top="621" left="242" width="119" height="13" font="2">2,2-dimethylhexane</text>
+<text top="621" left="453" width="42" height="13" font="2">0.0686</text>
+<text top="619" left="522" width="42" height="13" font="2">0.0717</text>
+<text top="619" left="602" width="42" height="13" font="2">0.0538</text>
+<text top="621" left="190" width="12" height="13" font="2">I8</text>
+<text top="619" left="678" width="49" height="13" font="2">224.312</text>
+<text top="619" left="746" width="49" height="13" font="2">106.840</text>
+<text top="645" left="62" width="49" height="13" font="2">20.7344</text>
+<text top="645" left="129" width="57" height="13" font="2">728.7800</text>
+<text top="646" left="242" width="109" height="13" font="2">ethylcyclopentane</text>
+<text top="646" left="453" width="42" height="13" font="2">0.0243</text>
+<text top="645" left="522" width="42" height="13" font="2">0.0230</text>
+<text top="645" left="602" width="42" height="13" font="2">0.0221</text>
+<text top="646" left="190" width="17" height="13" font="2">N7</text>
+<text top="645" left="678" width="49" height="13" font="2">218.246</text>
+<text top="645" left="746" width="49" height="13" font="2">103.470</text>
+<text top="671" left="62" width="49" height="13" font="2">20.8100</text>
+<text top="671" left="129" width="57" height="13" font="2">729.5700</text>
+<text top="672" left="242" width="119" height="13" font="2">2,5-dimethylhexane</text>
+<text top="672" left="453" width="42" height="13" font="2">0.0668</text>
+<text top="671" left="522" width="42" height="13" font="2">0.0700</text>
+<text top="671" left="602" width="42" height="13" font="2">0.0524</text>
+<text top="672" left="190" width="12" height="13" font="2">I8</text>
+<text top="671" left="678" width="49" height="13" font="2">228.398</text>
+<text top="671" left="746" width="49" height="13" font="2">109.110</text>
+<text top="697" left="62" width="49" height="13" font="2">20.9911</text>
+<text top="697" left="129" width="57" height="13" font="2">731.4500</text>
+<text top="698" left="242" width="119" height="13" font="2">2,4-dimethylhexane</text>
+<text top="698" left="453" width="42" height="13" font="2">0.1056</text>
+<text top="697" left="522" width="42" height="13" font="2">0.1096</text>
+<text top="697" left="602" width="42" height="13" font="2">0.0828</text>
+<text top="698" left="190" width="12" height="13" font="2">I8</text>
+<text top="697" left="678" width="49" height="13" font="2">228.974</text>
+<text top="697" left="746" width="49" height="13" font="2">109.430</text>
+<text top="723" left="62" width="49" height="13" font="2">21.5382</text>
+<text top="723" left="129" width="57" height="13" font="2">737.0000</text>
+<text top="724" left="242" width="179" height="13" font="2">1c,2t,4-trimethylcyclopentane</text>
+<text top="724" left="453" width="42" height="13" font="2">0.0055</text>
+<text top="723" left="522" width="42" height="13" font="2">0.0052</text>
+<text top="723" left="602" width="42" height="13" font="2">0.0044</text>
+<text top="724" left="190" width="17" height="13" font="2">N8</text>
+<text top="723" left="678" width="49" height="13" font="2">242.132</text>
+<text top="723" left="746" width="49" height="13" font="2">116.740</text>
+<text top="749" left="62" width="49" height="13" font="2">21.6553</text>
+<text top="749" left="129" width="57" height="13" font="2">738.1700</text>
+<text top="750" left="242" width="119" height="13" font="2">3,3-dimethylhexane</text>
+<text top="750" left="453" width="42" height="13" font="2">0.0232</text>
+<text top="749" left="522" width="42" height="13" font="2">0.0238</text>
+<text top="749" left="602" width="42" height="13" font="2">0.0182</text>
+<text top="750" left="190" width="12" height="13" font="2">I8</text>
+<text top="749" left="678" width="49" height="13" font="2">233.546</text>
+<text top="749" left="746" width="49" height="13" font="2">111.970</text>
+<text top="775" left="62" width="49" height="13" font="2">22.2700</text>
+<text top="775" left="129" width="57" height="13" font="2">744.1700</text>
+<text top="776" left="242" width="179" height="13" font="2">1t,2c,3-trimethylcyclopentane</text>
+<text top="776" left="453" width="42" height="13" font="2">0.0019</text>
+<text top="775" left="522" width="42" height="13" font="2">0.0018</text>
+<text top="775" left="602" width="42" height="13" font="2">0.0015</text>
+<text top="776" left="190" width="17" height="13" font="2">N8</text>
+<text top="775" left="678" width="49" height="13" font="2">230.738</text>
+<text top="775" left="746" width="49" height="13" font="2">110.410</text>
+<text top="801" left="62" width="49" height="13" font="2">22.5446</text>
+<text top="801" left="129" width="57" height="13" font="2">746.7800</text>
+<text top="802" left="242" width="137" height="13" font="2">2,3,4-trimethylpentane</text>
+<text top="802" left="453" width="42" height="13" font="2">0.0032</text>
+<text top="801" left="522" width="42" height="13" font="2">0.0032</text>
+<text top="801" left="602" width="42" height="13" font="2">0.0025</text>
+<text top="802" left="190" width="12" height="13" font="2">I8</text>
+<text top="801" left="678" width="49" height="13" font="2">236.246</text>
+<text top="801" left="746" width="49" height="13" font="2">113.470</text>
+<text top="827" left="62" width="49" height="13" font="2">22.6661</text>
+<text top="827" left="129" width="57" height="13" font="2">747.9300</text>
+<text top="828" left="242" width="54" height="13" font="2">unknown</text>
+<text top="828" left="453" width="42" height="13" font="2">0.0021</text>
+<text top="827" left="522" width="42" height="13" font="2">0.0021</text>
+<text top="827" left="602" width="42" height="13" font="2">0.0016</text>
+<text top="827" left="678" width="49" height="13" font="2">236.246</text>
+<text top="827" left="746" width="49" height="13" font="2">113.470</text>
+<text top="853" left="62" width="49" height="13" font="2">23.2053</text>
+<text top="853" left="129" width="57" height="13" font="2">752.9200</text>
+<text top="854" left="242" width="45" height="13" font="2">toluene</text>
+<text top="854" left="453" width="42" height="13" font="2">3.5512</text>
+<text top="853" left="522" width="42" height="13" font="2">2.9776</text>
+<text top="853" left="602" width="42" height="13" font="2">3.4520</text>
+<text top="854" left="190" width="17" height="13" font="2">A7</text>
+<text top="853" left="678" width="49" height="13" font="2">231.134</text>
+<text top="853" left="746" width="49" height="13" font="2">110.630</text>
+<text top="879" left="62" width="49" height="13" font="2">23.7590</text>
+<text top="879" left="129" width="57" height="13" font="2">757.9100</text>
+<text top="880" left="242" width="119" height="13" font="2">2,3-dimethylhexane</text>
+<text top="880" left="453" width="42" height="13" font="2">0.0179</text>
+<text top="879" left="522" width="42" height="13" font="2">0.0183</text>
+<text top="879" left="602" width="42" height="13" font="2">0.0140</text>
+<text top="880" left="190" width="12" height="13" font="2">I8</text>
+<text top="879" left="678" width="49" height="13" font="2">240.098</text>
+<text top="879" left="746" width="49" height="13" font="2">115.610</text>
+<text top="905" left="62" width="49" height="13" font="2">23.8977</text>
+<text top="905" left="129" width="57" height="13" font="2">759.1400</text>
+<text top="906" left="242" width="147" height="13" font="2">2-methyl-3-ethylpentane</text>
+<text top="906" left="453" width="42" height="13" font="2">0.0029</text>
+<text top="905" left="522" width="42" height="13" font="2">0.0029</text>
+<text top="905" left="602" width="42" height="13" font="2">0.0023</text>
+<text top="906" left="190" width="12" height="13" font="2">I8</text>
+<text top="905" left="678" width="49" height="13" font="2">240.098</text>
+<text top="905" left="746" width="49" height="13" font="2">115.610</text>
+<text top="931" left="62" width="49" height="13" font="2">24.4683</text>
+<text top="931" left="129" width="57" height="13" font="2">764.1100</text>
+<text top="932" left="242" width="102" height="13" font="2">2-methylheptane</text>
+<text top="932" left="453" width="42" height="13" font="2">0.0359</text>
+<text top="931" left="522" width="42" height="13" font="2">0.0374</text>
+<text top="931" left="602" width="42" height="13" font="2">0.0282</text>
+<text top="932" left="190" width="12" height="13" font="2">I8</text>
+<text top="931" left="678" width="49" height="13" font="2">243.770</text>
+<text top="931" left="746" width="49" height="13" font="2">117.650</text>
+<text top="957" left="62" width="49" height="13" font="2">24.6439</text>
+<text top="957" left="129" width="57" height="13" font="2">765.6100</text>
+<text top="958" left="242" width="102" height="13" font="2">4-methylheptane</text>
+<text top="958" left="453" width="42" height="13" font="2">0.0173</text>
+<text top="957" left="522" width="42" height="13" font="2">0.0179</text>
+<text top="957" left="602" width="42" height="13" font="2">0.0136</text>
+<text top="958" left="190" width="12" height="13" font="2">I8</text>
+<text top="957" left="678" width="49" height="13" font="2">243.878</text>
+<text top="957" left="746" width="49" height="13" font="2">117.710</text>
+<text top="983" left="62" width="49" height="13" font="2">24.8425</text>
+<text top="983" left="129" width="57" height="13" font="2">767.2900</text>
+<text top="984" left="242" width="119" height="13" font="2">3,4-dimethylhexane</text>
+<text top="984" left="453" width="42" height="13" font="2">0.0073</text>
+<text top="983" left="522" width="42" height="13" font="2">0.0074</text>
+<text top="983" left="602" width="42" height="13" font="2">0.0058</text>
+<text top="984" left="190" width="12" height="13" font="2">I8</text>
+<text top="983" left="678" width="49" height="13" font="2">243.914</text>
+<text top="983" left="746" width="49" height="13" font="2">117.730</text>
+<text top="1009" left="62" width="49" height="13" font="2">25.3779</text>
+<text top="1009" left="129" width="57" height="13" font="2">771.7500</text>
+<text top="1010" left="242" width="102" height="13" font="2">3-methylheptane</text>
+<text top="1010" left="453" width="42" height="13" font="2">0.0326</text>
+<text top="1009" left="522" width="42" height="13" font="2">0.0336</text>
+<text top="1009" left="602" width="42" height="13" font="2">0.0256</text>
+<text top="1010" left="190" width="12" height="13" font="2">I8</text>
+<text top="1009" left="678" width="49" height="13" font="2">246.074</text>
+<text top="1009" left="746" width="49" height="13" font="2">118.930</text>
+<text top="1035" left="62" width="49" height="13" font="2">25.5149</text>
+<text top="1035" left="129" width="57" height="13" font="2">772.8700</text>
+<text top="1036" left="242" width="179" height="13" font="2">1c,2t,3-trimethylcyclopentane</text>
+<text top="1036" left="453" width="42" height="13" font="2">0.0080</text>
+<text top="1035" left="522" width="42" height="13" font="2">0.0075</text>
+<text top="1035" left="602" width="42" height="13" font="2">0.0064</text>
+<text top="1036" left="190" width="17" height="13" font="2">N8</text>
+<text top="1035" left="678" width="49" height="13" font="2">243.500</text>
+<text top="1035" left="746" width="49" height="13" font="2">117.500</text>
+<text top="1060" left="62" width="49" height="13" font="2">29.0987</text>
+<text top="1060" left="129" width="57" height="13" font="2">800.0000</text>
+<text top="1062" left="242" width="53" height="13" font="2">n-octane</text>
+<text top="1062" left="453" width="42" height="13" font="2">0.0062</text>
+<text top="1060" left="522" width="42" height="13" font="2">0.0064</text>
+<text top="1060" left="602" width="42" height="13" font="2">0.0049</text>
+<text top="1062" left="190" width="17" height="13" font="2">P8</text>
+<text top="1060" left="678" width="49" height="13" font="2">258.224</text>
+<text top="1060" left="746" width="49" height="13" font="2">125.680</text>
+<text top="1086" left="62" width="49" height="13" font="2">37.9258</text>
+<text top="1086" left="129" width="57" height="13" font="2">847.7000</text>
+<text top="1087" left="242" width="80" height="13" font="2">ethylbenzene</text>
+<text top="1087" left="453" width="42" height="13" font="2">0.0048</text>
+<text top="1086" left="522" width="42" height="13" font="2">0.0040</text>
+<text top="1086" left="602" width="42" height="13" font="2">0.0041</text>
+<text top="1087" left="190" width="17" height="13" font="2">A8</text>
+<text top="1086" left="678" width="49" height="13" font="2">277.160</text>
+<text top="1086" left="746" width="49" height="13" font="2">136.200</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="104" left="61" width="516" height="11" font="10">RawFile: C:\Chem32\2\DATA\090220A\081920B 2020-09-02 03-23-19\103F0301.D\103F0301.CDF</text>
+<text top="122" left="61" width="108" height="11" font="10">Sample: 090220-002</text>
+<text top="140" left="61" width="106" height="11" font="10">Processed 97 Peaks</text>
+<text top="176" left="61" width="59" height="11" font="10">Comments:</text>
+<text top="176" left="619" width="133" height="11" font="10">Normalized to 100.0000%</text>
+<text top="122" left="619" width="168" height="11" font="10">Analyzed: 9/2/2020 11:16:10 AM</text>
+<text top="104" left="619" width="159" height="11" font="10">Acquired: 02-Sep-20, 07:13:34</text>
+<text top="262" left="291" width="335" height="14" font="9"><b>Components Listed in Chromatographic Order</b></text>
+<text top="286" left="60" width="53" height="14" font="12">Minutes</text>
+<text top="286" left="129" width="37" height="14" font="12">Index</text>
+<text top="286" left="242" width="78" height="14" font="12">Component</text>
+<text top="286" left="450" width="53" height="14" font="12">Mass %</text>
+<text top="286" left="520" width="124" height="14" font="12">Volume % Mol %</text>
+<text top="158" left="62" width="352" height="11" font="10">Reference File: C:\Chem32\2\References\PONA VII_MASTER.DHA</text>
+<text top="234" left="64" width="26" height="11" font="11"><b>Hold</b></text>
+<text top="66" left="55" width="334" height="14" font="9"><b>Detailed Hydrocarbon Analysis Detail Report - </b></text>
+<text top="69" left="619" width="183" height="11" font="10">Report Date: 9/2/2020 11:16:10 AM</text>
+<text top="262" left="750" width="54" height="14" font="9"><b>Page: 8</b></text>
+<text top="286" left="189" width="42" height="14" font="12">Group</text>
+<text top="286" left="674" width="39" height="14" font="12">BP(F)</text>
+<text top="286" left="744" width="41" height="14" font="12">BP(C)</text>
+<text top="286" left="802" width="31" height="14" font="12">CAS</text>
+<text top="308" left="62" width="49" height="13" font="2">39.8823</text>
+<text top="308" left="129" width="57" height="13" font="2">856.5900</text>
+<text top="309" left="242" width="126" height="13" font="2">1,3-dimethylbenzene</text>
+<text top="309" left="453" width="42" height="13" font="2">0.0075</text>
+<text top="308" left="522" width="42" height="13" font="2">0.0063</text>
+<text top="308" left="602" width="42" height="13" font="2">0.0063</text>
+<text top="309" left="190" width="17" height="13" font="2">A8</text>
+<text top="308" left="678" width="49" height="13" font="2">282.416</text>
+<text top="308" left="746" width="49" height="13" font="2">139.120</text>
+<text top="334" left="62" width="49" height="13" font="2">40.1325</text>
+<text top="334" left="129" width="57" height="13" font="2">857.6900</text>
+<text top="335" left="242" width="126" height="13" font="2">1,4-dimethylbenzene</text>
+<text top="335" left="453" width="42" height="13" font="2">0.0035</text>
+<text top="334" left="522" width="42" height="13" font="2">0.0030</text>
+<text top="334" left="602" width="42" height="13" font="2">0.0030</text>
+<text top="335" left="190" width="17" height="13" font="2">A8</text>
+<text top="334" left="678" width="49" height="13" font="2">281.048</text>
+<text top="334" left="746" width="49" height="13" font="2">138.360</text>
+<text top="360" left="62" width="49" height="13" font="2">58.2158</text>
+<text top="360" left="129" width="57" height="13" font="2">953.3400</text>
+<text top="361" left="242" width="144" height="13" font="2">1,3-methylethylbenzene</text>
+<text top="361" left="453" width="42" height="13" font="2">0.0009</text>
+<text top="360" left="522" width="42" height="13" font="2">0.0007</text>
+<text top="360" left="602" width="42" height="13" font="2">0.0006</text>
+<text top="361" left="190" width="17" height="13" font="2">A9</text>
+<text top="360" left="678" width="49" height="13" font="2">322.394</text>
+<text top="360" left="746" width="49" height="13" font="2">161.330</text>
+<text top="386" left="62" width="49" height="13" font="2">62.4054</text>
+<text top="386" left="129" width="57" height="13" font="2">981.8400</text>
+<text top="387" left="242" width="139" height="13" font="2">1,2,4-trimethylbenzene</text>
+<text top="387" left="453" width="42" height="13" font="2">0.0013</text>
+<text top="386" left="522" width="42" height="13" font="2">0.0011</text>
+<text top="386" left="602" width="42" height="13" font="2">0.0010</text>
+<text top="387" left="190" width="17" height="13" font="2">A9</text>
+<text top="386" left="678" width="49" height="13" font="2">336.884</text>
+<text top="386" left="746" width="49" height="13" font="2">169.380</text>
+</page>
+</pdf2xml>

@@ -1,0 +1,56 @@
+CLEANED !!!
+                             COASTAL GULF &
+                           INTERNATIONAL, INC.                                      VESSEL EXPERIENCE FACTOR SEQUENTIAL
+                                            "Precision"
+                                      Inspection & Analytical
+                                              Services
+                               P.O. Box 429 Kenner, LA. 70063-429
+                              Phone (985)785-0765 Fax (985)785-1328                                                                                                                  Assuring accuracy through expertise!
+Vessel:          Chem 3248                                                                                                                   Date:      August 10, 2021
+
+Type of Movement:            Discharge
+                                                                                                      Enter all units as Barrels                                            Step 2
+                                                                                                                                                                  Step 1     Qual      Qualifying Voyages
+                                                                                      Vessel                           Vessel
+                                                                                                                                                                  Gross      Voy
+              Voyage       Cargo                 Terminal or                          Arrival           Vessel        Discharge          B/L                      Error > (+0.30%)    Vessel               Shore
+ Cargo        Number     Description                Port                  Date         TCV              ROB             TCV              TCV           Ratio       2%?      Y/N ?     TCV                  TCV
+      Last              Benzene           St. Gabriel (United States)   18-Apr-21        25,282.06               0       25,282.06         25,155.28    1.00504             YES           25,282.06           25,155.28
+
+       2nd              Benzene           St. Gabriel (United States)   17-Oct-20        24,670.42               0       24,670.42         24,492.71    1.00726             YES           24,670.42           24,492.71
+
+       3rd              Benzene           St. Gabriel (United States)   7-Oct-20         24,036.14               0       24,036.14         23,902.58    1.00559             YES           24,036.14           23,902.58
+
+       4th              Benzene           Carville (United States)      19-Sep-20        23,986.25               0       23,986.25         23,873.94     1.0047             YES           23,986.25           23,873.94
+
+       5th              Benzene           St. Gabriel (United States)   5-Sep-20         24,087.55               0       24,087.55         23,961.74    1.00525             YES           24,087.55           23,961.74
+
+       6th              Benzene           St. Gabriel (United States)   23-Aug-20        24,354.64               0       24,354.64         24,268.20    1.00356             YES           24,354.64           24,268.20
+
+       7th              Benzene           St. Gabriel (United States)   13-Aug-20        24,212.69               0       24,212.69         24,062.03    1.00626             YES           24,212.69           24,062.03
+
+       8th              Benzene           Carville (United States)      1-Aug-20         24,261.54               0       24,261.54         24,064.71    1.00818             YES           24,261.54           24,064.71
+
+       9th              Benzene           St. Gabriel (United States)   22-Jul-20        25,279.08               0       25,279.08         25,129.36    1.00596             YES           25,279.08           25,129.36
+
+      10th              Benzene           Carville (United States)       5-Jul-20        24,251.41               0       24,251.41         24,145.36    1.00439             YES           24,251.41           24,145.36
+
+      11th              Benzene           Carville (United States)      27-Jun-20        24,170.38               0       24,170.38         24,029.72    1.00585             YES           24,170.38           24,029.72
+
+      12th              Benzene           Sunshine (United States)      15-Jun-20        24,255.24               0       24,255.24         24,090.46    1.00684             YES           24,255.24           24,090.46
+
+      13th              Benzene           Carville (United States)      27-May-20        24,165.49               0       24,165.49         24,091.36    1.00308             YES           24,165.49           24,091.36
+
+      14th              Benzene           St. Gabriel (United States)   15-May-20        26,142.77               0       26,142.77         26,131.65    1.00043             NO
+
+      15th              Benzene           Carville (United States)      1-May-20         24,695.47               0       24,695.47         24,564.63    1.00533             YES           24,695.47           24,564.63
+
+      16th              Benzene           St. Gabriel (United States)   21-Jan-20        25,223.48               0       25,223.48         25,046.15    1.00708             YES           25,223.48           25,046.15
+
+      17th              Benzene           Carville (United States)      9-Jan-20         25,125.64               0       25,125.64         25,024.22    1.00405             YES           25,125.64           25,024.22
+
+      18th              Benzene           Carville (United States)      21-Dec-19        25,224.27               0       25,224.27         25,103.31    1.00482             YES           25,224.27           25,103.31
+
+      19th              Benzene           St. Gabriel (United States)   5-Dec-19         25,169.13               0       25,169.13         25,068.12    1.00403             YES           25,169.13           25,068.12
+
+      20th              Benzene           Carville (United States)      14-Nov-19        25,205.53               0       25,205.53         25,003.80    1.00807             YES           25,205.53           25,003.80

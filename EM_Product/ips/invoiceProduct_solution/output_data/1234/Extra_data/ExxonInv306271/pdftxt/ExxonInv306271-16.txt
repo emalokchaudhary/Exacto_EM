@@ -1,0 +1,49 @@
+                                   COASTAL GULF &
+                                 INTERNATIONAL, INC.
+                                                 "Precision"
+                                           Inspection & Analytical
+                                                   Services
+                                    105 Rustic Drive, Pasadena, TX 77503
+                                   Phone (713)740-9800 Fax (713)740-9292                                     Assuring accuracy through expertise!
+
+Vessel:                 CBC 55                                                        Date:                   April 4, 2021
+Product:                EHC 65 & EHC 45                                               Terminal:               ITC
+Subject:                Report of Loading                                             Port:                   Deer Park, Texas
+ExxonMobil Ref. #: 5343656 / 5343657 / 4800908520                                     File Number:            102471
+                                     SHORE LINE VERIFICATION REPORT
+
+           Comparison made for Line Displacement at:                           Loading
+
+                                               SHORE TANK NO.:                                 80-29
+
+                                                  Innage Gauge                                              Gross Barrels
+                  OPEN:                             07' 04 7/8"                                              12002.31
+                  CLOSE:                              06' 09"                                                10892.99
+                GROSS BARRELS:                    Delivered/Received                                          1,109.32
+
+                                                     BARGE:                           CBC 55
+                Prior to Displacement:                                                        On Completion of Displacement:
+ Tank #            Ullage           Gross Barrels                                      Tank #        Ullage           Gross Barrels
+  3C                MT                  0.00                                            3C         04' 07 1/2"          1,111.55
+
+
+
+
+      Total Gross Barrels:                        0.00                                        Total Gross Barrels:                     1,111.55
+
+                                                     Gross Barrels:                           1,111.55
+                                 Less Line Capacity (if applicable):
+                                 Gross Barrels Received/Delivered:                            1,111.55
+              Vessel to Shore Difference:                         -2.23                 Gross Barrels or                -0.20%
+
+                        Shore Line                                         Capacity                          Tolerance*
+
+
+
+
+            * All Line Capacity Tolerances are set forth by terminal represenative.
+
+Coastal Gulf & International, Inc.
+Astin Hamilton
+Houston Communication Center                                                                                                         Version 7.0 01-8-13 NLE
+

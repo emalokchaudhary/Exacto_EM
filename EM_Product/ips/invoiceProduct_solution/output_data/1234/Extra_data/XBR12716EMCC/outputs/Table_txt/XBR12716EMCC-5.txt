@@ -1,0 +1,33 @@
+Product:                Aromatic Concentrate                         Terminal:          ExxonMobil
+Subject:                Report of Discharge                          Port:              Baton Rouge, Louisiana
+EMCC Ref. #: 5054187-20                                              File Number:       XBR12716
+
+
+                                        REPORT OF METER QUANTITY
+
+                                                           Meter No.:               #1 Import Dock Line
+
+               Opening Meter Reading                                                        Closing Meter Reading
+                       0.00                                                                       25,967.00
+
+
+                                                   Indicated Volume                                  25,967.00
+                                                 * Meter Factor                                       1.0009
+                                                   Gross Observed Volume                             25,967.00
+                                                   Volume Correction Factor                           1.0000
+                                                   Gross Standard Volume                             25,967.00
+                                                   C.P.L. Factor                                      1.0000
+                                                   Net Standard Volume (Bbls)                        25,967.00
+                                                   Line Temperature                                     81.0
+
+
+                                                       TOTAL NET BARRELS
+
+                                     Net Barrels @ 60  F                                 25,967.00
+                                     Net Gallons @ 60  F                              1,090,614.00
+                                     Pounds                                           6,772,713.00
+                                     Metric Tons                                         3,072.055
+                                     Short Tons                                          3,386.357
+                                     Long Tons                                           3,023.533
+                                     Pounds per Gallon                                        6.21
+                                     API Gravity @ 60 F                                      58.20

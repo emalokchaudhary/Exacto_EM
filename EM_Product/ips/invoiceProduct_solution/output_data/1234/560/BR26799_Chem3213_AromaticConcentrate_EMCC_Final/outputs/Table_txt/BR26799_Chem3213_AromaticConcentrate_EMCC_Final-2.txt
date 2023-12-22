@@ -1,0 +1,13 @@
+CLEANED !!!
+Detailed Hydrocarbon Analysis Summary Report -                                                            Report Date: 9/2/2020 11:16:10 AM
+
+RawFile: C:\Chem32\2\DATA\090220A\081920B 2020-09-02 03-23-19\103F0301.D\103F0301.CDF                     Acquired: 02-Sep-20, 07:13:34
+Sample: 090220-002                                                                                        Analyzed: 9/2/2020 11:16:10 AM
+Processed 97 Peaks
+Reference File: C:\Chem32\2\References\PONA VII_MASTER.DHA
+                                                                                                          Normalized to 100.0000%
+Location: DEFAULT
+
+
+
+

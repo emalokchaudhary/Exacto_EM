@@ -1,0 +1,275 @@
+TRIP: INTB009FIN-2011-0222                                                                   20E547116 VER 3 (ISSUED)
+
+Parcel Summary
+Transport       Location      Activity    Grade   Quantity   ETA    Supply Contract Window    Inspector   Inspection Requirements
+ BOHEMIA II     PERNIS-       Load        FAME    1,090      16     n/a                       AmSpec      Quality / Quantity / Time
+ (VS00031349)   KOOLE                             Metric     Nov                              LLC         log
+                TANKSTRG                          tonnes     2020
+                MNRLS BV,
+                NL (Nether-
+                lands)
+ BOHEMIA II     KARLSRUHE     Discharge   FAME    1,090      20     n/a                       Saybolt     Quantity / Time log
+ (VS00031349)   MIRO RE-                          Metric     Nov
+                FINERY,                           tonnes     2020
+                GERMANY
+                (Germany)
+
+
+
+
+                                                       Page 1 of 6
+TRIP: INTB009FIN-2011-0222                                                                 20E547116 VER 3 (ISSUED)
+
+ Region: EAME                                           Other Reference:
+Operator: AMIT SATHE (amit.sathe@exxonmobil.com)         Business Group: 4733 - EMAPEU ExxonMobil Asia Pacific Pte. Ltd.
+  Phone:                                                           Desk:
+ Mobile:                                                Nomination Type: Marine
+
+Revision Comment: Barge changed to BOHEMIA II
+
+
+Documentary Instructions: n/a
+
+
+ LOAD: BOHEMIA II (VS00031349) - PERNIS-KOOLE TANKSTRG MNRLS BV, NL (NETHERLANDS)
+                                       Inspector: AmSpec LLC                           Inspection Status: Accepted
+                                             Hub: AmSpec Group - Head Office                 Created On: 17 Nov 2020 by Amit
+                                                                                                          Sathe
+                                    Coordinator: James Seeley                              Last Modified: 17 Nov 2020 by Cora
+                                                  (James.Seeley@AmspecGroup.com)                          Ligt
+                                    Local Office:
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number:
+                                           Grade: FAME                                  Contract Number:
+                                             ETA: 16 Nov 2020                                 Parcel Ref:
+                                             ETD:                                            Destination:
+                  Supply Contract Window Start: n/a                                     Source Location:
+                   Supply Contract Window End: n/a                                              Supplier:
+                      Total Nominated Quantity: 1,090 Metric tonnes                             Receiver:
+Transport / Voyage Number / Quantity / Tolerance: BOHEMIA II (VS00031349) / 1,090 Met-   Delivery Terms: FOB (Free On
+                                                  ric tonnes                                              Board)
+                                                                                          Mother Vessel:
+
+Load / Discharge Instructions:
+
+
+spec: pls analyse accroding to attached specs
+===========================================================================
+Test                              | Method       | Unit     | MIN   | MAX
+---------------------------------------------------------------------------
+Density at 15 °C                    ISO 12185      kg/m³      860.0   900.0
+Water Karl Fischer                  EN ISO 12937   mg/kg              300
+Sulphur (S)                         EN ISO 20846   mg/kg              10.0
+Acid Number                         EN 14104       mg KOH/g           0.50
+Iodine value                        EN 14111       gI2/100g           120
+Group I metals                      EN 14538
+  Sodium (Na)                                      mg/kg
+  Potassium (K)                                    mg/kg
+  Group I metals (Na+K)                            mg/kg              5.0
+Group II metals                     EN 14538
+  Calcium (Ca)                                     mg/kg
+  Magnesium (Mg)                                   mg/kg
+  Group II metals (Ca+Mg)                          mg/kg              5.0
+Phosphorus content                  EN 14107       mg/kg              4.0
+Cold Filter Plugging Point          EN 116         °C                 -10
+Pour point                          ISO 3016       °C         -18     -9
+Cloud point                         EN 23015       °C                 -3
+Glyceride content                   EN 14105
+  Free glycerol                                    mass %             0.02
+  Mono-glyceride                                   mass %             0.70
+  Di-glyceride                                     mass %             0.20
+  Tri-glyceride                                    mass %             0.20
+
+                                                        Page 2 of 6
+TRIP: INTB009FIN-2011-0222                                                                      20E547116 VER 3 (ISSUED)
+
+    Total glycerol                                                               mass %                      0.25
+
+Parcel Comments:
+Pleae use winter specs FAME PDF attached
+
+Quality Inspection Instructions:
+SET 1
+            Description:
+       Sample Location: Shore Individual Tank Composites
+Quality Test Comments:
+***Inspector confirms to handle the attached quality spec as the master document for this inspection
+nomination, the Navarik slate is for reporting purposes only.***
+
+
+
+
+                                                                                                  RO = Report Only          Req. = Required
+ Test                     Methods                                          Min   Max   UOM      Typical   R.O.       Req.     Comment
+ Additional Tests
+ Density                  [ISO] ISO 12185                                              g/cm³              No         Yes
+ Water & Sediment         [ISO] ISO 12937                                              %vol               No         Yes
+ (H2S)
+ Sulfur                   [ISO] ISO 20884, [ISO] ISO 20846                             mg/kg              No         Yes
+ Flash Point (PMCC)       [EN] EN 2719                                                 °C                 No         Yes
+ Kinematic Viscosity at   [ISO] ISO 3104                                               cSt                No         Yes
+ 40°C
+ Corrosion, Copper        [ISO] ISO 2160                                                                  No         Yes
+ Strip
+ Acid value               [EN] EN 14104                                                mg                 No         Yes
+                                                                                       KOH/g
+ Iodine Value             [EN] EN 14111                                                g/100g             No         Yes
+ Total Contamination,     [EN] EN 12662                                                mg/kg              No         Yes
+ Particulate Matter
+ Oxidation Stability      [EN] EN 14112                                                g/m³               No         Yes
+ Cetane Number            [ISO] ISO 5165                                                                  No         Yes
+ Carbon Residue (Mi-      [EN] EN ISO 10370                                            mass%              No         Yes
+ cro)
+ Sodium                   [OTHER] LQ 1031 - MiRO Quality Tests                         mg/kg              No         Yes
+ Potassium                [IP] IP 501                                                  mg/kg              No         Yes
+ Calcium + Magne-         [EN] EN 14538                                                mg/kg              No         Yes
+ sium
+ Phosphorus               [EN] EN 14107                                                g/US               No         Yes
+                                                                                       gal
+ Ash, Sulfated            [ISO] ISO 3987                                               %m/m               No         Yes
+ Cold Filter Plugging     [EN] EN 116                                                  °C                 No         Yes
+ Point(CFPP)
+ Cloud Point              [EN] EN 23015                                                °C                 No         Yes
+ Methanol Content         [EN] EN 14110                                                %vol               No         Yes
+ Phosphorus               [ASTM] ASTM D4951                                            g/US               No         No
+                                                                                       gal
+ Calcium + Magne-         [ASTM] ASTM D5708A                                           mg/kg              No         No
+ sium
+ Natrium + Kalium         [EN] EN 14109, [EN] EN 14538, [EN] EN 14108                  mg/kg              No         No
+
+
+
+                                                             Page 3 of 6
+TRIP: INTB009FIN-2011-0222                                                                        20E547116 VER 3 (ISSUED)
+
+                                                                                                        RO = Report Only          Req. = Required
+ Test                    Methods                                           Min     Max    UOM       Typical     R.O.       Req.     Comment
+ Sodium + Potassium      [EN] EN 14108, [EN] EN 14538, [OTHER] MM 1055,                   mg/kg                 No         No
+                         [EN] EN 14109, [ASTM] ASTM D7111
+ Free Glycerol           [EN] EN 14105                                                    %m/m                  No         Yes
+ Linolenic Acid Methyl   [EN] EN 14103                                                    %m/m                  No         Yes
+ Ester
+ Total Glycerol          [EN] EN 14105                                                    %m/m                  No         Yes
+
+Invoice Instructions:
+  Bill Invoice To                                                          Item to Bill                       Split    Contact / Comment
+ 4733 - EMAPEU ExxonMobil Asia Pacific Pte. Ltd. (Legal Entity: 4733       Other                              50%
+ EMAPEU ExxonMobil Asia Pacific Pte. Ltd. (4733))
+                                                                           Test: Density                      50%
+                                                                           Test: Water & Sediment             50%
+                                                                           (H2S)
+                                                                           Test: Sulfur                       50%
+                                                                           Test: Flash Point (PMCC)           50%
+                                                                           Test: Kinematic Viscosity at       50%
+                                                                           40°C
+                                                                           Test: Corrosion, Copper            50%
+                                                                           Strip
+                                                                           Test: Acid value                   50%
+                                                                           Test: Iodine Value                 50%
+                                                                           Test: Total Contamination,         50%
+                                                                           Particulate Matter
+                                                                           Test: Oxidation Stability          50%
+                                                                           Test: Cetane Number                50%
+                                                                           Test: Carbon Residue (Mi-          50%
+                                                                           cro)
+                                                                           Test: Sodium                       50%
+                                                                           Test: Potassium                    50%
+                                                                           Test: Calcium + Magnesium          50%
+                                                                           Test: Phosphorus                   50%
+                                                                           Test: Ash, Sulfated                50%
+                                                                           Test: Cold Filter Plugging         50%
+                                                                           Point(CFPP)
+                                                                           Test: Cloud Point                  50%
+                                                                           Test: Methanol Content             50%
+                                                                           Test: Phosphorus                   50%
+                                                                           Test: Calcium + Magnesium          50%
+                                                                           Test: Natrium + Kalium             50%
+                                                                           Test: Sodium + Potassium           50%
+                                                                           Test: Free Glycerol                50%
+                                                                           Test: Linolenic Acid Methyl        50%
+                                                                           Ester
+                                                                           Test: Total Glycerol               50%
+ BP OIL INTERNATIONAL LTD                                                  Other                              50%
+                                                                           Test: Density                      50%
+                                                                           Test: Water & Sediment             50%
+                                                                           (H2S)
+
+
+                                                             Page 4 of 6
+TRIP: INTB009FIN-2011-0222                                                                    20E547116 VER 3 (ISSUED)
+
+                                                                       Test: Sulfur                    50%
+                                                                       Test: Flash Point (PMCC)        50%
+                                                                       Test: Kinematic Viscosity at    50%
+                                                                       40°C
+                                                                       Test: Corrosion, Copper         50%
+                                                                       Strip
+                                                                       Test: Acid value                50%
+                                                                       Test: Iodine Value              50%
+                                                                       Test: Total Contamination,      50%
+                                                                       Particulate Matter
+                                                                       Test: Oxidation Stability       50%
+                                                                       Test: Cetane Number             50%
+                                                                       Test: Carbon Residue (Mi-       50%
+                                                                       cro)
+                                                                       Test: Sodium                    50%
+                                                                       Test: Potassium                 50%
+                                                                       Test: Calcium + Magnesium       50%
+                                                                       Test: Phosphorus                50%
+                                                                       Test: Ash, Sulfated             50%
+                                                                       Test: Cold Filter Plugging      50%
+                                                                       Point(CFPP)
+                                                                       Test: Cloud Point               50%
+                                                                       Test: Methanol Content          50%
+                                                                       Test: Phosphorus                50%
+                                                                       Test: Calcium + Magnesium       50%
+                                                                       Test: Natrium + Kalium          50%
+                                                                       Test: Sodium + Potassium        50%
+                                                                       Test: Free Glycerol             50%
+                                                                       Test: Linolenic Acid Methyl     50%
+                                                                       Ester
+                                                                       Test: Total Glycerol            50%
+
+ DISCHARGE: BOHEMIA II (VS00031349) - KARLSRUHE MIRO REFINERY, GERMANY (GERMANY)
+                                  Inspector: Saybolt                                Inspection Status:         Accepted
+                                        Hub: Europe/Africa/Russia/ME (International       Created On:          17 Nov 2020 by
+                                             Desk Rotterdam)                                                   Amit Sathe
+                                Coordinator: Cora Ligt (intdesk.saynl@corelab.com)      Last Modified:         17 Nov 2020 by
+                                                                                                               Cora Ligt
+                                    Local Office: Saybolt Germany Karlsruhe (Say-
+                                                  bolt.karlsruhe@corelab.com)
+                                     INSPECTION REQUIREMENTS: QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number:
+                                           Grade: FAME                                   Contract Number:
+                                             ETA: 20 Nov 2020                                  Parcel Ref:
+                                             ETD:                                             Destination:
+                  Supply Contract Window Start: n/a                                      Source Location:
+                   Supply Contract Window End: n/a                                               Supplier:
+                      Total Nominated Quantity: 1,090 Metric tonnes                              Receiver:
+Transport / Voyage Number / Quantity / Tolerance: BOHEMIA II (VS00031349) / 1,090 Metric  Delivery Terms: DAP (Delivered at
+                                                  tonnes                                                   Place)
+                                                                                           Mother Vessel:
+
+Invoice Instructions:
+  Bill Invoice To                                                                      Item to Bill   Split   Contact / Comment
+
+
+
+                                                       Page 5 of 6
+TRIP: INTB009FIN-2011-0222                                                                     20E547116 VER 3 (ISSUED)
+
+ 4733 - EMAPEU ExxonMobil Asia Pacific Pte. Ltd. (Legal Entity: 4733 EMAPEU ExxonMobil   Quantity   100%
+ Asia Pacific Pte. Ltd. (4733))                                                          only
+
+Recipient List:
+NavarikNoms@AmspecGroup.com; James.Seeley@AmspecGroup.com; intdesk.saynl@corelab.com; Saybolt.karlsruhe@corelab.com
+Dossinger@MIRO-KA.de, Fischer.Tho@MIRO-KA.DE, PVD@miro-ka.de, MTOBargingMiddle@exxonmobil.com,
+bart.waegeman@exxonmobil.com, EDG.Productsupplyoperations@exxonmobil.com, esup.inspection@exxonmobil.com,
+miro.optimiser@exxonmobil.com, esup.inspection@exxonmobil.com
+                                                                                                           REPORT GENERATED 17 NOV 2020
+
+
+
+
+                                                           Page 6 of 6
+

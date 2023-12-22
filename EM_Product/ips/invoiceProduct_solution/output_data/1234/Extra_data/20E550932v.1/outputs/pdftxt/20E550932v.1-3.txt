@@ -1,0 +1,68 @@
+CLEANED !!!
+TRIP: USEBARGCHE-2011-006                                                                          20E550932 VER 1 (ISSUED)
+
+SET 3
+            Description: Barge final composite
+       Sample Location: Vessel/Barge Composite
+Quality Test Comments:
+Take sample and submit to the lab for testing.
+
+
+
+                                                                                                          RO = Report Only          Req. = Required
+ Test                                    Methods            Min   Max      UOM          Typical      R.O.          Req.        Comment
+ Additional Tests
+ catch sample - no retention             [OTHER] n/a                                                 No            No
+
+Invoice Instructions:
+  Bill Invoice To                                                                  Item to Bill               Split      Contact / Comment
+ 0102 ExxonMobil Chemical Company - U.S. (Div ExxonMobil Chemical Co) (Legal       Quantity only              100%
+ Entity: 0102 EM Chemical America (0102))
+                                                                                   Test: Retain sample        100%
+                                                                                   -90 days
+                                                                                   Test: Retain sample        100%
+                                                                                   -90 days
+                                                                                   Test: catch sample -       100%
+                                                                                   no retention
+
+ DISCHARGE: CBC183 (VS00026247) - BRAITHWAITE, LA - STOLTHAVEN N ORLE (UNITED STATES)
+                                       Inspector: SGS Oil, Gas & Chemicals             Inspection Status: Accepted
+                                             Hub: HUB - USA Hub Office                       Created On: 09 Dec 2020 by
+                                                                                                          Bruna Kukiela
+                                    Coordinator: Marla Fortner (marla.fortner@sgs.com)     Last Modified: 22 Dec 2020 by
+                                                                                                          Marla Fortner
+                                    Local Office: SGS US - New Orleans (sg-
+                                                  sogc.neworleans@sgs.com)
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 4970977-20
+                                           Grade: EXXAL 13 BR VL                        Contract Number:
+                                             ETA: 15 Dec 2020                                 Parcel Ref:
+                                             ETD:                                            Destination:
+                  Supply Contract Window Start: n/a                                     Source Location:
+                   Supply Contract Window End: n/a                                              Supplier:
+                      Total Nominated Quantity: 1,850,000 Kilograms                             Receiver:
+Transport / Voyage Number / Quantity / Tolerance: CBC183 (VS00026247) / 4970977 /        Delivery Terms:
+                                                  1,850,000 Kilograms +/- 2 pct
+                                                                                          Mother Vessel:
+
+Quality Inspection Instructions:
+SET 1
+            Description:
+       Sample Location: As Per Standard Terminal Practice
+Quality Test Comments:
+Appearance is not a sales specification, but visually inspect samples to ensure product is clear and
+free of suspended matter
+
+
+
+
+                                                                                                          RO = Report Only          Req. = Required
+ Test                          Methods                                     Min     Max      UOM     Typical       R.O.       Req.     Comment
+ Appearance                    [OTHER] Visual                                                       CFSM          No         Yes
+ COLOR, PT-CO                  [ASTM] ASTM D5386                                   10                             No         Yes
+ SPECIFIC GRAVITY @            [ASTM] ASTM D4052                           0.844   0.849    n/a                   No         Yes
+ 20/20  C
+
+
+                                                             Page 3 of 4
+ 

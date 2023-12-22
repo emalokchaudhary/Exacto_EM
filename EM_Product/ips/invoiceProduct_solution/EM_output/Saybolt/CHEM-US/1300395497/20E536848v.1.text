@@ -1,0 +1,134 @@
+TRIP: USEBARGCHE-2009-015                                                                20E536848 VER 1 (ISSUED)
+
+Parcel Summary
+Transport       Location     Activity    Grade      Quantity   ETA    Supply Contract Window   Inspector   Inspection Requirements
+ KIRBY13022     DEER         Load        AROMATIC   1,500      08     n/a                      Saybolt     Quality / Quantity / Time
+ (VS00031462)   PARK, TX -               FSTK BT    Metric     Sep                                         log
+                VOPAK                    VL         tonnes     2020
+                (United
+                States)
+ KIRBY13022     BAYTOWN      Discharge   AROMATIC   1,500      09     n/a                      Saybolt     Quantity / Time log
+ (VS00031462)   REFINERY,                FSTK BT    Metric     Sep
+                TX (United               VL         tonnes     2020
+                States)
+
+
+
+
+                                                      Page 1 of 3
+TRIP: USEBARGCHE-2009-015                                                                      20E536848 VER 1 (ISSUED)
+
+ Region: Americas                                                               Other Reference:
+Operator: DIOGO CASAGRANDE (diogo.n.casagrande@exxonmobil.com)                   Business Group: CHEMICAL: AM FLUIDS
+  Phone:                                                                                   Desk: CHEM AM S&OP - FLUIDS
+ Mobile:                                                                        Nomination Type: Marine
+
+Documentary Instructions: n/a
+
+
+ LOAD: KIRBY13022 (VS00031462) - DEER PARK, TX - VOPAK (UNITED STATES)
+                                   Inspector: Saybolt                                Inspection Status:         Accepted
+                                        Hub: Americas North and South (International       Created On:          03 Sep 2020 by Dio-
+                                              Desk Houston)                                                     go Casagrande
+                                 Coordinator: Christopher Baiamonte (saybol-             Last Modified:         16 Sep 2020 by
+                                              tus.intdesk@corelab.com)                                          Christopher Baia-
+                                                                                                                monte
+                                    Local Office: Saybolt USA Baytown / Channelview
+                                                  (Saybolt.Baytown.Ops@corelab.com)
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 4976830-10
+                                           Grade: AROMATIC FSTK BT VL                  Contract Number:
+                                             ETA: 08 Sep 2020                                Parcel Ref:
+                                             ETD:                                           Destination:
+                  Supply Contract Window Start: n/a                                    Source Location:
+                   Supply Contract Window End: n/a                                             Supplier:
+                      Total Nominated Quantity: 1,500 Metric tonnes                            Receiver:
+Transport / Voyage Number / Quantity / Tolerance: KIRBY13022 (VS00031462) / 1,500 Met-  Delivery Terms: DES (Delivered Ex
+                                                  ric tonnes +/- 5 pct                                   Ship)
+                                                                                         Mother Vessel:
+
+Load / Discharge Instructions:
+Equipment      List: KIRBY13022
+Tow Name:      USB KIM DED 10K #4
+Tow Code:      UCHK04
+Voyage #:      2
+Ref No.
+4976830
+
+Vetting #: flee123-616244
+
+Prior Cargo: aromatic 200
+Cleaning Required: LOT + inhibitor
+Heating Instructions: none
+Comments/Remarks: ok to tender ASAP
+
+Quality Inspection Instructions:
+SET 1
+    Description:
+Sample Location: As Per Standard Terminal Practice
+
+                                                                                                  RO = Report Only    Req. = Required
+ Test                               Methods                Min    Max    UOM         Typical         R.O.      Req.    Comment
+ Specific Gravity @ 15.6 deg C      [ASTM] ASTM D4052      0.94                                      No        Yes
+ Distillation-IBP                   [ASTM] ASTM D86        170            °C                         No        Yes
+ Distillation - FBP                 [ASTM] ASTM D86               380     °C                         No        Yes
+ Free Water Content                 [OTHER] Visual                                   water free      No        Yes
+ Aromatics                          [ASTM] ASTM D1319      99             %vol                       No        Yes
+ API Gravity @ 60 F                 [ASTM] ASTM D4052      9.0    18.9                               No        Yes
+ Sulphur                            [ASTM] ASTM D5453             10      wppm                       No        Yes
+ Suspended matter                   [OTHER] Visual                        n/a        CFSM            No        Yes
+ Water content                      [ASTM] ASTM E203       45     400     wppm                       No        Yes
+
+
+                                                        Page 2 of 3
+TRIP: USEBARGCHE-2009-015                                                                          20E536848 VER 1 (ISSUED)
+
+                                                                                                      RO = Report Only       Req. = Required
+ Test                                Methods                    Min     Max     UOM      Typical          R.O.     Req.      Comment
+ Simulated Distillation              [ASTM] ASTM D2887          306     420                               No       Yes
+ Simulated Distillation              [ASTM] ASTM D2887          743     972                               No       Yes
+
+Invoice Instructions:
+  Bill Invoice To                                             Item to Bill                                Split     Contact / Comment
+ 0102 ExxonMobil Chemical Company - U.S. (Div ExxonMobil      Quantity only                               100%
+ Chemical Co) (Legal Entity: 0102 EM Chemical America
+ (0102))
+                                                              Slate: CHEM-AM-FLU-Lab Sheet Aromat-        100%
+                                                              ic 200 Feedstock shore tank before load-
+                                                              ing
+
+ DISCHARGE: KIRBY13022 (VS00031462) - BAYTOWN REFINERY, TX (UNITED STATES)
+                                 Inspector: Saybolt                                 Inspection Status:              Accepted
+                                       Hub: Americas North and South (International       Created On:               03 Sep 2020 by Dio-
+                                            Desk Houston)                                                           go Casagrande
+                               Coordinator: Christopher Baiamonte (saybol-              Last Modified:              16 Sep 2020 by
+                                            tus.intdesk@corelab.com)                                                Christopher Baia-
+                                                                                                                    monte
+                                    Local Office: Saybolt USA Baytown / Channelview
+                                                  (Saybolt.Baytown.Ops@corelab.com)
+                                     INSPECTION REQUIREMENTS: QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 4976830-20
+                                           Grade: AROMATIC FSTK BT VL                  Contract Number:
+                                             ETA: 09 Sep 2020                                Parcel Ref:
+                                             ETD:                                           Destination:
+                  Supply Contract Window Start: n/a                                    Source Location:
+                   Supply Contract Window End: n/a                                             Supplier:
+                      Total Nominated Quantity: 1,500 Metric tonnes                            Receiver:
+Transport / Voyage Number / Quantity / Tolerance: KIRBY13022 (VS00031462) / 1,500 Met-  Delivery Terms:
+                                                  ric tonnes +/- 5 pct
+                                                                                         Mother Vessel:
+
+Invoice Instructions:
+  Bill Invoice To                                                                          Item to Bill   Split     Contact / Comment
+ 0102 ExxonMobil Chemical Company - U.S. (Div ExxonMobil Chemical Co) (Legal Entity:       Quantity       100%
+ 0102 EM Chemical America (0102))                                                          only
+
+Recipient List:
+Sayboltus.Intdesk@corelab.com; Saybolt.Baytown.Ops@corelab.com; sayboltus.intdesk@corelab.com
+                                                                                                                  REPORT GENERATED 03 SEP 2020
+
+
+
+
+                                                           Page 3 of 3
+

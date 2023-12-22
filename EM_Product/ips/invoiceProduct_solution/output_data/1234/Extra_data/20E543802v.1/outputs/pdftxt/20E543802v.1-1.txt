@@ -1,0 +1,72 @@
+CLEANED !!!
+TRIP: USEBARGARO-2010-051                                                              20E543802 VER 1 (ISSUED)
+
+ Region: Americas                                                      Other Reference:
+Operator: VERONICA MORALES (veronica.e.morales@exxonmobil.com)          Business Group: CHEMICAL: AM AROMATICS
+  Phone:                                                                          Desk: CHEM AM S&OP AROMATICS
+ Mobile:                                                               Nomination Type: Marine
+
+Documentary Instructions: n/a
+
+
+ LOAD: CHEM3245 (VS00050354) - BATON ROUGE, LA - ERGON (UNITED STATES)
+                                  Inspector: COASTAL GULF                        Inspection Status: Accepted
+                                       Hub: Coastal Gulf - Baton Rouge                 Created On: 21 Oct 2020 by Veroni-
+                                                                                                    ca Morales
+                                    Coordinator: Baton Rouge Operations (baton-      Last Modified: 21 Oct 2020 by Steven
+                                                  rouge@coastalgulf.com)                            Moulard
+                                    Local Office:
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5074792-10
+                                           Grade: BENZENE VL BULK                Contract Number:
+                                             ETA: 24 Oct 2020                          Parcel Ref:
+                                             ETD:                                     Destination:
+                  Supply Contract Window Start: n/a                              Source Location:
+                   Supply Contract Window End: n/a                                       Supplier:
+                      Total Nominated Quantity: 20,000 Barrels                           Receiver:
+Transport / Voyage Number / Quantity / Tolerance: CHEM3245 (VS00050354) / 20,000  Delivery Terms: DDP (Delivered Duty
+                                                  Barrels +/- 5 pct                                Paid)
+                                                                                   Mother Vessel:
+
+Email Quantity Results To:
+veronica.e.morales@exxonmobil.com;
+pmichem.babsc3@exxonmobil.com;
+carolina.enright@exxonmobil.com;
+mats.mto-fairfax@exxonmobil.com;
+emcc.oa.survey.reports@exxonmobil.com;
+ds-srm-inspection-reports-mailbox@exxonmobil.com
+
+Email Quality Results To:
+veronica.e.morales@exxonmobil.com;
+William.Hutton@ergon.com;
+colin.rougee@ergon.com;
+dale.fryoux@ergon.com;
+wyane.tureaud@ergon.com;
+batonrouge.operator@ergon.com;
+
+Load / Discharge Instructions:
+CUSTOMER: ICC
+?
+Measurement for invoicing: Static shore tank at DISCHARGE if available.
+?
+*This is a sale**
+Plant: USJK
+Cost Center: C021243029
+Material: 5006387
+?
+Lay time: 12 hours
+Demurrage: $1600 pdpr
+?
+EMCC will not accept marine provisions outside of the contract terms such as the Public Terminal Clause.
+
+Bill Invoice to:
+Quality based on final barge comp will be completed by BATON ROUGE LAB
+CGI will only run the appearance test (D-4176), a printed copy of results (COA) with sample to be deliv-
+ered to the BRCP lab. Please let me know if any questions. Thanks!
+
+Quantity at Load: Split 100% EMCC
+
+
+
+                                                     Page 1 of 3
+ 

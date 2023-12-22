@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="20.11.0">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="21" family="AAAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="1" size="11" family="AAAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="2" size="12" family="AAAAAB+Arial" color="#000000"/>
+	<fontspec id="3" size="13" family="AAAAAB+Arial" color="#000000"/>
+	<fontspec id="4" size="13" family="AAAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="5" size="10" family="AAAAAB+Arial" color="#000000"/>
+<image top="27" left="27" width="75" height="75" src="./../output_data/1234/560/102738_Chem3248_Benzene_B20210415002_EMCC_Final/102738_Chem3248_Benzene_B20210415002_EMCC_Final-1_1.png"/>
+<image top="407" left="641" width="144" height="37" src="./../output_data/1234/560/102738_Chem3248_Benzene_B20210415002_EMCC_Final/102738_Chem3248_Benzene_B20210415002_EMCC_Final-1_2.png"/>
+<image top="392" left="72" width="168" height="45" src="./../output_data/1234/560/102738_Chem3248_Benzene_B20210415002_EMCC_Final/102738_Chem3248_Benzene_B20210415002_EMCC_Final-1_3.png"/>
+<text top="56" left="347" width="224" height="24" font="0"><b>Certificate of Analysis</b></text>
+<text top="84" left="667" width="70" height="13" font="1"><b>Report Date:</b></text>
+<text top="82" left="750" width="123" height="14" font="2">4/15/2021 11:15:48PM</text>
+<text top="174" left="696" width="52" height="15" font="3">5403168</text>
+<text top="120" left="699" width="45" height="15" font="3">102738</text>
+<text top="120" left="261" width="69" height="15" font="3">Chem 3248</text>
+<text top="121" left="36" width="117" height="15" font="4"><b>Vessel/Equipment:</b></text>
+<text top="157" left="67" width="54" height="15" font="4"><b>Product:</b></text>
+<text top="175" left="65" width="58" height="15" font="4"><b>Terminal:</b></text>
+<text top="121" left="473" width="80" height="15" font="4"><b>File Number:</b></text>
+<text top="157" left="493" width="41" height="15" font="4"><b>Client:</b></text>
+<text top="175" left="459" width="108" height="15" font="4"><b>Client Reference:</b></text>
+<text top="174" left="223" width="146" height="15" font="3">Ergon, Baton Rouge, LA</text>
+<text top="192" left="281" width="30" height="15" font="3">Load</text>
+<text top="156" left="269" width="53" height="15" font="3">Benzene</text>
+<text top="139" left="472" width="81" height="15" font="4"><b>Lab Number:</b></text>
+<text top="138" left="676" width="91" height="15" font="3">B20210415002</text>
+<text top="156" left="702" width="40" height="15" font="3">EMCC</text>
+<text top="193" left="69" width="52" height="15" font="4"><b>Subject:</b></text>
+<text top="138" left="281" width="30" height="15" font="3">1000</text>
+<text top="139" left="59" width="71" height="15" font="4"><b>Shore Tank</b></text>
+<text top="215" left="277" width="37" height="15" font="3">99172</text>
+<text top="233" left="264" width="64" height="15" font="3">Composite</text>
+<text top="233" left="710" width="69" height="15" font="3">Chem 3248</text>
+<text top="271" left="692" width="104" height="15" font="3">Min       -       Max</text>
+<text top="271" left="815" width="53" height="15" font="3">Off-Spec</text>
+<text top="253" left="728" width="31" height="15" font="3">Spec</text>
+<text top="271" left="590" width="31" height="15" font="3">Units</text>
+<text top="271" left="429" width="38" height="15" font="3">Result</text>
+<text top="271" left="153" width="69" height="15" font="3">Component</text>
+<text top="271" left="27" width="45" height="15" font="3">Method</text>
+<text top="217" left="42" width="104" height="15" font="4"><b>Sample Number:</b></text>
+<text top="235" left="458" width="109" height="15" font="4"><b>Sample Location:</b></text>
+<text top="235" left="52" width="84" height="15" font="4"><b>Sample Type:</b></text>
+<text top="296" left="27" width="40" height="15" font="3">D4176</text>
+<text top="296" left="153" width="97" height="15" font="3">Clear and Bright</text>
+<text top="296" left="429" width="30" height="15" font="3">Pass</text>
+<text top="298" left="734" width="8" height="15" font="3"> -</text>
+<text top="318" left="27" width="40" height="15" font="3">D4176</text>
+<text top="318" left="153" width="67" height="15" font="3">Free Water</text>
+<text top="318" left="429" width="30" height="15" font="3">Pass</text>
+<text top="320" left="734" width="8" height="15" font="3"> -</text>
+<text top="340" left="27" width="40" height="15" font="3">D4176</text>
+<text top="340" left="153" width="70" height="15" font="3">Particulates</text>
+<text top="340" left="429" width="30" height="15" font="3">Pass</text>
+<text top="341" left="734" width="8" height="15" font="3"> -</text>
+<text top="362" left="27" width="40" height="15" font="3">D4176</text>
+<text top="362" left="153" width="104" height="15" font="3">Test Temperature</text>
+<text top="362" left="429" width="26" height="15" font="3">19.0</text>
+<text top="362" left="590" width="15" height="15" font="3">°C</text>
+<text top="363" left="734" width="8" height="15" font="3"> -</text>
+<text top="485" left="567" width="81" height="15" font="3">Reviewed by:</text>
+<text top="485" left="675" width="86" height="15" font="3">Glenn Hanson</text>
+<text top="503" left="675" width="111" height="15" font="3">VP of Laboratories</text>
+<text top="485" left="33" width="46" height="15" font="3">Signed:</text>
+<text top="440" left="27" width="13" height="15" font="3">X </text>
+<text top="437" left="568" width="13" height="15" font="3">X </text>
+<text top="483" left="102" width="96" height="15" font="3">Aaron Manguno</text>
+<text top="501" left="102" width="132" height="15" font="3">Laboratory Supervisor</text>
+<text top="1142" left="455" width="7" height="15" font="3">1</text>
+<text top="1097" left="372" width="172" height="12" font="5">13615 River Road, Luling, LA 70070</text>
+<text top="1115" left="333" width="251" height="12" font="5">Phone: (985) 785-0765   Email: cgi@coastalgulf.com</text>
+<text top="1133" left="133" width="7" height="15" font="3">4</text>
+</page>
+</pdf2xml>

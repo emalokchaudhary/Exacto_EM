@@ -1,0 +1,22 @@
+TRIP: INTV005FIN-2009-0015                                                            20E541701 VER 1 (ISSUED)
+
+Quality based on ship composite at load. Quantity basis shore tank figures at discharge port unless ac-
+tive shore tanks in which case vessel figures with VEF applied at discharge
+Inspection split 50/50
+
+Additional Comments:
+If anything is off spec please inform scheduler immediately
+If a slate is attached in document form to this nomination, inspector agrees to certify per attached
+slate and not Navarik accounting slate.
+
+Recipient List:
+navarik_coordinator@camincargo.com; opspanama@camincargo.com; acamin@camincargo.com
+MATS.MTO@exxonmobil.com;DS-RS-DISTILLATESCHEDULING@exxonmobil.com;
+David.Camejo@trafigura.com;MvdCentamOps@trafigura.com;marine.backup@exxonmobil.com
+                                                                                               REPORT GENERATED 06 OCT 2020
+
+
+
+
+                                                      Page 2 of 2
+

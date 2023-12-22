@@ -1,0 +1,37 @@
+                              COASTAL GULF &
+                            INTERNATIONAL, INC.
+                                              "Precision"
+                                        Inspection & Analytical
+                                                Services
+                                 2104 S Southland, Gonzales, LA 70737
+                  ®             Phone (225) 231-4990 Fax (225) 231-7875                                                 Assuring accuracy through expertise!
+
+Vessel:               Kirby 10562                                                    Date:                   January 27, 2021
+Product:              Heptene                                                        Terminal:               ExxonMobil
+Subject:              Report of Discharge                                            Port:                   Baton Rouge, Louisiana
+EMCC Ref. #: 5067731                                                                 File Number:            100323
+
+                                                 GAUGE HEIGHT REPORT
+                                             Barge Name:                            Kirby 10562
+    Tank No.            Observed Gauge Height Open                           Reference Gauge Height            Observed Gauge Height Close
+          1C                       18' 04 1/2"                                       16' 10 1/4"                           18' 04 1/2"
+          2C                         18' 04"                                         16' 09 3/4"                             18' 04"
+          3C                       18' 04 1/4"                                       16' 10 1/8"                           18' 04 1/4"
+
+
+
+
+                                    ANCILLARY TANK MEASUREMENTS
+                       Tank No.                        Observed Arrival Measurement                Observed Departure Measurement
+                        FWD                                               00' 00"                             00' 00"
+                         AFT                                              00' 00"                             00' 00"
+                        PORT                                              00' 00"                             00' 00"
+                         STB                                              00' 00"                             00' 00"
+
+
+
+
+Coastal Gulf & International, Inc.
+Jon Herrington
+Gonzales Communication Center                                                                                                   Version 7.1 04-19-20 JMH
+

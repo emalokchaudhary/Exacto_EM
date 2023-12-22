@@ -1,0 +1,91 @@
+
+2022-01-28 11:01:32,370:__main__:
+Filename: . Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 548, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/bc251ca7/outputs/Table_txt'
+
+2022-01-28 11:12:29,430:__main__:
+Filename: . Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 548, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/bc251ca7/outputs/Table_txt'
+
+2022-01-28 11:18:35,915:__main__:
+Filename: . Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 548, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/bc251ca7/outputs/Table_txt'
+
+2022-01-28 11:19:42,723:__main__:
+Filename: . Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 548, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/bc251ca7/outputs/Table_txt'
+
+2022-01-28 11:23:06,552:__main__:
+Filename: . Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 548, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/bc251ca7/outputs/Table_txt'
+
+2022-01-28 11:26:48,890:__main__:
+Filename: . Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 548, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/bc251ca7/outputs/Table_txt'
+
+2022-01-28 11:28:52,690:__main__:
+Filename: . Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 548, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/bc251ca7/outputs/Table_txt'
+
+2022-01-28 11:39:33,862:__main__:
+Filename: . Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 548, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/bc251ca7/outputs/Table_txt'
+
+2022-01-28 11:40:34,064:__main__:
+Filename: . Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 548, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/bc251ca7/outputs/Table_txt'
+
+2022-01-28 11:43:04,637:__main__:
+Filename: . Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 548, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/bc251ca7/outputs/Table_txt'
+
+2022-01-28 11:46:23,651:__main__:
+Filename: . Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 548, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/bc251ca7/outputs/Table_txt'
+
+2022-01-28 11:47:41,657:__main__:
+Filename: . Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 548, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/bc251ca7/outputs/Table_txt'
+
+2022-01-28 12:15:06,758:__main__:
+Filename: . Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 548, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/bc251ca7/outputs/Table_txt'

@@ -1,0 +1,12 @@
+Product: IPA                                                                             Terminal:              ExxonMobil
+Subject: Report of Loading                                                               Port:                  Baton Rouge, Louisiana
+EMCC Ref. #: 5104721                                                                     File Number:           100139
+
+
+                                                      VESSEL MEASUREMENT REPORT
+                                                                      CBC 1388 UPON ARRIVAL                              Ambient Temp  F: 68.0
+               Obs. Gauge      Gauge (Ft.)       Temp.                T.O.V.                  Water                                              G.S.V
+   Tank          Height          Ullage           ( F)                Barrels      Gauge              Barrels                   V.C. F           Barrels
+    1C         17' 06 1/4"     16' 04 3/4"        60.0                 8.07        00' 00''            0.00                    1.00000            8.07
+    2C         17' 06 3/4"     16' 07 1/4"        60.0                 0.00        00' 00''            0.00        0.0         1.00000            0.00
+    3C         17' 07 1/4"     16' 07 1/2"        60.0                 0.00        00' 00''            0.00        0.0         1.00000            0.00

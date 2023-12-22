@@ -1,0 +1,4 @@
+                  Supply Contract Window Start: 01 Sep 2020                       Source Location:
+                   Supply Contract Window End: 02 Sep 2020                                Supplier:
+                      Total Nominated Quantity: 720,000 Barrels                           Receiver:
+Transport / Voyage Number / Quantity / Tolerance: SOLVIKEN (9321689) / 720,000     Delivery Terms:    FOB (Free On Board)

@@ -1,0 +1,59 @@
+TRIP: USEBARGCHE-2012-047                                                                           20E552683 VER 1 (ISSUED)
+
+
+Pumps/Manifold/Discharge Line
+
+
+
+
+                                                                                                       RO = Report Only          Req. = Required
+ Test                        Methods                        Min      Max        UOM          Typical           R.O.       Req.     Comment
+ Appearance                  [OTHER] Visual                                                  CFSM              No         Yes
+ SG@20/20 C                  [ASTM] ASTM D4052              0.7862   0.7870     n/a                            No         Yes
+ COLOR, PT-CO                [ASTM] ASTM D5386, [ASTM]               5                                         No         Yes
+                             ASTM D1209
+ Water content               [ASTM] ASTM D1364                       0.1        wt%                            No         Yes
+ Odor                        [ASTM] ASTM D1296                                  Marketable   Characteristic    No         Yes
+ Distillation Range          [ASTM] ASTM D1078                       1.0        °C           Including         No         Yes
+                                                                                             82.3C
+ Appearance                  [OTHER] Visual                                                  CFSM              No         Yes
+ ACIDITY (ACETIC ACID)       [ASTM] ASTM D1613                       0.001      wt%                            No         Yes
+ SG@20/20 C                  [ASTM] ASTM D4052              0.7862   0.7870     n/a                            No         Yes
+ SPECIFIC GRAVITY @ 25/      [ASTM] ASTM D4052              0.7830   0.7840     n/a                            No         Yes
+ 25 C
+ COLOR, PT-CO                [ASTM] ASTM D1209, [ASTM]               5                                         No         Yes
+                             ASTM D5386
+ Water content               [ASTM] ASTM D1364                       0.1        wt%                            No         Yes
+ WATER MISCIBILITY           [ASTM] ASTM D1722                                  n/a          clear/miscible    No         Yes
+ NON VOLATILE MATTER,        [ASTM] ASTM D1353                       0.001      mg                             No         Yes
+ per 100ml
+ Purity by GC                [OTHER] GC                     99.9                %wt                            No         Yes
+ Acidity, ML 0.020 N NAOH    [OTHER] USP                             0.7        ml                             No         Yes
+ to Neutralize
+ IDENTIFICATION BY IR        [OTHER] IR                                         n/a          pass              No         Yes
+ Appearance                  [OTHER] Visual                                                  CFSM              No         Yes
+ SG@20/20 C                  [ASTM] ASTM D4052              0.7862   0.7870     n/a                            No         Yes
+ COLOR, PT-CO                [ASTM] ASTM D1209                       5                                         No         Yes
+ Water content               [ASTM] ASTM D1364                       0.1        wt%                            No         Yes
+
+Invoice Instructions:
+  Bill Invoice To                                                        Item to Bill                      Split      Contact / Comment
+ 0102 ExxonMobil Chemical Company - U.S. (Div ExxonMobil Chemical        Quantity only                     100%
+ Co) (Legal Entity: 0102 EM Chemical America (0102))
+                                                                         Slate: CHEM-AM-FLU-Lab            100%
+                                                                         Sheet IPA 1-foot
+                                                                         Slate: CHEM-AM-FLU-Lab            100%
+                                                                         Sheet IPA Composite Full
+                                                                         Slate: CHEM-AM-FLU-Lab            100%
+                                                                         Sheet IPA Line
+
+Recipient List:
+batonrouge@coastalgulf.com; brdispatch@coastalgulf.com; Sayboltus.Intdesk@corelab.com; Saybolt.DeerParkOps@corelab.com; saybol-
+tus.intdesk@corelab.com
+                                                                                                                    REPORT GENERATED 21 DEC 2020
+
+
+
+
+                                                           Page 4 of 4
+

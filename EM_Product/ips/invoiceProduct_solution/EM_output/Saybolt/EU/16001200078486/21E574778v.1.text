@@ -1,0 +1,160 @@
+TRIP: INTB009FIN-2105-0342                                                                21E574778 VER 1 (ISSUED)
+
+Parcel Summary
+Transport       Location        Activity    Grade   Quantity   ETA    Supply Contract Window   Inspector      Inspection Requirements
+ AQUARHENI      ANTWERP,        Load        LIGHT   1,500      25     n/a                      Inspectorate   Quality / Quantity / Time
+ (VS00044933)   BELGIUM -                   CYCLE   Metric     May                             Int'l Ltd      log
+                TOTAL                       OIL     tonnes     2021
+                OLEFINS (Bel-
+                gium)
+ AQUARHENI      EUROPOORT,      Discharge   LIGHT   1,500      27     n/a                      Saybolt        Quantity / Time log
+ (VS00044933)   NL - VOPAK -                CYCLE   Metric     May
+                FO BLEND                    OIL     tonnes     2021
+                HU (Nether-
+                lands)
+
+
+
+
+                                                       Page 1 of 4
+TRIP: INTB009FIN-2105-0342                                                                     21E574778 VER 1 (ISSUED)
+
+ Region: EAME                                                         Other Reference:
+Operator: GEERT JOZEF SCHELFHOUT                                       Business Group: 4733 - EMAPEU ExxonMobil Asia Pacific
+          (geert.schelfhout@exxonmobil.com)                                            Pte. Ltd.
+  Phone:                                                                         Desk:
+ Mobile:                                                              Nomination Type: Marine
+
+Documentary Instructions: n/a
+
+
+ LOAD: AQUARHENI (VS00044933) - ANTWERP, BELGIUM - TOTAL OLEFINS (BELGIUM)
+                                       Inspector: Inspectorate Int'l Ltd         Inspection Status: Accepted
+                                             Hub: Inspectorate Antwerp                 Created On: 21 May 2021 by Jolien
+                                                                                                    Burggraeve
+                                    Coordinator: Kalle Symons                        Last Modified: 21 May 2021 by Thomas
+                                                  (kalle.symons@inspectorate.be)                    Smets
+                                    Local Office:
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5483131-10
+                                           Grade: LIGHT CYCLE OIL                 Contract Number:
+                                             ETA: 25 May 2021                           Parcel Ref:
+                                             ETD:                                      Destination:
+                  Supply Contract Window Start: n/a                               Source Location:
+                   Supply Contract Window End: n/a                                        Supplier:
+                      Total Nominated Quantity: 1,500 Metric tonnes                       Receiver:
+Transport / Voyage Number / Quantity / Tolerance: AQUARHENI (VS00044933) / 1,500   Delivery Terms: FOB (Free On Board)
+                                                  Metric tonnes
+                                                                                    Mother Vessel:
+
+Email Quantity Results To:
+supplybnl.fuelsscheduler@exxonmobil.com;
+mtobargingheavy@exxonmobil.com;
+fuel.oil.coordination@exxonmobil.com;
+esup.inspection@exxonmobil.com
+
+Email Quality Results To:
+supplybnl.fuelsscheduler@exxonmobil.com;
+mtobargingheavy@exxonmobil.com;
+fuel.oil.coordination@exxonmobil.com;
+Vincent.gasparian@exxonmobil.com;
+Vedran.bovan@exxonmobil.com;
+esup.inspection@exxonmobil.com
+
+Parcel Comments:
+concerns PFO (pyrolisys fuel oil)
+
+Quality Inspection Instructions:
+SET 1
+    Description:
+Sample Location: Ship Tanks VolumeMetric Composite
+
+                                                                                                  RO = Report Only          Req. = Required
+ Test                  Methods                                              Min   Max   UOM    Typical    R.O.       Req.     Comment
+ Additional Tests
+ Kinematic Viscosity   [ASTM] ASTM D445, [ISO] ISO 3104                                 mm²/              No         Yes
+ at 50°C                                                                                s
+ Density @ 15 deg      [ISO] ISO 3675, [ISO] ISO 12185, [ASTM] ASTM D4052               Kg/               No         Yes
+ C                                                                                      M3
+ Sulfur                [ISO] ISO 8754, [ASTM] ASTM D2622, [ASTM] ASTM                   %wt               No         Yes
+                       D4294, [ISO] ISO 14596
+ Pour Point            [ISO] ISO 3016, [ASTM] ASTM D97, [ASTM] ASTM                     °C                No         Yes
+                       D5950
+
+                                                           Page 2 of 4
+TRIP: INTB009FIN-2105-0342                                                                             21E574778 VER 1 (ISSUED)
+
+                                                                                                           RO = Report Only          Req. = Required
+ Test                   Methods                                               Min     Max    UOM        Typical     R.O.      Req.     Comment
+ Flash Point            [ISO] ISO 2719, [ASTM] ASTM D93                                       °C                    No        Yes
+ Water content          [ASTM] ASTM D95, [ISO] ISO 3733                                       vol%                  No        Yes
+
+Invoice Instructions:
+  Bill Invoice To                                                                   Item to Bill                  Split    Contact / Comment
+ 4733 - EMAPEU ExxonMobil Asia Pacific Pte. Ltd. (Legal Entity: 4733 EMAPEU         Quantity only                 50%
+ ExxonMobil Asia Pacific Pte. Ltd. (4733))
+                                                                                    Test: Kinematic Vis-          50%
+                                                                                    cosity at 50°C
+                                                                                    Test: Density @ 15            50%
+                                                                                    deg C
+                                                                                    Test: Sulfur                  50%
+                                                                                    Test: Pour Point              50%
+                                                                                    Test: Flash Point             50%
+                                                                                    Test: Water content           50%
+ TOTAL PETROCHEM & REFINING SA/NV                                                   Quantity only                 50%
+                                                                                    Test: Kinematic Vis-          50%
+                                                                                    cosity at 50°C
+                                                                                    Test: Density @ 15            50%
+                                                                                    deg C
+                                                                                    Test: Sulfur                  50%
+                                                                                    Test: Pour Point              50%
+                                                                                    Test: Flash Point             50%
+                                                                                    Test: Water content           50%
+
+ DISCHARGE: AQUARHENI (VS00044933) - EUROPOORT, NL - VOPAK - FO BLEND HU (NETHERLANDS)
+                                Inspector: Saybolt                                Inspection Status:                          Accepted
+                                      Hub: Europe/Africa/Russia/ME (International       Created On:                           21 May 2021 by
+                                           Desk Rotterdam)                                                                    Jolien Burggraeve
+                              Coordinator: Cora Ligt (intdesk.saynl@corelab.com)      Last Modified:                          21 May 2021 by
+                                                                                                                              Thomas Smets
+                                    Local Office: Saybolt Netherlands Rotterdam (Say-
+                                                  bolt.Rotterdam.Mineral@corelab.com)
+                                     INSPECTION REQUIREMENTS: QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5483131-20
+                                           Grade: LIGHT CYCLE OIL                      Contract Number:
+                                             ETA: 27 May 2021                                Parcel Ref:
+                                             ETD:                                           Destination:
+                  Supply Contract Window Start: n/a                                     Source Location:
+                   Supply Contract Window End: n/a                                             Supplier:
+                      Total Nominated Quantity: 1,500 Metric tonnes                            Receiver:
+Transport / Voyage Number / Quantity / Tolerance: AQUARHENI (VS00044933) / 1,500 Metric Delivery Terms:
+                                                  tonnes
+                                                                                          Mother Vessel:
+
+Email Quantity Results To:
+MTOBargingHeavy@exxonmobil.com; fuel.oil.coordination@exxonmobil.com
+
+Parcel Comments:
+Concerns PFO - pyrolysis fuel oil
+
+Invoice Instructions:
+  Bill Invoice To                                                                             Item to Bill     Split       Contact / Comment
+ 4733 - EMAPEU ExxonMobil Asia Pacific Pte. Ltd. (Legal Entity: 4733 EMAPEU ExxonMobil        Other            100%
+ Asia Pacific Pte. Ltd. (4733))
+
+                                                           Page 3 of 4
+TRIP: INTB009FIN-2105-0342                                                                       21E574778 VER 1 (ISSUED)
+
+Recipient List:
+antwerp.operations@bureauveritas.com; kalle.symons@inspectorate.be; intdesk.saynl@corelab.com; Saybolt.Rotterdam.Mineral@corelab.com
+supplybnl.fuelsscheduler@exxonmobil.com;
+mtobargingheavy@exxonmobil.com;
+fuel.oil.coordination@exxonmobil.com;
+esup.inspection@exxonmobil.com;
+                                                                                                              REPORT GENERATED 21 MAY 2021
+
+
+
+
+                                                           Page 4 of 4
+

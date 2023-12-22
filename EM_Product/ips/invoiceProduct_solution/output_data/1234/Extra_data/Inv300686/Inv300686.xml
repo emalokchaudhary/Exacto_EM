@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="20.11.0">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="16" family="QTYFQH+Arial,Bold" color="#000000"/>
+	<fontspec id="1" size="13" family="ZUYAXO+Arial" color="#000000"/>
+	<fontspec id="2" size="16" family="ZUYAXO+Arial" color="#000000"/>
+	<fontspec id="3" size="17" family="QTYFQH+Arial,Bold" color="#000000"/>
+	<fontspec id="4" size="17" family="ZUYAXO+Arial" color="#000000"/>
+	<fontspec id="5" size="14" family="ZUYAXO+Arial" color="#000000"/>
+	<fontspec id="6" size="14" family="QTYFQH+Arial,Bold" color="#000000"/>
+<image top="81" left="54" width="128" height="127" src="./../output_data/1234/560/Inv300686/Inv300686-1_1.jpg"/>
+<text top="77" left="430" width="72" height="16" font="0"><b>Remit to:</b></text>
+<text top="119" left="694" width="28" height="13" font="1">Date</text>
+<text top="151" left="672" width="74" height="16" font="2">8/31/2020</text>
+<text top="119" left="790" width="39" height="13" font="1">Inv No</text>
+<text top="151" left="780" width="60" height="18" font="3"><b>300686</b></text>
+<text top="240" left="79" width="50" height="13" font="1">BILL TO</text>
+<text top="268" left="65" width="219" height="18" font="4">ExxonMobil Oil Corporation</text>
+<text top="289" left="65" width="186" height="18" font="4">Attn: Accounts Payable</text>
+<text top="310" left="65" width="292" height="18" font="4">22777 Springwoods Village Parkway</text>
+<text top="330" left="65" width="145" height="18" font="4">Spring, TX  77389</text>
+<text top="240" left="609" width="138" height="15" font="5">JOB INFORMATION</text>
+<text top="268" left="497" width="124" height="18" font="4">Web 241 &amp; 248</text>
+<text top="289" left="497" width="84" height="18" font="4">CSO/MCB</text>
+<text top="310" left="497" width="160" height="18" font="4">Report of Discharge</text>
+<text top="330" left="497" width="54" height="18" font="4">at PFT</text>
+<text top="351" left="497" width="148" height="18" font="4">Mt. Airy, Louisiana</text>
+<text top="97" left="269" width="278" height="18" font="3"><b>Coastal Gulf &amp; International, Inc.</b></text>
+<text top="120" left="291" width="235" height="15" font="6"><b>Routing 065402423  acct 3113892</b></text>
+<text top="138" left="281" width="254" height="15" font="6"><b>PO Box 429  Kenner, LA 70063-0429</b></text>
+<text top="156" left="334" width="148" height="15" font="6"><b>985-785-0765 ext 213</b></text>
+<text top="402" left="99" width="52" height="13" font="1">P.O. No.</text>
+<text top="402" left="237" width="167" height="15" font="6"><b>USEBARGFIN-2008-072</b></text>
+<text top="1042" left="412" width="47" height="16" font="2">Terms</text>
+<text top="1042" left="536" width="49" height="16" font="2">30 Net</text>
+<text top="409" left="618" width="79" height="13" font="1">Date Worked</text>
+<text top="442" left="625" width="66" height="15" font="5">8/29/2020</text>
+<text top="409" left="749" width="73" height="13" font="1">File Number</text>
+<text top="442" left="766" width="41" height="15" font="6"><b>98697</b></text>
+<text top="436" left="74" width="100" height="13" font="1">Scheduler Name</text>
+<text top="436" left="266" width="109" height="15" font="6"><b>Scott Friedman</b></text>
+<text top="1021" left="83" width="250" height="18" font="4">We understand that you have a</text>
+<text top="1042" left="81" width="254" height="18" font="4">choice . . .  Thanks for choosing</text>
+<text top="1063" left="193" width="32" height="18" font="4">CGI</text>
+<text top="477" left="268" width="67" height="13" font="1">Description</text>
+<text top="477" left="572" width="21" height="13" font="1">Qty</text>
+<text top="477" left="669" width="28" height="13" font="1">Rate</text>
+<text top="477" left="780" width="46" height="13" font="1">Amount</text>
+<text top="504" left="65" width="270" height="15" font="5">Enabling Service Agreement - A2473671</text>
+<text top="538" left="65" width="331" height="15" font="5">Survey of Inland Barges (Over 6KMT) at Minimum</text>
+<text top="538" left="681" width="58" height="15" font="5">2,500.00</text>
+<text top="538" left="792" width="58" height="15" font="5">2,500.00</text>
+<text top="573" left="65" width="201" height="15" font="5">Extra Shore Tank ($250/Tank)</text>
+<text top="573" left="694" width="46" height="15" font="5">250.00</text>
+<text top="573" left="805" width="46" height="15" font="5">250.00</text>
+<text top="607" left="65" width="415" height="15" font="5">Extra Samples; Additional Sampling of Shore Tank# 215 &amp; 216</text>
+<text top="624" left="65" width="89" height="15" font="5">($15/Sample)</text>
+<text top="607" left="575" width="17" height="15" font="5">12</text>
+<text top="607" left="702" width="37" height="15" font="5">15.00</text>
+<text top="607" left="805" width="46" height="15" font="5">180.00</text>
+<text top="675" left="65" width="238" height="15" font="5">Analysis of Shore Tank# 215 &amp; 216:</text>
+<text top="692" left="65" width="159" height="15" font="5">   Zinc, IP501 = $197.00</text>
+<text top="675" left="579" width="8" height="15" font="5">2</text>
+<text top="675" left="694" width="46" height="15" font="5">197.00</text>
+<text top="675" left="805" width="46" height="15" font="5">394.00</text>
+<text top="1131" left="437" width="43" height="13" font="1">Page 1</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="81" left="54" width="128" height="127" src="./../output_data/1234/560/Inv300686/Inv300686-2_1.jpg"/>
+<text top="77" left="430" width="72" height="16" font="0"><b>Remit to:</b></text>
+<text top="119" left="694" width="28" height="13" font="1">Date</text>
+<text top="151" left="672" width="74" height="16" font="2">8/31/2020</text>
+<text top="119" left="790" width="39" height="13" font="1">Inv No</text>
+<text top="151" left="780" width="60" height="18" font="3"><b>300686</b></text>
+<text top="240" left="79" width="50" height="13" font="1">BILL TO</text>
+<text top="268" left="65" width="219" height="18" font="4">ExxonMobil Oil Corporation</text>
+<text top="289" left="65" width="186" height="18" font="4">Attn: Accounts Payable</text>
+<text top="310" left="65" width="292" height="18" font="4">22777 Springwoods Village Parkway</text>
+<text top="330" left="65" width="145" height="18" font="4">Spring, TX  77389</text>
+<text top="240" left="609" width="138" height="15" font="5">JOB INFORMATION</text>
+<text top="268" left="497" width="124" height="18" font="4">Web 241 &amp; 248</text>
+<text top="289" left="497" width="84" height="18" font="4">CSO/MCB</text>
+<text top="310" left="497" width="160" height="18" font="4">Report of Discharge</text>
+<text top="330" left="497" width="54" height="18" font="4">at PFT</text>
+<text top="351" left="497" width="148" height="18" font="4">Mt. Airy, Louisiana</text>
+<text top="97" left="269" width="278" height="18" font="3"><b>Coastal Gulf &amp; International, Inc.</b></text>
+<text top="120" left="291" width="235" height="15" font="6"><b>Routing 065402423  acct 3113892</b></text>
+<text top="138" left="281" width="254" height="15" font="6"><b>PO Box 429  Kenner, LA 70063-0429</b></text>
+<text top="156" left="334" width="148" height="15" font="6"><b>985-785-0765 ext 213</b></text>
+<text top="402" left="99" width="52" height="13" font="1">P.O. No.</text>
+<text top="402" left="237" width="167" height="15" font="6"><b>USEBARGFIN-2008-072</b></text>
+<text top="1042" left="412" width="47" height="16" font="2">Terms</text>
+<text top="1042" left="536" width="49" height="16" font="2">30 Net</text>
+<text top="409" left="618" width="79" height="13" font="1">Date Worked</text>
+<text top="442" left="625" width="66" height="15" font="5">8/29/2020</text>
+<text top="409" left="749" width="73" height="13" font="1">File Number</text>
+<text top="442" left="766" width="41" height="15" font="6"><b>98697</b></text>
+<text top="436" left="74" width="100" height="13" font="1">Scheduler Name</text>
+<text top="436" left="266" width="109" height="15" font="6"><b>Scott Friedman</b></text>
+<text top="1021" left="83" width="250" height="18" font="4">We understand that you have a</text>
+<text top="1042" left="81" width="254" height="18" font="4">choice . . .  Thanks for choosing</text>
+<text top="1063" left="193" width="32" height="18" font="4">CGI</text>
+<text top="477" left="268" width="67" height="13" font="1">Description</text>
+<text top="477" left="572" width="21" height="13" font="1">Qty</text>
+<text top="477" left="669" width="28" height="13" font="1">Rate</text>
+<text top="477" left="780" width="46" height="13" font="1">Amount</text>
+<text top="504" left="65" width="268" height="15" font="5">Analysis of Shore Tank# 215 (M1 Slate):</text>
+<text top="521" left="65" width="224" height="15" font="5">   H2S in Vapor, D5705 = $118.00</text>
+<text top="538" left="65" width="207" height="15" font="5">   API Gravity, D 4052 = $56.00</text>
+<text top="556" left="65" width="231" height="15" font="5">   Sulfur Content, D4294 = $153.00</text>
+<text top="573" left="65" width="336" height="15" font="5">   Viscosity - Kinematic @ 122*F, D7042 = $134.00</text>
+<text top="590" left="65" width="292" height="15" font="5">   Viscosity - SFS @ 122*F, D2161 = $34.00</text>
+<text top="607" left="65" width="301" height="15" font="5">   Viscosity - SUS @ 210*F, D2161 = $154.00</text>
+<text top="624" left="65" width="195" height="15" font="5">   Flash Point, D93B = $79.00</text>
+<text top="641" left="65" width="209" height="15" font="5">   Ash Content, D482 = $189.00</text>
+<text top="658" left="65" width="189" height="15" font="5">   Pour Point, D97 = $100.00</text>
+<text top="675" left="65" width="213" height="15" font="5">   Asphaltenes, IP143 = $189.00</text>
+<text top="692" left="65" width="179" height="15" font="5">   MCRT, D4530 = $110.00</text>
+<text top="709" left="65" width="281" height="15" font="5">   Sediment by Extraction, D473 = $134.00</text>
+<text top="727" left="65" width="242" height="15" font="5">   Water by Distillation, D95 = $97.00</text>
+<text top="744" left="65" width="344" height="15" font="5">   Total Sediment by Hot Filtration, D4870 = $199.00</text>
+<text top="761" left="65" width="197" height="15" font="5">   Aluminum, IP501 = $797.00</text>
+<text top="778" left="65" width="177" height="15" font="5">   Silicon, IP501 = Included</text>
+<text top="795" left="65" width="200" height="15" font="5">   Vanadium, IP501 = Included</text>
+<text top="812" left="65" width="188" height="15" font="5">   Sodium,  IP501 = Included</text>
+<text top="829" left="65" width="218" height="15" font="5">   Potassium, IP501-M = $197.00</text>
+<text top="846" left="65" width="253" height="15" font="5">   Carbon/Hydrogen, D5291 = $359.00</text>
+<text top="863" left="65" width="227" height="15" font="5">   BMCI, PPCO-7317-BH = $34.00</text>
+<text top="504" left="681" width="58" height="15" font="5">3,133.00</text>
+<text top="504" left="792" width="58" height="15" font="5">3,133.00</text>
+<text top="1131" left="437" width="43" height="13" font="1">Page 2</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="81" left="54" width="128" height="127" src="./../output_data/1234/560/Inv300686/Inv300686-3_1.jpg"/>
+<text top="77" left="430" width="72" height="16" font="0"><b>Remit to:</b></text>
+<text top="119" left="694" width="28" height="13" font="1">Date</text>
+<text top="151" left="672" width="74" height="16" font="2">8/31/2020</text>
+<text top="119" left="790" width="39" height="13" font="1">Inv No</text>
+<text top="151" left="780" width="60" height="18" font="3"><b>300686</b></text>
+<text top="240" left="79" width="50" height="13" font="1">BILL TO</text>
+<text top="268" left="65" width="219" height="18" font="4">ExxonMobil Oil Corporation</text>
+<text top="289" left="65" width="186" height="18" font="4">Attn: Accounts Payable</text>
+<text top="310" left="65" width="292" height="18" font="4">22777 Springwoods Village Parkway</text>
+<text top="330" left="65" width="145" height="18" font="4">Spring, TX  77389</text>
+<text top="240" left="609" width="138" height="15" font="5">JOB INFORMATION</text>
+<text top="268" left="497" width="124" height="18" font="4">Web 241 &amp; 248</text>
+<text top="289" left="497" width="84" height="18" font="4">CSO/MCB</text>
+<text top="310" left="497" width="160" height="18" font="4">Report of Discharge</text>
+<text top="330" left="497" width="54" height="18" font="4">at PFT</text>
+<text top="351" left="497" width="148" height="18" font="4">Mt. Airy, Louisiana</text>
+<text top="97" left="269" width="278" height="18" font="3"><b>Coastal Gulf &amp; International, Inc.</b></text>
+<text top="120" left="291" width="235" height="15" font="6"><b>Routing 065402423  acct 3113892</b></text>
+<text top="138" left="281" width="254" height="15" font="6"><b>PO Box 429  Kenner, LA 70063-0429</b></text>
+<text top="156" left="334" width="148" height="15" font="6"><b>985-785-0765 ext 213</b></text>
+<text top="402" left="99" width="52" height="13" font="1">P.O. No.</text>
+<text top="402" left="237" width="167" height="15" font="6"><b>USEBARGFIN-2008-072</b></text>
+<text top="1042" left="412" width="47" height="16" font="2">Terms</text>
+<text top="1042" left="536" width="49" height="16" font="2">30 Net</text>
+<text top="409" left="618" width="79" height="13" font="1">Date Worked</text>
+<text top="442" left="625" width="66" height="15" font="5">8/29/2020</text>
+<text top="409" left="749" width="73" height="13" font="1">File Number</text>
+<text top="442" left="766" width="41" height="15" font="6"><b>98697</b></text>
+<text top="436" left="74" width="100" height="13" font="1">Scheduler Name</text>
+<text top="436" left="266" width="109" height="15" font="6"><b>Scott Friedman</b></text>
+<text top="1021" left="83" width="250" height="18" font="4">We understand that you have a</text>
+<text top="1042" left="81" width="254" height="18" font="4">choice . . .  Thanks for choosing</text>
+<text top="1063" left="193" width="32" height="18" font="4">CGI</text>
+<text top="477" left="268" width="67" height="13" font="1">Description</text>
+<text top="477" left="572" width="21" height="13" font="1">Qty</text>
+<text top="477" left="669" width="28" height="13" font="1">Rate</text>
+<text top="477" left="780" width="46" height="13" font="1">Amount</text>
+<text top="504" left="65" width="268" height="15" font="5">Analysis of Shore Tank# 216 (M1 Slate):</text>
+<text top="521" left="65" width="224" height="15" font="5">   H2S in Vapor, D5705 = $118.00</text>
+<text top="538" left="65" width="207" height="15" font="5">   API Gravity, D 4052 = $56.00</text>
+<text top="556" left="65" width="231" height="15" font="5">   Sulfur Content, D4294 = $153.00</text>
+<text top="573" left="65" width="301" height="15" font="5">   Viscosity - SUS @ 210*F, D2161 = $154.00</text>
+<text top="590" left="65" width="195" height="15" font="5">   Flash Point, D93B = $79.00</text>
+<text top="607" left="65" width="209" height="15" font="5">   Ash Content, D482 = $189.00</text>
+<text top="624" left="65" width="189" height="15" font="5">   Pour Point, D97 = $100.00</text>
+<text top="641" left="65" width="213" height="15" font="5">   Asphaltenes, IP143 = $189.00</text>
+<text top="658" left="65" width="179" height="15" font="5">   MCRT, D4530 = $110.00</text>
+<text top="675" left="65" width="281" height="15" font="5">   Sediment by Extraction, D473 = $134.00</text>
+<text top="692" left="65" width="242" height="15" font="5">   Water by Distillation, D95 = $97.00</text>
+<text top="709" left="65" width="344" height="15" font="5">   Total Sediment by Hot Filtration, D4870 = $199.00</text>
+<text top="727" left="65" width="197" height="15" font="5">   Aluminum, IP501 = $797.00</text>
+<text top="744" left="65" width="177" height="15" font="5">   Silicon, IP501 = Included</text>
+<text top="761" left="65" width="200" height="15" font="5">   Vanadium, IP501 = Included</text>
+<text top="778" left="65" width="188" height="15" font="5">   Sodium,  IP501 = Included</text>
+<text top="795" left="65" width="218" height="15" font="5">   Potassium, IP501-M = $197.00</text>
+<text top="812" left="65" width="253" height="15" font="5">   Carbon/Hydrogen, D5291 = $359.00</text>
+<text top="829" left="65" width="227" height="15" font="5">   BMCI, PPCO-7317-BH = $34.00</text>
+<text top="504" left="681" width="58" height="15" font="5">2,965.00</text>
+<text top="504" left="792" width="58" height="15" font="5">2,965.00</text>
+<text top="863" left="65" width="55" height="15" font="5">Subtotal</text>
+<text top="863" left="792" width="58" height="15" font="5">9,422.00</text>
+<text top="880" left="65" width="255" height="15" font="5">Navarik E-Enablement Discount (15%)</text>
+<text top="880" left="676" width="56" height="15" font="5">-15.00%</text>
+<text top="880" left="787" width="63" height="15" font="5">-1,413.30</text>
+<text top="898" left="65" width="55" height="15" font="5">Subtotal</text>
+<text top="898" left="792" width="58" height="15" font="5">8,008.70</text>
+<text top="1131" left="437" width="43" height="13" font="1">Page 3</text>
+<text top="1005" left="572" width="133" height="16" font="0"><b>INVOICE TOTAL:</b></text>
+<text top="1005" left="779" width="80" height="18" font="3"><b>$8,008.70</b></text>
+</page>
+</pdf2xml>

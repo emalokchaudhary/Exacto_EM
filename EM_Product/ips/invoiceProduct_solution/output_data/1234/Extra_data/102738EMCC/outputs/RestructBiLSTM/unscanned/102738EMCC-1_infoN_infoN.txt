@@ -1,0 +1,52 @@
+                                  COASTAL GULF &
+                                INTERNATIONAL, INC.
+                                                 "Precision"
+                                           Inspection & Analytical
+                                                   Services
+                                2104 South Southland Ave. Gonzales, LA 70737
+                                  Phone (225) 231-4990 Fax (225) 231-7875                          Assuring accuracy through expertise!
+
+Vessel:                 Chem 3248                                              Date:               April 15, 2021
+Product:                Benzene                                                Terminal:           Ergon
+Subject:                Report of Loading                                      Port:               Baton Rouge, Louisiana
+EMCC Ref. #: 5403168-10                                                        File Number:        102738
+
+                                                         RECAPITULATION
+                OFFICIAL QUANTITY                                                           FOR REFERENCE ONLY
+
+SHORE FIGURES                                QUANTITY                           BARGE FIGURES                            QUANTITY
+Barrels                                           25,071.64                    Barrels                                        25,260.50
+Gallons                                        1,053,008.88                    Gallons                                     1,060,941.00
+Pounds                                         7,756,674.00                    Pounds                                      7,815,104.00
+Metric Tons                                       3,518.372                    Metric Tons                                    3,544.876
+Short Tons                                        3,878.337                    Short Tons                                     3,907.552
+Long Tons                                         3,462.801                    Long Tons                                      3,488.886
+
+
+                                                             For Comparison only
+                              VEF:               1.00420                         Barge With VEF Applied:           25,154.85
+
+BARGE FIGURES In Barrels
+BARGE                                         ARRIVAL                             DEPARTURE                            DIFFERENCE
+Chem 3248                                       0.00                                25,260.50                            25,260.50
+
+
+
+
+TOV BARRELS                                        0.00                                25,494.06                            25,494.06
+
+                                Survey was peformed by CGI Surveyor Joseph McQueen
+                              Table Benzene D1555 used for Volume Correction purposes
+                            Surveyor equipment verified daily using Certified Thermometer
+                          Conditions during the inspection were Calm; between 00' and 01' Seas
+
+           Survey performed as per and strictly adhering to methods set forth by API Chapters 3, 7, 8, 12, & 17
+
+     "All CGI measurement devices and methods used for quantity and quality determination meet the pertinent
+               requirements of 40 CFR 98.3 et. Seq. (Greenhouse Gas Mandatory Reporting Rule)"
+
+
+Coastal Gulf & International, Inc.
+Rusty Mitchell
+Gonzales Communication Center                                                                                           Version 7.0 06-05-13 NLE
+

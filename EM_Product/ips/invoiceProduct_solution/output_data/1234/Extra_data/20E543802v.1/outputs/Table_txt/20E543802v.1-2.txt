@@ -1,0 +1,2 @@
+ Test                              Methods        Min      Max        UOM   Typical   R.O.         Req.       Comment
+ Retain sample -90 days            [OTHER] n/a                                        No           Yes

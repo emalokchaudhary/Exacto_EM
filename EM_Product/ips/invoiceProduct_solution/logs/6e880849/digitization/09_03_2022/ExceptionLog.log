@@ -1,0 +1,19 @@
+
+2022-03-09 06:29:56,325:__main__:
+Filename: Receipt_2022-03-02_163454.pdf. Error occurred in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 332, in digitize_main
+    for page_no in range(pdf_reader.numPages):
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/PyPDF2/pdf.py", line 1158, in <lambda>
+    numPages = property(lambda self: self.getNumPages(), None, None)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/PyPDF2/pdf.py", line 1155, in getNumPages
+    self._flatten()
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/PyPDF2/pdf.py", line 1505, in _flatten
+    catalog = self.trailer["/Root"].getObject()
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/PyPDF2/generic.py", line 516, in __getitem__
+    return dict.__getitem__(self, key).getObject()
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/PyPDF2/generic.py", line 178, in getObject
+    return self.pdf.getObject(self).getObject()
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/PyPDF2/pdf.py", line 1604, in getObject
+    % (indirectReference.idnum, indirectReference.generation, idnum, generation))
+PyPDF2.utils.PdfReadError: Expected object ID (5 0) does not match actual (4 0); xref table not zero-indexed.

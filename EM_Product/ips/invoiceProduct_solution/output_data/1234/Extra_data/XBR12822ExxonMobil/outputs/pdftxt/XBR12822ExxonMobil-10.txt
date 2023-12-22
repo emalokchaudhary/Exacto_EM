@@ -1,0 +1,59 @@
+CLEANED !!!
+                                COASTAL GULF &
+                              INTERNATIONAL, INC.                                   VESSEL EXPERIENCE FACTOR SEQUENTIAL
+                                               "Precision"
+                                         Inspection & Analytical
+                                                Services
+                                 P.O. Box 429 Kenner, LA. 70063-429
+                                Phone (985)785-0765 Fax (985)785-1328                                                                                                                  Assuring accuracy through expertise!
+
+Vessel:             CBC 183                                                                                                                     Date:      December 13, 2020
+
+Type of Movement:              Loading
+                                                                                                                                                                           Step 2
+                                                                                                    Enter all units as Barrels                                              Qual
+                                                                                                                                                                   Step 1 Voy            Qualifying Voyages
+                                                                                     Vessel                          Vessel                                        Gross (+0.30
+       Voyage  Cargo                                Terminal or                      Sailing          Vessel          Load               Outturn                   Error > %) Y/N       Vessel               Shore
+ Cargo Number Description                              Port               Date        TCV              OBQ            TCV                 TCV           Ratio       2%?      ?           TCV                 TCV
+      Last                 142 Solvent       Lemont (United States)     9-Apr-16         9,002.96                 0        9,002.96         8,943.65     1.00663                  NO
+      2nd                  Benzene           Lemont (United States)     23-Jan-16       13,970.17                 0       13,970.17        13,328.83     1.04812    YES           NO
+       3rd                 Lube Oil 110N     Lake Charles (United       30-Apr-15       10,033.84              14.42      10,019.42        10,025.99     0.99934               YES         10,019.42           10,025.99
+                                             States)
+          4th              Meta-Xylene       Texas City (United         1-Oct-13        13,888.25                 0       13,888.25        13,870.65     1.00127               YES         13888.25             13870.65
+                                             States)
+          5th              Orthoxylene       Channahon (United          20-Aug-13                                          9,688.83         9,638.85     1.00519                  NO
+                                             States)
+          6th              Meta-Xylene       Texas City (United         7-Feb-13        12,392.46                         12,392.46        12,314.25     1.00635                  NO
+                                             States)
+          7th 12-META0 Meta-Xylene           Texas City (United         22-Nov-12       13,750.45                         13,750.45        13,811.36     0.99559                  NO
+                                             States)
+          8th 12-META- Meta-Xylene           Texas City (United         7-Feb-12        13,814.67                         13,814.67        13,822.31     0.99945               YES         13,814.67           13,822.31
+                  0                          States)
+          9th 11-MX035 Meta-Xylene           Texas City (United         15-Dec-11       13,846.28                 0       13,846.28        13,823.68     1.00163               YES         13846.28             13823.68
+                                             States)
+      10th 11-MX015 Meta-Xylene              Texas City (United         25-Jun-11       13,829.93                         13,829.93        13,800.76     1.00211               YES         13,829.93           13,800.76
+                                             States)
+      11th 11-MX002 Meta-Xylene              Texas City (United         28-Jan-11       16,033.84                         16,033.84        16,016.24      1.0011               YES         16,033.84           16,016.24
+                                             States)
+      12th                 Ethanol           Argo (United States)       18-Jul-10       17,006.56                         17,006.56        16,973.57     1.00194               YES         17,006.56           16,973.57
+      13th 10-MX014 Meta-Xylene              Texas City (United         20-Jun-10       13,824.85                         13,824.85        13,813.37     1.00083               YES         13,824.85           13,813.37
+                                             States)
+      14th 09-MX001 Meta-Xylene              Texas City (United         15-Jan-09       15,535.74                         15,535.74        16,194.08     0.95935    YES           NO
+                                             States)
+
+
+
+
+                                                                                                    Totals:            157,098.50         156,854.68                         Totals:     112,263.80          112,146.57
+Voyages excluded                                                                                     Average TCV Ratio:                      1.00155                        TCV vessel/ TCV shore:           1.00105
+ A. Voyages where only vessel measurements were available
+ B. Maiden voyage and voyage following dry dock                                                                                                                              VEF =          1.0010
+ C. Voyages prior to vessels last dry dock, unless verified that:
+                no desludging was performed                                                                                           Qualifying Range (excluding Gross Errors)
+          no significant structural, measurement equipment, tables                                                                        LOW:          0.99855     HIGH:    1.00456
+          or procedural changes were made affecting vessel measurement
+ D. Voyages where the VLR or VDR is less than 0.98000 or greater than 1.02000
+ E. When the VLR or VDR is not within + or - 0.3% of the ratio of the totals of vessels and shore quantities
+ F. Voyages where the vessel's figures are known to be inaccurate
+ 

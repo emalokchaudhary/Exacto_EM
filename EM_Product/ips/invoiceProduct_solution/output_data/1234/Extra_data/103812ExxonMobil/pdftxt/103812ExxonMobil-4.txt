@@ -1,0 +1,52 @@
+                                          COASTAL GULF &
+                                        INTERNATIONAL, INC.
+                                                         "Precision"
+                                                   Inspection & Analytical
+                                                           Services
+                                           2104 S Southland, Gonzales, LA 70737
+                                          Phone (225) 231-4990 Fax (225) 231-7875                                       Assuring accuracy through expertise!
+
+Vessel:                     Ionic Artemis                                                      Date:                    June 2, 2021
+Product:                    HSVGO                                                              Terminal:                ExxonMobil
+Subject:                    Report of Discharge                                                Port:                    Baton Rouge, Louisiana
+ExxonMobil Ref. #: 5497396                                                                     File Number:             103812
+
+
+                                         SHORE TANK MEASUREMENT REPORT
+              SHORE                                               TEMP.                 T.O.V.                                  G.S.V,
+              TANK                   INNAGE                       DEG. F               BARRELS             FACTOR              BARRELS
+                 182
+
+              6/1/2021            03' 11 1/2"           87.8                            11,475.42
+                0838             Water Volume          00' 00"                             0.00               API
+             Ambient                  Shell Correction                                   1.00035              21.6
+              Temp.                   Roof Correction                                      0.00
+               87.0                                                                     11,479.44           0.98844             11,346.74
+              6/2/2021            43' 07 7/8"          130.9                           111,278.26
+                1415             Water Volume          00' 00"                            0.00                API
+             Ambient                  Shell Correction                                  1.00082               21.6
+              Temp.                   Roof Correction                                     0.00
+               90.3                                                                    111,369.51           0.97037            108,069.63
+                                                  0.0
+                                                 0.00                                         Line Quantity
+            Insulated                             No                                                  TCV:                       96,722.89
+            Working Temp                         60.0                                               TOTAL:                      96,722.89
+            Open: Tape Serial #: 20280 Probe Serial #: 1b153958 Close: Tape Serial #: 20278 Probe Serial #: MK2S0249
+
+                       Opening Gauge Height                             Reference Gauge Height                     Closing Gauge Height
+                             51' 05 1/4"                                        51' 05 1/4"                            51' 04 5/8"
+                                                                                                  TOTAL QUANTITY
+                 TEMPERATURE                                                        Barrels @ 60 °F                  96,722.89
+               OPEN           CLOSE                                                 Gallons @ 60 °F               4,062,361.38
+                               131.1        UPPER                                   Pounds                       31,267,996.00
+                87.8           130.9        MIDDLE                                  Metric Tons                     14,182.941
+                               130.7        LOWER                                   Short Tons                      15,633.998
+                     87.8           130.9 AVERAGE                                   Long Tons                       13,958.927
+                                                                                    Pounds per Gallon                    7.697
+                                                                                    API Gravity @ 60°F                   21.60
+
+
+Coastal Gulf & International, Inc.
+Jon Herrington
+Gonzales Communication Center                                                                                                               Version 7.1 04-19-20 JMH
+

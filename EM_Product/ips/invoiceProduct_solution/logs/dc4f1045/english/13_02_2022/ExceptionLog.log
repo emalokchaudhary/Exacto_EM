@@ -1,0 +1,18 @@
+
+2022-02-13 05:30:45,935:__main__:
+Filename: Pipers_v5lhqht.pdf. Error occured in ocr module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 314, in __single_doc_process
+    ocr_success, text_files_path, phase, ocr_flag = drive_ocr_flow(esett.OCR_MODEL_PATHS, document_path, output_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 77, in drive_ocr_flow
+    return ocr_success, text_files_path, phase, ocr_flag
+UnboundLocalError: local variable 'text_files_path' referenced before assignment
+
+2022-02-13 05:31:31,085:__main__:
+Filename: Pipers_v5lhqht.pdf. Error occured in ocr module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 314, in __single_doc_process
+    ocr_success, text_files_path, phase, ocr_flag = drive_ocr_flow(esett.OCR_MODEL_PATHS, document_path, output_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 77, in drive_ocr_flow
+    return ocr_success, text_files_path, phase, ocr_flag
+UnboundLocalError: local variable 'text_files_path' referenced before assignment

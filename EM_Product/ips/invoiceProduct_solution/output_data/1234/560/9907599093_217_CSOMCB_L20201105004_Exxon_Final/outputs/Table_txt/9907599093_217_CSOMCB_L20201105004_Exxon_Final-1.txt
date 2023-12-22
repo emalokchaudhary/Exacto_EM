@@ -1,0 +1,26 @@
+     Sample Type:                          Composite                             Sample Location:                         ST 217
+                                                                                                                              Spec
+Method                  Component                                         Result                           Units         Min   -   Max        Off-Spec
+D4052                   API Gravity at 60 F                               -2.3                                                  -
+D4052                   Specific Gravity at 15.5 /15.5 C                  1.0957                                                -
+D4294M                  Sulfur Content (Normalized)                       2.37                             wt%                  -
+D445                    Viscosity - Kinematic at 50 C                     467.5                            cSt                  -
+D4530                   Micro Carbon Residue Test                         11.6                             % (m/m)              -
+D482                    Ash Content                                       0.082                            mass %               -
+D5291M                  Carbon (Normalized)                               89.45                            mass %               -
+D5291M                  Hydrogen (Normalized)                             7.97                             mass %               -
+D5762M                  Nitrogen (Normalized)                             0.210                            wt%                  -
+D93B                    Flash Point                                       179                               F                   -
+D97                     Pour Point                                        64.4                              F                   -
+IP143                   Asphaltenes                                       4.9                              % (m/m)              -
+IP501M                  Aluminum                                          168                              ppm                  -
+IP501M                  Potassium                                         0.5                              ppm                  -
+IP501M                  Sodium                                            3.1                              ppm                  -
+IP501M                  Silicon                                           135                              ppm                  -
+IP501M                  Vanadium                                          2.3                              ppm                  -
+IP501M                  Zinc                                              22                               ppm                  -
+
+
+
+
+X                                                                                                    X

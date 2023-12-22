@@ -1,0 +1,131 @@
+
+2022-02-16 06:34:58,323:__main__:
+Filename: PNG 3.png. Error occurred in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 315, in digitize_main
+    pdf_path = check_and_convert_extension(pdf_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/multiple_format_to_pdf.py", line 41, in check_and_convert_extension
+    pdf_bytes = img2pdf.convert(imagePath)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 2102, in convert
+    ) in read_images(rawdata, kwargs["colorspace"], kwargs["first_frame_only"]):
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 1483, in read_images
+    imgdata, imgformat, default_dpi, colorspace, rawdata
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 1189, in get_imgmetadata
+    raise AlphaChannelError("Refusing to work on images with alpha channel")
+img2pdf.AlphaChannelError: Refusing to work on images with alpha channel
+
+2022-02-16 06:35:19,477:__main__:
+Filename: PNG 3.png. Error occurred in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 315, in digitize_main
+    pdf_path = check_and_convert_extension(pdf_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/multiple_format_to_pdf.py", line 41, in check_and_convert_extension
+    pdf_bytes = img2pdf.convert(imagePath)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 2102, in convert
+    ) in read_images(rawdata, kwargs["colorspace"], kwargs["first_frame_only"]):
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 1483, in read_images
+    imgdata, imgformat, default_dpi, colorspace, rawdata
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 1189, in get_imgmetadata
+    raise AlphaChannelError("Refusing to work on images with alpha channel")
+img2pdf.AlphaChannelError: Refusing to work on images with alpha channel
+
+2022-02-16 06:35:19,477:__main__:
+Filename: PNG 3.png. Error occurred in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 315, in digitize_main
+    pdf_path = check_and_convert_extension(pdf_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/multiple_format_to_pdf.py", line 41, in check_and_convert_extension
+    pdf_bytes = img2pdf.convert(imagePath)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 2102, in convert
+    ) in read_images(rawdata, kwargs["colorspace"], kwargs["first_frame_only"]):
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 1483, in read_images
+    imgdata, imgformat, default_dpi, colorspace, rawdata
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 1189, in get_imgmetadata
+    raise AlphaChannelError("Refusing to work on images with alpha channel")
+img2pdf.AlphaChannelError: Refusing to work on images with alpha channel
+
+2022-02-16 06:40:23,794:__main__:
+Filename: PNG 3.png. Error occurred in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 315, in digitize_main
+    pdf_path = check_and_convert_extension(pdf_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/multiple_format_to_pdf.py", line 41, in check_and_convert_extension
+    pdf_bytes = img2pdf.convert(imagePath)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 2102, in convert
+    ) in read_images(rawdata, kwargs["colorspace"], kwargs["first_frame_only"]):
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 1483, in read_images
+    imgdata, imgformat, default_dpi, colorspace, rawdata
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 1189, in get_imgmetadata
+    raise AlphaChannelError("Refusing to work on images with alpha channel")
+img2pdf.AlphaChannelError: Refusing to work on images with alpha channel
+
+2022-02-16 06:40:23,794:__main__:
+Filename: PNG 3.png. Error occurred in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 315, in digitize_main
+    pdf_path = check_and_convert_extension(pdf_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/multiple_format_to_pdf.py", line 41, in check_and_convert_extension
+    pdf_bytes = img2pdf.convert(imagePath)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 2102, in convert
+    ) in read_images(rawdata, kwargs["colorspace"], kwargs["first_frame_only"]):
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 1483, in read_images
+    imgdata, imgformat, default_dpi, colorspace, rawdata
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 1189, in get_imgmetadata
+    raise AlphaChannelError("Refusing to work on images with alpha channel")
+img2pdf.AlphaChannelError: Refusing to work on images with alpha channel
+
+2022-02-16 06:40:23,794:__main__:
+Filename: PNG 3.png. Error occurred in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 315, in digitize_main
+    pdf_path = check_and_convert_extension(pdf_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/multiple_format_to_pdf.py", line 41, in check_and_convert_extension
+    pdf_bytes = img2pdf.convert(imagePath)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 2102, in convert
+    ) in read_images(rawdata, kwargs["colorspace"], kwargs["first_frame_only"]):
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 1483, in read_images
+    imgdata, imgformat, default_dpi, colorspace, rawdata
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 1189, in get_imgmetadata
+    raise AlphaChannelError("Refusing to work on images with alpha channel")
+img2pdf.AlphaChannelError: Refusing to work on images with alpha channel
+
+2022-02-16 11:33:02,484:__main__:
+Filename: PNG 3.png. Error occurred in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 315, in digitize_main
+    pdf_path = check_and_convert_extension(pdf_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/multiple_format_to_pdf.py", line 41, in check_and_convert_extension
+    pdf_bytes = img2pdf.convert(imagePath)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 2102, in convert
+    ) in read_images(rawdata, kwargs["colorspace"], kwargs["first_frame_only"]):
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 1483, in read_images
+    imgdata, imgformat, default_dpi, colorspace, rawdata
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 1189, in get_imgmetadata
+    raise AlphaChannelError("Refusing to work on images with alpha channel")
+img2pdf.AlphaChannelError: Refusing to work on images with alpha channel
+
+2022-02-16 11:36:33,222:__main__:
+Filename: PNG 3.png. Error occurred in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 315, in digitize_main
+    pdf_path = check_and_convert_extension(pdf_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/multiple_format_to_pdf.py", line 41, in check_and_convert_extension
+    pdf_bytes = img2pdf.convert(imagePath)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 2102, in convert
+    ) in read_images(rawdata, kwargs["colorspace"], kwargs["first_frame_only"]):
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 1483, in read_images
+    imgdata, imgformat, default_dpi, colorspace, rawdata
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 1189, in get_imgmetadata
+    raise AlphaChannelError("Refusing to work on images with alpha channel")
+img2pdf.AlphaChannelError: Refusing to work on images with alpha channel
+
+2022-02-16 11:56:16,174:__main__:
+Filename: Bordereau 1014726 du 23-07-2020.pdf. Error occurred in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 330, in digitize_main
+    pdf_reader = PdfFileReader(open(pdf_path, "rb"))
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/PyPDF2/pdf.py", line 1084, in __init__
+    self.read(stream)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/PyPDF2/pdf.py", line 1883, in read
+    stream.seek(-11, 1)
+OSError: [Errno 22] Invalid argument

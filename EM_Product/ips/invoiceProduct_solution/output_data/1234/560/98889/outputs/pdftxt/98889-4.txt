@@ -1,0 +1,55 @@
+CLEANED !!!
+                                    COASTAL GULF &
+                                  INTERNATIONAL, INC.
+                                                 "Precision"
+                                           Inspection & Analytical
+                                                   Services
+                                     13615 River Road, Luling, LA. 70070
+                                   Phone (985)785-0765 Fax (985)785-1328                                     Assuring accuracy through expertise!
+Vessel:      EMS 3009 & 3041B                                                      Date:                 October 2, 2020
+Product: CSO/MCB                                                                  Terminal:              P.F.T
+Subject: Report of Loading                                                        Port:                  MT Airy, Louisiana
+ExxonMobil Ref. #: 5048618                                                        File Number:           98889
+Cabot Ref. #: 108258-117517
+                                               VESSEL MEASUREMENT REPORT
+                                                               EMS 3009 UPON ARRIVAL
+             Obs. Gauge      Gauge         Temp.               T.O.V.                  Water               API                        G.S.V
+  Tank         Height         (Ft.)         ( F)               Barrels       Gauge             Barrels    @ 60  F    V.C. F           Barrels
+  1 Port       12' 02"     00' 02 1/2"      60.0                78.18        00' 00"            0.00       -2.8      1.00000           78.18
+  1 Stbd     12' 01 3/4"   00' 03 1/4"      60.0                93.06        00' 00"            0.00       -2.8      1.00000           93.06
+  2 Port     12' 00 1/4"     00' 05"        60.0               161.95        00' 00"            0.00       -2.8      1.00000          161.95
+  2 Stbd     12' 00 1/2"   00' 04 1/4"      60.0               131.11        00' 00"            0.00       -2.8      1.00000          131.11
+  3 Port     11' 11 1/2"   00' 06 3/4"      60.0               209.06        00' 00"            0.00       -2.8      1.00000          209.06
+  3 Stbd     11' 11 1/4"     00' 06"        60.0               185.84        00' 00"            0.00       -2.8      1.00000          185.84
+
+
+
+
+Tape Serial #: 21609       Probe Serial #: 9A-11009                          0' 00"             0.00                Total:                    859.20
+                                             60.0 T.O.V. bbls Total              859.20
+                                                               EMS 3009 UPON DEPARTURE
+             Obs. Gauge      Gauge         Temp.               T.O.V.                  Water               API                        G.S.V
+  Tank         Height         (Ft.)         ( F)               Barrels       Gauge             Barrels    @ 60  F    V.C. F           Barrels
+  1 Port       12' 02"     10' 05 1/4"     128.4              3,843.71       00' 00"            0.00       -2.8      0.97714         3,755.84
+  1 Stbd     12' 01 3/4"   10' 02 1/2"     128.3              3,751.66       00' 00"            0.00       -2.8      0.97717         3,666.01
+  2 Port     12' 00 1/4"     10' 02"       128.6              3,770.23       00' 00"            0.00       -2.8      0.97707         3,683.78
+  2 Stbd     12' 00 1/2"   10' 01 3/4"     128.4              3,754.81       00' 00"            0.00       -2.8      0.97714         3,668.98
+  3 Port     11' 11 1/2"   09' 03 1/4"     128.5              3,442.82       00' 00"            0.00       -2.8      0.97710         3,363.98
+  3 Stbd     11' 11 1/4"   09' 05 1/4"     128.6              3,495.69       00' 00"            0.00       -2.8      0.97707         3,415.53
+
+
+
+
+Tape Serial #: 21609       Probe Serial #: 9A-11009                                             0.00                Total:                21,554.12
+Arrival:                                     128.5       T.O.V. bbls Total    22,058.92              QUANTITY RECEIVED
+Fwd Port:     02' 00"        Fwd Stbd: 02' 00"                                             Barrels @ 60  F             20,694.92
+ Aft Port:    02' 00"        Aft Stbd.: 02' 00"                                            Gallons @ 60  F            869,186.64
+Departure:                                                                                 TCV Barrels                 20,694.92
+Fwd Port:     10' 06"        Fwd Stbd: 10' 06"                                             Pounds                   7,960,011.00
+ Aft Port:    10' 06"        Aft Stbd.: 10' 06"                                            Metric Tons                 3,610.605
+                                                                                           Short Tons                  3,980.006
+                                                                                           Long Tons                   3,553.576
+Coastal Gulf & International, Inc.                                                         Lbs / Gallon                                       9.158
+Bentley Kraemer                                                                            API Gravity @ 60 F                                   -2.80
+Central Communication Center                                                                                                   Version 7.0 06-05-13 NLE
+ 

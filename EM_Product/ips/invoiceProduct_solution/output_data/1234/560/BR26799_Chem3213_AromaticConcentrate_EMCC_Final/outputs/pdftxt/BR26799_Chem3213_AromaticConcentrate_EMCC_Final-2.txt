@@ -1,0 +1,53 @@
+CLEANED !!!
+Detailed Hydrocarbon Analysis Summary Report -                                                            Report Date: 9/2/2020 11:16:10 AM
+
+RawFile: C:\Chem32\2\DATA\090220A\081920B 2020-09-02 03-23-19\103F0301.D\103F0301.CDF                     Acquired: 02-Sep-20, 07:13:34
+Sample: 090220-002                                                                                        Analyzed: 9/2/2020 11:16:10 AM
+Processed 97 Peaks
+Reference File: C:\Chem32\2\References\PONA VII_MASTER.DHA
+                                                                                                          Normalized to 100.0000%
+Location: DEFAULT
+
+
+
+
+                                                                SUMMARY REPORT
+                               Group Type            Total(Mass%)            Total(Vol%)        Total(Mol%)
+                                  Paraffins:          17.6987                19.3882            17.9336
+                                 I-Paraffins:         47.6183                50.9754            43.6818
+                                    Olefins:          0.9897                 1.0188             0.9749
+                              Naphthenes:             4.9723                 4.8111             5.1125
+                                 Aromatics:           28.6742                23.7579            32.2538
+                               Total C14+:            0.0000                 0.0000             0.0000
+                          Total Unknowns:             0.0468                 0.0486             0.0434
+
+
+
+
+   Oxygenates:
+
+                 Total:                         0.0000(Mass%)          0.0000(Vol%)
+
+                 Total Oxygen Content:          0.0000(Mass%)
+
+
+   Multisubstituted Aromatics:                  0.0133(Mass%)          0.0111(Vol%)
+
+   Average Molecular Weight: 89.5700
+
+   Relative Density: 0.7270
+
+   Reid Vapor Pressure @ 100F: 0.8865psi - 6.1120kPa
+
+   Calculated Octane Number: 66.3
+   Motor Octane Number (Jenkins Calculation): 62.0
+
+                                       IBP           T10            T50                T90           FBP
+   BP by Mass (Deg F)                  136.36        155.71                            197.33        231.13
+    BP by Vol (Deg F)                  136.36        155.71         176.16             197.33        231.13
+
+   Percent Carbon: 86.1281                                                             Percent Hydrogen: 13.8719
+   Bromine Number (D1169): 0.0000
+   Bromine Index (D2710): 0.0000                                                       MAV (IFP9407): 5.3367
+   Diene Value (DV UOP326): 2.7626
+ 

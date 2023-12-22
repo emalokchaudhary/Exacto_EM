@@ -1,0 +1,41 @@
+CLEANED !!!
+                              COASTAL GULF &
+                            INTERNATIONAL, INC.
+                                             "Precision"
+                                       Inspection & Analytical
+                                               Services
+                            2104 South Southland Ave. Gonzales, LA 70737
+                              Phone (225) 231-4990 Fax (225) 231-7875                                              Assuring accuracy through expertise!
+
+Vessel:               CBC 333 & 7035                                             Date:                 August 21, 2020
+Product:              CSO/MCB                                                    Terminal:             Apex
+Subject:              Report of Discharge                                        Port:                 Port Allen, Louisiana
+ExxonMobil Ref. #: 4971503                                                       File Number:          BR26763
+
+                                               GAUGE HEIGHT REPORT
+                                           Barge Name:                           CBC 333
+    Tank No.            Observed Gauge Height Open                         Reference Gauge Height         Observed Gauge Height Close
+           1P                     15' 00 1/4''                                    15' 01"                             15' 00 1/4''
+           1S                     15' 00 3/4''                                    15' 01"                             15' 00 3/4''
+           2P                     15' 00 3/4''                                    15' 01"                             15' 00 3/4''
+           2S                       15' 00''                                     15' 0 1/2"                             15' 00''
+           3P                     15' 00 3/4''                                    15' 01"                             15' 00 3/4''
+           3S                     14' 11 3/4''                                    15' 01"                             14' 11 3/4''
+
+
+
+
+                                     ANCILLARY TANK MEAURMENTS
+                       Tank No.                       Observed Arrival Measurment             Observed Departure Measurment
+                        FWD                                           00' 00"                            00' 00"
+                         AFT                                          00' 00"                            00' 00"
+                        PORT                                          00' 00"                            00' 00"
+                        STBD                                          00' 00"                            00' 00"
+
+
+
+
+Coastal Gulf & International, Inc.
+Zachary Ural
+Gonzales Communication Center                                                                                              Version 7.0 06-05-13 NLE
+ 

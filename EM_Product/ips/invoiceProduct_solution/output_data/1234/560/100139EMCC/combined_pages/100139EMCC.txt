@@ -1,0 +1,139 @@
+                                  COASTAL GULF &
+                                INTERNATIONAL, INC.
+                                                    "Precision"
+                                              Inspection & Analytical
+                                                      Services
+                                      2104 S Southland, Gonzales, LA 70737
+                                     Phone (225) 231-4990 Fax (225) 231-7875                            Assuring accuracy through expertise!
+
+Vessel:                 CBC 1388                                               Date:                    December 31, 2020
+Product:                IPA                                                    Terminal:                ExxonMobil
+Subject:                Report of Loading                                      Port:                    Baton Rouge, Louisiana
+EMCC Ref. #: 5104721                                                           File Number:             100139
+
+
+                                                           RECAPITULATION
+
+
+
+                                                                   BARGE FIGURES
+                                         Barrels                                            10,282.66
+                                         Gallons                                           431,871.72
+                                         Pounds                                          2,843,012.00
+                                         Metric Tons                                        1,289.570
+                                         Short Tons                                         1,421.506
+                                         Long Tons                                          1,269.202
+
+                                                         No Qualifying VEF Available
+
+
+BARGE FIGURES In Barrels
+BARGE                                            ARRIVAL                          DEPARTURE                                  DIFFERENCE
+CBC 1388                                           8.07                             10,290.73                                  10,282.66
+
+
+
+
+TOV BARRELS                                           8.07                             10,349.72                                 10,341.65
+
+                           Survey was peformed by CGI Surveyor A,B,C,and D TEAMS
+                                  Table IPA used for Volume Correction purposes
+                          Surveyor equipment verified daily using Certified Thermometer
+                        Conditions during the inspection were Calm; between 00' and 01' Seas
+          "Survey performed as per and strictly adhering to methods set forth by API Chapters 3,7,8,17 & 12"
+      "All CGI measurement devices and methods used for quantity and quality determination meet the pertinent
+                 requirements of 40 CFR 98.3 et. Seq. (Greenhouse Gas Mandatory Reporting Rule)"
+
+
+
+Coastal Gulf & International, Inc.
+Jon Herrington
+Gonzales Communication Center                                                                                                Version 7.1 04-19-20 JMH
+                                 COASTAL GULF &
+                               INTERNATIONAL, INC.
+                                                "Precision"
+                                          Inspection & Analytical
+                                                  Services
+                                  2104 S Southland, Gonzales, LA 70737
+                                 Phone (225) 231-4990 Fax (225) 231-7875                  Assuring accuracy through expertise!
+
+Vessel:                  CBC 1388                                          Date:          December 31, 2020
+Product:                 IPA                                               Terminal:      ExxonMobil
+Subject:                 Report of Loading                                 Port:          Baton Rouge, Louisiana
+EMCC Ref. #: 5104721                                                       File Number:   100139
+
+
+                                                   TIME LOG OF EVENTS
+
+December 30, 2020           1155          hrs.     Barge(s) NOR Tendered
+December 30, 2020           1322          hrs.     Surveyor notified
+December 30, 2020           1324          hrs.     Barge(s) called in
+December 30, 2020           1650          hrs.     Barge(s) arrived
+December 30, 2020           1705          hrs.     Commenced arrival barge inspection
+December 30, 2020           1720          hrs.     Completed arrival barge inspection
+December 30, 2020           1740          hrs.     Barge(s) docked
+December 30, 2020           2040          hrs.     Cargo hose(s) connected
+December 30, 2020           2125          hrs.     Commenced transfer
+December 31, 2020           0150          hrs.     Surveyor notified
+December 31, 2020           0155          hrs.     Completed transfer
+December 31, 2020           0155          hrs.     Commenced departure barge inspection
+December 31, 2020           0250          hrs.     Completed departure barge inspection
+December 31, 2020           0340          hrs.     Cargo hose(s) disconnected
+December 31, 2020           0514          hrs.     Barge(s) Released
+December 31, 2020           0635          hrs.     Barge(s) Sailed
+
+
+
+
+Coastal Gulf & International, Inc.
+Jon Herrington
+Gonzales Communication Center                                                                                    Version 7.1 04-19-20 JMH
+                                         COASTAL GULF &
+                                       INTERNATIONAL, INC.
+                                                        "Precision"
+                                                  Inspection & Analytical
+                                                          Services
+                                           2104 S Southland, Gonzales, LA 70737
+                                         Phone (225) 231-4990 Fax (225) 231-7875                                    Assuring accuracy through expertise!
+Vessel:       CBC 1388                                                                   Date:                  December 31, 2020
+Product: IPA                                                                             Terminal:              ExxonMobil
+Subject: Report of Loading                                                               Port:                  Baton Rouge, Louisiana
+EMCC Ref. #: 5104721                                                                     File Number:           100139
+
+
+                                                      VESSEL MEASUREMENT REPORT
+                                                                      CBC 1388 UPON ARRIVAL                              Ambient Temp °F: 68.0
+               Obs. Gauge      Gauge (Ft.)       Temp.                T.O.V.                  Water                                              G.S.V
+   Tank          Height          Ullage           (°F)                Barrels      Gauge              Barrels                   V.C. F           Barrels
+    1C         17' 06 1/4"     16' 04 3/4"        60.0                 8.07        00' 00''            0.00                    1.00000            8.07
+    2C         17' 06 3/4"     16' 07 1/4"        60.0                 0.00        00' 00''            0.00        0.0         1.00000            0.00
+    3C         17' 07 1/4"     16' 07 1/2"        60.0                 0.00        00' 00''            0.00        0.0         1.00000            0.00
+
+
+
+
+Tape Serial #: 27599   Probe Serial #: N/A                                                             0.00                   Total:                        8.07
+                                 Avg. Temp °F: 60.0            T.O.V. bbls Total          8.07
+                                                                      CBC 1388 UPON DEPARTURE                            Ambient Temp °F: 64.0
+               Obs. Gauge      Gauge (Ft.)       Temp.                T.O.V.                  Water                                               G.S.V
+   Tank          Height          Ullage           (°F)                Barrels      Gauge              Barrels                   V.C. F            Barrels
+    1C         17' 06 1/2"     02' 11 3/4"        69.9               3,309.62      00' 00''            0.00        0.0         0.99430           3,290.76
+    2C         17' 06 3/4"     03' 00 1/2"        70.2               3,810.93      00' 00''            0.00        0.0         0.99430           3,789.21
+    3C           17' 07"       03' 08 1/4"        70.2               3,229.17      00' 00''            0.00        0.0         0.99430           3,210.76
+
+
+
+
+Tape Serial #: 27599   Probe Serial #: 27599                                                           0.00                   Total:                 10,290.73
+Arrival:                         Avg. Temp °F: 70.1            T.O.V. bbls Total    10,349.72                 TOTAL QUANTITY
+ Fwd Port:       02' 06"          Fwd Stbd: 02' 06"                                               Barrels @ 60 °F              10,282.66
+  Aft Port:      02' 06"          Aft Stbd.: 02' 06"                                              Gallons @ 60 °F             431,871.72
+Departure:                                                                                        TCV Barrels                  10,282.66
+ Fwd Port:       08' 09"          Fwd Stbd: 08' 09"                                               Pounds                    2,843,012.00
+  Aft Port:      08' 09"          Aft Stbd.: 08' 09"                                              Metric Tons                  1,289.570
+   Trim or List Correction Applied:                 No                                            Short Tons                   1,421.506
+                                                                                                  Long Tons                    1,269.202
+Coastal Gulf & International, Inc.                                                                Lbs / Gallon                                           6.583
+Jon Herrington                                                                                    API Gravity @ 60°F
+Gonzales Communication Center                                                                                                             Version 7.1 04-19-20 JMH
+

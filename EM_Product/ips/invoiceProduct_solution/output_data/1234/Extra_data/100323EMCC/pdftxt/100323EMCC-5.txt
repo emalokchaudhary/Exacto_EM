@@ -1,0 +1,49 @@
+                                         COASTAL GULF &
+                                       INTERNATIONAL, INC.
+                                                        "Precision"
+                                                  Inspection & Analytical
+                                                          Services
+                                           2104 S Southland, Gonzales, LA 70737
+                                         Phone (225) 231-4990 Fax (225) 231-7875                                    Assuring accuracy through expertise!
+Vessel:       Kirby 10562                                                                Date:                  January 27, 2021
+Product: Heptene                                                                         Terminal:              ExxonMobil
+Subject: Report of Discharge                                                             Port:                  Baton Rouge, Louisiana
+EMCC Ref. #: 5067731                                                                     File Number:           100323
+
+
+                                                      VESSEL MEASUREMENT REPORT
+                                                                   Kirby 10562 UPON ARRIVAL                              Ambient Temp °F: 70.0
+               Obs. Gauge      Gauge (Ft.)       Temp.                T.O.V.                  Water                                               G.S.V
+   Tank          Height          Ullage           (°F)                Barrels      Gauge              Barrels                   V.C. F            Barrels
+    1C         18' 04 1/2"     04' 02 1/2"        51.0               3,077.32      00' 00"             0.00        0.0         1.00590           3,095.48
+    2C           18' 04"       04' 05 3/4"        49.7               3,040.27      00' 00"             0.00        0.0         1.00650           3,060.03
+    3C         18' 04 1/4"     04' 07 1/8"        50.5               3,021.17      00' 00"             0.00        0.0         1.00650           3,040.81
+
+
+
+
+Tape Serial #: 6137   Probe Serial #: 6137                                                             0.00                   Total:                  9,196.32
+                                 Avg. Temp °F: 50.4            T.O.V. bbls Total     9,138.76
+                                                                   Kirby 10562 UPON DEPARTURE                            Ambient Temp °F: 56.5
+               Obs. Gauge      Gauge (Ft.)       Temp.                T.O.V.                  Water                                              G.S.V
+   Tank          Height          Ullage           (°F)                Barrels      Gauge              Barrels                   V.C. F           Barrels
+    1C         18' 04 1/2"     16' 10 1/4''       60.0                 0.00        00' 00''            0.00        0.0         1.00000            0.00
+    2C           18' 04"       16' 09 3/4''       60.0                 0.00        00' 00''            0.00        0.0         1.00000            0.00
+    3C         18' 04 1/4"     16' 10 1/8''       60.0                 0.00        00' 00''            0.00        0.0         1.00000            0.00
+
+
+
+
+Tape Serial #: 6137   Probe Serial #: N/A                                                              0.00                   Total:                        0.00
+Arrival:                         Avg. Temp °F: 60.0            T.O.V. bbls Total          0.00                TOTAL QUANTITY
+ Fwd Port:       08' 00"          Fwd Stbd: 08' 00"                                               Barrels @ 60 °F               9,196.32
+  Aft Port:      08' 00"          Aft Stbd.: 08' 00"                                              Gallons @ 60 °F             386,245.44
+Departure:                                                                                        TCV Barrels                   9,196.32
+ Fwd Port:       02' 00''         Fwd Stbd: 02' 00''                                              Pounds                    2,290,435.00
+  Aft Port:      02' 00''         Aft Stbd.: 02' 00''                                             Metric Tons                  1,038.925
+   Trim or List Correction Applied:                 No                                            Short Tons                   1,145.218
+                                                                                                  Long Tons                    1,022.516
+Coastal Gulf & International, Inc.                                                                Lbs / Gallon                                              5.93
+Jon Herrington                                                                                    API Gravity @ 60°F                                        0.00
+Gonzales Communication Center                                                                                                             Version 7.1 04-19-20 JMH
+

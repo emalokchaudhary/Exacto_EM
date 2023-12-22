@@ -1,0 +1,120 @@
+
+2022-05-16 06:35:10,827:__main__:
+Filename: 2.png. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 561, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 131, in drive_nlp_flow
+    custom_field_dict = custom_extractor_obj.extract_custom_fields()
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 119, in extract_custom_fields
+    for base_fname in self.pattern_files_dict:
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 45, in pattern_files_dict
+    for file in os.listdir(self.pattern_folderpath):
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/pradeep/eips/exacto/static/eips_data/user_active_learning_data/ece8ac87/default_configuration'
+
+2022-05-16 06:35:11,044:__main__:
+Filename: 2.png. Error occured in Business rules.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 187, in run_exacto
+    business_rule_final_dict = business_rules(business_rule_prev_dict['static'], business_user_id, config_id, company_code)
+UnboundLocalError: local variable 'business_rule_prev_dict' referenced before assignment
+
+2022-05-16 06:35:54,881:__main__:
+Filename: 3.png. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 561, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 131, in drive_nlp_flow
+    custom_field_dict = custom_extractor_obj.extract_custom_fields()
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 119, in extract_custom_fields
+    for base_fname in self.pattern_files_dict:
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 45, in pattern_files_dict
+    for file in os.listdir(self.pattern_folderpath):
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/pradeep/eips/exacto/static/eips_data/user_active_learning_data/ece8ac87/default_configuration'
+
+2022-05-16 06:35:54,881:__main__:
+Filename: 3.png. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 561, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 131, in drive_nlp_flow
+    custom_field_dict = custom_extractor_obj.extract_custom_fields()
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 119, in extract_custom_fields
+    for base_fname in self.pattern_files_dict:
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 45, in pattern_files_dict
+    for file in os.listdir(self.pattern_folderpath):
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/pradeep/eips/exacto/static/eips_data/user_active_learning_data/ece8ac87/default_configuration'
+
+2022-05-16 06:35:55,051:__main__:
+Filename: 3.png. Error occured in Business rules.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 187, in run_exacto
+    business_rule_final_dict = business_rules(business_rule_prev_dict['static'], business_user_id, config_id, company_code)
+UnboundLocalError: local variable 'business_rule_prev_dict' referenced before assignment
+
+2022-05-16 06:35:55,051:__main__:
+Filename: 3.png. Error occured in Business rules.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 187, in run_exacto
+    business_rule_final_dict = business_rules(business_rule_prev_dict['static'], business_user_id, config_id, company_code)
+UnboundLocalError: local variable 'business_rule_prev_dict' referenced before assignment
+
+2022-05-16 06:39:41,138:__main__:
+Filename: asdf.PDF. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 561, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 131, in drive_nlp_flow
+    custom_field_dict = custom_extractor_obj.extract_custom_fields()
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 119, in extract_custom_fields
+    for base_fname in self.pattern_files_dict:
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 45, in pattern_files_dict
+    for file in os.listdir(self.pattern_folderpath):
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/pradeep/eips/exacto/static/eips_data/user_active_learning_data/ece8ac87/default_configuration'
+
+2022-05-16 06:39:41,138:__main__:
+Filename: asdf.PDF. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 561, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 131, in drive_nlp_flow
+    custom_field_dict = custom_extractor_obj.extract_custom_fields()
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 119, in extract_custom_fields
+    for base_fname in self.pattern_files_dict:
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 45, in pattern_files_dict
+    for file in os.listdir(self.pattern_folderpath):
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/pradeep/eips/exacto/static/eips_data/user_active_learning_data/ece8ac87/default_configuration'
+
+2022-05-16 06:39:41,138:__main__:
+Filename: asdf.PDF. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 561, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 131, in drive_nlp_flow
+    custom_field_dict = custom_extractor_obj.extract_custom_fields()
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 119, in extract_custom_fields
+    for base_fname in self.pattern_files_dict:
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 45, in pattern_files_dict
+    for file in os.listdir(self.pattern_folderpath):
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/pradeep/eips/exacto/static/eips_data/user_active_learning_data/ece8ac87/default_configuration'
+
+2022-05-16 06:39:41,223:__main__:
+Filename: asdf.PDF. Error occured in Business rules.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 187, in run_exacto
+    business_rule_final_dict = business_rules(business_rule_prev_dict['static'], business_user_id, config_id, company_code)
+UnboundLocalError: local variable 'business_rule_prev_dict' referenced before assignment
+
+2022-05-16 06:39:41,223:__main__:
+Filename: asdf.PDF. Error occured in Business rules.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 187, in run_exacto
+    business_rule_final_dict = business_rules(business_rule_prev_dict['static'], business_user_id, config_id, company_code)
+UnboundLocalError: local variable 'business_rule_prev_dict' referenced before assignment
+
+2022-05-16 06:39:41,223:__main__:
+Filename: asdf.PDF. Error occured in Business rules.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 187, in run_exacto
+    business_rule_final_dict = business_rules(business_rule_prev_dict['static'], business_user_id, config_id, company_code)
+UnboundLocalError: local variable 'business_rule_prev_dict' referenced before assignment

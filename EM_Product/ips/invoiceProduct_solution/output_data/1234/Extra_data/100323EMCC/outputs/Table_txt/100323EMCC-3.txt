@@ -1,0 +1,7 @@
+Product:                  Heptene                                                  Terminal:      ExxonMobil
+Subject:                  Report of    Discharge                                   Port:          Baton Rouge, Louisiana
+EMCC Ref. #: 5067731                                                               File Number:   100323
+                                                     VOYAGE ANALYSIS
+OUTTURN COMPARISON                                                   DATE                         NET BARRELS
+Load port Terminal:          Vopak, Deer Park                              January 7, 2021                 9,234.98
+Discharge Terminal:             ExxonMobil                                 January 27, 2021                9,188.00

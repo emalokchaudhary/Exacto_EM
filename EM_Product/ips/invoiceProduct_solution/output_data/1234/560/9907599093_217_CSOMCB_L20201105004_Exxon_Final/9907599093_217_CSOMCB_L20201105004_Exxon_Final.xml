@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="20.11.0">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="21" family="AAAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="1" size="11" family="AAAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="2" size="12" family="AAAAAB+Arial" color="#000000"/>
+	<fontspec id="3" size="13" family="AAAAAB+Arial" color="#000000"/>
+	<fontspec id="4" size="13" family="AAAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="5" size="10" family="AAAAAB+Arial" color="#000000"/>
+	<fontspec id="6" size="13" family="ArialMT" color="#000000"/>
+<image top="27" left="27" width="75" height="75" src="./../output_data/1234/560/9907599093_217_CSOMCB_L20201105004_Exxon_Final/9907599093_217_CSOMCB_L20201105004_Exxon_Final-1_1.png"/>
+<image top="715" left="641" width="144" height="37" src="./../output_data/1234/560/9907599093_217_CSOMCB_L20201105004_Exxon_Final/9907599093_217_CSOMCB_L20201105004_Exxon_Final-1_2.png"/>
+<image top="700" left="72" width="158" height="56" src="./../output_data/1234/560/9907599093_217_CSOMCB_L20201105004_Exxon_Final/9907599093_217_CSOMCB_L20201105004_Exxon_Final-1_3.png"/>
+<text top="56" left="347" width="224" height="24" font="0"><b>Certificate of Analysis</b></text>
+<text top="84" left="667" width="70" height="13" font="1"><b>Report Date:</b></text>
+<text top="82" left="750" width="123" height="14" font="2">11/6/2020 12:59:24PM</text>
+<text top="174" left="696" width="52" height="15" font="3">5107066</text>
+<text top="120" left="703" width="37" height="15" font="3">99093</text>
+<text top="120" left="228" width="135" height="15" font="3">Shore Tank 215 to 217</text>
+<text top="121" left="36" width="117" height="15" font="4"><b>Vessel/Equipment:</b></text>
+<text top="157" left="67" width="54" height="15" font="4"><b>Product:</b></text>
+<text top="175" left="65" width="58" height="15" font="4"><b>Terminal:</b></text>
+<text top="121" left="473" width="80" height="15" font="4"><b>File Number:</b></text>
+<text top="157" left="493" width="41" height="15" font="4"><b>Client:</b></text>
+<text top="175" left="459" width="108" height="15" font="4"><b>Client Reference:</b></text>
+<text top="174" left="246" width="99" height="15" font="3">PFT, Mt. Airy, LA</text>
+<text top="192" left="271" width="50" height="15" font="3">Transfer</text>
+<text top="156" left="264" width="63" height="15" font="3">CSO/MCB</text>
+<text top="139" left="472" width="81" height="15" font="4"><b>Lab Number:</b></text>
+<text top="138" left="677" width="89" height="15" font="3">L20201105004</text>
+<text top="156" left="687" width="69" height="15" font="3">ExxonMobil</text>
+<text top="193" left="69" width="52" height="15" font="4"><b>Subject:</b></text>
+<text top="138" left="284" width="22" height="15" font="3">217</text>
+<text top="139" left="59" width="71" height="15" font="4"><b>Shore Tank</b></text>
+<text top="215" left="277" width="37" height="15" font="3">85007</text>
+<text top="233" left="264" width="64" height="15" font="3">Composite</text>
+<text top="233" left="700" width="43" height="15" font="3">ST 217</text>
+<text top="271" left="692" width="104" height="15" font="3">Min       -       Max</text>
+<text top="271" left="815" width="53" height="15" font="3">Off-Spec</text>
+<text top="253" left="728" width="31" height="15" font="3">Spec</text>
+<text top="271" left="589" width="31" height="15" font="3">Units</text>
+<text top="271" left="429" width="38" height="15" font="3">Result</text>
+<text top="271" left="153" width="69" height="15" font="3">Component</text>
+<text top="271" left="27" width="45" height="15" font="3">Method</text>
+<text top="217" left="42" width="104" height="15" font="4"><b>Sample Number:</b></text>
+<text top="235" left="458" width="109" height="15" font="4"><b>Sample Location:</b></text>
+<text top="235" left="52" width="84" height="15" font="4"><b>Sample Type:</b></text>
+<text top="296" left="27" width="40" height="15" font="3">D4052</text>
+<text top="296" left="153" width="115" height="15" font="3">API Gravity at 60°F</text>
+<text top="296" left="429" width="23" height="15" font="3">-2.3</text>
+<text top="298" left="736" width="4" height="15" font="3">-</text>
+<text top="318" left="27" width="40" height="15" font="3">D4052</text>
+<text top="318" left="153" width="188" height="15" font="3">Specific Gravity at 15.5°/15.5°C</text>
+<text top="318" left="429" width="41" height="15" font="3">1.0957</text>
+<text top="320" left="736" width="4" height="15" font="3">-</text>
+<text top="362" left="27" width="32" height="15" font="3">D445</text>
+<text top="362" left="153" width="172" height="15" font="3">Viscosity - Kinematic at 50°C</text>
+<text top="362" left="429" width="34" height="15" font="3">467.5</text>
+<text top="362" left="589" width="19" height="15" font="3">cSt</text>
+<text top="363" left="736" width="4" height="15" font="3">-</text>
+<text top="384" left="27" width="40" height="15" font="3">D4530</text>
+<text top="384" left="153" width="162" height="15" font="3">Micro Carbon Residue Test</text>
+<text top="384" left="429" width="25" height="15" font="3">11.6</text>
+<text top="384" left="589" width="51" height="15" font="3">% (m/m)</text>
+<text top="385" left="736" width="4" height="15" font="3">-</text>
+<text top="406" left="27" width="32" height="15" font="3">D482</text>
+<text top="406" left="153" width="74" height="15" font="3">Ash Content</text>
+<text top="406" left="429" width="34" height="15" font="3">0.082</text>
+<text top="406" left="589" width="48" height="15" font="3">mass %</text>
+<text top="407" left="736" width="4" height="15" font="3">-</text>
+<text top="494" left="27" width="34" height="15" font="3">D93B</text>
+<text top="494" left="153" width="67" height="15" font="3">Flash Point</text>
+<text top="494" left="429" width="22" height="15" font="3">179</text>
+<text top="494" left="589" width="14" height="15" font="3">°F</text>
+<text top="495" left="736" width="4" height="15" font="3">-</text>
+<text top="516" left="27" width="25" height="15" font="3">D97</text>
+<text top="516" left="153" width="63" height="15" font="3">Pour Point</text>
+<text top="516" left="429" width="26" height="15" font="3">64.4</text>
+<text top="516" left="589" width="14" height="15" font="3">°F</text>
+<text top="517" left="736" width="4" height="15" font="3">-</text>
+<text top="538" left="27" width="35" height="15" font="3">IP143</text>
+<text top="538" left="153" width="74" height="15" font="3">Asphaltenes</text>
+<text top="538" left="429" width="19" height="15" font="3">4.9</text>
+<text top="538" left="589" width="51" height="15" font="3">% (m/m)</text>
+<text top="539" left="736" width="4" height="15" font="3">-</text>
+<text top="560" left="27" width="46" height="15" font="3">IP501M</text>
+<text top="560" left="153" width="60" height="15" font="3">Aluminum</text>
+<text top="560" left="429" width="22" height="15" font="3">168</text>
+<text top="560" left="589" width="26" height="15" font="3">ppm</text>
+<text top="561" left="736" width="4" height="15" font="3">-</text>
+<text top="582" left="27" width="46" height="15" font="3">IP501M</text>
+<text top="582" left="153" width="63" height="15" font="3">Potassium</text>
+<text top="582" left="429" width="19" height="15" font="3">0.5</text>
+<text top="582" left="589" width="26" height="15" font="3">ppm</text>
+<text top="583" left="736" width="4" height="15" font="3">-</text>
+<text top="604" left="27" width="46" height="15" font="3">IP501M</text>
+<text top="604" left="153" width="46" height="15" font="3">Sodium</text>
+<text top="604" left="429" width="19" height="15" font="3">3.1</text>
+<text top="604" left="589" width="26" height="15" font="3">ppm</text>
+<text top="605" left="736" width="4" height="15" font="3">-</text>
+<text top="626" left="27" width="46" height="15" font="3">IP501M</text>
+<text top="626" left="153" width="40" height="15" font="3">Silicon</text>
+<text top="626" left="429" width="22" height="15" font="3">135</text>
+<text top="626" left="589" width="26" height="15" font="3">ppm</text>
+<text top="627" left="736" width="4" height="15" font="3">-</text>
+<text top="648" left="27" width="46" height="15" font="3">IP501M</text>
+<text top="648" left="153" width="59" height="15" font="3">Vanadium</text>
+<text top="648" left="429" width="19" height="15" font="3">2.3</text>
+<text top="648" left="589" width="26" height="15" font="3">ppm</text>
+<text top="649" left="736" width="4" height="15" font="3">-</text>
+<text top="670" left="27" width="46" height="15" font="3">IP501M</text>
+<text top="670" left="153" width="25" height="15" font="3">Zinc</text>
+<text top="670" left="429" width="15" height="15" font="3">22</text>
+<text top="670" left="589" width="26" height="15" font="3">ppm</text>
+<text top="671" left="736" width="4" height="15" font="3">-</text>
+<text top="792" left="567" width="81" height="15" font="3">Reviewed by:</text>
+<text top="792" left="675" width="86" height="15" font="3">Glenn Hanson</text>
+<text top="810" left="675" width="111" height="15" font="3">VP of Laboratories</text>
+<text top="792" left="33" width="46" height="15" font="3">Signed:</text>
+<text top="747" left="27" width="13" height="15" font="3">X </text>
+<text top="744" left="568" width="13" height="15" font="3">X </text>
+<text top="791" left="102" width="77" height="15" font="3">Kody Dauzat</text>
+<text top="809" left="102" width="137" height="15" font="3">Assistant Lab Manager</text>
+<text top="1142" left="455" width="7" height="15" font="3">1</text>
+<text top="1097" left="372" width="172" height="12" font="5">13615 River Road, Luling, LA 70070</text>
+<text top="1115" left="333" width="251" height="12" font="5">Phone: (985) 785-0765   Email: cgi@coastalgulf.com</text>
+<text top="1142" left="99" width="15" height="15" font="3">18</text>
+<text top="427" left="27" width="40" height="15" font="3">D5291</text>
+<text top="427" left="67" width="11" height="15" font="6">M</text>
+<text top="427" left="153" width="44" height="15" font="3">Carbon</text>
+<text top="427" left="197" width="81" height="15" font="6"> (Normalized)</text>
+<text top="427" left="429" width="34" height="15" font="3">89.45</text>
+<text top="427" left="589" width="48" height="15" font="3">mass %</text>
+<text top="427" left="736" width="4" height="15" font="3">-</text>
+<text top="449" left="27" width="40" height="15" font="3">D5291</text>
+<text top="449" left="67" width="11" height="15" font="6">M</text>
+<text top="449" left="153" width="58" height="15" font="3">Hydrogen</text>
+<text top="449" left="211" width="81" height="15" font="6"> (Normalized)</text>
+<text top="449" left="429" width="26" height="15" font="3">7.97</text>
+<text top="449" left="589" width="48" height="15" font="3">mass %</text>
+<text top="449" left="736" width="4" height="15" font="3">-</text>
+<text top="471" left="27" width="40" height="15" font="3">D5762</text>
+<text top="471" left="67" width="11" height="15" font="6">M</text>
+<text top="471" left="153" width="51" height="15" font="3">Nitrogen</text>
+<text top="471" left="204" width="81" height="15" font="6"> (Normalized)</text>
+<text top="471" left="429" width="34" height="15" font="3">0.210</text>
+<text top="471" left="589" width="25" height="15" font="3">wt%</text>
+<text top="471" left="736" width="4" height="15" font="3">-</text>
+<text top="340" left="27" width="40" height="15" font="3">D4294</text>
+<text top="340" left="67" width="11" height="15" font="6">M</text>
+<text top="340" left="153" width="86" height="15" font="3">Sulfur Content</text>
+<text top="340" left="239" width="81" height="15" font="6"> (Normalized)</text>
+<text top="340" left="429" width="26" height="15" font="3">2.37</text>
+<text top="340" left="589" width="25" height="15" font="3">wt%</text>
+<text top="340" left="736" width="4" height="15" font="3">-</text>
+</page>
+</pdf2xml>

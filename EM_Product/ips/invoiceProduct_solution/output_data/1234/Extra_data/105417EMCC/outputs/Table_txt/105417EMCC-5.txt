@@ -1,0 +1,32 @@
+Product:              Benzene                                                    Terminal:               Total
+Subject:              Report of Discharge                                        Port:                   Carville, Louisiana
+EMCC Ref. #: 5618157-20                                                          File Number:            105417
+
+                                               GAUGE HEIGHT REPORT
+                                           Barge Name:                           Chem 3248
+    Tank No.            Observed Gauge Height Open                         Reference Gauge Height           Observed Gauge Height Close
+           1P                      16' 01 3/4''                                  16' 01 3/4''                            16' 01 3/4''
+           1S                        16' 02''                                      16' 02''                                16' 02''
+           2P                      16' 01 3/4''                                  16' 01 3/4''                            16' 01 3/4''
+           2S                      16' 01 3/4''                                  16' 01 3/4''                            16' 01 3/4''
+           3P                        16' 01''                                      16' 01''                                16' 01''
+           3S                        16' 01''                                      16' 01''                                16' 01''
+
+
+
+
+                                     ANCILLARY TANK MEAURMENTS
+                      Tank No.                        Observed Arrival Measurment               Observed Departure Measurment
+                       Fwd Port                                       00' 00''                             00' 00''
+                       Fwd Stbd                                       00' 00''                             00' 00''
+                       Mid Port                                       00' 00''                             00' 00''
+                       Mid Stbd                                       00' 00''                             00' 00''
+                        Aft Port                                      00' 00''                             00' 00''
+                       Aft Stbd                                       00' 00''                             00' 00''
+
+
+
+
+Coastal Gulf & International, Inc.
+Rusty Mitchell
+Gonzales Communication Center                                                                                                  Version 7.0 06-05-13 NLE

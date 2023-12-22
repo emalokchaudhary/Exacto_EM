@@ -1,0 +1,52 @@
+CLEANED !!!
+                                           COASTAL GULF &
+                                         INTERNATIONAL, INC.
+                                                           "Precision"
+                                                    Inspection & Analytical
+                                                             Services
+                                         1900 Industrial Park Rd. Neederland, TX 77628
+                                           Phone (409) 853-1150 Fax (409) 853-1465                                                               Assuring accuracy through expertise!
+
+Vessel:        FMT 6010                                                                                Date:                    September 1, 2020
+Product: Benzene                                                                                      Terminal:                 Motiva
+Subject: Report of Discharge                                                                          Port:                     Port Neches, Texas
+ExxonMobil Ref. #: USEBARGARO-2008-066                                                                File Number: BT11076
+
+Barge: FMT 6010                                       VESSEL ULLAGE REPORT
+                                  Trim / List                                                                                               V.C.F.               G.S.V.
+     Tank           Ullage        Corrected Temp.                     T.O.V.                       Water         API                         Table               Barrels
+      No.            (Ft.)                     ( F)                   Barrels               (Ft.)      Barrels  @ 60  F                     D1555                @ 60 F
+1P                 07' 08 1/2"     07' 08 1/2" 88.4                       2,758.30         00' 00"          0.00 28.5                      0.981160                  2,706.33
+1S                07' 09 1/2"     07' 09 1/2" 88.5                        2,727.93         00' 00"          0.00 28.5                      0.981100                  2,676.37
+2P                07' 07 1/4"     07' 07 1/4" 88.4                        3,590.91         00' 00"          0.00 28.5                      0.981160                  3,523.26
+2S                08' 01 00"      08' 01 00"   88.4                       3,413.74         00' 00"          0.00 28.5                      0.981160                  3,349.43
+3P                07' 03 00"      07' 03 00"   88.5                       3,677.39         00' 00"          0.00 28.5                      0.981100                  3,607.89
+3S                07' 05 1/2"     07' 05 1/2" 88.2                        3,618.10         00' 00"          0.00 28.5                      0.981300                  3,550.44
+
+
+
+
+                                                      88.4                 19,786.37                                   0.00                                            19,413.72
+      Water finding Paste:       Kolor Kut                       Type of Stand Pipe:                N/A                     Gauge Point Location:        Stand Pipe
+  Weather /Sea Conditions:       Clear                                                       Vessel Measurments Taken By:                 Inspector Michael Linscomb
+                                  Gauge Tape Serial #: 5559 Calibration Date: 11-25-2019 PET Serial #: n/a Calibration Date: n/a
+         Equipment Used:                 Inspector                    Vessel Equipment (If Used):         N/A
+
+            Quantities:                      T.C.V.                    G.S.V.                   N.S.V.                      Vessel Line Conditions:                               Full
+Barrels @60  F.                                   19,413.72                  19,413.72                 19,413.72       Fwd. Drafts:                                           08' 06"
+Gallons @ 60 F.                                  815,376.24                 815,376.24                815,376.24       Aft Drafts:                                            08' 06"
+Pounds                                          6,004,431.00              6,004,431.00               6,004,431.00      List                                                          0
+Metric Tons (Air)                                 2,723.567                  2,723.567                 2,723.567       API @ 60 F                                                28.5
+Metric Tons (Vac)                                 2,729.732                  2,729.732                 2,729.732       Lbs Per Gallon Factor                                    7.364
+Short Tons                                        3,002.216                  3,002.216                 3,002.216       S&W %:                                                0.000%
+Long Tons                                         2,680.550                  2,680.550                 2,680.550
+Cubic Meters @ 15 C                               3,086.535                  3,086.535                 3,086.535    Vessel Signature:
+
+Liters                                         3,086,533.373             3,086,533.373              3,086,533.373   Date:
+
+
+Coastal Gulf & International, Inc.                             All Manual Gauges and Temps. And Samples were taking in accordance to API MPMS Chapters 3,1A,7,8.1 and
+                                                               8.2. Volume Correction for Temperatures are based on ASTM 1250 orTerminal/Supplier tables, for which CGI
+Eddie Parker                                                   can assume no responsibility.
+Port Arthur Communication Center                                                                                                                               Version 8.0 05-15-15 NLE
+ 

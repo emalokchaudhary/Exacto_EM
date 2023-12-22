@@ -1,0 +1,30 @@
+                              COASTAL GULF &
+                            INTERNATIONAL, INC.
+                                               "Precision"
+                                         Inspection & Analytical
+                                                 Services
+                                 2104 S Southland, Gonzales, LA 70737
+                 ®              Phone (225) 231-4990 Fax (225) 231-7875                                         Assuring accuracy through expertise!
+
+Vessel:              Ionic Artemis                                                Date:                June 2, 2021
+Product:             HSVGO                                                        Terminal:            ExxonMobil
+Subject:             Report of Discharge                                          Port:                Baton Rouge, Louisiana
+ExxonMobil Ref. #: 5497396                                                        File Number:         103812
+
+                                                 GAUGE HEIGHT REPORT
+                                             Vessel Name:                      Ionic Artemis
+     Tank No.             Reference Gauge Height                          Observed Gauge Height Open     Observed Gauge Height Close
+        2P                            20.908                                        20.908                           20.908
+        2S                            20.901                                        20.901                           20.901
+        5P                            20.911                                        20.911                           20.911
+        5S                            20.906                                        20.906                           20.906
+      Slop P                          20.905                                        20.905                           20.905
+      Slop S                          20.906                                        20.906                           20.906
+
+
+
+
+Coastal Gulf & International, Inc.
+Jon Herrington
+Gonzales Communication Center                                                                                           Version 7.1 04-19-20 JMH
+

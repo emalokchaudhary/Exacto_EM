@@ -1,0 +1,765 @@
+ExxonMobil Oil Corporation
+22777 Springwoods Village Parkway
+Spring, TX 77389
+
+Attention                  : Diana Lopez
+                                                                        Contents
+MOVEMENT                   : Load                                        Voyage Analysis Report
+                                                                         Shore Tank Quantity
+VESSEL                     : EMS - 321 & 365                             Vessel Quantity Report
+LOCATION                   : KMI - Pasadena, TX                          Line Displacement
+                                                                         Timelog
+File N°                    : PAS-150747                                  Analytical Report
+DATE                       : 01/20/2021 - 01/28/2021
+REFERENCE N°               : 5248844
+
+
+Dear Client,
+
+Please find attached our Inspection Report No. PAS-150747 corresponding to the Load operation of the
+captioned vessel, at place and date(s) shown above. The complete report is composed of individual field
+reports, which we believe are self-explanatory.
+
+
+We trust that this report supplies the proper input needed so that we comply with your requirements. Should
+there be any points that need further clarification, please do not hesitate to contact us.
+
+
+
+
+All Camin Cargo Control measurement devices and methods used for quantity and quality determination meet
+the pertinent requirements of 40 CFR 98.3 et. seq. (Greenhouse Gas Mandatory Reporting Rule)
+
+
+
+
+                                                                     Yours Sincerely,
+
+                                                                     Camin Cargo Control
+                                                                     1001 Shaw Avenue Pasadena, TX 77506
+                                                                     Phone: 713-910-4688
+                                                                     OpsPasadena@camincargo.com
+ EXXM00-75 / 558776                                                  www.camincargo.com
+
+
+
+
+                                                   Page 1 of 12
+                                           VOYAGE ANALYSIS REPORT N° PAS-150747
+VESSEL                 : EMS - 321 & 365                                                                                  MOVEMENT               : Load
+LOCATION               : KMI - Pasadena, TX                                                                               JOB COMPLETED          : 27-JAN-2021
+PRODUCT                : DIESEL                                                                                           REFERENCE N°           : 5248844
+
+                          Port                                                                                     VCF    Voyage#                  Gauge Date
+LOAD                     : KMI - Pasadena, TX                                                                      6B     N/A                      27-JAN-2021
+DISCHARGE
+Barrels @ 60 °F                         API @ 60 °F                  TCV                   FW                  GSV                  S&W                  NSV          Reference
+I. SHORE/SHORE COMPARISON-NOT AVAILABLE
+1.   Loading Quantity                         37.4           45,965.23                    0.00             45,965.23                   0.00          45,965.23
+2.   Outturn
+3.   Difference                                                                                                                                                       (2-1)
+4.   Difference %                                                                                                                                                     (3/1*100)
+     Adjusted TCV Difference                                                                                                                                          (3-b+l)
+
+
+II. VESSEL/SHORE COMPARISON AT LOADPORT
+a.   After Loading                                           45,929.82                    0.00             45,929.82                   Liquid            Non-Liquid
+b.   OBQ                                                             0.00                 0.00                     0.00
+
+c.   Vessel Received                                         45,929.82                    0.00             45,929.82                                                  (a-b)
+d.   Difference                                                 -35.41                    0.00                -35.41                                                  (c-1)
+e.   Difference %                                                -0.08                                         -0.08                                                  (d/1*100)
+f.   Load Ratio                                                      0.99923
+                                                                                                                                                                      (c/1)
+g.   VEF
+h.   Theoretical Shore                                                                                                                                                (c/g)
+i.   Theoretical Shore Diff.                                                                                                                                          (h-1)
+j.   Theoretical Shore Diff. %                                                                                                                                        (i/1*100)
+III. VESSEL/SHORE COMPARISON AT DISPORT-NOT AVAILABLE
+k.   Before Discharge                                                                                                                  Liquid            Non-Liquid
+l.   ROB
+m. Vessel Delivered                                                                                                                                                   (k-l)
+n.   Difference                                                                                                                                                       (2-m)
+o.   Difference %                                                                                                                                                     (n/2*100)
+p.   Discharge Ratio                                                                                                                                                  (m/2)
+q.   VEF
+r.   Theoretical Shore                                                                                                                                                (m/q)
+s.   Theoretical Shore Diff.                                                                                                                                          (2-r)
+t.   Theoretical Shore Diff. %                                                                                                                                        (s/2*100)
+IV. VESSEL IN TRANSIT COMPARISON-NOT AVAILABLE
+u.   In-Transit Diff.                                                                                                                                                 (k-a)
+v.   In-Transit Diff. %                                                                                                                Liquid            Non-Liquid (u/a*100)
+w. OBQ/ROB Difference                                                                                                                                                 (b-l)
+                          Adjusted TCV Difference                                                S&W at Loadport     0.000 %        S&W at Disport ---
+There are an insufficient number of voyages to compute a Load VEF.
+
+
+
+
+Calculated as per Chapter 17.5
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+1001 Shaw Avenue
+Pasadena, TX 77506
+Office Phone: 713-910-4688
+Email: OpsPasadena@camincargo.com
+
+EXXM00-75 / 558776 / January 29, 2021
+                                                                                     Page 2 of 12
+                                                  QUANTITY CERTIFICATE N° PAS- 150747
+                                                                                Based on Shore Measurements
+VESSEL                 : EMS - 321 & 365                                                                                             MOVEMENT      : Load
+LOCATION               : KMI - Pasadena, TX                                                                                          JOB COMPLETED : 27-JAN-2021
+PRODUCT                : DIESEL                                                         GRADE      : Resto del País                  REFERENCE N° : 5248844
+
+
+                                         Water        Water                     Roof                    Amb.                                                                   S&W
+         Gauge          TOV                                        CTSh                    GOV                       Temp.     API       VCF          GSV          S&W                          NSV
+                                         Gauge         Vol.                     Corr.                   Temp                                                                    Vol.
+Tank: 150-11                                          Ref. Gauge Ht: 56.11                             Gauge Date Open: 27-Jan 04:50                   Gauge Date Close: 27-Jan 20:50
+        Ft (Inn.)       Bbls              Ft            Bbls       Factor       Bbls        Bbls          °F          °F      @ 60°F      6B       Bbls @ 60°F     %          @ 60°F         Bbls @ 60°F
+ O       30.38          94,445.42              0.14     476.50     1.00004         9.50    93,982.18       59.0        63.8   37.4 (T)   0.99821      93,813.95        ---             ---      93,813.95
+ C       15.76          48,388.56              0.14     476.50     1.00004         9.50    47,923.48       57.0        63.3   37.4 (T)   0.99844      47,848.72        ---             ---      47,848.72
+                        46,056.86                              0                           46,058.70                                                  45,965.23                                 45,965.23
+                                                                                                       Line:                                                 ---
+                                                                                                       Adjustment:                                           ---
+
+S=Submitted / C=Calculated / T=Tested by CCC / W=Tested by Terminal/Refinery & Witnessed by CCC
+Totals computed using appropriate tables corresponding to Delivered API.
+
+
+                                                                            DIESEL - TOTAL QUANTITIES - DELIVERED
+TCV, Barrels @ 60 °F                             45,965.23              S&W             ---
+Free Water Barrels                                    0.00                       ---
+                                                 GSV                            NSV                                                                  GSW                          NSW
+Barrels @ 60 °F                                  45,965.23                     45,965.23            Long Tons - Air                                  6,012.010                    6,012.010
+Gallons @ 60 °F                             1,930,539.66                    1,930,539.66            Metric Tons - Air                                6,108.484                    6,108.484
+API Gravity @ 60 °F (T)                                 37.4                                        Short Tons - Air                                 6,733.451                    6,733.451
+Lb/Gal @ 60 °F                                   6.975719404                                        Kilograms - Air                             6,108,484.0                  6,108,484.0
+                                                                                                    Pounds - Air                               13,466,903.0                  13,466,903.0
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 1001 Shaw Avenue
+ Pasadena, TX 77506
+ Office Phone: 713-910-4688
+ Email: OpsPasadena@camincargo.com
+
+ EXXM00-75 / 558776 / January 29, 2021                                                          Page 3 of 12
+                                             VESSEL QUANTITY REPORT N° PAS-150747
+VESSEL                 : EMS - 321                                                                       MOVEMENT      : Load
+LOCATION               : KMI - Pasadena, TX                                                              JOB COMPLETED : 27-JAN-2021
+PRODUCT                : DIESEL                                                                          REFERENCE N° : 5248844
+Comp. Chart RH               Gauge                      TOV          Water              Water     Temp.        VCF     GSV @ 60 °F
+No    Ft-In                  Ft-In                      Bbls         Gauge               Bbls       °F         6B         Bbls
+1P        14-05    01/04     00-00   00/00               Nil             ----              Nil
+1S        14-05    03/04     00-00   00/00               Nil             ----              Nil
+2P        14-05    01/04     00-00   00/00               Nil             ----              Nil
+2S        14-05    00/00     00-00   00/00               Nil             ----              Nil
+3P        14-05    01/04     00-00   00/00               Nil             ----              Nil
+3S        14-05    01/04     00-00   00/00               Nil             ----              Nil
+                                                         Nil                               Nil
+
+
+
+Draft (Ft-in)        Fwd (P)                 Fwd (S)           Aft (P)          Aft (S)          Trim          List
+Before               02-00                   02-00             02-00            02-00            00-00 00/00   0.00
+Note:
+No Trim Correction was applied.
+Vessel was gauged/sampled using a Closed/Restricted System
+
+
+VESSEL QUANTITIES                            ARRIVAL
+TCV, Barrels @ 60 °F                             0.00
+Free Water Barrels                               0.00
+                                                 GSV
+Barrels @ 60 °F                                  0.00
+Gallons @ 60 °F                                  0.00
+API Gravity @ 60 °F
+Lb/Gal @ 60 °F
+
+
+
+
+ 1001 Shaw Avenue
+ Pasadena, TX 77506
+ Office Phone: 713-910-4688
+ Email: OpsPasadena@camincargo.com
+
+ EXXM00-75 / 558776 / January 29, 2021
+                                                                                Page 4 of 12
+                                            VESSEL QUANTITY REPORT N° PAS-150747
+VESSEL                 : EMS - 321                                                                                        MOVEMENT      : Load
+LOCATION               : KMI - Pasadena, TX                                                                               JOB COMPLETED : 27-JAN-2021
+PRODUCT                : DIESEL                                                                                           REFERENCE N° : 5248844
+Comp. Chart RH                 Phy GH         Gauge              TOV            Water               Water              Temp.          VCF    GSV @ 60 °F
+No      Ft-In                    Ft-In        Ft-In              Bbls           Gauge                Bbls                °F            6B         Bbls
+1P       14-05    01/04    16-05   01/02    10-09    01/02     3,976.01             ----               Nil               64.0      0.99811      3,968.50
+1S       14-05    03/04    16-06   00/00    10-09    01/02     3,976.01             ----               Nil               64.1      0.99807      3,968.34
+2P       14-05    01/04    16-05   01/02    10-06    03/04     3,909.66             ----               Nil               64.1      0.99807      3,902.11
+2S       14-05    00/00    16-05   01/02    10-06    03/04     3,909.66             ----               Nil               64.2      0.99802      3,901.92
+3P       14-05    01/04    16-05   03/04    11-02    00/00     3,889.57             ----               Nil               63.8      0.99821      3,882.61
+3S       14-05    01/04    16-05   03/04    11-06    01/02     3,975.30             ----               Nil               64.0      0.99811      3,967.79
+                                                             23,636.21                                    Nil            64.0                  23,591.27
+
+
+
+Draft (Ft-in)        Fwd (P)                 Fwd (S)            Aft (P)               Aft (S)                   Trim              List
+Before               02-00                   02-00              02-00                 02-00                     00-00 00/00       0.00
+After                09-00                   09-00              09-00                 09-00                     00-00 00/00       0.00
+Note:
+No Trim Correction was applied.
+Vessel was gauged/sampled using a Closed/Restricted System
+
+
+
+VESSEL QUANTITIES                          DEPARTURE                 RECEIVED
+TCV, Barrels @ 60 °F                        23,591.27                23,591.27           S&W         ---
+Free Water Barrels                               0.00                     0.00                       ---
+                                                 GSV                      GSV                         NSV                                         GSW             NSW
+Barrels @ 60 °F                             23,591.27                23,591.27                      23,591.27          Long Tons - Air           3,085.614       3,085.614
+Gallons @ 60 °F                            990,833.34               990,833.34                   990,833.34            Metric Tons - Air         3,135.129       3,135.129
+API Gravity @ 60 °F                             37.3(T)                   37.4(T)                                      Short Tons - Air          3,455.888       3,455.888
+Lb/Gal @ 60 °F                                 6.979857869                6.975719404                                  Kilograms - Air       3,135,129.0     3,135,129.0
+                                                                                                                       Pounds - Air          6,911,775.0     6,911,775.0
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 1001 Shaw Avenue
+ Pasadena, TX 77506
+ Office Phone: 713-910-4688
+ Email: OpsPasadena@camincargo.com
+
+ EXXM00-75 / 558776 / January 29, 2021
+                                                                                     Page 5 of 12
+                                           VESSEL QUANTITY REPORT N° PAS-150747
+VESSEL                 : EMS - 365                                                                     MOVEMENT      : Load
+LOCATION               : KMI - Pasadena, TX                                                            JOB COMPLETED : 27-JAN-2021
+PRODUCT                : DIESEL                                                                        REFERENCE N° : 5248844
+Comp. Chart RH               Gauge                    TOV          Water              Water     Temp.        VCF     GSV @ 60 °F     GSV @ 60 °F
+No    Ft-In                  Ft-In                    Bbls         Gauge               Bbls       °F         6B      Bbls-Liquid     Bbls-NonLiquid
+01P       14-11    00/00     00-00 00/00               Nil             ----              Nil
+01P-NL    14-11    00/00                               Nil                               Nil
+01S       14-11    00/00     00-00 00/00               Nil             ----              Nil
+01S-NL    14-11    00/00                               Nil                               Nil
+02P       14-11    00/00     00-00 00/00               Nil             ----              Nil
+02P-NL    14-11    00/00                               Nil                               Nil
+02S       14-11    00/00     00-00 00/00               Nil             ----              Nil
+02S-NL    14-11    00/00                               Nil                               Nil
+03P       14-11    00/00     00-00 00/00               Nil             ----              Nil
+03P-NL    14-11    00/00                               Nil                               Nil
+03S       14-11    00/00     00-00 00/00               Nil             ----              Nil
+03S-NL    14-11    00/00                               Nil                               Nil
+                                                       Nil                               Nil                                0.00            0.00
+
+
+
+Draft (Ft-in)        Fwd (P)               Fwd (S)           Aft (P)          Aft (S)          Trim          List
+Before               02-00                 02-00             02-00            02-00            00-00 00/00   0.00
+Note:
+No Trim Correction was applied.
+Vessel was gauged/sampled using a Closed/Restricted System
+
+
+VESSEL QUANTITIES                             OBQ
+TCV, Barrels @ 60 °F                          0.00
+Free Water Barrels                            0.00
+                                               GSV
+Barrels @ 60 °F                                0.00
+Gallons @ 60 °F                                0.00
+API Gravity @ 60 °F
+Lb/Gal @ 60 °F
+
+
+
+
+ 1001 Shaw Avenue
+ Pasadena, TX 77506
+ Office Phone: 713-910-4688
+ Email: OpsPasadena@camincargo.com
+
+ EXXM00-75 / 558776 / January 29, 2021
+                                                                              Page 6 of 12
+                                          VESSEL QUANTITY REPORT N° PAS-150747
+VESSEL                 : EMS - 365                                                                                        MOVEMENT      : Load
+LOCATION               : KMI - Pasadena, TX                                                                               JOB COMPLETED : 27-JAN-2021
+PRODUCT                : DIESEL                                                                                           REFERENCE N° : 5248844
+Comp. Chart RH          Phy GH           Gauge       Corr. Gauge                TOV        Water            Water         Temp.             VCF      GSV @ 60 °F
+No    Ft-In             Ft-In            Ft-In                                  Bbls       Gauge             Bbls           °F               6B           Bbls
+01P      14-11 00/00 16-05 01/04 06-06 00/00          04-11 01/02             3,123.95                          Nil         63.9          0.99816        3,118.20
+01S      14-11 00/00 16-05 01/04 06-00 00/00          04-05 01/02             3,311.89                          Nil         63.8          0.99821        3,305.96
+02P      14-11 00/00 16-05 01/04 05-08 01/02          04-02 00/00             4,142.90                          Nil         64.0          0.99811        4,135.07
+02S      14-11 00/00 16-05 01/04 05-08 03/04          04-02 01/04             4,149.94                          Nil         63.8          0.99821        4,142.51
+03P      14-11 00/00 16-05 01/02 05-04 00/00          03-09 01/02             3,824.76                          Nil         63.8          0.99821        3,817.91
+03S      14-11 00/00 16-05 01/02 05-04 00/00          03-09 01/02             3,825.40                          Nil         63.6          0.99830        3,818.90
+                                                                              22,378.84                         Nil         63.8                        22,338.55
+
+
+
+
+Draft (Ft-in)        Fwd (P)               Fwd (S)                  Aft (P)               Aft (S)               Trim               List
+Before               02-00                 02-00                    02-00                 02-00                 00-00 00/00        0.00
+After                09-00                 09-00                    09-00                 09-00                 00-00 00/00        0.00
+Note:
+Trim Correction was applied.
+Vessel was gauged/sampled using a Closed/Restricted System
+
+
+
+VESSEL QUANTITIES                        DEPARTURE                      RECEIVED
+TCV, Barrels @ 60 °F                      22,338.55                     22,338.55            S&W          ---
+Free Water Barrels                             0.00                          0.00                         ---
+                                               GSV                           GSV                           NSV                                           GSW             NSW
+Barrels @ 60 °F                           22,338.55                     22,338.55                        22,338.55     Long Tons - Air                  2,921.765       2,921.765
+Gallons @ 60 °F                          938,219.10                    938,219.10                    938,219.10        Metric Tons - Air                2,968.650       2,968.650
+API Gravity @ 60 °F                           37.3(T)                           37.4(T)                                Short Tons - Air                 3,272.377       3,272.377
+Lb/Gal @ 60 °F                               6.979857869                       6.975719404                             Kilograms - Air              2,968,650.0     2,968,650.0
+                                                                                                                       Pounds - Air                 6,544,753.0     6,544,753.0
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 1001 Shaw Avenue
+ Pasadena, TX 77506
+ Office Phone: 713-910-4688
+ Email: OpsPasadena@camincargo.com
+
+ EXXM00-75 / 558776 / January 29, 2021
+                                                                                          Page 7 of 12
+                                         LINE DISPLACEMENT REPORT N° PAS-150747
+VESSEL                 : EMS - 321 & 365                                                                                 MOVEMENT      : Load
+LOCATION               : KMI - Pasadena, TX                                                                              JOB COMPLETED : 27-JAN-2021
+PRODUCT                : DIESEL                                                                                          REFERENCE N° : 5248844
+
+
+                   Shore Tank                Observed Gauges                  TOV           Temp.            API                  VCF                   TCV
+
+            Gauge Date: 27-JAN-2021            Meter (Inn.)                   Bbls            °F           @ 60 °F                6B                Bbls @ 60 °F
+                                         O        30.41                 93,692.47
+                    150-11                                                                   63.8            0.0              0.99870                 848.90
+                                         C        30.14                 92,842.47
+                                                                          850.00
+
+                                                   Total                  850.00                                                                      848.90
+
+          Shore Line                              Length                      Size               Nominal Capacity              Condition Before Displacement
+                                                   0 km                       0″                 1181.00 Bbls                                Full
+
+
+                       Vessel                Observed Gauges                  TOV           Temp.            API                  VCF                   TCV
+
+                    EMS - 321                   Ft-In (Ull.)                  Bbls            °F           @ 60 °F                6B                Bbls @ 60 °F
+                                         O     00-00 00/00                    0.00
+                       3P                                                                    0.0             60.0              1.04047                390.17
+                                         C     01-00 01/04                374.99
+                                                                          374.99
+
+                                         O     00-00 00/00                    0.00
+                       3S                                                                    0.0             60.0              1.04047                382.12
+                                         C     01-00 00/00                367.26
+                                                                          367.26
+
+                                                   Total                  742.25                                                                      772.29
+
+          Vessel's System                     Condition Before         Condition After           Nominal Capacity            Adjusted Volume Displaced
+                                                  Empty                   Empty                    0.00 Bbls                                0.00
+
+
+
+
+                                                                                     TOV
+                                                           Barrels                                             Gallons
+          Total Tank                                                 850.00                                          35,700.00
+
+          Total Vessel                                               742.25                                          31,174.50
+
+          Volume Difference                                      -107.75                                             -4,525.50
+
+          % Difference                                                12.68                                               12.68
+
+
+As per API Ch. 17.6 TOV of the product displaced was at least 120% of the combined capacity of all designated vessel and shore transfer lines unless the conditions referred to in
+17.6.8.1.1 applied, then 100 % of line capacity.
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 1001 Shaw Avenue
+ Pasadena, TX 77506
+ Office Phone: 713-910-4688
+ Email: OpsPasadena@camincargo.com
+
+ EXXM00-75 / 558776 / January 29, 2021                                               Page 8 of 12
+                                         LINE DISPLACEMENT REPORT N° PAS-150747
+VESSEL                 : EMS - 321 & 365                                                                                 MOVEMENT      : Load
+LOCATION               : KMI - Pasadena, TX                                                                              JOB COMPLETED : 27-JAN-2021
+PRODUCT                : DIESEL                                                                                          REFERENCE N° : 5248844
+
+
+                   Shore Tank                Observed Gauges                  TOV           Temp.            API                  VCF                   TCV
+
+            Gauge Date: 27-JAN-2021            Meter (Inn.)                   Bbls            °F           @ 60 °F                6B                Bbls @ 60 °F
+                                         O        30.14                 92,842.47
+                    150-11                                                                   63.8            0.0              0.99870                 660.25
+                                         C        29.93                 92,181.36
+                                                                          661.11
+
+                                                   Total                  661.11                                                                      660.25
+
+          Shore Line                              Length                      Size               Nominal Capacity              Condition Before Displacement
+                                                   0 km                       0″                 1181.00 Bbls                                Full
+
+
+                       Vessel                Observed Gauges                  TOV           Temp.            API                  VCF                   TCV
+
+                    EMS - 321                   Ft-In (Ull.)                  Bbls            °F           @ 60 °F                6B                Bbls @ 60 °F
+                                         O     01-00 01/04                374.99
+                       3P                                                                    0.0             60.0              1.04047                329.84
+                                         C     01-10 01/02                692.00
+                                                                          317.01
+
+                                         O     01-00 00/00                367.26
+                       3S                                                                    0.0             60.0              1.04047                321.80
+                                         C     01-10 00/00                676.54
+                                                                          309.28
+
+                                                   Total                  626.29                                                                      651.64
+
+          Vessel's System                     Condition Before         Condition After           Nominal Capacity            Adjusted Volume Displaced
+                                                    Full                    Full                   0.00 Bbls                                0.00
+
+
+
+
+                                                                                     TOV
+                                                           Barrels                                             Gallons
+          Total Tank                                                 661.11                                          27,766.62
+
+          Total Vessel                                               626.29                                          26,304.18
+
+          Volume Difference                                          -34.82                                          -1,462.44
+
+          % Difference                                                 5.27                                                5.27
+
+
+As per API Ch. 17.6 TOV of the product displaced was at least 120% of the combined capacity of all designated vessel and shore transfer lines unless the conditions referred to in
+17.6.8.1.1 applied, then 100 % of line capacity.
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 1001 Shaw Avenue
+ Pasadena, TX 77506
+ Office Phone: 713-910-4688
+ Email: OpsPasadena@camincargo.com
+
+ EXXM00-75 / 558776 / January 29, 2021                                               Page 9 of 12
+                                                      TIME LOG REPORT N° PAS-150747
+VESSEL            : EMS - 321 & 365                                                                       MOVEMENT        : Load
+LOCATION          : KMI - Pasadena, TX                                                                    JOB COMPLETED   : 27-JAN-2021
+PRODUCT           : DIESEL                                                                                REFERENCE N°    : 5248844
+
+Date              Time          Description
+25-JAN-2021       13:14         Notice of Readiness Tendered
+27-JAN-2021       01:30         Barge(s) Arrived
+                  03:10         Inspector Notified
+                  03:20         Inspector Arrived
+                  03:25         Inspector on Board
+                  03:30         Preliminary Inspection Commenced
+                  03:40         Preliminary Inspection Completed
+                  03:45         Preliminary Calculations Commenced
+                  03:50         Preliminary Calculations Completed
+                  03:51         Notice of Readiness Accepted
+                  04:50         Shore Tank 150-11 Gauged and Sampled Open
+                  09:00         Load Commenced
+                  09:30         Load Suspended
+                  09:35         1st Line Verification Commenced
+                  10:05         1st Line Verification Completed
+                  10:10         Load Resumed
+                  10:25         Load Suspended
+                  10:50         2nd Line Verification Commenced
+                  11:10         2nd Line Verification Completed
+                  11:15         Load Resumed
+                  19:20         Inspector Notified
+                  19:40         Inspector Arrived
+                  20:15         Load Completed
+                  20:45         Hose(s) Disconnected
+                  20:50         Shore Tank 150-11 Gauged Close
+                  21:15         Inspector on Board
+                  21:20         Final Inspection Commenced
+                  21:50         Final Inspection Completed
+                  22:00         Final Calculations Commenced
+                  22:30         Final Calculations Completed
+                  22:50         Sampling Commenced
+                  23:20         Sampling Completed
+                  23:25         Released
+28-JAN-2021       08:56         Sent for/Awaiting Confirmation
+                  10:28         Received confirmation from the terminal
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+1001 Shaw Avenue
+Pasadena, TX 77506
+Office Phone: 713-910-4688
+Email: OpsPasadena@camincargo.com
+
+EXXM00-75 / 558776 / January 29, 2021                                            Page 10 of 12
+                                                CERTIFICATE OF ANALYSIS N° PAS-150747
+      VESSEL                      :   EMS - 321 & 365
+      LOCATION                    :   KMI - Pasadena, TX                                                  MOVEMENT        : Load
+      PRODUCT                     :   DIESEL                                                              REF. NO.        : 5248844
+      GRADE                       :   Resto del País                                                      JOB COMPLETED   : 01/27/2021
+
+001   TK :                       150-11               Upper                     Before Load        Sample N° :   1            20-JAN-2021
+                                                                                                                              Sampled at
+                                                                                                                              11:45
+                                                                                                                          0
+
+
+
+
+      D 4052                     API Gravity @ 60°F                                 37.4 °API
+002   TK :                       150-11               Middle                    Before Load        Sample N° :   2            20-JAN-2021
+                                                                                                                              Sampled at
+                                                                                                                              11:45
+                                                                                                                          0
+
+
+
+
+      D 4052                     API Gravity @ 60°F                                 37.4 °API
+003   TK :                       150-11               Lower                     Before Load        Sample N° :   3            20-JAN-2021
+                                                                                                                              Sampled at
+                                                                                                                              11:45
+                                                                                                                          0
+
+
+
+
+      D 4052                     API Gravity @ 60°F                                 37.4 °API
+004   TK :                       150-11               Running                   Before Load        Sample N° :   4            20-JAN-2021
+                                                                                                                              Sampled at
+                                                                                                                              11:45
+                                                                                                                          0
+
+
+
+
+      D 4052                     API Gravity @ 60°F                                  37.4 °API
+                                                                                                                          0
+
+
+
+
+      D 2624                     Electrical Conductivity                                2 pS/m
+      D 6079                     Lubricity by HFRR
+                                   Major Axis                                       660 µm
+                                   Minor Axis                                       640 µm
+                                   Wear Scar Diameter @ 60° C                       650 microns
+005   TK :                       150-11               Hand Blend                Before Load        Sample N° :   5            20-JAN-2021
+                                                                                                                              Sampled at
+                                                                                                                              11:45
+      Description :              Dosed w/ 200 ppm Li-3 & 1.5 ppm Stadis 425
+                                                                                                                          0
+
+
+
+
+      D 4052                     API Gravity @ 60°F                                  37.4 °API
+                                                                                                                          0
+
+
+
+
+      D 2624                     Electrical Conductivity                              229 pS/m
+      D 6079                     Lubricity by HFRR
+                                   Major Axis                                       470 µm
+                                   Minor Axis                                       360 µm
+                                   Wear Scar Diameter @ 60° C                       420 microns
+006   TK :                       150-11               Hand Blend                Before Load        Sample N° :   6            22-JAN-2021
+                                                                                                                              Sampled at
+                                                                                                                              10:00
+      Description :              Dosed w/ 150ppm of Li-3
+      D 6079                     Lubricity by HFRR
+                                   Major Axis                                        490 µm
+                                   Minor Axis                                        470 µm
+                                   Wear Scar Diameter @ 60° C                        480 microns
+002                                                   Volumetric                 After Load        Sample N° :   23           27-JAN-2021
+  3                                                   Composite                                                               Sampled at
+                                                                                                                              23:20
+      Description :              EMS - 321 & 365
+                                                                                                                          0
+
+
+
+
+      D   4052                   API Gravity @ 60°F                                  37.3 °API
+                                                                                                                          0
+
+
+
+
+      D   4052                   Specific Gravity 20/4 °C                          0.8343
+                                                                                                                          0
+
+
+
+
+      D   1500                   ASTM Color                                           L0.5
+                                                                                                                          0
+
+
+
+
+      D   93A                    Flash Point                                         57.5 °C
+
+
+
+ 1001 Shaw Avenue
+ Pasadena, TX 77506
+ Office Phone: 713-910-4688
+ Email: OpsPasadena@camincargo.com
+
+ EXXM00-75 / 558776 / AU / R0 / 7032008 / Generated: January 29, 2021
+
+
+
+
+                                                                              Page 11 of 12
+                                                CERTIFICATE OF ANALYSIS N° PAS-150747
+      VESSEL                      :   EMS - 321 & 365
+      LOCATION                    :   KMI - Pasadena, TX                                                                                MOVEMENT                  : Load
+      PRODUCT                     :   DIESEL                                                                                            REF. NO.                  : 5248844
+      GRADE                       :   Resto del País                                                                                    JOB COMPLETED             : 01/27/2021
+
+002                                                   Volumetric                            After Load                         Sample N° :        23                   27-JAN-2021
+  3                                                   Composite                                                                                                        Sampled at
+                                                                                                                                                                       23:20
+      Description :              EMS - 321 & 365
+                                                                                                                                                                   0
+
+
+
+
+      D   2500                   Cloud Point                                                     -12 °C
+                                                                                                                                                                   0
+
+
+
+
+      D   97                     Pour Point                                                     <-24 °C
+                                                                                                                                                                   0
+
+
+
+
+      D   445                    Kinematic Viscosity @ 40 °C                                   2.389 mm2/s
+      D   86                     Distillation of Petroleum Products
+                                   10%                                                        386.0     °F
+                                   50%                                                        486.0     °F
+                                   90%                                                        614.2     °F
+                                   Initial Boiling Point                                      162.8     °C
+                                   10%                                                        196.7     °C
+                                   50%                                                        252.2     °C
+                                   90%                                                        323.4     °C
+                                   Final Boiling Point (End Point)                            353.8     °C
+                                                                                                                                                                   0
+
+
+
+
+      D   976                    Cetane Index                                                  47.7
+                                                                                                                                                                   0
+
+
+
+
+      D   4737A                  Cetane Index                                                  47.5
+                                                                                                                                                                   0
+
+
+
+
+      D   613                    Cetane Number                                                 48.1
+                                                                                                                                                                   0
+
+
+
+
+      D   5186                   Total Aromatics (correlated to D1319)                         21.2     Vol. %
+                                                                                                                                                                   0
+
+
+
+
+      D   2622                   Sulfur                                                         5.5     mg/kg(ppm)
+                                                                                                                                                                   0
+
+
+
+
+      D   482                    Ash                                                         <0.001     Mass %
+                                                                                                                                                                   0
+
+
+
+
+      D   524                    Carbon Residue, Ramsbottom on 10%                            <0.10     Mass %
+                                 Bott.
+                                                                                                                                                                   0
+
+
+
+
+      D   2709                   Sediment & Water                                            <0.010 Vol. %
+                                                                                                                                                                   0
+
+
+
+
+      D   130                    Copper Corrosion @ 50 °C (3 hrs)                                1a
+                                                                                                                                                                   0
+
+
+
+
+      D   2624                   Electrical Conductivity                                        135 pS/m
+      D   6079                   Lubricity by HFRR
+                                   Wear Scar Diameter @ 60° C                                    350 microns
+REPORT HEADER
+
+
+
+
+The results apply to the samples as received and specifically to the items listed on this certificate.
+Data contained in this report is confidential to the addressee and shall not be disclosed to any other party without their approval. This report may not be reproduced except
+in full without the written consent of the Camin Cargo Control.
+Samples taken as per Standard Practice for Manual Sampling of Petroleum and Petroleum Products (ASTM D4057 / API MPMS Chapter 8.1)
+All testing is performed on premises by Camin Cargo Control and in accordance to the latest referenced test method unless specifically stated otherwise.
+
+
+
+
+                                                                                                                                                     Nikolaos Deverikos / Laboratory
+                                                                                                                                                               Supervisor
+
+
+ 1001 Shaw Avenue
+ Pasadena, TX 77506
+ Office Phone: 713-910-4688
+ Email: OpsPasadena@camincargo.com
+
+ EXXM00-75 / 558776 / AU / R0 / 7032008 / Generated: January 29, 2021
+                                                                                        Page 12 of 12
+

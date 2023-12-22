@@ -1,0 +1,20 @@
+CLEANED !!!
+TRIP: USEBARGARO-2012-001                                                                 20E545381 VER 2 (ISSUED)
+
+Parcel Summary
+Transport        Location     Activity    Grade           Quantity    ETA    Supply Contract Window   Inspector   Inspection Requiremen
+ HTCO3084        BEAUMONT     Load        AROM CON-       52,000      02     n/a                      Saybolt     Quality / Quantity / Time
+ (VS00047641),   REFINERY,                CENTRATE VL     Barrels     Nov                                         log
+ KIRBY29044      TX (United               BULK                        2020
+ (VS00053864)    States)
+ HTCO3084        BATON        Discharge   AROM CON-       52,000      06     n/a                      COASTAL     Quantity / Time log
+ (VS00047641),   ROUGE RE-                CENTRATE VL     Barrels     Nov                             GULF
+ KIRBY29044      FINERY, LA               BULK                        2020
+ (VS00053864)    (United
+                 States)
+
+
+
+
+                                                        Page 1 of 6
+ 

@@ -1,0 +1,69 @@
+TRIP: 2021-ITC-BPAL-EHC-09                                                                        21E567437 VER 1 (ISSUED)
+
+BP PO: 4800908520
+Please reference BP's PO on load inspection documentation
+
+Please call the inspection company when the barge/vessel arrives.
+
+NOTE: Loaded quantities not to exceed nominated quantities.
+Note: Ship-shore tolerance is 0.5%. Inspectors must investigate or note discrepancies found and report
+findings. A letter of protest must also be presented for both
+ship/shore discrepancies > 0.5%.
+Special Instructions:
+--Owner is to communicate immediately via phone and email any errors in this voyage order.
+--Owner is to confirm prior cargo and cleaning directions.
+--Owner is to acknowledge voyage order received and understood via email return of this voyage order.
+--Please provide an ROB report within 24hrs of movement if ROB is greater than 0.5% of loaded volume.
+
+The cargo(es) listed above may contain different levels of H2S, including levels that could result in
+serious injury or death. Vessel operator should take the appropriate
+precautions to protect their crews from exposure to H2S. Information about H2S levels should be dis-
+cussed with the terminal operator before loading. MSDS and shore
+tank specific H2S information should be obtained during the pre-transfer conference.
+
+Agent Details:
+Equipment List: CBC55
+Tow Name: LUBES-10K-05
+Tow Code: L10K05
+Voyage #: 11
+Ref No.
+2021-ITC-BPAL-EHC-09--5343657
+
+Vetting #: maresly-630284
+Prior Cargo: EHC45
+Cleaning Required: LOT
+
+Owner is to communicate immediately via phone and email any errors in this voyage order.
+Owner is to confirm prior cargo and cleaning directions.
+Owner is to acknowledge voyage order received and understood via email return of this voyage order.
+Please provide an ROB report within 24 hrs of movement if ROB is greater than 0.5% of loaded volume.
+Please include a copy of this voyage order with invoice and send to:
+DS-SRM.Inland-Invoices-Mailbox@ExxonMobil.com
+The cargo(es) listed above may contain different levels of H2S, including levels that could result in
+serious injury or death.
+Vessel operator should take the appropriate precautions to protect their crews from exposure to H2S.
+Information about H2S should be discussed with the terminal operator before loading.
+MSDS and shore tank specific H2S information should be obtained during the pre-transfer conference.
+
+Parcel Comments:
+Retain samples for 90 days.
+
+Quality Inspection Instructions:
+SET 1
+            Description: Shore Tank to Ship Tank Individual Samples
+       Sample Location: Shore Line Grab Sample · Vessel's Manifold at Start of Load · Vessel First Foot · Ship Tank Individual · Shore
+                         Tank Composite (Running)
+Quality Test Comments:
+Prior to vessel arrival, verify temperature of on-shore tank is between 50-149 degF for EHC 65.    If
+shore tank temperature is not within this range, contact scheduler to determine corrective action.
+Arrange to pull (1) liter (clear) sample from each on-shore tank for field appearance test and retain.
+The shore tank appearance test should be conducted at ambient temperature. If any shore tank sample
+fails appearance test, contact scheduler to determine corrective action. The shore tank composite sam-
+ples should be readily available during vessel conveyance for field visual comparison purposes.
+
+During vessel conveyance, arrange to pull (1) liter (clear) samples from each location specified below
+for field appearance test and retain. Field appearance testing for these sample points is not required
+
+
+                                                            Page 5 of 7
+

@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="20.11.0">
+<page number="1" position="absolute" top="0" left="0" height="918" width="1188">
+	<fontspec id="0" size="15" family="PXAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="1" size="10" family="PXAAAB+Arial" color="#000000"/>
+	<fontspec id="2" size="10" family="PXAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="3" size="22" family="PXAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="4" size="13" family="PXAAAB+Arial" color="#999999"/>
+<image top="59" left="54" width="169" height="34" src="./../output_data/1234/560/VEF_LOAD_EMS_3009_1050403__EMS_3041B_1063452_bkraemer/VEF_LOAD_EMS_3009_1050403__EMS_3041B_1063452_bkraemer-1_1.jpg"/>
+<text top="115" left="62" width="269" height="18" font="0"><b>VESSEL: EMS 3009 (1050403) / EMS</b></text>
+<text top="131" left="62" width="123" height="18" font="0"><b>3041B (1063452)</b></text>
+<text top="115" left="518" width="126" height="18" font="0"><b>ACTIVITY: LOAD</b></text>
+<text top="115" left="991" width="140" height="18" font="0"><b>DATE: 02 Oct 2020</b></text>
+<text top="162" left="69" width="6" height="12" font="1">1</text>
+<text top="162" left="109" width="6" height="12" font="1">2</text>
+<text top="162" left="188" width="6" height="12" font="1">3</text>
+<text top="162" left="296" width="6" height="12" font="1">4</text>
+<text top="162" left="387" width="6" height="12" font="1">5</text>
+<text top="162" left="464" width="6" height="12" font="1">6</text>
+<text top="162" left="545" width="6" height="12" font="1">7</text>
+<text top="162" left="625" width="6" height="12" font="1">8</text>
+<text top="162" left="705" width="6" height="12" font="1">9</text>
+<text top="162" left="772" width="12" height="12" font="1">10</text>
+<text top="162" left="827" width="12" height="12" font="1">11</text>
+<text top="162" left="879" width="12" height="12" font="1">12</text>
+<text top="162" left="948" width="12" height="12" font="1">13</text>
+<text top="162" left="1029" width="12" height="12" font="1">14</text>
+<text top="162" left="1100" width="12" height="12" font="1">15</text>
+<text top="181" left="438" width="58" height="12" font="2"><b>Vessel Sail-</b></text>
+<text top="193" left="447" width="40" height="12" font="2"><b>ing TCV</b></text>
+<text top="181" left="536" width="24" height="12" font="2"><b>OBQ</b></text>
+<text top="181" left="615" width="25" height="12" font="2"><b>Load</b></text>
+<text top="193" left="617" width="21" height="12" font="2"><b>TCV</b></text>
+<text top="181" left="688" width="41" height="12" font="2"><b>B/L TCV</b></text>
+<text top="181" left="93" width="37" height="12" font="2"><b>Voyage</b></text>
+<text top="181" left="175" width="30" height="12" font="2"><b>Grade</b></text>
+<text top="181" left="277" width="44" height="12" font="2"><b>Location</b></text>
+<text top="181" left="379" width="23" height="12" font="2"><b>Date</b></text>
+<text top="221" left="576" width="23" height="12" font="2"><b>Bbls</b></text>
+<text top="181" left="761" width="33" height="12" font="2"><b>Vessel</b></text>
+<text top="193" left="766" width="25" height="12" font="2"><b>Load</b></text>
+<text top="206" left="765" width="26" height="12" font="2"><b>Ratio</b></text>
+<text top="181" left="817" width="31" height="12" font="2"><b>Step 1</b></text>
+<text top="193" left="823" width="19" height="12" font="2"><b>Has</b></text>
+<text top="206" left="817" width="30" height="12" font="2"><b>Gross</b></text>
+<text top="218" left="820" width="26" height="12" font="2"><b>Error</b></text>
+<text top="231" left="817" width="31" height="12" font="2"><b>(&gt; 2%)</b></text>
+<text top="181" left="869" width="31" height="12" font="2"><b>Step 2</b></text>
+<text top="193" left="863" width="45" height="12" font="2"><b>Qualified</b></text>
+<text top="206" left="866" width="37" height="12" font="2"><b>Voyage</b></text>
+<text top="218" left="862" width="46" height="12" font="2"><b>(&gt; 0.30%)</b></text>
+<text top="181" left="925" width="57" height="12" font="2"><b>Vessel TCV</b></text>
+<text top="181" left="1008" width="54" height="12" font="2"><b>Shore TCV</b></text>
+<text top="181" left="1087" width="38" height="12" font="2"><b>Current</b></text>
+<text top="193" left="1084" width="43" height="12" font="2"><b>Port Call</b></text>
+<text top="249" left="62" width="20" height="12" font="1">Last</text>
+<text top="249" left="141" width="85" height="12" font="1">Clarified Slurry Oil</text>
+<text top="249" left="250" width="78" height="12" font="1">Garyville (United</text>
+<text top="262" left="250" width="33" height="12" font="1">States)</text>
+<text top="249" left="361" width="58" height="12" font="1">06 Jun 2020</text>
+<text top="249" left="456" width="47" height="12" font="1">40,338.25</text>
+<text top="249" left="542" width="41" height="12" font="1">2,228.92</text>
+<text top="249" left="616" width="47" height="12" font="1">38,109.33</text>
+<text top="249" left="696" width="47" height="12" font="1">37,940.04</text>
+<text top="249" left="765" width="38" height="12" font="1">1.00446</text>
+<text top="249" left="874" width="21" height="12" font="1">YES</text>
+<text top="249" left="943" width="47" height="12" font="1">38,109.33</text>
+<text top="249" left="1024" width="47" height="12" font="1">37,940.04</text>
+<text top="249" left="1095" width="21" height="12" font="1">YES</text>
+<text top="280" left="65" width="18" height="12" font="1">2nd</text>
+<text top="280" left="141" width="80" height="12" font="1">Residual Fuel Oil</text>
+<text top="280" left="250" width="84" height="12" font="1">Galveston (United</text>
+<text top="293" left="250" width="33" height="12" font="1">States)</text>
+<text top="280" left="361" width="59" height="12" font="1">26 Feb 2020</text>
+<text top="280" left="461" width="41" height="12" font="1">40,460.5</text>
+<text top="280" left="556" width="26" height="12" font="1">2,427</text>
+<text top="280" left="622" width="41" height="12" font="1">38,033.5</text>
+<text top="280" left="696" width="47" height="12" font="1">38,043.98</text>
+<text top="280" left="765" width="38" height="12" font="1">0.99972</text>
+<text top="280" left="874" width="21" height="12" font="1">YES</text>
+<text top="280" left="949" width="41" height="12" font="1">38,033.5</text>
+<text top="280" left="1024" width="47" height="12" font="1">38,043.98</text>
+<text top="280" left="1095" width="21" height="12" font="1">YES</text>
+<text top="311" left="67" width="15" height="12" font="1">3rd</text>
+<text top="311" left="141" width="85" height="12" font="1">Clarified Slurry Oil</text>
+<text top="311" left="250" width="78" height="12" font="1">Garyville (United</text>
+<text top="324" left="250" width="33" height="12" font="1">States)</text>
+<text top="311" left="361" width="58" height="12" font="1">13 Jan 2020</text>
+<text top="311" left="461" width="41" height="12" font="1">32,978.5</text>
+<text top="311" left="542" width="41" height="12" font="1">2,233.25</text>
+<text top="311" left="616" width="47" height="12" font="1">30,745.25</text>
+<text top="311" left="696" width="47" height="12" font="1">30,544.44</text>
+<text top="311" left="765" width="38" height="12" font="1">1.00657</text>
+<text top="311" left="877" width="16" height="12" font="1">NO</text>
+<text top="311" left="1095" width="21" height="12" font="1">YES</text>
+<text top="342" left="68" width="15" height="12" font="1">4th</text>
+<text top="342" left="141" width="98" height="12" font="1">Heavy Aromatics Fu-</text>
+<text top="354" left="141" width="24" height="12" font="1">el Oil</text>
+<text top="342" left="250" width="98" height="12" font="1">Baton Rouge (United</text>
+<text top="354" left="250" width="33" height="12" font="1">States)</text>
+<text top="342" left="360" width="60" height="12" font="1">26 Nov 2019</text>
+<text top="342" left="456" width="47" height="12" font="1">42,980.16</text>
+<text top="342" left="542" width="41" height="12" font="1">2,227.48</text>
+<text top="342" left="616" width="47" height="12" font="1">40,752.68</text>
+<text top="342" left="696" width="47" height="12" font="1">40,757.06</text>
+<text top="342" left="765" width="38" height="12" font="1">0.99989</text>
+<text top="342" left="874" width="21" height="12" font="1">YES</text>
+<text top="342" left="943" width="47" height="12" font="1">40,752.68</text>
+<text top="342" left="1024" width="47" height="12" font="1">40,757.06</text>
+<text top="342" left="1095" width="21" height="12" font="1">YES</text>
+<text top="373" left="68" width="15" height="12" font="1">5th</text>
+<text top="373" left="141" width="27" height="12" font="1">Slurry</text>
+<text top="373" left="250" width="73" height="12" font="1">Marrero (United</text>
+<text top="385" left="250" width="33" height="12" font="1">States)</text>
+<text top="373" left="362" width="57" height="12" font="1">20 Oct 2019</text>
+<text top="373" left="456" width="47" height="12" font="1">42,301.49</text>
+<text top="373" left="542" width="41" height="12" font="1">2,264.95</text>
+<text top="373" left="616" width="47" height="12" font="1">40,036.54</text>
+<text top="373" left="696" width="47" height="12" font="1">40,006.19</text>
+<text top="373" left="765" width="38" height="12" font="1">1.00076</text>
+<text top="373" left="874" width="21" height="12" font="1">YES</text>
+<text top="373" left="943" width="47" height="12" font="1">40,036.54</text>
+<text top="373" left="1024" width="47" height="12" font="1">40,006.19</text>
+<text top="373" left="1095" width="21" height="12" font="1">YES</text>
+<text top="403" left="68" width="15" height="12" font="1">6th</text>
+<text top="403" left="141" width="27" height="12" font="1">Slurry</text>
+<text top="403" left="250" width="74" height="12" font="1">St Rose (United</text>
+<text top="416" left="250" width="33" height="12" font="1">States)</text>
+<text top="403" left="362" width="57" height="12" font="1">08 Oct 2019</text>
+<text top="403" left="456" width="47" height="12" font="1">38,179.09</text>
+<text top="403" left="542" width="41" height="12" font="1">2,297.27</text>
+<text top="403" left="616" width="47" height="12" font="1">35,881.82</text>
+<text top="403" left="696" width="47" height="12" font="1">35,676.11</text>
+<text top="403" left="765" width="38" height="12" font="1">1.00577</text>
+<text top="403" left="877" width="16" height="12" font="1">NO</text>
+<text top="403" left="1095" width="21" height="12" font="1">YES</text>
+<text top="434" left="68" width="15" height="12" font="1">7th</text>
+<text top="434" left="141" width="98" height="12" font="1">Heavy Aromatics Fu-</text>
+<text top="447" left="141" width="24" height="12" font="1">el Oil</text>
+<text top="434" left="250" width="98" height="12" font="1">Baton Rouge (United</text>
+<text top="447" left="250" width="33" height="12" font="1">States)</text>
+<text top="434" left="360" width="60" height="12" font="1">22 Aug 2019</text>
+<text top="434" left="456" width="47" height="12" font="1">42,643.03</text>
+<text top="434" left="542" width="41" height="12" font="1">2,266.71</text>
+<text top="434" left="616" width="47" height="12" font="1">40,376.32</text>
+<text top="434" left="696" width="47" height="12" font="1">40,282.96</text>
+<text top="434" left="765" width="38" height="12" font="1">1.00232</text>
+<text top="434" left="874" width="21" height="12" font="1">YES</text>
+<text top="434" left="943" width="47" height="12" font="1">40,376.32</text>
+<text top="434" left="1024" width="47" height="12" font="1">40,282.96</text>
+<text top="434" left="1095" width="21" height="12" font="1">YES</text>
+<text top="465" left="68" width="15" height="12" font="1">8th</text>
+<text top="465" left="141" width="27" height="12" font="1">Slurry</text>
+<text top="465" left="250" width="74" height="12" font="1">St Rose (United</text>
+<text top="478" left="250" width="33" height="12" font="1">States)</text>
+<text top="465" left="363" width="54" height="12" font="1">07 Jul 2019</text>
+<text top="465" left="456" width="47" height="12" font="1">37,239.32</text>
+<text top="465" left="542" width="41" height="12" font="1">2,303.12</text>
+<text top="465" left="622" width="41" height="12" font="1">34,936.2</text>
+<text top="465" left="696" width="47" height="12" font="1">35,028.82</text>
+<text top="465" left="765" width="38" height="12" font="1">0.99736</text>
+<text top="465" left="877" width="16" height="12" font="1">NO</text>
+<text top="465" left="1095" width="21" height="12" font="1">YES</text>
+<text top="496" left="68" width="15" height="12" font="1">9th</text>
+<text top="496" left="141" width="27" height="12" font="1">Slurry</text>
+<text top="496" left="250" width="74" height="12" font="1">St Rose (United</text>
+<text top="508" left="250" width="33" height="12" font="1">States)</text>
+<text top="496" left="361" width="58" height="12" font="1">30 Jun 2019</text>
+<text top="496" left="456" width="47" height="12" font="1">35,841.76</text>
+<text top="496" left="542" width="41" height="12" font="1">2,342.33</text>
+<text top="496" left="616" width="47" height="12" font="1">33,499.43</text>
+<text top="496" left="696" width="47" height="12" font="1">33,209.43</text>
+<text top="496" left="765" width="38" height="12" font="1">1.00873</text>
+<text top="496" left="877" width="16" height="12" font="1">NO</text>
+<text top="496" left="1095" width="21" height="12" font="1">YES</text>
+<text top="527" left="62" width="20" height="12" font="1">10th</text>
+<text top="527" left="141" width="27" height="12" font="1">Slurry</text>
+<text top="527" left="250" width="74" height="12" font="1">St Rose (United</text>
+<text top="539" left="250" width="33" height="12" font="1">States)</text>
+<text top="527" left="362" width="57" height="12" font="1">29 Apr 2019</text>
+<text top="527" left="456" width="47" height="12" font="1">37,196.03</text>
+<text top="527" left="542" width="41" height="12" font="1">2,115.04</text>
+<text top="527" left="616" width="47" height="12" font="1">35,080.99</text>
+<text top="527" left="696" width="47" height="12" font="1">34,947.38</text>
+<text top="527" left="765" width="38" height="12" font="1">1.00382</text>
+<text top="527" left="874" width="21" height="12" font="1">YES</text>
+<text top="527" left="943" width="47" height="12" font="1">35,080.99</text>
+<text top="527" left="1024" width="47" height="12" font="1">34,947.38</text>
+<text top="527" left="1095" width="21" height="12" font="1">YES</text>
+<text top="558" left="62" width="20" height="12" font="1">11th</text>
+<text top="558" left="141" width="27" height="12" font="1">Slurry</text>
+<text top="558" left="250" width="74" height="12" font="1">St Rose (United</text>
+<text top="570" left="250" width="33" height="12" font="1">States)</text>
+<text top="558" left="361" width="59" height="12" font="1">26 Mar 2019</text>
+<text top="558" left="456" width="47" height="12" font="1">35,727.88</text>
+<text top="558" left="548" width="35" height="12" font="1">2,265.3</text>
+<text top="558" left="616" width="47" height="12" font="1">33,462.58</text>
+<text top="558" left="696" width="47" height="12" font="1">33,135.99</text>
+<text top="558" left="765" width="38" height="12" font="1">1.00986</text>
+<text top="558" left="877" width="16" height="12" font="1">NO</text>
+<text top="558" left="1095" width="21" height="12" font="1">YES</text>
+<text top="588" left="62" width="20" height="12" font="1">12th</text>
+<text top="588" left="141" width="98" height="12" font="1">Heavy Aromatics Fu-</text>
+<text top="601" left="141" width="24" height="12" font="1">el Oil</text>
+<text top="588" left="250" width="98" height="12" font="1">Baton Rouge (United</text>
+<text top="601" left="250" width="33" height="12" font="1">States)</text>
+<text top="588" left="361" width="59" height="12" font="1">07 Feb 2019</text>
+<text top="588" left="456" width="47" height="12" font="1">35,003.78</text>
+<text top="588" left="542" width="41" height="12" font="1">2,268.68</text>
+<text top="588" left="622" width="41" height="12" font="1">32,735.1</text>
+<text top="588" left="702" width="41" height="12" font="1">32,760.2</text>
+<text top="588" left="765" width="38" height="12" font="1">0.99923</text>
+<text top="588" left="874" width="21" height="12" font="1">YES</text>
+<text top="588" left="949" width="41" height="12" font="1">32,735.1</text>
+<text top="588" left="1030" width="41" height="12" font="1">32,760.2</text>
+<text top="588" left="1095" width="21" height="12" font="1">YES</text>
+<text top="619" left="62" width="20" height="12" font="1">13th</text>
+<text top="619" left="141" width="98" height="12" font="1">Heavy Aromatics Fu-</text>
+<text top="632" left="141" width="24" height="12" font="1">el Oil</text>
+<text top="619" left="250" width="98" height="12" font="1">Baton Rouge (United</text>
+<text top="632" left="250" width="33" height="12" font="1">States)</text>
+<text top="619" left="360" width="60" height="12" font="1">29 Sep 2018</text>
+<text top="619" left="456" width="47" height="12" font="1">38,039.99</text>
+<text top="619" left="542" width="41" height="12" font="1">2,145.04</text>
+<text top="619" left="616" width="47" height="12" font="1">35,894.95</text>
+<text top="619" left="696" width="47" height="12" font="1">36,120.92</text>
+<text top="619" left="765" width="38" height="12" font="1">0.99374</text>
+<text top="619" left="877" width="16" height="12" font="1">NO</text>
+<text top="619" left="1095" width="21" height="12" font="1">YES</text>
+<text top="650" left="62" width="20" height="12" font="1">14th</text>
+<text top="650" left="141" width="98" height="12" font="1">Heavy Aromatics Fu-</text>
+<text top="663" left="141" width="24" height="12" font="1">el Oil</text>
+<text top="650" left="250" width="98" height="12" font="1">Baton Rouge (United</text>
+<text top="663" left="250" width="33" height="12" font="1">States)</text>
+<text top="650" left="360" width="60" height="12" font="1">17 Sep 2018</text>
+<text top="650" left="456" width="47" height="12" font="1">34,802.28</text>
+<text top="650" left="542" width="41" height="12" font="1">2,184.46</text>
+<text top="650" left="616" width="47" height="12" font="1">32,617.82</text>
+<text top="650" left="702" width="41" height="12" font="1">32,707.2</text>
+<text top="650" left="765" width="38" height="12" font="1">0.99727</text>
+<text top="650" left="877" width="16" height="12" font="1">NO</text>
+<text top="650" left="1095" width="21" height="12" font="1">YES</text>
+<text top="681" left="62" width="20" height="12" font="1">15th</text>
+<text top="681" left="141" width="98" height="12" font="1">Heavy Aromatics Fu-</text>
+<text top="693" left="141" width="24" height="12" font="1">el Oil</text>
+<text top="681" left="250" width="98" height="12" font="1">Baton Rouge (United</text>
+<text top="693" left="250" width="33" height="12" font="1">States)</text>
+<text top="681" left="361" width="58" height="12" font="1">18 Jun 2018</text>
+<text top="681" left="456" width="47" height="12" font="1">38,198.66</text>
+<text top="681" left="542" width="41" height="12" font="1">2,185.79</text>
+<text top="681" left="616" width="47" height="12" font="1">36,012.87</text>
+<text top="681" left="696" width="47" height="12" font="1">35,990.85</text>
+<text top="681" left="765" width="38" height="12" font="1">1.00061</text>
+<text top="681" left="874" width="21" height="12" font="1">YES</text>
+<text top="681" left="943" width="47" height="12" font="1">36,012.87</text>
+<text top="681" left="1024" width="47" height="12" font="1">35,990.85</text>
+<text top="681" left="1095" width="21" height="12" font="1">YES</text>
+<text top="712" left="62" width="20" height="12" font="1">16th</text>
+<text top="712" left="141" width="98" height="12" font="1">Heavy Aromatics Fu-</text>
+<text top="724" left="141" width="24" height="12" font="1">el Oil</text>
+<text top="712" left="250" width="98" height="12" font="1">Baton Rouge (United</text>
+<text top="724" left="250" width="33" height="12" font="1">States)</text>
+<text top="712" left="362" width="57" height="12" font="1">26 Apr 2018</text>
+<text top="712" left="456" width="47" height="12" font="1">39,638.13</text>
+<text top="712" left="542" width="41" height="12" font="1">2,269.69</text>
+<text top="712" left="616" width="47" height="12" font="1">37,368.44</text>
+<text top="712" left="696" width="47" height="12" font="1">37,646.59</text>
+<text top="712" left="765" width="38" height="12" font="1">0.99261</text>
+<text top="712" left="877" width="16" height="12" font="1">NO</text>
+<text top="712" left="1095" width="21" height="12" font="1">YES</text>
+<text top="742" left="62" width="20" height="12" font="1">17th</text>
+<text top="742" left="141" width="98" height="12" font="1">Heavy Aromatics Fu-</text>
+<text top="755" left="141" width="24" height="12" font="1">el Oil</text>
+<text top="742" left="250" width="98" height="12" font="1">Baton Rouge (United</text>
+<text top="755" left="250" width="33" height="12" font="1">States)</text>
+<text top="742" left="360" width="60" height="12" font="1">16 Dec 2017</text>
+<text top="742" left="456" width="47" height="12" font="1">38,204.51</text>
+<text top="742" left="542" width="41" height="12" font="1">1,976.29</text>
+<text top="742" left="616" width="47" height="12" font="1">36,228.22</text>
+<text top="742" left="696" width="47" height="12" font="1">35,907.54</text>
+<text top="742" left="765" width="38" height="12" font="1">1.00893</text>
+<text top="742" left="877" width="16" height="12" font="1">NO</text>
+<text top="742" left="1095" width="21" height="12" font="1">YES</text>
+<text top="773" left="62" width="20" height="12" font="1">18th</text>
+<text top="773" left="141" width="85" height="12" font="1">Clarified Slurry Oil</text>
+<text top="773" left="250" width="85" height="12" font="1">Beaumont (United</text>
+<text top="786" left="250" width="33" height="12" font="1">States)</text>
+<text top="773" left="362" width="57" height="12" font="1">30 Oct 2017</text>
+<text top="773" left="456" width="47" height="12" font="1">43,165.93</text>
+<text top="773" left="542" width="41" height="12" font="1">1,672.81</text>
+<text top="773" left="616" width="47" height="12" font="1">41,493.12</text>
+<text top="773" left="696" width="47" height="12" font="1">41,248.07</text>
+<text top="773" left="765" width="38" height="12" font="1">1.00594</text>
+<text top="773" left="877" width="16" height="12" font="1">NO</text>
+<text top="773" left="1095" width="21" height="12" font="1">YES</text>
+<text top="804" left="62" width="20" height="12" font="1">19th</text>
+<text top="804" left="141" width="98" height="12" font="1">Heavy Aromatics Fu-</text>
+<text top="817" left="141" width="24" height="12" font="1">el Oil</text>
+<text top="804" left="250" width="98" height="12" font="1">Baton Rouge (United</text>
+<text top="817" left="250" width="33" height="12" font="1">States)</text>
+<text top="804" left="360" width="60" height="12" font="1">19 Sep 2017</text>
+<text top="804" left="456" width="47" height="12" font="1">33,374.44</text>
+<text top="804" left="542" width="41" height="12" font="1">1,707.62</text>
+<text top="804" left="616" width="47" height="12" font="1">31,666.82</text>
+<text top="804" left="696" width="47" height="12" font="1">31,779.65</text>
+<text top="804" left="765" width="38" height="12" font="1">0.99645</text>
+<text top="804" left="877" width="16" height="12" font="1">NO</text>
+<text top="804" left="1095" width="21" height="12" font="1">YES</text>
+<text top="75" left="403" width="340" height="25" font="3"><b>VESSEL EXPERIENCE FACTOR</b></text>
+<text top="869" left="54" width="277" height="15" font="4">EMS 3009 (1050403) / EMS 3041B (1063452)</text>
+<text top="869" left="559" width="69" height="15" font="4">Page 1 of 2</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="918" width="1188">
+<text top="68" left="62" width="269" height="18" font="0"><b>VESSEL: EMS 3009 (1050403) / EMS</b></text>
+<text top="83" left="62" width="123" height="18" font="0"><b>3041B (1063452)</b></text>
+<text top="68" left="518" width="126" height="18" font="0"><b>ACTIVITY: LOAD</b></text>
+<text top="68" left="991" width="140" height="18" font="0"><b>DATE: 02 Oct 2020</b></text>
+<text top="115" left="69" width="6" height="12" font="1">1</text>
+<text top="115" left="109" width="6" height="12" font="1">2</text>
+<text top="115" left="188" width="6" height="12" font="1">3</text>
+<text top="115" left="296" width="6" height="12" font="1">4</text>
+<text top="115" left="387" width="6" height="12" font="1">5</text>
+<text top="115" left="464" width="6" height="12" font="1">6</text>
+<text top="115" left="545" width="6" height="12" font="1">7</text>
+<text top="115" left="625" width="6" height="12" font="1">8</text>
+<text top="115" left="705" width="6" height="12" font="1">9</text>
+<text top="115" left="772" width="12" height="12" font="1">10</text>
+<text top="115" left="827" width="12" height="12" font="1">11</text>
+<text top="115" left="879" width="12" height="12" font="1">12</text>
+<text top="115" left="948" width="12" height="12" font="1">13</text>
+<text top="115" left="1029" width="12" height="12" font="1">14</text>
+<text top="115" left="1100" width="12" height="12" font="1">15</text>
+<text top="133" left="438" width="58" height="12" font="2"><b>Vessel Sail-</b></text>
+<text top="146" left="447" width="40" height="12" font="2"><b>ing TCV</b></text>
+<text top="133" left="536" width="24" height="12" font="2"><b>OBQ</b></text>
+<text top="133" left="615" width="25" height="12" font="2"><b>Load</b></text>
+<text top="146" left="617" width="21" height="12" font="2"><b>TCV</b></text>
+<text top="133" left="688" width="41" height="12" font="2"><b>B/L TCV</b></text>
+<text top="133" left="93" width="37" height="12" font="2"><b>Voyage</b></text>
+<text top="133" left="175" width="30" height="12" font="2"><b>Grade</b></text>
+<text top="133" left="277" width="44" height="12" font="2"><b>Location</b></text>
+<text top="133" left="379" width="23" height="12" font="2"><b>Date</b></text>
+<text top="174" left="576" width="23" height="12" font="2"><b>Bbls</b></text>
+<text top="133" left="761" width="33" height="12" font="2"><b>Vessel</b></text>
+<text top="146" left="766" width="25" height="12" font="2"><b>Load</b></text>
+<text top="159" left="765" width="26" height="12" font="2"><b>Ratio</b></text>
+<text top="133" left="817" width="31" height="12" font="2"><b>Step 1</b></text>
+<text top="146" left="823" width="19" height="12" font="2"><b>Has</b></text>
+<text top="159" left="817" width="30" height="12" font="2"><b>Gross</b></text>
+<text top="171" left="820" width="26" height="12" font="2"><b>Error</b></text>
+<text top="184" left="817" width="31" height="12" font="2"><b>(&gt; 2%)</b></text>
+<text top="133" left="869" width="31" height="12" font="2"><b>Step 2</b></text>
+<text top="146" left="863" width="45" height="12" font="2"><b>Qualified</b></text>
+<text top="159" left="866" width="37" height="12" font="2"><b>Voyage</b></text>
+<text top="171" left="862" width="46" height="12" font="2"><b>(&gt; 0.30%)</b></text>
+<text top="133" left="925" width="57" height="12" font="2"><b>Vessel TCV</b></text>
+<text top="133" left="1008" width="54" height="12" font="2"><b>Shore TCV</b></text>
+<text top="133" left="1087" width="38" height="12" font="2"><b>Current</b></text>
+<text top="146" left="1084" width="43" height="12" font="2"><b>Port Call</b></text>
+<text top="202" left="62" width="20" height="12" font="1">20th</text>
+<text top="202" left="141" width="78" height="12" font="1">High Pour Coker</text>
+<text top="215" left="141" width="35" height="12" font="1">Gas Oil</text>
+<text top="202" left="250" width="90" height="12" font="1">Lake Charles (Unit-</text>
+<text top="215" left="250" width="48" height="12" font="1">ed States)</text>
+<text top="202" left="360" width="60" height="12" font="1">25 Aug 2017</text>
+<text top="202" left="456" width="47" height="12" font="1">24,704.65</text>
+<text top="202" left="542" width="41" height="12" font="1">1,711.54</text>
+<text top="202" left="616" width="47" height="12" font="1">22,993.11</text>
+<text top="202" left="696" width="47" height="12" font="1">22,958.34</text>
+<text top="202" left="765" width="38" height="12" font="1">1.00151</text>
+<text top="202" left="874" width="21" height="12" font="1">YES</text>
+<text top="202" left="943" width="47" height="12" font="1">22,993.11</text>
+<text top="202" left="1024" width="47" height="12" font="1">22,958.34</text>
+<text top="202" left="1095" width="21" height="12" font="1">YES</text>
+<text top="233" left="548" width="34" height="12" font="2"><b>Totals:</b></text>
+<text top="233" left="610" width="53" height="12" font="2"><b>707,925.09</b></text>
+<text top="233" left="691" width="53" height="12" font="2"><b>706,691.76</b></text>
+<text top="233" left="874" width="34" height="12" font="2"><b>Totals:</b></text>
+<text top="233" left="937" width="53" height="12" font="2"><b>324,130.44</b></text>
+<text top="233" left="1033" width="38" height="12" font="2"><b>323,687</b></text>
+<text top="251" left="142" width="97" height="12" font="2"><b>Gross Error Range:</b></text>
+<text top="251" left="250" width="90" height="12" font="1">0.98000 to 1.02000</text>
+<text top="251" left="565" width="98" height="12" font="2"><b>Average TCV Ratio:</b></text>
+<text top="251" left="705" width="38" height="12" font="2"><b>1.00175</b></text>
+<text top="251" left="873" width="117" height="12" font="2"><b>Vessel Experience Fac-</b></text>
+<text top="264" left="972" width="17" height="12" font="2"><b>tor:</b></text>
+<text top="251" left="1000" width="32" height="12" font="2"><b>1.0014</b></text>
+<text top="282" left="150" width="90" height="12" font="2"><b>Qualifying Range:</b></text>
+<text top="282" left="250" width="90" height="12" font="1">0.99874 to 1.00476</text>
+<text top="282" left="873" width="116" height="12" font="2"><b>Num of Qualifying Voy-</b></text>
+<text top="295" left="962" width="27" height="12" font="2"><b>ages:</b></text>
+<text top="282" left="1000" width="6" height="12" font="1">9</text>
+<text top="869" left="54" width="277" height="15" font="4">EMS 3009 (1050403) / EMS 3041B (1063452)</text>
+<text top="869" left="559" width="69" height="15" font="4">Page 2 of 2</text>
+<text top="869" left="1009" width="125" height="15" font="4">2020-10-02 17:57:17</text>
+</page>
+</pdf2xml>

@@ -1,0 +1,8 @@
+        Voyage         Grade                Location            Date       Vessel Sail-       OBQ            Load         B/L TCV      Vessel    Step 1     Step 2    Vessel TCV       Shore TCV     Current
+                                                                            ing TCV                          TCV                        Load      Has     Qualified                                  Port Call
+                                                                                                                                        Ratio    Gross     Voyage
+                                                                                                      Bbls                                        Error   (> 0.30%)
+                                                                                                                                                 (> 2%)
+ 20th            Heavy Aromatics Fu-   Baton Rouge (United   01 May 2018            35,008     1,006.81       34,001.19    33,037.05   1.02918    YES       NO                                         YES
+                 el Oil                States)
+                                                                                                Totals:      152,035.31   149,886.78                        Totals:      84,365.62       83,205.08

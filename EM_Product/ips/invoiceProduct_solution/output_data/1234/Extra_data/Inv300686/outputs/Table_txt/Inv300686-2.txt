@@ -1,0 +1,34 @@
+                             Description                                Qty           Rate            Amount
+
+Analysis of Shore Tank# 215 (M1 Slate):                                                3,133.00         3,133.00
+ H2S in Vapor, D5705 = $118.00
+ API Gravity, D 4052 = $56.00
+ Sulfur Content, D4294 = $153.00
+ Viscosity - Kinematic @ 122*F, D7042 = $134.00
+ Viscosity - SFS @ 122*F, D2161 = $34.00
+ Viscosity - SUS @ 210*F, D2161 = $154.00
+ Flash Point, D93B = $79.00
+ Ash Content, D482 = $189.00
+ Pour Point, D97 = $100.00
+ Asphaltenes, IP143 = $189.00
+ MCRT, D4530 = $110.00
+ Sediment by Extraction, D473 = $134.00
+ Water by Distillation, D95 = $97.00
+ Total Sediment by Hot Filtration, D4870 = $199.00
+ Aluminum, IP501 = $797.00
+ Silicon, IP501 = Included
+ Vanadium, IP501 = Included
+ Sodium, IP501 = Included
+ Potassium, IP501-M = $197.00
+ Carbon/Hydrogen, D5291 = $359.00
+ BMCI, PPCO-7317-BH = $34.00
+
+
+
+
+  We understand that you have a
+  choice . . . Thanks for choosing                   Terms          30 Net
+                 CGI
+
+
+                                                       Page 2

@@ -1,0 +1,71 @@
+TRIP: INTV004CRU-2009-0035                                                                 20E536392 VER 1 (ISSUED)
+
+ Region:    Americas                                                           Other Reference:
+Operator:   ZACHARY SCHASER (zachary.r.schaser@exxonmobil.com)                  Business Group: S/R AMERICAS CRUDE
+  Phone:    (832) 625-5371                                                                Desk:
+ Mobile:    (346) 254-3307                                                     Nomination Type: Marine
+
+Documentary Instructions: n/a
+
+
+ LOAD: SOLVIKEN (9321689) - HOUSTON, TX - OILTANKING TERMINAL (UNITED STATES)
+                                       Inspector: Camin Cargo Control Inc.       Inspection Status:   Accepted
+                                             Hub: Camin Cargo Control - Head Of-       Created On:    31 Aug 2020 by Zachary
+                                                  fice - U.S.                                         Schaser
+                                    Coordinator: Ari Camin                           Last Modified:   31 Aug 2020 by Josias
+                                                  (acamin@camincargo.com)                             Rivero
+                                    Local Office:
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 4986454-10
+                                           Grade: MIDLAND SWEET                   Contract Number:
+                                             ETA: 01 Sep 2020                           Parcel Ref:
+                                             ETD:                                      Destination:
+                  Supply Contract Window Start: 01 Sep 2020                       Source Location:
+                   Supply Contract Window End: 02 Sep 2020                                Supplier:
+                      Total Nominated Quantity: 720,000 Barrels                           Receiver:
+Transport / Voyage Number / Quantity / Tolerance: SOLVIKEN (9321689) / 720,000     Delivery Terms:    FOB (Free On Board)
+                                                  Barrels
+                                                                                    Mother Vessel:
+
+Email Quantity Results To:
+DS-SRM-USGExports@exxonmobil.com; robbyn.williams@us.dsv.com
+
+Email Quality Results To:
+DS-SRM-USGExports@exxonmobil.com; robbyn.williams@us.dsv.com
+
+Load / Discharge Instructions:
+INSPECTION, REPORTING, AND INVOICING ARE TO BE HANDLED IN ACCORDANCE WITH THE EXXONMOBIL GLOBAL INSPEC-
+TION CONTRACT (GIC) EFFECTIVE FROM JULY 2019 TO JUNE 2026 FOR CRUDE OIL.
+
+Perform below testing at Load Port:
+Set 1: Load Shore (custody transfer) Sample -
+API (D5002 or D1298)
+Sediment (D4807 or D473)
+Water (D4006 or D4377 or D4928)
+Sulfur Content (D4294/D2622)
+Acid Number
+Mercaptans
+
+Set 2 - Vessel Composite Sample
+API (D5002 or D1298)
+Sediment (D4807 or D473)
+Water (D4006 or D4377 or D4928)
+Benzene (IP 344)
+Iron
+Mercaptans (UOP 163)
+H2S in Liquid
+Salt
+pH
+
+Quantity: Meters to be used; revert to shore if meters fail
+Quality: ILS to be used; revert to shore if ILS fails
+
+
+
+Agent Details:
+ISS
+
+
+
+                                                        Page 1 of 3
+

@@ -1,0 +1,13 @@
+                             Description                                Qty          Rate               Amount
+
+Billing Contract/Service Agreement A2473671
+Ref.# 5102685-20
+
+Survey of Inland Barges                                                  2                 675.00         1,350.00
+
+Pre-Sampling of Barge Tanks ($325/Tank), First Tank on 11/06/20                            325.00           325.00
+Pre-Sampling of Barge Tanks ($150/Tank), Additional Tank                 6                 150.00           900.00
+
+
+Analysis of Barge (HTCO 3084):                                                              36.00            36.00
+ Appearance, D4176 = $36.00

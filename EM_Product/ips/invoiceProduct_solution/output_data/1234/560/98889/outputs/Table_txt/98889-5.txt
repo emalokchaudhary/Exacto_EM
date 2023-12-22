@@ -1,0 +1,34 @@
+Product:              CSO/MCB                                                     Terminal:              P.F.T
+Subject:              Report of Loading                                           Port:                  MT Airy, Louisiana
+ExxonMobil Ref. #: 5048618                                                        File Number:           98889
+Cabot Ref. #: 108258-117517
+                                                GAUGE HEIGHT REPORT
+                                            Barge Name:                           EMS 3009
+    Tank No.            Observed Gauge Height Open                         Reference Gauge Height           Observed Gauge Height Close
+       1 Port                       12' 02"                                       12' 04 1/4"                             12' 02"
+       1 Stbd                     12' 01 3/4"                                     12' 04 1/2"                           12' 01 3/4"
+       2 Port                     12' 00 1/4"                                     12' 04 1/4"                           12' 00 1/4"
+       2 Stbd                     12' 00 1/2"                                     12' 04 1/4"                           12' 00 1/2"
+       3 Port                     11' 11 1/2"                                     12' 04 1/4"                           11' 11 1/2"
+       3 Stbd                     11' 11 1/4"                                     12' 03 1/2"                           11' 11 1/4"
+
+
+
+
+                                      ANCILLARY TANK MEAURMENTS
+                       Tank No.                        Observed Arrival Measurment              Observed Departure Measurment
+                        BOW                                             00' 00"                            00' 00"
+                        1 Port                                          00' 00"                            00' 00"
+                        1 Stbd                                          00' 00"                            00' 00"
+                        2 Port                                          00' 00"                            00' 00"
+                        2 Stbd                                          00' 00"                            00' 00"
+                        3 Port                                          00' 00"                            00' 00"
+                        3 Stbd                                          00' 00"                            00' 00"
+                         AFT                                            00' 00"                            00' 00"
+
+
+
+
+Coastal Gulf & International, Inc.
+Bentley Kraemer
+Central Communication Center                                                                                                 Version 7.0 06-05-13 NLE

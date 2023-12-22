@@ -1,0 +1,60 @@
+TRIP: USEBARGARO-2009-043                                                                     20E536366 VER 1 (ISSUED)
+
+anthony.bender@exxonmobil.com;
+pottkotterg@triconenergy.com;
+
+Load / Discharge Instructions:
+Please pull retain samples at LOAD.
+
+Demurrage
+~$1500 pdpr per barge
+~$3500 pdpr per tug
+ETA date is estimate only and not to be used as laycan for demurrage
+calculations.
+
+Plant Code for Inspection service:
+USI5 @ DISCHARGE CC-C02123029
+**THIS IS A PURCHASE **
+Material Codes: GEMS - 5007121     GOM - 90001007
+
+
+Inspections must utilize Global Inspection Contract Rates (July 2019 - June 2026).
+
+Pre-loading inspections are required and shall be performed by the inspection companies per API 17.8
+Manual of Petroleum Measurement Standards
+
+Inspection invoices are to be submitted into Navarik if nomination received via Navarik or by email to
+PMI.Chemicals.Inspection.Invoices@exxonmobil.com if nomination received via Outlook. Invoices submitted
+via Outlook must reference a valid EMCC Nomination Key.
+
+Acceptance of inspection invoices submitted via Ariba, Basware, and the below mentioned shared mailbox-
+es will be discontinued as of 22nd of July 2019. Please do not use these channels for submission:
+emcc.oa.invoices@exxonmobil.com
+emcc.int&syn.inspection.invoices@exxonmobil.com
+intermed.invoices@exxonmobil.com
+
+Invoice Instructions:
+  Bill Invoice To                                                                      Item to Bill   Split     Contact / Comment
+ 0102 ExxonMobil Chemical Company - U.S. (Div ExxonMobil Chemical Co) (Legal Entity:   Quantity       100%
+ 0102 EM Chemical America (0102))                                                      only
+
+Recipient List:
+batonrouge@coastalgulf.com; rmitchell@coastalgulf.com; jherrington@coastalgulf.com
+wendy.m.lauwong@exxonmobil.com;
+MATS.MTO@exxonmobil.com;
+BRRF.Marine.Super@exxonmobil.com;
+adam.a.alburger@exxonmobil.com;
+brcp.pmi.chem.is@exxonmobil.com;
+pmichem.babsc3@exxonmobil.com;
+maria.j.blanco@exxonmobil.com;
+harshit.h.ratanpara@exxonmobil.com;
+joseph.c.mcdonald@exxonmobil.com;
+anthony.bender@exxonmobil.com;
+pottkotterg@triconenergy.com;
+                                                                                                              REPORT GENERATED 31 AUG 2020
+
+
+
+
+                                                             Page 5 of 5
+

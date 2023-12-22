@@ -1,0 +1,70 @@
+TRIP: USEBARGARO-2010-051                                                             20E543802 VER 1 (ISSUED)
+
+
+"Pre-loading inspections are required and shall be performed by the inspection companies per API 17.8
+Manual of Petroleum Measurement Standards"
+
+Inspections must utilize Global Inspection Contract Rates (July 2019 - June 2026).
+
+Inspection invoices are to be submitted into Navarik if nomination received via Navarik or by email to
+PMI.Chemicals.Inspection.Invoices@exxonmobil.com if nomination received via Outlook. Invoices submitted
+via Outlook must reference a valid EMCC Nomination Key.
+
+Acceptance of inspection invoices submitted via Ariba, Basware, and the below mentioned shared mailboxes
+will be discontinued as of 22nd of July 2019. Please do not use these channels for submission:
+emcc.oa.invoices@exxonmobil.com
+emcc.int&syn.inspection.invoices@exxonmobil.com
+intermed.invoices@exxonmobil.com
+
+Show ExxonMobil Nomination Key and customer purchase order number on all paperwork and subject line of
+emails.
+
+*************************
+Please send a copy of the load report to the respective barge company email below that was used for this
+nomination:
+
+Canal Barge: Afterhours@canalbarge.com
+ACBL: acblloadingreports@bargeacbl.com
+FMT: chris.develle@flmarine.com; dispatch@flmarine.com; billing@flmarine.com
+Kirby: Barrel.Temp@kirbycorp.com
+
+
+
+Parcel Comments:
+Notes:
+1. All samples to be kept for 90 days only unless otherwise stated.
+2. Refer to "Docks Chemicals Sample Sheet" for additional instructions.
+
+Quality Inspection Instructions:
+SET 1
+            Description: SHORE LINE SAMPLE
+       Sample Location: Shore Line Grab Sample
+Quality Test Comments:
+Refer to "Docks Chemicals Sample Sheet" to determine how many samples need to be sent to site lab.
+
+
+
+Refer to "Docks Chemicals Sample Sheet" to determine how many samples need to be retained in inspector's
+lab. Seal all retain samples.
+
+
+
+
+                                                                                           RO = Report Only    Req. = Required
+ Test                              Methods        Min      Max        UOM   Typical   R.O.         Req.       Comment
+ Retain sample -90 days            [OTHER] n/a                                        No           Yes
+
+SET 2
+            Description: FINAL COMPOSITE SAMPLE
+       Sample Location: Vessel/Barge Composite
+Quality Test Comments:
+For all tanks:
+
+
+Refer to "Docks Chemicals Sample Sheet" to determine how many samples need to be sent to site lab.
+
+
+
+
+                                                        Page 2 of 3
+

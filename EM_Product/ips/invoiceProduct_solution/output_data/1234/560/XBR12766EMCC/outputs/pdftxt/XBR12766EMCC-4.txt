@@ -1,0 +1,53 @@
+CLEANED !!!
+                                COASTAL GULF &
+                              INTERNATIONAL, INC.
+                                               "Precision"
+                                         Inspection & Analytical
+                                                 Services
+                                 2104 S Southland, Gonzales, LA 70737
+                                Phone (225) 231-4990 Fax (225) 231-7875                                      Assuring accuracy through expertise!
+
+Vessel:                 HTCO 3084 & Kirby 29044                      Date:              November 9, 2020
+Product:                Aromatic Concentrate                         Terminal:          ExxonMobil
+Subject:                Report of Discharge                          Port:              Baton Rouge, Louisiana
+EMCC Ref. #: 5102685-20                                              File Number:       XBR12766
+
+
+                                        REPORT OF METER QUANTITY
+
+                                                           Meter No.:               #1 Import Dock Line
+
+               Opening Meter Reading                                                        Closing Meter Reading
+                       0.00                                                                       51,930.00
+
+
+                                                   Indicated Volume                                  51,930.00
+                                                 * Meter Factor                                       1.0009
+                                                   Gross Observed Volume                             51,930.00
+                                                   Volume Correction Factor                           1.0000
+                                                   Gross Standard Volume                             51,930.00
+                                                   C.P.L. Factor                                      1.0000
+                                                   Net Standard Volume (Bbls)                        51,930.00
+                                                   Line Temperature                                     73.5
+
+
+                                                       TOTAL NET BARRELS
+
+                                     Net Barrels @ 60  F                                 51,930.00
+                                     Net Gallons @ 60  F                              2,181,060.00
+                                     Pounds                                          13,339,363.00
+                                     Metric Tons                                         6,050.640
+                                     Short Tons                                          6,669.682
+                                     Long Tons                                           5,955.073
+                                     Pounds per Gallon                                       6.116
+                                     API Gravity @ 60 F                                      61.10
+
+ *Please note the METER FACTOR above is for reference only and isn t used for GOV/GSV calculations due to the
+                   factor being precalculated into the Meter figure provided to us by the Terminal*
+
+
+
+Coastal Gulf & International, Inc.
+Jon Herrington
+Gonzales Communication Center                                                                                        Version 7.1 04-19-20 JMH
+ 

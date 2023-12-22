@@ -1,0 +1,21 @@
+ VESSEL: EMS 3001 (1029671) / EMS                                                            ACTIVITY: LOAD                                                                        DATE: 09 Nov 2020
+ 3004B (1089245)
+  1       2              3                     4                 5              6              7               8             9          10        11         12           13              14            15
+        Voyage         Grade                Location            Date       Vessel Sail-       OBQ            Load         B/L TCV      Vessel    Step 1     Step 2    Vessel TCV       Shore TCV     Current
+                                                                            ing TCV                          TCV                        Load      Has     Qualified                                  Port Call
+                                                                                                                                        Ratio    Gross     Voyage
+                                                                                                      Bbls                                        Error   (> 0.30%)
+                                                                                                                                                 (> 2%)
+ 20th            Heavy Aromatics Fu-   Baton Rouge (United   01 May 2018            35,008     1,006.81       34,001.19    33,037.05   1.02918    YES       NO                                         YES
+                 el Oil                States)
+                                                                                                Totals:      152,035.31   149,886.78                        Totals:      84,365.62       83,205.08
+                 Gross Error Range: 0.98000 to 1.02000                                              Average TCV Ratio:       1.01433                        Vessel Experience Fac-
+                                                                                                                                                                               tor:
+                  Qualifying Range: 1.01129 to 1.01737                                                                                                      Num of Qualifying Voy- 2
+                                                                                                                                                                             ages:
+
+
+
+
+EMS 3001 (1029671) / EMS 3004B (1089245)                                                            Page 2 of 2                                                                        2020-11-09 15:23:25
+

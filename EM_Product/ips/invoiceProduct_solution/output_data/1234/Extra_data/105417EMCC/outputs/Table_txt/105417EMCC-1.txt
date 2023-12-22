@@ -1,0 +1,27 @@
+Product:                Benzene                                                Terminal:          Total
+Subject:                Report of Discharge                                    Port:              Carville, Louisiana
+EMCC Ref. #: 5618157-20                                                        File Number:       105417
+
+                                                         RECAPITULATION
+                OFFICIAL QUANTITY                                                          FOR REFERENCE ONLY
+
+SHORE FIGURES                                QUANTITY                           BARGE FIGURES                           QUANTITY
+Barrels                                           25,272.12                    Barrels                                       25,419.97
+Gallons                                        1,061,429.07                    Gallons                                    1,067,638.74
+Pounds                                         7,817,425.00                    Pounds                                     7,863,159.00
+Metric Tons                                       3,545.929                    Metric Tons                                   3,566.673
+Short Tons                                        3,908.713                    Short Tons                                    3,931.580
+Long Tons                                         3,489.922                    Long Tons                                     3,510.339
+
+
+                                                             For Comparison only
+                               VEF:              1.00550                         Barge With VEF Applied:          25,280.92
+
+BARGE FIGURES In Barrels
+BARGE                                         ARRIVAL                             DEPARTURE                           DIFFERENCE
+Chem 3248                                     25,419.97                              0.00                               25,419.97
+
+
+
+
+TOV BARRELS                                    25,905.50                               0.00                                25,905.50

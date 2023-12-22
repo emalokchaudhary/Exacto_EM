@@ -1,0 +1,22 @@
+CLEANED !!!
+TRIP: USEBARGARO-2009-043                                                                  20E536366 VER 1 (ISSUED)
+
+Parcel Summary
+Transport       Location     Activity    Grade          Quantity     ETA    Supply Contract Window   Inspector   Inspection Requirements
+ CHEM3213       BATON        Load        AROM CON-      15,000       01     n/a                      COASTAL     Quality / Quantity / Time
+ (VS00031049)   ROUGE,                   CENTRATE VL    Barrels      Sep                             GULF        log
+                LA -                     BULK                        2020
+                PLACID
+                (United
+                States)
+ CHEM3213       BATON        Discharge   AROM CON-      15,000       06     n/a                      COASTAL     Quantity / Time log
+ (VS00031049)   ROUGE                    CENTRATE VL    Barrels      Sep                             GULF
+                REFINERY,                BULK                        2020
+                LA (United
+                States)
+
+
+
+
+                                                       Page 1 of 5
+ 

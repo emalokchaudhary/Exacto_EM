@@ -1,0 +1,28 @@
+                              Description                                Qty          Rate               Amount
+
+Enabling Service Agreement - A2473671
+Ref.# 5048618-10
+
+Survey of Inland Barges at Minimum                                       0.5           1,350.00              675.00
+
+Pre-Sampling of Shore Tank# 217 ($600/Tank) on 09/29/20 (98887)                             600.00           600.00
+
+Extra Samples; Additional Sampling of Shore Tank# 217 ($15/Sample)       0.5                 15.00             7.50
+
+Analysis of Shore Tank# 217 (98887):                                     0.5           2,677.00            1,338.50
+ API Gravity, D4052 = 4 @ $56.00
+ Sulfur Content, D4294 = $153.00
+ Viscosity - Kinematic @ 122*F, D445 = $134.00
+ MCRT, D4530 = $110.00
+ Ash Content, D482 = $189.00
+ Carbon/Hydrogen, D5291 = $359.00
+ Nitrogen, D5762 = $146.00
+ Flash Point, D93B = $79.00
+ Pour Point, D97 = $100.00
+ Asphaltenes, IP143 = $189.00
+ Aluminum, IP501 = $797.00
+ Potassium, IP501M = $197.00
+ Sodium, IP501 = Included
+ Silicon, IP501 = Included
+ Vanadium, IP501 = Included
+ Zinc, IP501 = Included

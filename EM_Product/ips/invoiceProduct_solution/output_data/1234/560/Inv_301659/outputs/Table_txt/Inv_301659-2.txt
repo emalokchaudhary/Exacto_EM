@@ -1,0 +1,3 @@
+                           Description                              Qty          Rate             Amount
+
+Navarik E-Enablement Discount (15%)                                               -15.00%            -393.15

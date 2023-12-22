@@ -1,0 +1,52 @@
+CLEANED !!!
+                                   COASTAL GULF &
+                                 INTERNATIONAL, INC.
+                                                 "Precision"
+                                           Inspection & Analytical
+                                                   Services
+                                2104 South Southland Ave. Gonzales, LA 70737
+                                  Phone (225) 231-4990 Fax (225) 231-7875                                  Assuring accuracy through expertise!
+
+Vessel:                 CBC 333 & 7035                                              Date:                   August 21, 2020
+Product:                CSO/MCB                                                     Terminal:               Apex
+Subject:                Report of Discharge                                         Port:                   Port Allen, Louisiana
+ExxonMobil Ref. #: 4971503                                                          File Number:            BR26763
+
+                                     SHORE LINE VERIFICATION REPORT
+
+           Comparison made for Line Displacement at:                           Discharge
+
+                                                SHORE TANK NO.:                              1906
+
+                                                     ullage guage                                         Gross Barrels
+                   OPEN:                                30' 04"                                            49,167.85
+                   CLOSE:                             30' 03 1/2"                                          49,363.29
+                   GROSS BARRELS:                           Received                                         195.44
+
+                                                  VESSEL :                        CBC 7035
+                Prior to Displacement:                                                      On Completion of Displacement:
+ Tank #            Ullage           Gross Barrels                                    Tank #        Ullage           Gross Barrels
+   3P              06' 01"             2,996.76                                        3P        06' 05 3/4"          2,849.57
+   3S              06' 00"             3,035.50                                        3S        06' 06 1/2"          2,834.10
+
+
+
+
+      Total Gross Barrels:                     6,032.26                                     Total Gross Barrels:                     5,683.67
+
+                                                      Gross Barrels:                         348.59
+                                  Less Line Capacity (if applicable):                        320.00
+                                           Gross Barrels Delivered:                          28.59
+              Vessel to Shore Difference:                        166.85               Gross Barrels or                85.37%
+
+                        Shore Line                                       Capacity                          Tolerance*
+                           14"                                            320.00                             50.00
+
+
+
+            * All Line Capacity Tolerances are set forth by terminal represenative.
+
+Coastal Gulf & International, Inc.
+Zachary Ural
+Gonzales Communication Center                                                                                                    Version 7.0 06-05-13 NLE
+ 

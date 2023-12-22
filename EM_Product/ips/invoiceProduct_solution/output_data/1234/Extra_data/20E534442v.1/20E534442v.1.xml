@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="20.11.0">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="12" family="PXAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="1" size="12" family="PXAAAB+Arial" color="#000000"/>
+	<fontspec id="2" size="12" family="PXAAAA+Arial,Bold" color="#ffffff"/>
+	<fontspec id="3" size="12" family="PXAAAC+CourierNew" color="#000000"/>
+	<fontspec id="4" size="15" family="PXAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="5" size="15" family="PXAAAB+Arial" color="#999999"/>
+<image top="15" left="89" width="290" height="60" src="./../output_data/1234/560/20E534442v.1/20E534442v.1-1_1.png"/>
+<text top="128" left="100" width="46" height="14" font="0"><b>Region:</b></text>
+<text top="128" left="153" width="52" height="14" font="1">Americas</text>
+<text top="128" left="575" width="100" height="14" font="0"><b>Other Reference:</b></text>
+<text top="143" left="89" width="56" height="14" font="0"><b>Operator:</b></text>
+<text top="143" left="153" width="315" height="14" font="1">SCOTT FRIEDMAN (scott.m.friedman@exxonmobil.com)</text>
+<text top="143" left="575" width="100" height="14" font="0"><b>Business Group:</b></text>
+<text top="143" left="683" width="130" height="14" font="1">S/R INLAND BARGING</text>
+<text top="158" left="104" width="42" height="14" font="0"><b>Phone:</b></text>
+<text top="158" left="153" width="77" height="14" font="1">281-838-2976</text>
+<text top="158" left="641" width="34" height="14" font="0"><b>Desk:</b></text>
+<text top="158" left="683" width="63" height="14" font="1">Feedstocks</text>
+<text top="173" left="102" width="43" height="14" font="0"><b>Mobile:</b></text>
+<text top="173" left="571" width="104" height="14" font="0"><b>Nomination Type:</b></text>
+<text top="173" left="683" width="38" height="14" font="1">Marine</text>
+<text top="204" left="95" width="153" height="13" font="0"><b>Documentary Instructions:</b></text>
+<text top="204" left="251" width="17" height="13" font="1">n/a</text>
+<text top="251" left="97" width="628" height="14" font="2"><b>DISCHARGE: CBC333 (VS00022742) / CBC7035 (VS00032065) - PORT ALLEN, LA - APEX (UNITED STATES)</b></text>
+<text top="267" left="325" width="60" height="14" font="0"><b>Inspector:</b></text>
+<text top="267" left="392" width="94" height="14" font="1">COASTAL GULF</text>
+<text top="267" left="609" width="107" height="14" font="0"><b>Inspection Status:</b></text>
+<text top="267" left="724" width="52" height="14" font="1">Accepted</text>
+<text top="282" left="357" width="28" height="14" font="0"><b>Hub:</b></text>
+<text top="282" left="392" width="151" height="14" font="1">Coastal Gulf - Baton Rouge</text>
+<text top="282" left="645" width="71" height="14" font="0"><b>Created On:</b></text>
+<text top="282" left="724" width="118" height="14" font="1">17 Aug 2020 by Scott</text>
+<text top="297" left="724" width="52" height="14" font="1">Friedman</text>
+<text top="312" left="310" width="75" height="14" font="0"><b>Coordinator:</b></text>
+<text top="312" left="392" width="134" height="14" font="1">Jon Herrington (jherring-</text>
+<text top="327" left="392" width="120" height="14" font="1">ton@coastalgulf.com)</text>
+<text top="312" left="632" width="84" height="14" font="0"><b>Last Modified:</b></text>
+<text top="312" left="724" width="87" height="14" font="1">17 Aug 2020 by</text>
+<text top="327" left="724" width="71" height="14" font="1">Zachary Ural</text>
+<text top="341" left="310" width="75" height="14" font="0"><b>Local Office:</b></text>
+<text top="357" left="315" width="319" height="14" font="0"><b>INSPECTION REQUIREMENTS: QUANTITY / TIME LOG</b></text>
+<text top="373" left="130" width="254" height="14" font="0"><b>Voyage Parcel External Reference Number:</b></text>
+<text top="373" left="392" width="66" height="14" font="1">4971503-20</text>
+<text top="388" left="345" width="40" height="14" font="0"><b>Grade:</b></text>
+<text top="388" left="392" width="65" height="14" font="1">CSO / MCB</text>
+<text top="388" left="611" width="105" height="14" font="0"><b>Contract Number:</b></text>
+<text top="388" left="724" width="41" height="14" font="1">206226</text>
+<text top="403" left="356" width="29" height="14" font="0"><b>ETA:</b></text>
+<text top="403" left="392" width="70" height="14" font="1">21 Aug 2020</text>
+<text top="403" left="652" width="65" height="14" font="0"><b>Parcel Ref:</b></text>
+<text top="418" left="356" width="29" height="14" font="0"><b>ETD:</b></text>
+<text top="418" left="645" width="71" height="14" font="0"><b>Destination:</b></text>
+<text top="433" left="203" width="182" height="14" font="0"><b>Supply Contract Window Start:</b></text>
+<text top="433" left="392" width="70" height="14" font="1">21 Aug 2020</text>
+<text top="433" left="615" width="101" height="14" font="0"><b>Source Location:</b></text>
+<text top="448" left="208" width="177" height="14" font="0"><b>Supply Contract Window End:</b></text>
+<text top="448" left="392" width="70" height="14" font="1">23 Aug 2020</text>
+<text top="448" left="663" width="54" height="14" font="0"><b>Supplier:</b></text>
+<text top="462" left="230" width="155" height="14" font="0"><b>Total Nominated Quantity:</b></text>
+<text top="462" left="392" width="84" height="14" font="1">40,000 Barrels</text>
+<text top="462" left="661" width="56" height="14" font="0"><b>Receiver:</b></text>
+<text top="477" left="89" width="295" height="14" font="0"><b>Transport / Voyage Number / Quantity / Tolerance:</b></text>
+<text top="477" left="392" width="205" height="14" font="1">CBC333 (VS00022742) / 20,000 Bar-</text>
+<text top="492" left="392" width="75" height="14" font="1">rels +/- 10 pct</text>
+<text top="477" left="623" width="93" height="14" font="0"><b>Delivery Terms:</b></text>
+<text top="477" left="724" width="99" height="14" font="1">DAP (Delivered at</text>
+<text top="492" left="724" width="35" height="14" font="1">Place)</text>
+<text top="507" left="392" width="212" height="14" font="1">CBC7035 (VS00032065) / 20,000 Bar-</text>
+<text top="522" left="392" width="75" height="14" font="1">rels +/- 10 pct</text>
+<text top="507" left="628" width="88" height="14" font="0"><b>Mother Vessel:</b></text>
+<text top="552" left="89" width="153" height="13" font="0"><b>Email Quantity Results To:</b></text>
+<text top="571" left="95" width="698" height="14" font="3">mats.mto-fairfax@exxonmobil.com;ffx_oilloss@exxonmobil.com; marine.backup@exxonmobil.com; ds-srm-</text>
+<text top="586" left="95" width="576" height="14" font="3">inspection-reports-mailbox@exxonmobil.com; miscellaneous.charges@exxonmobil.com;</text>
+<text top="600" left="95" width="698" height="14" font="3">erik.e.linstromberg@exxonmobil.com; jeff.m.norton@exxonmobil.com; michael.t.koehn@exxonmobil.com;</text>
+<text top="615" left="95" width="425" height="14" font="3">jonathan.w.martin@exxonmobil.com; kabohn@tokaicarboncb.com;</text>
+<text top="649" left="89" width="173" height="13" font="0"><b>Load / Discharge Instructions:</b></text>
+<text top="669" left="95" width="317" height="14" font="3">TANK: See Tokai orders for tank disposition.</text>
+<text top="683" left="95" width="108" height="14" font="3">CUSTOMER: Tokai</text>
+<text top="698" left="95" width="94" height="14" font="3">TUG: Caroline</text>
+<text top="712" left="95" width="187" height="14" font="3">VETTING ID: scgreco-616131</text>
+<text top="727" left="95" width="101" height="14" font="3">INCOTERMS: DES</text>
+<text top="784" left="95" width="727" height="14" font="3">Terminal and Inspector must confirm equipment and orders match those of the towing company during the</text>
+<text top="799" left="95" width="713" height="14" font="3">pre-transfer conference. If there are any discrepancies, please contact the scheduler. No transfers</text>
+<text top="813" left="95" width="547" height="14" font="3">shall begin until discrepancies have been cleared via issuing of new orders.</text>
+<text top="842" left="95" width="158" height="14" font="3">Overtime: Not Approved</text>
+<text top="871" left="95" width="310" height="14" font="3">===========================================</text>
+<text top="885" left="95" width="166" height="14" font="3">INSPECTION INSTRUCTIONS</text>
+<text top="899" left="95" width="310" height="14" font="3">===========================================</text>
+<text top="914" left="95" width="569" height="14" font="3">GLOBAL INSPECTION CONTRACT effective from July 2019 to June 2026 is to be used.</text>
+<text top="943" left="95" width="50" height="14" font="3">IF FOB:</text>
+<text top="957" left="95" width="562" height="14" font="3">-QUALITY IS BASED ON SHORE TANK PRIOR TO LOAD OR BARGE COMP IF LOAD IS ACTIVE.</text>
+<text top="971" left="95" width="749" height="14" font="3">-QUANTITY IS BASED ON STATIC SHORE TANK DOWNGAUGE AT LOAD OR STATIC UPGAUGE ADJUSTED FOR ROB/OBQ IF LOAD</text>
+<text top="986" left="95" width="72" height="14" font="3">IS ACTIVE.</text>
+<text top="1015" left="95" width="50" height="14" font="3">IF DES:</text>
+<text top="1029" left="95" width="295" height="14" font="3">-QUALITY IS BASED ON BARGE COMP ANALYSIS.</text>
+<text top="1043" left="95" width="734" height="14" font="3">-QUANTITY IS BASED ON STATIC SHORE TANK UPGAUGE AT DISCHARGE OR STATIC UPGAUGE ADJUSTED FOR ROB/OBQ IF</text>
+<text top="1058" left="95" width="108" height="14" font="3">LOAD IS ACTIVE.</text>
+<text top="1093" left="89" width="117" height="13" font="0"><b>Invoice Instructions:</b></text>
+<text top="92" left="89" width="221" height="18" font="4"><b>TRIP: USEBARGFIN-2008-056</b></text>
+<text top="92" left="650" width="204" height="18" font="4"><b>20E534442 VER 1 (ISSUED)</b></text>
+<text top="1129" left="433" width="77" height="17" font="5">Page 1 of 2</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="6" size="7" family="PXAAAB+Arial" color="#999999"/>
+<image top="15" left="89" width="290" height="60" src="./../output_data/1234/560/20E534442v.1/20E534442v.1-2_1.png"/>
+<text top="131" left="97" width="81" height="13" font="0"><b>Bill Invoice To</b></text>
+<text top="131" left="619" width="61" height="13" font="0"><b>Item to Bill</b></text>
+<text top="131" left="696" width="26" height="13" font="0"><b>Split</b></text>
+<text top="131" left="737" width="110" height="13" font="0"><b>Contact / Comment</b></text>
+<text top="152" left="97" width="490" height="13" font="1">3862 - ExxonMobil Oil Corporation (Legal Entity: ExxonMobil Oil Corp. (EMOC) - Mktg &amp; Ref</text>
+<text top="167" left="97" width="132" height="13" font="1">U.S. Gen Ledger (3862))</text>
+<text top="152" left="620" width="45" height="13" font="1">Quantity</text>
+<text top="167" left="620" width="22" height="13" font="1">only</text>
+<text top="152" left="696" width="24" height="13" font="1">50%</text>
+<text top="188" left="97" width="191" height="13" font="1">SID RICHARDSON CARBON, LTD.</text>
+<text top="188" left="620" width="45" height="13" font="1">Quantity</text>
+<text top="202" left="620" width="22" height="13" font="1">only</text>
+<text top="188" left="696" width="24" height="13" font="1">50%</text>
+<text top="235" left="89" width="83" height="13" font="0"><b>Recipient List:</b></text>
+<text top="250" left="89" width="315" height="13" font="1">batonrouge@coastalgulf.com; jherrington@coastalgulf.com</text>
+<text top="264" left="89" width="737" height="13" font="1">erik.e.linstromberg@exxonmobil.com; louis.b.faulkner@exxonmobil.com; mats.mto@exxonmobil.com; blarpenter@worldpointlp.com; ssad-</text>
+<text top="279" left="89" width="665" height="13" font="1">den@worldpointlp.com; jeff.m.norton@exxonmobil.com; michael.t.koehn@exxonmobil.com; tleray@worldpointterminals.com;</text>
+<text top="293" left="89" width="736" height="13" font="1">steven.c.greco@exxonmobil.com; Nathan.t.mcguire@exxonmobil.com; jonathan.w.martin@exxonmobil.com; kabohn@tokaicarboncb.com;</text>
+<text top="314" left="727" width="128" height="8" font="6">REPORT GENERATED 17 AUG 2020</text>
+<text top="92" left="89" width="221" height="18" font="4"><b>TRIP: USEBARGFIN-2008-056</b></text>
+<text top="92" left="650" width="204" height="18" font="4"><b>20E534442 VER 1 (ISSUED)</b></text>
+<text top="1129" left="433" width="77" height="17" font="5">Page 2 of 2</text>
+</page>
+</pdf2xml>

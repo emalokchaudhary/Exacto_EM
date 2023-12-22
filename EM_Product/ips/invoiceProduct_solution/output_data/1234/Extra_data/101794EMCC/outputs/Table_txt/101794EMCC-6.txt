@@ -1,0 +1,31 @@
+Product:            Benzene                                                                         Terminal:       Ergon
+Subject:            Report of         Loading                                                       Port:           Baton Rouge, Louisiana
+EMCC Ref. #: 5323715-10                                                                             File Number:    101794
+
+                                              NON COMMERCIAL BILL OF LADING
+            THE FOLLOWING FORM APPLIES TO THE TRANSPORTATION OF SAMPLES THAT HAVE NO COMMERCIAL VALUE.
+
+           CHAIN OF CUSTODY x                          SAMPLE TRANSPORTATION RECORD                                SAMPLE RECEIPT
+DOT SHIPPING NAME:                           Benzene                   HAZARD CLASS:                3        UN#   1114     PKG GROUP:                  2
+
+  SAMPLE SIZE                     SAMPLE SOURCE                        TYPE OF SAMPLE                    SEAL
+   & NUMBER                       (BARGE, VESSEL, SHORE TANK)           (TOP, MIDDLE, BOTTOM,AVG)       NUMBER              DISTRIBUTION
+           QTx1                            Shore Tank                          Running                      N/A                 CGI LAB
+           QTx1                            Shore Line                             Line                      N/A                 CGI LAB
+           QTx6                                Barge                           Running                      N/A                 CGI LAB
+
+
+
+
+SIGNATURE BELOW IS TO CERTIFY THAT THE ABOVE NAMED MATERIALS ARE PROPERLY CLASSIFIED, DESCRIBED, PACKAGED,
+MARKED, LABELED, AND ARE IN PROPER CONDITION, FOR TRANSPORTATION, ACCORDING TO THE APPLICATION AND REGULATIONS
+OF THE DEPARTMENT OF TRANSPORTATION.
+
+THIS DOCUMENT IS TO BE RETAINED BY THE SHIPPER / RECEIVER FOR NO LESS THAN 365 DAYS.
+
+              Joseph McQueen                                                                                                      3/5/2021
+                  FOR CGI                                                      SIGNATURE IS TO VERIFY ABOVE                    DATE
+                                                                                 MENTIONED SAMPLES WERE
+                                                                                RECEIVED BY YOUR FACILITY.
+
+     TOLL FREE 24 HOUR EMERGENCY CONTACT (Fire, Accident, Exposure, Spill) CHEMTREC 1-800-424-9300

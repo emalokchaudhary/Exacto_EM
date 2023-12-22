@@ -1,0 +1,53 @@
+                                         VESSEL EXPERIENCE FACTOR REPORT
+VESSEL          : STI Black Hawk                                                                         DATE               : 10-MAY-2021
+
+           Date           Voyage         Location              Cargo                       Vessel       Shore       Ratio Qual. Rejection Reason
+                          Number                                                              M3          M3
+  Last     08-MAY-2021                   ExxonMobil -         GASOLINA PREMIUM             42,971       42,933    1.00089    Y
+                                         Beaumont, TX
+   2nd     12-MAY-2019 N/A               KMI Export Terminal JET A | DIESEL                42,951       42,949    1.00005    Y
+                                                              AUTOMOTRIZ
+   3rd     11-APR-2019    49             Pascagoula           gasoil                       46,871       46,887    0.99966    Y
+   4th     27-MAR-2019    48             Pascagoula           GASOIL                       46,875       46,884    0.99981    Y
+   5th     08-MAR-2019    47             Pascagoula           GASOIL                       44,913       44,923    0.99978    Y
+   6th     16-FEB-2019    46             Pascagoula           GASOIL                       47,103       47,100    1.00006    Y
+   7th     28-DEC-2018    45             Onsan- S Korea       JET A                        47,715       47,673    1.00088    Y
+   8th     04-NOV-2018    44             Singapore            ULSD                         45,362       45,361    1.00002    Y
+   9th     30-SEP-2018    43             Singapore            GASOIL                       49,111       49,226    0.99766    Y
+  10th     16-AUG-2018    42             Singapore            GASOIL                       48,372       48,312    1.00124    Y
+  11th     08-JUL-2018    41             Daesan               ULSD                         47,973       47,975    0.99996    Y
+  12th     25-APR-2018    40             Corpus Christi       GASOLINE                     44,401       44,449    0.99892    Y
+  13th     28-MAR-2018    039            Shell Colex-Pasadena ULSD                         41,391       41,376    1.00036    Y
+  14th     09-MAR-2018                   Marathon - Galveston ULTRA LSD                    41,883       41,839    1.00105    Y
+                                         Bay
+  15th     02-FEB-2018 038               KMI Export Terminal DIESEL AUTOMOTRIZ |           37,838       37,841    0.99992    Y
+                                                              JET A1
+  16th     07-DEC-2017 35                Vopak - Deer Park, MTBE                            4,971        4,909    1.01263        Active Tanks/Vessel
+                                         TX
+  17th     05-DEC-2017                   Marathon - Galveston EXPORT GASOLINE              42,963       42,913    1.00117    Y
+                                         Bay                  BLENDSTOCK
+  18th     24-NOV-2017                   Houston              GASOLINA REGULAR             47,720       47,726    0.99987    Y
+  19th     23-OCT-2017                   amsterdam            GASOLINA PREMIUM             41,308       41,308    1.00000    Y
+  20th     23-AUG-2017                   Come by chance       ULSD                         46,673       46,669    1.00009    Y
+
+
+
+
+Totals:        20 considered voyages (TCV M3)                                                                854,394         854,344
+
+               19 qualifying voyages (TCV M3)                                                                854,394        854,344
+
+
+                                                                                                            All voyages Ratio:         1.00006
+                                                                                                    Qualifying Range (*1.003):         1.00306
+                                                                                                                     (*0.997):         0.99706
+N: Excluded (not in qualifying range)                                                      Vessel Experience Factor (LOAD) :           1.0001
+
+Calculated as per API Ch. 17.9 3rd Edition, 2019. Method: Primary
+Some figures were obtained from vessels records. We cannot certify their accuracy.
+
+
+
+
+                                                                             Page 1 of 1
+

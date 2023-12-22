@@ -1,0 +1,51 @@
+                                    COASTAL GULF &
+                                  INTERNATIONAL, INC.
+                                                  "Precision"
+                                            Inspection & Analytical
+                                                    Services
+                                    2104 S Southland, Gonzales, LA 70737
+                                   Phone (225) 231-4990 Fax (225) 231-7875                                 Assuring accuracy through expertise!
+
+Vessel:                  Ionic Artemis                                              Date:                   June 2, 2021
+Product:                 HSVGO                                                      Terminal:               ExxonMobil
+Subject:                 Report of Discharge                                        Port:                   Baton Rouge, Louisiana
+ExxonMobil Ref. #: 5497396                                                          File Number:            103812
+
+                                     SHORE LINE VERIFICATION REPORT
+
+           Comparison made for Line Displacement at:                         Discharge
+
+                                                SHORE TANK NO.:                               182
+
+                                                    Innage Gauge                                          Gross Barrels
+                    OPEN:                             03' 11 1/2"                                          11,475.42
+                    CLOSE:                            05' 03 1/2"                                          14,821.65
+                    GROSS BARRELS:                          Received                                        3,346.23
+
+                                                   VESSEL :                    Ionic Artemis
+                 Prior to Displacement:                                                     On Completion of Displacement:
+ Tank #             Ullage           Gross Barrels                                   Tank #       Ullage            Gross Barrels
+   2P               11.740              30,142.66                                      2P         12.260             28,527.43
+   2S               11.760              30,237.00                                      2S         12.260             28,517.37
+
+
+
+
+      Total Gross Barrels:                     60,379.66                                    Total Gross Barrels:                    57,044.80
+
+                                                      Gross Barrels:                        3,334.86
+                                  Less Line Capacity (if applicable):
+                                           Gross Barrels Delivered:                         3,334.86
+               Vessel to Shore Difference:                         11.37              Gross Barrels or                 0.34%
+
+                         Shore Line                                      Capacity                          Tolerance*
+                           2 Fuel                                        1,960.00                              75
+
+
+
+             * All Line Capacity Tolerances are set forth by terminal represenative.
+
+Coastal Gulf & International, Inc.
+Jon Herrington
+Gonzales Communication Center                                                                                                    Version 7.1 04-19-20 JMH
+

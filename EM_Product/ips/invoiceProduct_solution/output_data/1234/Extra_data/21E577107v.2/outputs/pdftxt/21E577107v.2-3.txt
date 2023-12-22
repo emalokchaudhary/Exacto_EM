@@ -1,0 +1,22 @@
+CLEANED !!!
+TRIP: USEBARGINT-2106-007                                                                   21E577107 VER 2 (ISSUED)
+
+                                                                       Test: Silicon                50%
+                                                                       Test: Vanadium               50%
+                                                                       Test: Sulfur                 50%
+                                                                       Test: Viscosity, Kinematic   50%
+                                                                       @ 275 F, CST
+                                                                       Test: H2S in Vapor           50%
+                                                                       Test: MCR                    50%
+                                                                       Test: Asphaltenes            50%
+                                                                       Test: Sodium                 50%
+
+Recipient List:
+batonrouge@coastalgulf.com; brdispatch@coastalgulf.com
+                                                                                                          REPORT GENERATED 04 JUN 2021
+
+
+
+
+                                                         Page 3 of 3
+ 

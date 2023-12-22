@@ -1,0 +1,972 @@
+                  Saybolt LP                                                                                                     Voyage Analysis Report (VAR)
+                                                                                                                  Reference No.         Voyage/Trip No.     C/P Date    (MM-DD-YY)          Page No.
+                               LOAD                                                                                 5403001
+Vessel                                                                                                         Cargo                                       Type of Voyage
+                                           CBC 335 & CBC 336                                                                    FO RS 3%                                      SIMPLE
+Loading Port/Terminal/Berth                                    Arrived    (MM-DD-YY)     Sailed   (MM-DD-YY)   Discharge Port/Terminal/Berth               Arrived   (MM-DD-YY)         Sailed   (MM-DD-YY)
+
+                 ExxonMobil Baytown                                      04/12/21           04/15/21
+Quantity Unit                                                  Supplier                  Receiver                                               VCF TABLE USED
+        Bbls       Gals           M3              LTRS                                                         Shore Load              Shore Disc          Vessel Load                Vessel Disc
+        X                                                                                                                6B                                           6B
+                                                                                                                                                                                            Calculation
+         DESCRIPTION                API/ Density                           TCV                    FW                    GSV                   S&W                    NSV
+                                                                                                                                                                                            Reference
+l. Comparison of Shore Quantities in Custody Transfer
+
+Bill of Lading            1.               21.6                         44,783.86                                  44,783.86                                   44,783.86              (1)
+
+Outturn                   2.                                                                                            0.00                                         0.00             (2)
+
+Diff.                     3.                                            (44,783.86)               0.00             (44,783.86)               0.00              (44,783.86)            (3)=[|(2)-(1)
+
+Diff. %                   4.                                            (100.000%)                                 (100.000%)                                  (100.000%)             (4)=(3)/(1) X 100
+
+Recalculated B/L          5.             0.00            (A)               0.00              Recalculate if B/L and O/T use different tables                         0.00             (5)        (A) Vol. Diff.
+
+ll. Vessel/Shore Quantities at ( 1 ) Load Port(s)
+
+Vessel                         Sailing                   A.             46,048.53                 0.00             46,048.53                 LIQUID           NON-LIQUID              (A)
+
+                               OBQ (All)                 B.              832.07                   0.00                 832.07                0.00                    0.00             (B)
+
+                               Loaded                    C.             45,216.46                 0.00             45,216.46                                                          (C)=(A)-(B)
+
+                               Difference                D.              432.60                   0.00                 432.60                                                         (D)=(C)-[(1)or(5)]
+
+                               Difference %              E.              0.966%                                        0.966%                                                         (E)=(D)/[(1)or(5] x100
+
+Load Vessel Ratio                                        F.              1.00966                                                                                                      (F)=(C)/[(1)or(5)]
+
+Load VEF                                                 G.              1.00000                                                                                                      (G)
+
+Theoretical Shore                                        H.             45,216.46                                                                                                     (H)=(C)/(G)
+
+Theoretical Difference                                   I.              432.60                                                                                                       (I)=(H)-[(1)or(5)]
+
+Theoretical Difference %                                 J.              0.966%                                                                                                       (J)=(I)/[(1)or(5)] x100
+
+lll. Vessel/Shore Quantities at ( 2 ) Discharge Port(s)
+
+Vessel                         Arrival                   K.                                       0.00                  0.00                 LIQUID           NON-LIQUID              (K)
+
+                               ROB (All)                 L.                                       0.00                  0.00                 0.00                    0.00             (L)
+
+                               Discharged                M.                0.00                   0.00                  0.00                                                          (M)=(K)-(L)
+
+                               Difference                N.                0.00                   0.00                  0.00                                                          (N)=(M)-(2)
+
+                               Difference %              O.              0.000%                                        0.000%                                                         (O)=[(N)/(2)] x100
+
+Discharge Vessel Ratio                                   P.              0.00000                                                                                                      (P)=(M)/(2)
+
+Discharge VEF                                            Q.              1.00000                                                                                                      (Q)
+
+Theoretical Shore                                        R.                0.00                                                                                                       (R)=(M)/(Q)
+
+Theoretical Difference                                   S.                0.00                                                                                                       (S)=(2)-(R)
+
+Theoretical Difference %                                 T.              #DIV/0!                                                                                                      (T)=[(S)/(2)] x100
+
+lV. Vessel's Comparison of Loading and Discharge Port(s) VEF TABLE MUST BE CONSISTENT
+
+Transit                        Difference                U.             (46,048.53)               0.00             (46,048.53)                                                        (U)=(K)-(A)
+
+                               Difference %              V.             (100.000%)                                 (100.000%)                LIQUID           NON-LIQUID              (V)=[(U)/(A)] x100
+
+OBQ/ROB                        Difference                W.              832.07                   0.00                 832.07                0.00                    0.00             (W)=(B)-(L)
+
+
+                                                               TCV Difference (3) - OBQ (B) + ROB (L)                           (S&W (1)/GSV(1)) X 100                            (S&W(2)/GSV(2)) X 100
+
+Ajusted TCV Difference         (45,615.93)               (Quantity) /                  (101.858%)              S&W % at Load Port                   0.000 S&W % at Disc Port                #DIV/0!
+Comments:
+
+
+
+
+Prepared by:                                                   Title:                                          Company:                                    Date Complete (MM-DD-YY):
+                    Paul Kilgore                                           Inspection Supervisor                                Saybolt LP                                   04/15/21
+To Whom It May Concern
+
+This copy is being provided for courtesy purposes only, and does not give any person or company other than our named client a right to rely on these results.
+No warranties, express or implied, including the warranty of due diligence and care mentioned elsewhere, shall extend to any party other than such named client.
+
+Job No                           13052/00002499.0000/01/I/21
+Report date                      15 Apr 2021
+Installation                     Houston, United States of America, ExxonMobil Baytown
+
+Barge
+                                 CBC 335 CBC 336
+collection
+Product                          FO RS 3%
+Bill of Lading date: 14-Apr-2021                                                                                                                                           Time Log
+
+12 Apr 2021 (Monday)
+        21:50                         Object arrived at Installation
+        22:10                         Moored Alongside Berth (All Fast)
+        22:15                         Gangway in Place
+        22:35                         Saybolt onboard before Operation
+        22:40                         Commenced Initial Inspection
+        23:05                         Completed Initial Inspection, Tank(s) Inspected and Accepted
+13 Apr 2021 (Tuesday)
+                     Delay: Wainting on tankerman to connect crossover hose and prep barge for arom connections (7 hours and 10
+                 14:00
+                     minutes)
+        17:30        Hose / Arm Connected
+        23:25        ST 1013 GAUGED OPEN
+14 Apr 2021 (Wednesday)
+                 00:05                COMMENCED LOADING
+                 03:20                St 1013 gauged for lfv
+                 07:15                Suspened Loading for 2nd LP
+                 08:00                Commenced Barge Inspection for 2nd LP
+                 08:25                Completed Barge Inspection for 2nd LP
+                 09:15                ST 1013 Gauged for 2nd LP
+                 15:20                Delay: Shut down due to bad weather and lightning (2 hours and 40 minutes)
+                 22:17                COMPLETED LOADING
+                 22:20                Saybolt onboard after Operation
+                 22:35                Commenced Final Inspection
+                 23:00                Hose / Arm Disconnected
+                 23:55                Documents on Board
+                 23:55                Completed Final Inspection and Calculations, Tank(s) Measured and Sampled
+15 Apr 2021 (Thursday)
+                 00:30                ST 1013 GAUGED CLOSED
+                 01:00                Object Sailed / Departed
+
+
+
+
+Saybolt LP, 703 South Farm-to-Market Road, 77523 Baytown, USA                                                                                                      Date: 15 Apr 2021 12:41
+Tel. 346.348.4182 FAX
+Website: https://www.corelab.com/saybolt E-mail:saybolt.baytown.ops@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 TML2 V4.1.1.6 2020/07/21
+To Whom It May Concern
+
+This copy is being provided for courtesy purposes only, and does not give any person or company other than our named client a right to rely on these results.
+No warranties, express or implied, including the warranty of due diligence and care mentioned elsewhere, shall extend to any party other than such named client.
+
+Job No                            13052/00002499.0000/01/I/21
+Report date                       15 Apr 2021
+Installation                      Houston, United States of America, ExxonMobil Baytown
+
+Barge
+                                  CBC 335 CBC 336
+collection
+Product                           FO RS 3%
+Bill of Lading date: 14-Apr-2021                                                                                                                                   Summary Loading (GSV)
+
+
+Gross Standard Volume Data
+
+GSV Figures                                                                      Loaded excl OBQ                            Bill of Lading                  Δ Quantity                      Δ%
+Liters 15°C                                                                             7,185,896                               7,117,147                       68,749                      0.97
+Liters 20°C                                                                             7,212,583                               7,143,793                       68,790                      0.96
+Liters 30°C                                                                             7,266,702                               7,197,908                       68,794                      0.96
+Cu m 15°C                                                                               7,185.896                               7,117.147                       68.749                      0.97
+Cu m 20°C                                                                               7,212.583                               7,143.793                       68.790                      0.96
+Cu m 60°F                                                                               7,188.843                               7,120.065                       68.778                      0.97
+Barrels 60°F                                                                            45,216.46                               44,783.86                       432.60                      0.97
+US Gallons 60°F                                                                      1,899,091.32                           1,880,922.12                     18,169.20                      0.97
+Metric Tons Vac                                                                         6,681.261                               6,574.117                     107.144                       1.63
+Kilos Vac                                                                               6,681,261                               6,574,117                     107,144                       1.63
+Metric Tons Air                                                                         6,673.644                               6,566.566                     107.078                       1.63
+Kilos Air                                                                               6,673,644                               6,566,566                     107,078                       1.63
+Long Tons Air                                                                           6,568.244                               6,462.857                     105.387                       1.63
+Short Tons Air                                                                          7,356.433                               7,238.400                      118.033                      1.63
+Pounds                                                                              14,712,866.00                          14,476,800.00                    236,066.00                      1.63
+
+
+
+GSV Figures (VEF Adjusted)                                                   Loaded adjusted by VEF                              Bill of Lading               Δ Quantity                    Δ%
+Liters 15°C                                                                               7,185,896                                  7,117,147                   68,749                     0.97
+Liters 20°C                                                                               7,212,583                                  7,143,793                   68,790                     0.96
+Barrels 60°F                                                                              45,216.46                                  44,783.86                   432.60                     0.97
+
+
+
+                                                                  Density 15°C                     Density 20°C                         API 60°F               RD 60/60°F                S&W%
+Vessel Loaded                                                         0.92978                          0.92630                            20.60                  0.93031
+Bill of Lading                                                        0.92370                          0.92030                            21.60                  0.92423
+
+
+
+General Data
+Vessel Loaded Ratio                                                                                          1.00966
+
+
+
+
+Saybolt LP, 703 South Farm-to-Market Road, 77523 Baytown, USA                                                                                                               Date: 15 Apr 2021 12:41
+Tel. 346.348.4182 FAX
+Website: https://www.corelab.com/saybolt E-mail:saybolt.baytown.ops@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 SLGSV V4.1.2.0 2020/08/31
+To Whom It May Concern
+
+This copy is being provided for courtesy purposes only, and does not give any person or company other than our named client a right to rely on these results.
+No warranties, express or implied, including the warranty of due diligence and care mentioned elsewhere, shall extend to any party other than such named client.
+
+Job No                           13052/00002499.0000/01/I/21
+Report date                      15 Apr 2021
+Installation                     Houston, United States of America, ExxonMobil Baytown
+
+Barge
+                                 CBC 335 CBC 336
+collection
+Product                          FO RS 3%
+Bill of Lading date: 14-Apr-2021                                                                                                                              Shore Tank Report Single
+Shore tank 1013 at ExxonMobil Baytown
+Shore tank measurement                                                                                                                         Open                                 Close
+ Date / Time of measurement                                                                                                       13 Apr 2021 23:25                     14 Apr 2021 00:30
+ Average Innage                                                              FT/IN                                                          43 7-1/2                              26 3-1/2
+ Average temp.                                                               °F                                                               132.4                                 132.0
+ T.O.V.                                                                      Barrels                                                     117,274.62                             71,070.70
+ Water                                                                       FT/IN                                                              N/D                                   N/D
+ Ambient temp.                                                               °F                                                               73.00                                 69.00
+ Tank shell temp.                                                            °F                                                              132.00                                132.00
+ CTsh                                                                                                                                       0.99978                               0.99978
+ G.O.V.                                                                      Barrels                                                     117,248.82                             71,055.06
+ API 60°F                                                                                                                                     21.60                                 21.60
+ V.C.F.                                                                      6B                                                             0.96974                               0.96991
+ G.S.V.                                                                      barrels 60°F                                                113,700.87                             68,917.01
+ W.C.F.                                                                      MPMS 11.5.1.4.12                                        0.1443121928                          0.1443121928
+ W.C.F.                                                                      MPMS 11.5.1.4.15                                        0.1466279574                          0.1466279574
+ Long Tons                                                                                                                               16,408.422                             9,945.565
+ Metric Tons Air                                                                                                                         16,671.726                            10,105.160
+
+
+Totals                                                                                                                                                         GSV                     NSV
+T.O.V.                                  Barrels                                        46,203.92
+                                                                                Liters 15°C                                                               7,117,147
+G.O.V.                                  Barrels                                        46,193.76
+                                                                                Liters 20°C                                                               7,143,793
+                                                                                Liters 30°C                                                               7,197,908
+Density 15°C                            kg/l                            0.92370 Cu m 15°C                                                                 7,117.147
+RD 60/60°F                                                              0.92423 Cu m 20°C                                                                 7,143.793
+API 60°F                                                                  21.60 Cu m 60°F                                                                 7,120.065
+                                                                                Barrels 60°F                                                              44,783.86
+Average Temp.                           °F                                133.0 US Gallons 60°F                                                        1,880,922.12
+                                                                                Metric Tons Vac                                                           6,574.117
+Tables used:                            6B and W.C.F. MPMS 11.5.1.4.12.         Kilos Vac                                                                 6,574,117
+                                                                                Metric Tons Air                                                           6,566.566
+                                                                                Kilos Air                                                                 6,566,566
+                                                                                Long Tons Air                                                             6,462.857
+                                                                                Short Tons Air                                                            7,238.400
+                                                                                Pounds                                                                14,476,800.00
+
+
+
+
+Saybolt LP, 703 South Farm-to-Market Road, 77523 Baytown, USA                                                                                                           Date: 15 Apr 2021 12:41
+Tel. 346.348.4182 FAX
+Website: https://www.corelab.com/saybolt E-mail:saybolt.baytown.ops@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 STSi V4.1.2.0 2021/01/12
+To Whom It May Concern
+
+This copy is being provided for courtesy purposes only, and does not give any person or company other than our named client a right to rely on these results.
+No warranties, express or implied, including the warranty of due diligence and care mentioned elsewhere, shall extend to any party other than such named client.
+
+Job No                           13052/00002499.0000/01/I/21
+Report date                      15 Apr 2021
+Installation                     Houston, United States of America, ExxonMobil Baytown
+
+Barge
+                                 CBC 335 CBC 336
+collection
+Product                          FO RS 3%
+Bill of Lading date: 14-Apr-2021                                                                                                                                     Shore Tank Subtotals
+Shore tank Subtotals                                                                                                                                                      Totals              1013
+
+Gross Standard Volume
+  Liters 15°C                                                                                                                                                          7,117,147       7,117,147
+  Cu m 15°C                                                                                                                                                            7,117.147       7,117.147
+  Liters 20°C                                                                                                                                                          7,143,793       7,143,793
+  Liters 30°C                                                                                                                                                          7,197,908       7,197,908
+  Cu m 20°C                                                                                                                                                            7,143.793       7,143.793
+  Cu m 60°F                                                                                                                                                            7,120.065       7,120.065
+  Barrels 60°F                                                                                                                                                         44,783.86       44,783.86
+  US gallons 60°F                                                                                                                                                   1,880,922.12    1,880,922.12
+  Metric Tons Vac                                                                                                                                                      6,574.117       6,574.117
+  Kilos Vac                                                                                                                                                            6,574,117       6,574,117
+  Metric Tons Air                                                                                                                                                      6,566.566       6,566.566
+  Kilos Air                                                                                                                                                            6,566,566       6,566,566
+  Long Tons Air                                                                                                                                                        6,462.857       6,462.857
+  Short Tons Air                                                                                                                                                       7,238.400       7,238.400
+  Pounds Air                                                                                                                                                       14,476,800.00   14,476,800.00
+
+      Density 15°C                                                                                                                                                                        0.92370
+      Density 20°C                                                                                                                                                                        0.92030
+      API 60°F                                                                                                                                                                              21.60
+      RD 60/60°                                                                                                                                                                           0.92423
+
+Net Standard Volume
+   Liters 15°C                                                                                                                                                         7,117,147
+   Liters 20°C                                                                                                                                                         7,143,793
+   Cu m 15°C                                                                                                                                                           7,117.147
+   Cu m 20°C                                                                                                                                                           7,143.793
+   Cu m 60°F                                                                                                                                                           7,120.065
+   Barrels 60°F                                                                                                                                                        44,783.86
+   US gallons 60°F                                                                                                                                                  1,880,922.12
+   Metric Tons Vac                                                                                                                                                     6,574.117
+   Kilos Vac                                                                                                                                                           6,574,117
+   Metric Tons Air                                                                                                                                                     6,566.566
+   Kilos Air                                                                                                                                                           6,566,566
+   Long Tons Air                                                                                                                                                       6,462.857
+   Short Tons Air                                                                                                                                                      7,238.400
+   Pounds Air                                                                                                                                                      14,476,800.00
+Total Calculated Volume
+   Liters 15°C                                                                                                                                                                         7,117,147
+   Liters 20°C                                                                                                                                                                         7,143,793
+   Barrels 60°F                                                                                                                                                       44,783.86        44,783.86
+   US gallons 60°F                                                                                                                                                                  1,880,922.12
+
+
+
+
+Saybolt LP, 703 South Farm-to-Market Road, 77523 Baytown, USA                                                                                                                 Date: 15 Apr 2021 12:41
+Tel. 346.348.4182 FAX
+Website: https://www.corelab.com/saybolt E-mail:saybolt.baytown.ops@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 STST V4.1.2.5 2021/04/06
+To Whom It May Concern
+
+This copy is being provided for courtesy purposes only, and does not give any person or company other than our named client a right to rely on these results.
+No warranties, express or implied, including the warranty of due diligence and care mentioned elsewhere, shall extend to any party other than such named client.
+
+Job No                          13052/00002499.0000/01/I/21
+Report date                     15 Apr 2021
+Installation                    Houston, United States of America, ExxonMobil Baytown
+
+Barge
+                                CBC 335 CBC 336
+collection
+Product                         FO RS 3%
+Bill of Lading date: 14-Apr-2021                                                                                                                Shore Tank Measurement Details
+
+Shore tank 1013
+Measurement data (Innage)                                                               Open                                                     Close
+       Average                                  FT/IN                                   43 7-1/2                                                 26 3-1/2
+Temperature
+Measurement Equipment Data
+                                                                                        Open                                                     Close
+         Water measurement used                                                         Paste                                                    Paste
+         Water paste used                                                               Kolor Kut                                                Kolor Kut
+         Gauging equipment type                                                         Saybolt Equipment                                        Saybolt Equipment
+         Gauging Equipment used                                                         Manual Tape                                              Manual Tape
+         Gauging equipment number                                                       20001 & 20017                                            20000 & 20016
+         Temperature equipment type                                                     Saybolt Equipment                                        Saybolt Equipment
+         Temperature Equipment used                                                     Portable Electronic Thermometer                          Portable Electronic Thermometer
+         Temperature equipment number                                                   1028                                                     1036
+         Inspector Equipment used for verification?                                     Yes                                                      Yes
+         Inspector name                                                                 Demequs Doughty                                          Kevin Stephens
+
+
+
+
+Saybolt LP, 703 South Farm-to-Market Road, 77523 Baytown, USA                                                                                                           Date: 15 Apr 2021 12:41
+Tel. 346.348.4182 FAX
+Website: https://www.corelab.com/saybolt E-mail:saybolt.baytown.ops@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 STD V4.1.2.0 2021/01/12
+To Whom It May Concern
+
+This copy is being provided for courtesy purposes only, and does not give any person or company other than our named client a right to rely on these results.
+No warranties, express or implied, including the warranty of due diligence and care mentioned elsewhere, shall extend to any party other than such named client.
+
+Job No                             13052/00002499.0000/01/I/21
+Report date                        15 Apr 2021
+Installation                       Houston, United States of America, ExxonMobil Baytown
+
+Barge
+                                   CBC 335 CBC 336
+collection
+Product                            FO RS 3%
+Bill of Lading date: 14-Apr-2021                                                                                                                                       Interim Ullage Report
+
+CBC 335
+API 60°F                        20.6     Survey Date and Time                                        12 Apr 2021 23:05             Gauging Equipment Type Saybolt equipment
+                                         Calibration Table Nr                                                                      Gauging Equipment Used Manual tape
+                                         Calibration Table valid                                                                   Gauging Equipment Nr   20000
+                                         Inspector equipment used for verification?                  Yes                           Temp. Equipment Type
+                                         Water Measurement Method                                    Paste Kolor Kut               Temp. Equipment Used
+
+Tank                                    Ullage Ullage corr.                   TOV.                     Free Water                           GOV.            Temp        VCF table            GSV
+                                        FT/IN      FT/IN                    Barrels        FT/IN             Barrels                      Barrels              °F             6B     barrels 60°F
+1P                                       14 9       N/A                      83.33         N/D                                             83.33             60.0        1.00000            83.33
+1S                                     14 9-1/4     N/A                      75.05         N/D                                             75.05             60.0        1.00000            75.05
+2P                                       14 9       N/A                      82.83         N/D                                             82.83             60.0        1.00000            82.83
+2S                                     14 9-1/4     N/A                      74.60         N/D                                             74.60             60.0        1.00000            74.60
+3P                                     14 8-1/2     N/A                      98.83         N/D                                             98.83             60.0        1.00000            98.83
+3S                                       14 8       N/A                     123.88         N/D                                            123.88             60.0        1.00000          123.88
+Totals                                                                       538.52                                                        538.52                                           538.52
+
+Summary Totals
+On-board figures                                                                                                                 Draft                                 Correction
+GSV                                                   538.52                                                                     Fore          FT/IN               2 3 Trim       FT/IN          03
+TCV                                                   538.52                                                                     Aft           FT/IN               2 6 List         °
+
+                                                                                                                                 Trim/List correction applied?                                   No
+On-board figures
+GSV Liters 15°C                                       85,583                                                                     Average Temp °F                                               60.0
+GSV Liters 30°C
+GSV Barrels 60°F                                      538.52                                                                     Tables used           Table used: 6B, and MPMS 11.5.1.4.12
+GSV US Gallons 60°F                                22,617.84
+Metric Tons Vac                                       79.573
+Kilos Vac                                             79,573
+Metric Tons Air                                       79.482
+Kilos Air                                             79,482
+Long Tons                                             78.227
+Short Tons                                            87.614
+Pounds                                            175,228.00
+
+
+
+
+ Signed by: Ship's representative                                                                                                                Saybolt representative
+     Name:                                                                                                                                       Kevin Stephens
+     Rank:                                                                                                                                       Saybolt Inspector
+
+Saybolt LP, 703 South Farm-to-Market Road, 77523 Baytown, USA                                                                                                                  Date: 15 Apr 2021 12:41
+Tel. 346.348.4182 FAX
+Website: https://www.corelab.com/saybolt E-mail:saybolt.baytown.ops@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 IUR V4.1.2.0 2021/02/02
+To Whom It May Concern
+
+This copy is being provided for courtesy purposes only, and does not give any person or company other than our named client a right to rely on these results.
+No warranties, express or implied, including the warranty of due diligence and care mentioned elsewhere, shall extend to any party other than such named client.
+
+Job No                             13052/00002499.0000/01/I/21
+Report date                        15 Apr 2021
+Installation                       Houston, United States of America, ExxonMobil Baytown
+
+Barge
+                                   CBC 335 CBC 336
+collection
+Product                            FO RS 3%
+Bill of Lading date: 14-Apr-2021                                                                                                                                       Interim Ullage Report
+
+CBC 336
+API 60°F                        20.6      Survey Date and Time                                       12 Apr 2021 23:05             Gauging Equipment Type Saybolt equipment
+                                          Calibration Table Nr                                                                     Gauging Equipment Used Manual tape
+                                          Calibration Table valid                                                                  Gauging Equipment Nr   20000
+                                          Inspector equipment used for verification?                 Yes                           Temp. Equipment Type
+                                          Water Measurement Method                                   Paste Kolor Kut               Temp. Equipment Used
+
+Tank                                     Ullage Ullage corr.                  TOV.                     Free Water                           GOV.            Temp        VCF table            GSV
+                                         FT/IN      FT/IN                   Barrels        FT/IN             Barrels                      Barrels              °F             6B     barrels 60°F
+1P                                      13 9-1/4     N/A                    132.61         N/D                                            132.61             60.0        1.00000          132.61
+1S                                      14 0-3/4     N/A                     21.11         N/D                                             21.11             60.0        1.00000            21.11
+2P                                        14 0       N/A                     25.44         N/D                                             25.44             60.0        1.00000            25.44
+2S                                     13 11-3/4     N/A                     20.66         N/D                                             20.66             60.0        1.00000            20.66
+3P                                     13 10-3/4     N/A                     62.86         N/D                                             62.86             60.0        1.00000            62.86
+3S                                        14 0       N/A                     30.87         N/D                                             30.87             60.0        1.00000            30.87
+Totals                                                                       293.55                                                        293.55                                           293.55
+
+Summary Totals
+On-board figures                                                                                                                 Draft                                 Correction
+GSV                                                    293.55                                                                    Fore          FT/IN               2 3 Trim       FT/IN          03
+TCV                                                    293.55                                                                    Aft           FT/IN               2 6 List         °
+
+                                                                                                                                 Trim/List correction applied?                                   No
+On-board figures
+GSV Liters 15°C                                        46,652                                                                    Average Temp °F                                               60.0
+GSV Liters 30°C
+GSV Barrels 60°F                                       293.55                                                                    Tables used           Table used: 6B, and MPMS 11.5.1.4.12
+GSV US Gallons 60°F                                 12,329.10
+Metric Tons Vac                                        43.375
+Kilos Vac                                              43,375
+Metric Tons Air                                        43.326
+Kilos Air                                              43,326
+Long Tons                                              42.642
+Short Tons                                             47.759
+Pounds                                              95,518.00
+
+
+
+
+ Signed by: Ship's representative                                                                                                                Saybolt representative
+     Name:                                                                                                                                       Kevin Stephens
+     Rank:                                                                                                                                       Saybolt Inspector
+
+Saybolt LP, 703 South Farm-to-Market Road, 77523 Baytown, USA                                                                                                                  Date: 15 Apr 2021 12:41
+Tel. 346.348.4182 FAX
+Website: https://www.corelab.com/saybolt E-mail:saybolt.baytown.ops@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 IUR V4.1.2.0 2021/02/02
+To Whom It May Concern
+
+This copy is being provided for courtesy purposes only, and does not give any person or company other than our named client a right to rely on these results.
+No warranties, express or implied, including the warranty of due diligence and care mentioned elsewhere, shall extend to any party other than such named client.
+
+Job No                             13052/00002499.0000/01/I/21
+Report date                        15 Apr 2021
+Installation                       Houston, United States of America, ExxonMobil Baytown
+
+Barge
+                                   CBC 335 CBC 336
+collection
+Product                            FO RS 3%
+Bill of Lading date: 14-Apr-2021                                                                                                                                       Interim Ullage Report
+
+CBC 335
+API 60°F                        20.6     Survey Date and Time                                        14 Apr 2021 23:55             Gauging Equipment Type              Saybolt equipment
+                                         Calibration Table Nr                                                                      Gauging Equipment Used              Manual tape
+                                         Calibration Table valid                                                                   Gauging Equipment Nr                20001 & 20017
+                                         Inspector equipment used for verification?                  Yes                           Temp. Equipment Type                Saybolt equipment
+                                         Water Measurement Method                                    Paste Kolor Kut               Temp. Equipment Used                Portable Electronic
+                                                                                                                                                                       Thermometer
+                                         Connector type                                                                            Temp. Equipment Nr                  1028
+
+Tank                                    Ullage Ullage corr.                   TOV.                     Free Water                             GOV.          Temp       VCF table              GSV
+                                         FT/IN     FT/IN                   Barrels         FT/IN             Barrels                       Barrels             °F            6B       barrels 60°F
+1P                                        44        N/A                   4,295.64         N/D                                            4,295.64          120.3       0.97504          4,188.42
+1S                                     4 4-1/4      N/A                   4,287.21         N/D                                            4,287.21          121.0       0.97475          4,178.96
+2P                                        45        N/A                   4,237.43         N/D                                            4,237.43          119.7       0.97529          4,132.72
+2S                                     4 4-3/4      N/A                   4,245.81         N/D                                            4,245.81          118.1       0.97596          4,143.74
+3P                                     4 10-1/2     N/A                   4,022.88         N/D                                            4,022.88          119.2       0.97550          3,924.32
+3S                                     4 9-3/4      N/A                   4,047.67         N/D                                            4,047.67          117.6       0.97617          3,951.21
+Totals                                                                  25,136.64                                                        25,136.64                                       24,519.37
+
+Summary Totals
+On-board figures                                                                                                                 Draft                                 Correction
+GSV                                                24,519.37                                                                     Fore          FT/IN               9 3 Trim       FT/IN            nil
+TCV                                                24,519.37                                                                     Aft           FT/IN               9 3 List         °
+
+                                                                                                                                 Trim/List correction applied?                                    No
+On-board figures
+GSV Liters 15°C                                    3,896,671                                                                     Average Temp °F                                               119.3
+GSV Liters 30°C
+GSV Barrels 60°F                                   24,519.37                                                                     Tables used           Table used: 6B, and MPMS 11.5.1.4.12
+GSV US Gallons 60°F                             1,029,813.54
+Metric Tons Vac                                    3,623.023
+Kilos Vac                                          3,623,023
+Metric Tons Air                                    3,618.893
+Kilos Air                                          3,618,893
+Long Tons                                          3,561.738
+Short Tons                                         3,989.147
+Pounds                                          7,978,294.00
+
+
+
+
+ Signed by: Ship's representative                                                                                                                Saybolt representative
+     Name:                                                                                                                                       Demequs Doughty
+     Rank:                                                                                                                                       Saybolt Inspector
+
+Saybolt LP, 703 South Farm-to-Market Road, 77523 Baytown, USA                                                                                                                   Date: 15 Apr 2021 12:41
+Tel. 346.348.4182 FAX
+Website: https://www.corelab.com/saybolt E-mail:saybolt.baytown.ops@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 IUR V4.1.2.0 2021/02/02
+To Whom It May Concern
+
+This copy is being provided for courtesy purposes only, and does not give any person or company other than our named client a right to rely on these results.
+No warranties, express or implied, including the warranty of due diligence and care mentioned elsewhere, shall extend to any party other than such named client.
+
+Job No                             13052/00002499.0000/01/I/21
+Report date                        15 Apr 2021
+Installation                       Houston, United States of America, ExxonMobil Baytown
+
+Barge
+                                   CBC 335 CBC 336
+collection
+Product                            FO RS 3%
+Bill of Lading date: 14-Apr-2021                                                                                                                                       Interim Ullage Report
+
+CBC 336
+API 60°F                        20.6     Survey Date and Time                                        14 Apr 2021 23:55             Gauging Equipment Type              Saybolt equipment
+                                         Calibration Table Nr                                                                      Gauging Equipment Used              Manual tape
+                                         Calibration Table valid                                                                   Gauging Equipment Nr                20001 & 20017
+                                         Inspector equipment used for verification?                  Yes                           Temp. Equipment Type                Saybolt equipment
+                                         Water Measurement Method                                    Paste Kolor Kut               Temp. Equipment Used                Portable Electronic
+                                                                                                                                                                       Thermometer
+                                         Connector type                                                                            Temp. Equipment Nr                  1028
+
+Tank                                   Ullage    Ullage corr.                 TOV.                     Free Water                             GOV.          Temp       VCF table              GSV
+                                        FT/IN        FT/IN                 Barrels         FT/IN             Barrels                       Barrels             °F            6B       barrels 60°F
+1P                                     3 1-3/4        N/A                 4,117.77         N/D                                            4,117.77          119.3       0.97546          4,016.72
+1S                                     3 2-3/4        N/A                 4,070.84         N/D                                            4,070.84          119.8       0.97525          3,970.09
+2P                                      3 10          N/A                 3,742.93         N/D                                            3,742.93          120.1       0.97513          3,649.84
+2S                                     3 9-1/2        N/A                 3,742.93         N/D                                            3,742.93          118.7       0.97571          3,652.01
+3P                                     5 7-1/2        N/A                 3,162.68         N/D                                            3,162.68          117.9       0.97604          3,086.90
+3S                                     5 5-1/4        N/A                 3,233.07         N/D                                            3,233.07          119.4       0.97542          3,153.60
+Totals                                                                  22,070.22                                                        22,070.22                                       21,529.16
+
+Summary Totals
+On-board figures                                                                                                                 Draft                                 Correction
+GSV                                                 21,529.16                                                                    Fore          FT/IN               9 3 Trim       FT/IN            nil
+TCV                                                 21,529.16                                                                    Aft           FT/IN               9 3 List         °
+
+                                                                                                                                 Trim/List correction applied?                                    No
+On-board figures
+GSV Liters 15°C                                     3,421,460                                                                    Average Temp °F                                               119.2
+GSV Liters 30°C
+GSV Barrels 60°F                                    21,529.16                                                                    Tables used           Table used: 6B, and MPMS 11.5.1.4.12
+GSV US Gallons 60°F                                904,224.72
+Metric Tons Vac                                     3,181.185
+Kilos Vac                                           3,181,185
+Metric Tons Air                                     3,177.558
+Kilos Air                                           3,177,558
+Long Tons                                           3,127.374
+Short Tons                                          3,502.659
+Pounds                                           7,005,318.00
+
+
+
+
+ Signed by: Ship's representative                                                                                                                Saybolt representative
+     Name:                                                                                                                                       Demequs Doughty
+     Rank:                                                                                                                                       Saybolt Inspector
+
+Saybolt LP, 703 South Farm-to-Market Road, 77523 Baytown, USA                                                                                                                   Date: 15 Apr 2021 12:41
+Tel. 346.348.4182 FAX
+Website: https://www.corelab.com/saybolt E-mail:saybolt.baytown.ops@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 IUR V4.1.2.0 2021/02/02
+To Whom It May Concern
+
+This copy is being provided for courtesy purposes only, and does not give any person or company other than our named client a right to rely on these results.
+No warranties, express or implied, including the warranty of due diligence and care mentioned elsewhere, shall extend to any party other than such named client.
+
+Job No                           13052/00002499.0000/01/I/21
+Report date                      15 Apr 2021
+Installation                     Houston, United States of America, ExxonMobil Baytown
+
+Barge
+                                 CBC 335 CBC 336
+collection
+Product                          FO RS 3%
+Bill of Lading date: 14-Apr-2021                                                                                             Reference Height and Measurement data report
+Manual Tank Heights
+Tank                                            Calibrated Reference                                     Found Reference Height in FT/IN                             Gauging Location
+                                                    Height in FT/IN                                    Before                       After
+1P      335                                             15-1-0                                          15 1                        15 1                                  Center
+1S      335                                              15 1                                          15 0-3/4                   15 0-3/4                                Center
+2P      335                                              15 1                                          15 0-3/4                   15 0-3/4                                Center
+2S      335                                              15 1                                          15 0-1/2                   15 0-1/2                                Center
+3P      335                                              15 1                                           15 1                        15 1                                  Center
+3S      335                                            15 1-1/4                                         15 1                        15 1                                  Center
+1P      336                                            14 1-1/4                                         14 1                        14 1                                  Center
+1S      336                                            14 1-1/4                                         14 1                        14 1                                  Center
+2P      336                                            14 0-3/4                                        14 0-1/4                   14 0-1/4                                Center
+2S      336                                            14 0-1/4                                        14 0-1/4                   14 0-1/4                                Center
+3P      336                                              14 1                                          14 0-3/4                   14 0-3/4                                Center
+3S      336                                              14 1                                          14 0-3/4                   14 0-3/4                                Center
+
+* Tanks where full sounding depth could not be reached due to obstructions or tankcontours.
+
+Measurement data Before Operations
+Survey Date and Time            13 Apr 2021
+
+Measurement data After Operations
+Survey Date and Time            14 Apr 2021
+
+
+
+
+ Signed by: Ship's representative                                                                                                                Saybolt representative
+     Name:
+     Rank: Barge Master                                                                                                                          Saybolt Inspector
+Saybolt LP, 703 South Farm-to-Market Road, 77523 Baytown, USA                                                                                                           Date: 15 Apr 2021 12:41
+Tel. 346.348.4182 FAX
+Website: https://www.corelab.com/saybolt E-mail:saybolt.baytown.ops@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 RHRD V4.1.2.0 2020/10/06
+    To Whom It May Concern
+
+    This copy is being provided for courtesy purposes only, and does not give any person or company other than our named client a right to rely on these results.
+    No warranties, express or implied, including the warranty of due diligence and care mentioned elsewhere, shall extend to any party other than such named client.
+
+    Job No                       13052/00002499.0000/01/I/21
+    Report date                  15 Apr 2021
+    Installation                 Houston, United States of America, ExxonMobil Baytown
+
+    Barge
+                                 CBC 335 CBC 336
+    collection
+    Product                      FO RS 3%
+Bill of Lading date: 14-Apr-2021                                                                                                                                  Line Displacement Report
+Mineral
+
+
+    On your request a line displacement was carried out before loading of the above mentioned vessel, in order to check the
+    condition of the shoreline, and we report as follows:
+,
+
+    Capacity of shoreline from tankside to ships
+                                                                                       8,100
+    manifold
+    Shore tank(s) used                                                                 1013
+    Tanks API 60°F
+    Shore line(s) used                                                                 106
+    Shore line API 60°F
+    Ship tank(s) used                                                                  All Tanks - Both Barges
+    Ships API 60°F
+
+    Shore Line Displacement Comparison
+                                                                                                        Observed Volume                       Temperature               Standard Volume
+                                                                                                            Barrels                               °F                        Barrels
+    Shore
+      A Shore tank 1013 quantity before                                                                       117,274.57
+      B Shore tank 1013 quantity after                                                                        109,054.97
+      C Shore tank difference                                                      (A-B)                       8,219.60
+       D          Shore tank quantity before                                                                           0
+       E          Shore tank quantity after
+       F          Shore tank difference                                            (D-E)                               0
+      G Total shore difference                                                    (C+F)                         8,219.60
+    Vessel
+      K Ship tanks quantity before                                                                               832.07
+      L Ship tanks quantity after                                                                               9,700.71
+      M Ships difference                                                           (L-K)                        8,868.64
+      N Ship line quantity
+      O Difference including Ship line                                            (M+N)                         8,868.64
+    Totals
+    Difference Ship vs Shore                                                      (O-G)                        Δ Quantity                             Δ%
+    Observed Volume                                                              Barrels                        649.04                                7.90
+    Standard Volume                                                              Barrels
+
+    Remarks:
+    Tolerance = 175.00 barrels
+
+
+
+
+    Signed by: Ship's representative                                                   Shore representative                                          Saybolt representative
+        Name:
+        Rank:                                                                          Loading Master                                                Saybolt Inspector
+
+Saybolt LP, 703 South Farm-to-Market Road, 77523 Baytown, USA                                                                                                               Date: 15 Apr 2021 12:41
+Tel. 346.348.4182 FAX
+Website: https://www.corelab.com/saybolt E-mail:saybolt.baytown.ops@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 LDP V4.0.10.0 2018/11/21
+    To Whom It May Concern
+
+    This copy is being provided for courtesy purposes only, and does not give any person or company other than our named client a right to rely on these results.
+    No warranties, express or implied, including the warranty of due diligence and care mentioned elsewhere, shall extend to any party other than such named client.
+
+    Job No                       13052/00002499.0000/01/I/21
+    Report date                  15 Apr 2021
+    Installation                 Houston, United States of America, ExxonMobil Baytown
+
+    Barge
+                                 CBC 335 CBC 336
+    collection
+    Product                      FO RS 3%
+Bill of Lading date: 14-Apr-2021                                                                                                                                  Line Displacement Report
+Mineral
+
+
+    On your request a line displacement was carried out before loading of the above mentioned vessel, in order to check the
+    condition of the shoreline, and we report as follows:
+,
+
+    Capacity of shoreline from tankside to ships
+                                                                                       8,100
+    manifold
+    Shore tank(s) used                                                                 1013
+    Tanks API 60°F
+    Shore line(s) used                                                                 106
+    Shore line API 60°F
+    Ship tank(s) used                                                                  All Tanks - Both Barges
+    Ships API 60°F
+
+    Shore Line Displacement Comparison
+                                                                                                        Observed Volume                       Temperature               Standard Volume
+                                                                                                            Barrels                               °F                        Barrels
+    Shore
+      A Shore tank 1013 quantity before                                                                       109,055.02
+      B Shore tank 1013 quantity after                                                                        100,752.41
+      C Shore tank difference                                                      (A-B)                       8,302.61
+       D          Shore tank quantity before                                                                           0
+       E          Shore tank quantity after
+       F          Shore tank difference                                            (D-E)                               0
+      G Total shore difference                                                    (C+F)                         8,302.61
+    Vessel
+      K Ship tanks quantity before                                                                             9,700.71
+      L Ship tanks quantity after                                                                              17,704.60
+      M Ships difference                                                           (L-K)                       8,003.89
+      N Ship line quantity                                                                                         0
+      O Difference including Ship line                                            (M+N)                        8,003.89
+    Totals
+    Difference Ship vs Shore                                                      (O-G)                        Δ Quantity                             Δ%
+    Observed Volume                                                              Barrels                        -298.72                              -3.60
+    Standard Volume                                                              Barrels
+
+    Remarks:
+    Tolerance = 175.00 barrels
+
+
+
+
+    Signed by: Ship's representative                                                   Shore representative                                          Saybolt representative
+        Name:
+        Rank:                                                                          Loading Master                                                Saybolt Inspector
+
+Saybolt LP, 703 South Farm-to-Market Road, 77523 Baytown, USA                                                                                                               Date: 15 Apr 2021 12:41
+Tel. 346.348.4182 FAX
+Website: https://www.corelab.com/saybolt E-mail:saybolt.baytown.ops@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 LDP V4.0.10.0 2018/11/21
+To Whom It May Concern
+
+This copy is being provided for courtesy purposes only, and does not give any person or company other than our named client a right to rely on these results.
+No warranties, express or implied, including the warranty of due diligence and care mentioned elsewhere, shall extend to any party other than such named client.
+
+Job No                          13052/00002499.0000/01/I/21
+Report date                     15 Apr 2021
+Installation                    Houston, United States of America, ExxonMobil Baytown
+
+Barge
+                                CBC 335 CBC 336
+collection
+Product                         FO RS 3%
+Bill of Lading date: 14-Apr-2021                                                                                                                                            Sample Report
+
+Grade                                   Description                                                                                      Sealed             Distribution   Amount         Volume
+FO RS 3%                                1013 Upper Middle Lower                                                                          Open               Testing        9              1 Quarts
+FO RS 3%                                1013 Composite                                                                                   Open               Testing        2              1 Quarts
+FO RS 3%                                CBC 335 3P 1st Foot                                                                              Sealed             Retain         1              1 Quart
+FO RS 3%                                1-3W Averages - Both Barges                                                                      Open               Test           24             1 Quarts
+FO RS 3%                                Composite of Both Barges - For AmSpec                                                            Open               Test           1              1 Gallon
+
+                                                                                                                                         Total Samples                     37
+
+Vessel's samples were taken using vessel's closed sampling system.
+
+Information
+Samples drawn by                                                                     Saybolt Inspector
+Shoretank sampling location                                                          Top of tank
+Type / condition of sampling containers                                              Clean glass bottles/tins
+Loadport samples delivered by                                                        Saybolt Inspector
+received by                                                                          Vessel
+
+Remarks:
+      Samples retained by Saybolt will be held for 90 days (unless otherwise specified) at the end of which they shall be disposed of.
+
+
+
+
+Saybolt LP, 703 South Farm-to-Market Road, 77523 Baytown, USA                                                                                                                   Date: 15 Apr 2021 12:41
+Tel. 346.348.4182 FAX
+Website: https://www.corelab.com/saybolt E-mail:saybolt.baytown.ops@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 SMP V4.1.1.2 2020/05/18
+To Whom It May Concern
+
+This copy is being provided for courtesy purposes only, and does not give any person or company other than our named client a right to rely on these results.
+No warranties, express or implied, including the warranty of due diligence and care mentioned elsewhere, shall extend to any party other than such named client.
+
+Job No                            13052/00002499.0000/01/I/21
+Report date                       15 Apr 2021
+Installation                      Houston, United States of America, ExxonMobil Baytown
+
+Barge
+                                  CBC 335 CBC 336
+collection
+Product                           FO RS 3%
+Bill of Lading date: 14-Apr-2021                                                                                                                                     Letter of Protest
+
+
+
+
+    Dear Sirs,
+    This is to advise that we, Saybolt, as Independent Surveyors on behalf of our clients do hereby lodge protest in respect of:
+    Inspectors were informed by the terminal that they started loading at 1915 on 04.13.2021. Later
+    that night around 2215 the inspectors were called and told that the shore tank needed to be open
+    so they can start.
+    When it was time to perform the LFV, the inspector noticed that there was quite a bit more
+    product on the barge than there should have been. After speaking with the tankerman,
+    the inspector found out that the barge(s) started receiving cargo (what the tankerman suspected
+    as gravity feed) before the shore tank was even gauged open. Which in turn caused
+    the first LFV to fail.
+    During the first LFV an MOV started leaking on the line, so while they were down from the first
+    LFV, they moved the barges over to the other side of the dock/another berth.
+    The second LFV failed probably due to changing berths
+    Furthermore, on behalf of our client, we reserve the right to refer to this matter at a later date.
+
+    Signature of this document is acknowledged of receipt only and not an admission of responsibility for the incident.
+
+
+
+
+ Signed by: Ship's representative                                                      Shore representative                                      Saybolt representative
+     Name:
+     Rank:                                                                             Loading Master                                            Saybolt Inspector
+
+Saybolt LP, 703 South Farm-to-Market Road, 77523 Baytown, USA                                                                                                         Date: 15 Apr 2021 12:41
+Tel. 346.348.4182 FAX
+Website: https://www.corelab.com/saybolt E-mail:saybolt.baytown.ops@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 LOPA V4.0.10.0 2018/11/22
+To Whom It May Concern
+
+This copy is being provided for courtesy purposes only, and does not give any person or company other than our named client a right to rely on these results.
+No warranties, express or implied, including the warranty of due diligence and care mentioned elsewhere, shall extend to any party other than such named client.
+
+Job No                            13052/00002499.0000/01/I/21
+Report date                       15 Apr 2021
+Installation                      Houston, United States of America, ExxonMobil Baytown
+
+Barge
+                                  CBC 335 CBC 336
+collection
+Product                           FO RS 3%
+Bill of Lading date: 14-Apr-2021                                                                                                                                   API Checklist Loading
+  Before Loading                                                                                                                                          Standards Ref.
+  Participated in the key meeting                                                                                                                         API 17.1         Not Applicable
+  Closed / restricted measurement and sampling equipment used onboard                                                                                     API 17.2         Not Applicable
+  Vessel capacity tables apply, without adjustments, to gauge point used                                                                                  US Customs       Yes
+  Recorded vessel capacity table reference gauge heights before gauging                                                                                   API 17.1         Yes
+  Discussed measurements with US Customs inspector before proceeding                                                                                      US Customs       Not Applicable
+  Used Saybolt calibrated gauging and temperature equipment                                                                                               API 3.1a         Yes
+  Pre-loading tank inspection completed and tanks accepted                                                                                                API 17.8         Yes
+  Recorded shore automatic gauges and temperatures                                                                                                        API 17.1         Yes
+  Manual gauging not permitted / possible; vessel’s automatic gauges used                                                                                 API 17.2         Not Applicable
+  Personally measured shore product, free water & temperature                                                                                             API 3.1a         Yes
+  Measured / recorded ambient air temperature for shell expansion calculation                                                                             API 12.1         Yes
+  Obtained shore samples using Manual sampling or Automatic sampling                                                                                      API 8.1/8.2      Manual
+  Automatic sampling pot inspected for cleanliness                                                                                                        API 17.1         Not Applicable
+  Shore line sample at dock taken before loading                                                                                                          API 17.1         Not Applicable
+  Recorded vessel's draft readings before loading                                                                                                         API 17.1         Yes
+  Check sea valve security and recorded seal numbers before loading                                                                                       API 17.1         Not Applicable
+  Every cargo tank gauged or visually verifed for OBQ                                                                                                     API 17.4         Yes
+  Measured OBQ using Saybolt equipment at low end of tank                                                                                                 API 17.4         Not Applicable
+  OBQ measured at points other than the reference gauge point                                                                                             API 17.4         Not Applicable
+  Calculations (or tables) for trim and wedge were used as applicable                                                                                     API 17.4         Not Applicable
+  OBQ was sampled                                                                                                                                         API 17.1         Not Applicable
+  OBQ temperature was measured                                                                                                                            API 17.1         Not Applicable
+  First foot samples were taken before loading commenced                                                                                                  API 17.1         Yes
+  Bunker quantities were recorded                                                                                                                         API 17.1         Not Applicable
+  Verified shore line capacity and fill                                                                                                                   API 17.6         Yes
+  After Loading                                                                                                                                           Standards Ref.
+  Line sample taken during loading                                                                                                                        API 17.1         Not Applicable
+  Time Log Prepared                                                                                                                                       API 17.1         Yes
+  Recorded vessel's draft readings after loading                                                                                                          API 17.1         Yes
+  Check sea valve security and recorded seal numbers after loading                                                                                        API 17.1         Not Applicable
+  Bunker quantities were recorded after loading                                                                                                           API 17.1         Not Applicable
+  Shore line fill verified after vessel loading                                                                                                           API 17.6         Yes
+  Personally measured shore product, free water & temperature                                                                                             API 3.1a         Yes
+  Measured / recorded ambient air temperature for shell expansion calculation                                                                             API 12.1         Yes
+  Vessel deck lines drained into cargo tanks before gauging                                                                                               API 17.1         Yes
+  Measured vessel's cargo, slops, free water, non-cargo areas & temperatures                                                                              API 17.2         Yes
+  Inspected ballast tanks for presence of cargo                                                                                                           API 17.1         Not Applicable
+  Automatic sampling inspected and appeared to be functioning properly                                                                                    API 17.1         Not Applicable
+  Loadport samples placed on board; receipt signed by vessel's representative                                                                             API 17.1         Not Applicable
+  Vessel Experience Factor data obtained from vessel's records                                                                                            API 17.1         Not Applicable
+  Appropriate Letters of Protest issued and signed before leaving job site                                                                                API 17.1         Yes
+  Copies of meter tickets and meter proving records obtained                                                                                              API 17.1         Not Applicable
+  Meters were proved before or after cargo transfer                                                                                                       API 17.1         Not Applicable
+
+
+
+
+Saybolt LP, 703 South Farm-to-Market Road, 77523 Baytown, USA                                                                                                              Date: 15 Apr 2021 12:41
+Tel. 346.348.4182 FAX
+Website: https://www.corelab.com/saybolt E-mail:saybolt.baytown.ops@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 ACAL V4.0.10.0 2018/12/04
+

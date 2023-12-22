@@ -1,0 +1,141 @@
+                                  COASTAL GULF &
+                                INTERNATIONAL, INC.
+                                                    "Precision"
+                                              Inspection & Analytical
+                                                      Services
+                                      2104 S Southland, Gonzales, LA 70737
+                                     Phone (225) 231-4990 Fax (225) 231-7875                       Assuring accuracy through expertise!
+
+Vessel:                 CBC 183                                                Date:               December 13, 2020
+Product:                Exxal 13                                               Terminal:           ExxonMobil
+Subject:                Report of Loading                                      Port:               Baton Rouge, Louisiana
+ExxonMobil Ref. #: 4970977                                                     File Number:        XBR12822
+
+
+                                                           RECAPITULATION
+               OFFICIAL QUANTITY                                                            FOR REFERENCE ONLY
+
+METER FIGURES                                  QUANTITY                         BARGE FIGURES                            QUANTITY
+Barrels                                             14,989.00                  Barrels                                        14,970.79
+Gallons                                            629,538.00                  Gallons                                       628,773.18
+Pounds                                           4,458,388.00                  Pounds                                      4,452,972.00
+Metric Tons                                         2,022.293                  Metric Tons                                    2,019.837
+Short Tons                                          2,229.194                  Short Tons                                     2,226.486
+Long Tons                                           1,990.352                  Long Tons                                      1,987.934
+
+
+                                                                For Comparison only
+                              VEF:                 1.00100                        Barge With VEF Applied:          14,955.83
+
+BARGE FIGURES In Barrels
+BARGE                                            ARRIVAL                          DEPARTURE                            DIFFERENCE
+CBC 183                                            0.00                             14,970.79                            14,970.79
+
+
+
+
+TOV BARRELS                                           0.00                             15,096.13                            15,096.13
+                                                  0.00                         14,970.79
+                           Survey was peformed by CGI Surveyor A,B,C,and D TEAMS
+                                Table Exxal 13 used for Volume Correction purposes
+                          Surveyor equipment verified daily using Certified Thermometer
+                        Conditions during the inspection were Calm; between 00' and 01' Seas
+          "Survey performed as per and strictly adhering to methods set forth by API Chapters 3,7,8,17 & 12"
+      "All CGI measurement devices and methods used for quantity and quality determination meet the pertinent
+                 requirements of 40 CFR 98.3 et. Seq. (Greenhouse Gas Mandatory Reporting Rule)"
+
+
+Coastal Gulf & International, Inc.
+Jon Herrington
+Gonzales Communication Center                                                                                            Version 7.1 04-19-20 JMH
+                                 COASTAL GULF &
+                               INTERNATIONAL, INC.
+                                                "Precision"
+                                          Inspection & Analytical
+                                                  Services
+                                  2104 S Southland, Gonzales, LA 70737
+                                 Phone (225) 231-4990 Fax (225) 231-7875                  Assuring accuracy through expertise!
+
+Vessel:                  CBC 183                                           Date:          December 13, 2020
+Product:                 Exxal 13                                          Terminal:      ExxonMobil
+Subject:                 Report of Loading                                 Port:          Baton Rouge, Louisiana
+ExxonMobil Ref. #: 4970977                                                 File Number:   XBR12822
+
+
+                                                   TIME LOG OF EVENTS
+
+December 10, 2020           0010          hrs.     Barge(s) NOR Tendered
+December 12, 2020           1710          hrs.     Barge(s) called in
+December 12, 2020           1710          hrs.     Surveyor notified
+December 12, 2020           1920          hrs.     Barge(s) arrived
+December 12, 2020           1940          hrs.     Barge(s) docked
+December 12, 2020           2030          hrs.     Commenced arrival barge inspection
+December 12, 2020           2100          hrs.     Completed arrival barge inspection
+December 12, 2020           2130          hrs.     Cargo hose(s) connected
+December 12, 2020           2305          hrs.     Commenced transfer
+December 13, 2020           2015          hrs.     Completed transfer
+December 13, 2020           2050          hrs.     Commenced departure barge inspection
+December 13, 2020           2145          hrs.     Surveyor notified
+December 13, 2020           2200          hrs.     Completed departure barge inspection
+December 13, 2020           2230          hrs.     Barge(s) Released
+December 13, 2020           2330          hrs.     Cargo hose(s) disconnected
+December 14, 2020           0020          hrs.     Barge(s) Sailed
+
+
+
+
+Coastal Gulf & International, Inc.
+Jon Herrington
+Gonzales Communication Center                                                                                    Version 7.1 04-19-20 JMH
+                                COASTAL GULF &
+                              INTERNATIONAL, INC.
+                                               "Precision"
+                                         Inspection & Analytical
+                                                 Services
+                                 2104 S Southland, Gonzales, LA 70737
+                    ®           Phone (225) 231-4990 Fax (225) 231-7875                                        Assuring accuracy through expertise!
+
+Vessel:                 CBC 183                                      Date:                December 13, 2020
+Product:                Exxal 13                                     Terminal:            ExxonMobil
+Subject:                Report of Loading                            Port:                Baton Rouge, Louisiana
+ExxonMobil Ref. #: 4970977                                           File Number:         XBR12822
+
+
+                                        REPORT OF METER QUANTITY
+
+                                                           Meter No.:               OXO Exxal 13 Dock Line
+
+               Opening Meter Reading                                                          Closing Meter Reading
+                       0.00                                                                         14,989.00
+
+
+                                                   Indicated Volume                                    14,989.00
+                                                 * Meter Factor                                         1.0000
+                                                   Gross Observed Volume                               14,989.00
+                                                   Volume Correction Factor                             1.0000
+                                                   Gross Standard Volume                               14,989.00
+                                                   C.P.L. Factor                                        1.0000
+                                                   Net Standard Volume (Bbls)                          14,989.00
+                                                   Line Temperature                                       57.1
+
+
+                                                       TOTAL NET BARRELS
+
+                                     Net Barrels @ 60 °F                                   14,989.00
+                                     Net Gallons @ 60 °F                                  629,538.00
+                                     Pounds                                             4,458,388.00
+                                     Metric Tons                                           2,022.293
+                                     Short Tons                                            2,229.194
+                                     Long Tons                                             1,990.352
+                                     Pounds per Gallon                                         7.082
+
+
+ *Please note the METER FACTOR above is for reference only and isn’t used for GOV/GSV calculations due to the
+                   factor being precalculated into the Meter figure provided to us by the Terminal*
+
+
+
+Coastal Gulf & International, Inc.
+Jon Herrington
+Gonzales Communication Center                                                                                          Version 7.1 04-19-20 JMH
+

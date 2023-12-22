@@ -1,0 +1,55 @@
+                                         COASTAL GULF &
+                                       INTERNATIONAL, INC.
+                                                        "Precision"
+                                                  Inspection & Analytical
+                                                          Services
+                                       2104 South Southland Ave. Gonzales, LA 70737
+                                         Phone (225) 231-4990 Fax (225) 231-7875                                       Assuring accuracy through expertise!
+Vessel:       CBC 333 & 7035                                                                Date:                  August 21, 2020
+Product: CSO/MCB                                                                            Terminal:              Apex
+Subject: Report of Discharge                                                                Port:                  Port Allen, Louisiana
+ExxonMobil Ref. #: 4971503                                                                  File Number:           BR26763
+
+
+                                                       VESSEL MEASUREMENT REPORT
+                                                                        CBC 333 UPON ARRIVAL                              Ambient Temp °F: 79.0
+               Obs. Gauge      Gauge (Ft.)       Temp.               T.O.V.                      Water               API                            G.S.V
+   Tank          Height          Ullage           (°F)              Gallons           Gauge              Gallons    @ 60° F      V.C. F            Gallons
+    1P         15' 00 1/4''    05' 08 3/4"       113.2             156,580.00         00' 00"             0.00       -2.6       0.98221           153,794.44
+    1S         15' 00 3/4''    05' 08 1/4"       114.5             157,287.00         00' 00"             0.00       -2.6       0.98177           154,419.66
+    2P         15' 00 3/4''     06' 0 1/2"       115.2             150,489.00         00' 00"             0.00       -2.6       0.98154           147,710.97
+    2S           15' 00''        05' 09"         116.7             155,417.00         00' 00"             0.00       -2.6       0.98103           152,468.74
+    3P         15' 00 3/4''      05' 09"         115.4             154,938.00         00' 00"             0.00       -2.6       0.98147           152,067.00
+    3S         14' 11 3/4''    06' 02 1/2"       116.7             147,217.00         00' 00"             0.00       -2.6       0.98103           144,424.29
+
+
+
+
+Tape Serial #: 21504   Probe Serial #: 10676                                                              0.00                 Total:                904,885.10
+                                 Avg. Temp °F: 115.3           T.O.V. bbls Total       21,950.67
+                                                                        CBC 333 UPON DEPARTURE                            Ambient Temp °F: 69.0
+               Obs. Gauge      Gauge (Ft.)       Temp.                T.O.V.                     Water               API                            G.S.V
+   Tank          Height          Ullage           (°F)               Gallons          Gauge              Gallons    @ 60° F      V.C. F            Gallons
+    1P         15' 00 1/4''      15' 00''         60.0                466.00          00' 00''            0.00       -2.6       1.00000             466.00
+    1S         15' 00 3/4''    15' 00 1/2''       60.0                201.00          00' 00''            0.00       -2.6       1.00000             201.00
+    2P         15' 00 3/4''    15' 00 1/2''       60.0                200.00          00' 00''            0.00       -2.6       1.00000             200.00
+    2S           15' 00''      14' 11 3/4''       60.0                596.00          00' 00''            0.00       -2.6       1.00000             596.00
+    3P         15' 00 3/4''      14' 08''         60.0               4,857.00         00' 00''            0.00       -2.6       1.00000            4,857.00
+    3S         14' 11 3/4''    14' 07 3/4''       60.0               5,208.00         00' 00''            0.00       -2.6       1.00000            5,208.00
+
+
+
+
+Tape Serial #: 21504   Probe Serial #: 10676                                                              0.00                 Total:                 11,528.00
+Arrival:                         Avg. Temp °F: 60.0            T.O.V. bbls Total          274.48                 TOTAL QUANTITY
+ Fwd Port:       09' 06"          Fwd Stbd: 09' 06"                                                  Barrels @ 60 °F              21,270.41
+  Aft Port:      09' 06"          Aft Stbd.: 09' 06"                                                 Gallons @ 60 °F             893,357.10
+Departure:                                                                                           TCV Barrels                  21,270.41
+ Fwd Port:       02' 06''         Fwd Stbd: 02' 06''                                                 Pounds                    8,168,857.00
+  Aft Port:      02' 06''         Aft Stbd.: 02' 06''                                                Metric Tons                  3,705.336
+   Trim or List Correction Applied:                 No                                               Short Tons                   4,084.429
+                                                                                                     Long Tons                    3,646.811
+Coastal Gulf & International, Inc.                                                                   Lbs / Gallon                                         9.144
+Zachary Ural                                                                                         API Gravity @ 60°F                                    -2.60
+Gonzales Communication Center                                                                                                              Version 7.0 06-05-13 NLE
+

@@ -1,0 +1,41 @@
+CLEANED !!!
+                              COASTAL GULF &
+                            INTERNATIONAL, INC.
+                                             "Precision"
+                                       Inspection & Analytical
+                                               Services
+                            2104 South Southland Ave. Gonzales, LA 70737
+                              Phone (225) 231-4990 Fax (225) 231-7875                                               Assuring accuracy through expertise!
+
+Vessel:               Chem 3213                                                  Date:                  September 1, 2020
+Product:              Aromatic Concentrate                                       Terminal:              Placid Refining
+Subject:              Report of Loading                                          Port:                  Port Allen, Louisiana
+EMCC Ref. #: 4997409-10                                                          File Number:           BR26799
+
+                                               GAUGE HEIGHT REPORT
+                                           Barge Name:                          Chem 3213
+    Tank No.            Observed Gauge Height Open                         Reference Gauge Height          Observed Gauge Height Close
+           1P                     18' 02 1/2"                                    16' 06 1/4"                          18' 02 1/2"
+           1S                       18' 03"                                      16' 06 1/2"                            18' 03"
+           2P                     18' 02' 1/2"                                   16' 06 1/4"                          18' 02' 1/2"
+           2S                       18' 03"                                      16' 06 3/4"                            18' 03"
+           3P                       18' 03"                                      16' 06 3/4"                            18' 03"
+           3S                       18' 03"                                      16' 06 1/2"                            18' 03"
+
+
+
+
+                                     ANCILLARY TANK MEAURMENTS
+                       Tank No.                       Observed Arrival Measurment              Observed Departure Measurment
+                        FWD                                           00' 00"                             00' 00"
+                         AFT                                          00' 00"                             00' 00"
+                        PORT                                          00' 00"                             00' 00"
+                        STBD                                          00' 00"                             00' 00"
+
+
+
+
+Coastal Gulf & International, Inc.
+Rusty Mitchell
+Gonzales Communication Center                                                                                               Version 7.0 06-05-13 NLE
+ 

@@ -1,0 +1,52 @@
+                                          COASTAL GULF &
+                                        INTERNATIONAL, INC.
+                                                         "Precision"
+                                                   Inspection & Analytical
+                                                           Services
+                                        2104 South Southland Ave. Gonzales, LA 70737
+                                          Phone (225) 231-4990 Fax (225) 231-7875                                        Assuring accuracy through expertise!
+
+Vessel:                    Chem 3712                                                          Date:                      March 5, 2021
+Product:                   Benzene                                                            Terminal:                  Ergon
+Subject:                   Report of Loading                                                  Port:                      Baton Rouge, Louisiana
+EMCC Ref. #: 5323715-10                                                                       File Number:               101794
+
+
+                                         SHORE TANK MEASUREMENT REPORT
+              SHORE                                              TEMP.                  T.O.V.                                   G.S.V,
+              TANK                  INNAGE                       DEG. F                BARRELS            FACTOR                BARRELS
+                2000
+
+              3/4/2021           22' 03 1/8"          65.8                              30,858.27
+                1815            Water Volume         00' 00"                               0.00              API
+              Ambient                Shell Correction                                    1.00007             28.0
+               Temp.                 Roof Correction                                       1.51
+                70.0                                                                    30,861.94         0.99619                30,744.36
+              3/5/2021           04' 11 7/8"          65.4                              6,705.15
+                0200            Water Volume         00' 00"                              0.00               API
+             Ambient                 Shell Correction                                   1.00004              28.0
+              Temp.                  Roof Correction                                      1.51
+               48.0                                                                     6,706.93          0.99645                 6,683.12
+            Tank API                             40.0
+            Diff:                                0.13                                        Line Quantity
+            Insulated                             No                                                 TCV:                          24,061.24
+            Working Temp                         60.0                                              TOTAL:                        24,061.24
+            Open: Tape Serial #: 22176 Probe Serial #: MK2S 0357 Close: Tape Serial #: 22176 Probe Serial #: MK2S 0357
+
+                     Opening Gauge Height                              Reference Gauge Height                    Closing Gauge Height
+                              43' 04"                                              43' 04"                                 43' 04"
+                                                                                               TOTAL QUANTITY
+                                                                                 Barrels @ 60 °F                 24,061.24
+                                                                                 Gallons @ 60 °F              1,010,572.08
+                                                                                 Pounds                       7,444,076.00
+                                                                                 Metric Tons                     3,376.580
+                                                                                 Short Tons                      3,722.038
+                                                                                 Long Tons                       3,323.248
+                                                                                 Pounds per Gallon                  7.3662
+                                                                                 API Gravity @ 60°F                  28.00
+
+
+Coastal Gulf & International, Inc.
+Rusty Mitchell
+Gonzales Communication Center                                                                                                                Version 7.0 06-05-13 NLE
+

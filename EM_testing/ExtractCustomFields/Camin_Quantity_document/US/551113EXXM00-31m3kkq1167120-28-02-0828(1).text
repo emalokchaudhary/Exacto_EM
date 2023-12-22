@@ -1,0 +1,603 @@
+ExxonMobil Oil Corporation
+22777 Springwoods Village Parkway
+Spring, TX 77389
+
+Attention                  : Scott Friedman
+                                                                        Contents
+MOVEMENT                   : Load                                        Voyage Analysis Report
+                                                                         Shore Tank Quantity
+VESSEL                     : WEB - 241 & 248                             Vessel Quantity Report
+LOCATION                   : PF&amp;T - Mt. Airy, LA                     Timelog
+                                                                         LOP/NAD
+File N°                    : GON-10109                                   Analytical Report
+DATE                       : 11/27/2020 - 11/30/2020
+REFERENCE N°               : 5146091-10
+
+
+Dear Client,
+
+Please find attached our Inspection Report No. GON-10109 corresponding to the Load operation of the
+captioned vessel, at place and date(s) shown above. The complete report is composed of individual field
+reports, which we believe are self-explanatory.
+
+
+We trust that this report supplies the proper input needed so that we comply with your requirements. Should
+there be any points that need further clarification, please do not hesitate to contact us.
+
+
+
+
+All Camin Cargo Control measurement devices and methods used for quantity and quality determination meet
+the pertinent requirements of 40 CFR 98.3 et. seq. (Greenhouse Gas Mandatory Reporting Rule)
+
+
+
+
+                                                                     Yours Sincerely,
+
+                                                                     Camin Cargo Control
+                                                                     2137 S. Phillipe Ave. Gonzales, LA 70737
+                                                                     Phone: 225-307-0900
+                                                                     OpsGonzales@camincargo.com
+ EXXM00-31 / 551113                                                  www.camincargo.com
+
+
+
+
+                                                   Page 1 of 12
+                                            VOYAGE ANALYSIS REPORT N° GON-10109
+VESSEL                 : WEB - 241 & 248                                                                                  MOVEMENT               : Load
+LOCATION               : PF&T - Mt. Airy, LA                                                                              JOB COMPLETED          : 28-NOV-2020
+PRODUCT                : CSO/MCB                                                                                          REFERENCE N°           : 5146091-10
+
+                          Port                                                                                     VCF    Voyage#                  Gauge Date
+LOAD                     : PF&T - Mt. Airy, LA                                                                     6B                              28-NOV-2020
+DISCHARGE
+Barrels @ 60 °F                         API @ 60 °F                  TCV                   FW                  GSV                   S&W                 NSV          Reference
+I. SHORE/SHORE COMPARISON-NOT AVAILABLE
+1.   Loading Quantity                            0.3         36,994.63                    0.00             36,994.63                    0.00         36,994.63
+2.   Outturn
+3.   Difference                                                                                                                                                       (2-1)
+4.   Difference %                                                                                                                                                     (3/1*100)
+     Adjusted TCV Difference                                                                                                                                          (3-b+l)
+
+
+II. VESSEL/SHORE COMPARISON AT LOADPORT
+a.   After Loading                                           39,018.31                    0.00             39,018.31                   Liquid            Non-Liquid
+b.   OBQ                                                      1,210.57                    0.00              1,210.57                1,210.57               0.00
+
+c.   Vessel Received                                         37,807.74                    0.00             37,807.74                                                  (a-b)
+d.   Difference                                                 813.11                    0.00                813.11                                                  (c-1)
+e.   Difference %                                                    2.20                                          2.20                                               (d/1*100)
+f.   Load Ratio                                                      1.02198
+                                                                                                                                                                      (c/1)
+g.   VEF
+h.   Theoretical Shore                                                                                                                                                (c/g)
+i.   Theoretical Shore Diff.                                                                                                                                          (h-1)
+j.   Theoretical Shore Diff. %                                                                                                                                        (i/1*100)
+III. VESSEL/SHORE COMPARISON AT DISPORT-NOT AVAILABLE
+k.   Before Discharge                                                                                                                  Liquid            Non-Liquid
+l.   ROB
+m. Vessel Delivered                                                                                                                                                   (k-l)
+n.   Difference                                                                                                                                                       (2-m)
+o.   Difference %                                                                                                                                                     (n/2*100)
+p.   Discharge Ratio                                                                                                                                                  (m/2)
+q.   VEF
+r.   Theoretical Shore                                                                                                                                                (m/q)
+s.   Theoretical Shore Diff.                                                                                                                                          (2-r)
+t.   Theoretical Shore Diff. %                                                                                                                                        (s/2*100)
+IV. VESSEL IN TRANSIT COMPARISON-NOT AVAILABLE
+u.   In-Transit Diff.                                                                                                                                                 (k-a)
+v.   In-Transit Diff. %                                                                                                                Liquid            Non-Liquid (u/a*100)
+w. OBQ/ROB Difference                                                                                                                                                 (b-l)
+                          Adjusted TCV Difference                                                S&W at Loadport     0.000 %        S&W at Disport ---
+There are an insufficient number of voyages to compute a Load VEF.
+
+
+
+
+Calculated as per Chapter 17.5
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+2137 S. Phillipe Ave.
+Gonzales, LA 70737
+Office Phone: 225-307-0900
+Email: OpsGonzales@camincargo.com
+
+EXXM00-31 / 551113 / December 2, 2020
+                                                                                     Page 2 of 12
+                                                   QUANTITY CERTIFICATE N° GON- 10109
+                                                                                  Based on Shore Measurements
+VESSEL                : WEB - 241 & 248                                                                                                   MOVEMENT      : Load
+LOCATION              : PF&T - Mt. Airy, LA                                                                                               JOB COMPLETED : 28-NOV-2020
+PRODUCT               : CSO/MCB                                                                                                           REFERENCE N° : 5146091-10
+
+
+                                     Water              Water                     Roof                       Amb.                                                                   S&W
+        Gauge           TOV                                         CTSh                        GOV                       Temp.     API       VCF          GSV          S&W                          NSV
+                                     Gauge               Vol.                     Corr.                      Temp                                                                    Vol.
+Tank: 217                                              Ref. Height: 43-01 01/08                             Gauge Date Open: 27-Nov 13:00                   Gauge Date Close: 27-Nov 06:45
+      Ft-In (Inn.)      Bbls             Ft-In           Bbls       Factor        Bbls          Bbls           °F          °F      @ 60°F      6B       Bbls @ 60°F     %          @ 60°F         Bbls @ 60°F
+ O    14-01 05/08       38,294.48                ---        Nil     1.00077               ---   38,323.97       80.0       128.4    0.3 (T)   0.97644      37,421.05        ---             ---      37,421.05
+ C    00-02 07/08         426.42                 ---        Nil     1.00001               ---     426.42        67.0        60.0    0.3 (T)   1.00000        426.42         ---             ---         426.42
+                        37,868.06                               0                               37,897.55                                                  36,994.63                                 36,994.63
+                                                                                                            Line:                                                 ---
+                                                                                                            Adjustment:                                           ---
+S=Submitted / C=Calculated / T=Tested by CCC / W=Tested by Terminal/Refinery & Witnessed by CCC
+Totals computed using appropriate tables corresponding to Delivered API.
+
+
+                                                                        CSO/MCB - TOTAL QUANTITIES - DELIVERED
+TCV, Barrels @ 60 °F                             36,994.63              S&W         ---
+Free Water Barrels                                    0.00                   ---
+                                                  GSV                              NSV                                                                    GSW                          NSW
+Barrels @ 60 °F                                   36,994.63                       36,994.63            Long Tons - Air                                    6,202.690                    6,202.690
+Gallons @ 60 °F                             1,553,774.46                     1,553,774.46              Metric Tons - Air                                  6,302.224                    6,302.224
+API Gravity @ 60 °F (T)                                    0.3                                         Short Tons - Air                                   6,947.013                    6,947.013
+Lb/Gal @ 60 °F                                   8.942111999                                           Kilograms - Air                               6,302,224.0                  6,302,224.0
+                                                                                                       Pounds - Air                                 13,894,025.0                  13,894,025.0
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 2137 S. Phillipe Ave.
+ Gonzales, LA 70737
+ Office Phone: 225-307-0900
+ Email: OpsGonzales@camincargo.com
+
+ EXXM00-31 / 551113 / December 2, 2020                                                            Page 3 of 12
+                                           VESSEL QUANTITY REPORT N° GON-10109
+VESSEL                 : WEB - 241                                                                        MOVEMENT      : Load
+LOCATION               : PF&T - Mt. Airy, LA                                                              JOB COMPLETED : 28-NOV-2020
+PRODUCT                : CSO/MCB                                                                          REFERENCE N° : 5146091-10
+Comp. Chart RH                Phy GH        Gauge            TOV       Water             Water          Temp.      VCF    GSV @ 60 °F
+No      Ft-In                   Ft-In       Ft-In            Bbls      Gauge              Bbls            °F        6B         Bbls
+1C       15-01   00/00    15-01   00/00   14-08    01/04     105.24      ----             Nil            60.0   1.00000        105.24
+2P       14-08   01/02    14-08   01/02   14-07    00/00      33.05      ----             Nil            60.0   1.00000         33.05
+2S       14-08   01/04    14-08   01/04   14-06    01/04      43.23      ----             Nil            60.0   1.00000         43.23
+3P       14-08   03/04    14-08   03/04   14-05    03/04      64.35      ----             Nil            60.0   1.00000         64.35
+3S       14-08   03/04    14-08   03/04   14-05    03/04      64.92      ----             Nil            60.0   1.00000         64.92
+4C       15-01   03/04    15-01   03/04   14-07    01/04     197.15      ----             Nil            60.0   1.00000        197.15
+                                                             507.94                        Nil           60.0                  507.94
+
+
+
+Draft (Ft-in)       Fwd (P)                Fwd (S)           Aft (P)      Aft (S)                Trim           List
+Before              02-00                  02-00             02-00        02-00                  00-00 00/00    0.00
+Note:
+No Trim Correction was applied.
+
+
+VESSEL QUANTITIES                         ARRIVAL
+TCV, Barrels @ 60 °F                        507.94
+Free Water Barrels                            0.00
+                                                 GSV
+Barrels @ 60 °F                                507.94
+Gallons @ 60 °F                           21,333.48
+API Gravity @ 60 °F                              0.2(T)
+Lb/Gal @ 60 °F                                 8.948909358
+
+
+
+
+ 2137 S. Phillipe Ave.
+ Gonzales, LA 70737
+ Office Phone: 225-307-0900
+ Email: OpsGonzales@camincargo.com
+
+ EXXM00-31 / 551113 / December 2, 2020
+                                                                          Page 4 of 12
+                                            VESSEL QUANTITY REPORT N° GON-10109
+VESSEL                 : WEB - 241                                                                                        MOVEMENT      : Load
+LOCATION               : PF&T - Mt. Airy, LA                                                                              JOB COMPLETED : 28-NOV-2020
+PRODUCT                : CSO/MCB                                                                                          REFERENCE N° : 5146091-10
+Comp. Chart RH                Phy GH         Gauge               TOV            Water               Water              Temp.          VCF    GSV @ 60 °F
+No      Ft-In                   Ft-In        Ft-In               Bbls           Gauge                Bbls                °F            6B         Bbls
+1C       15-01   00/00    15-01   00/00    09-06    00/00      4,809.95             ----               Nil              128.9      0.97629      4,695.91
+2P       14-08   01/02    14-08   01/02    09-07    00/00      2,520.76             ----               Nil              127.9      0.97663      2,461.85
+2S       14-08   01/04    14-08   01/04    09-05    01/02      2,486.04             ----               Nil              128.2      0.97653      2,427.69
+3P       14-08   03/04    14-08   03/04    09-04    01/04      2,471.28             ----               Nil              129.3      0.97615      2,412.34
+3S       14-08   03/04    14-08   03/04    09-08    01/04      2,638.16             ----               Nil              129.1      0.97622      2,575.42
+4C       15-01   03/04    15-01   03/04    09-00    00/00      4,245.69             ----               Nil              129.0      0.97625      4,144.85
+                                                             19,171.88                                    Nil           128.8                  18,718.06
+
+
+
+Draft (Ft-in)       Fwd (P)                 Fwd (S)             Aft (P)               Aft (S)                   Trim              List
+Before              02-00                   02-00               02-00                 02-00                     00-00 00/00       0.00
+After               09-06                   09-06               09-06                 09-06                     00-00 00/00       0.00
+Note:
+No Trim Correction was applied.
+
+
+
+VESSEL QUANTITIES                         DEPARTURE                  RECEIVED
+TCV, Barrels @ 60 °F                       18,718.06                 18,210.12           S&W         ---
+Free Water Barrels                              0.00                      0.00                       ---
+                                                GSV                       GSV                         NSV                                         GSW             NSW
+Barrels @ 60 °F                            18,718.06                 18,210.12                      18,210.12          Long Tons - Air           3,055.513       3,055.513
+Gallons @ 60 °F                           786,158.52                764,825.04                   764,825.04            Metric Tons - Air         3,104.545       3,104.545
+API Gravity @ 60 °F                             0.2(T)                     0.2(T)                                      Short Tons - Air          3,422.175       3,422.175
+Lb/Gal @ 60 °F                                 8.948909358                8.948909358                                  Kilograms - Air       3,104,545.0     3,104,545.0
+                                                                                                                       Pounds - Air          6,844,350.0     6,844,350.0
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 2137 S. Phillipe Ave.
+ Gonzales, LA 70737
+ Office Phone: 225-307-0900
+ Email: OpsGonzales@camincargo.com
+
+ EXXM00-31 / 551113 / December 2, 2020
+                                                                                     Page 5 of 12
+                                           VESSEL QUANTITY REPORT N° GON-10109
+VESSEL                 : WEB - 248                                                                        MOVEMENT      : Load
+LOCATION               : PF&T - Mt. Airy, LA                                                              JOB COMPLETED : 28-NOV-2020
+PRODUCT                : CSO/MCB                                                                          REFERENCE N° : 5146091-10
+Comp. Chart RH                Phy GH        Gauge            TOV       Water             Water          Temp.      VCF    GSV @ 60 °F
+No      Ft-In                   Ft-In       Ft-In            Bbls      Gauge              Bbls            °F        6B         Bbls
+1C       15-01   03/04    15-01   03/04   14-09    03/04     113.89      ----             Nil            60.0   1.00000        113.89
+2P       14-09   00/00    14-09   00/00   14-04    03/04      91.62      ----             Nil            60.0   1.00000         91.62
+2S       14-09   00/00    14-09   00/00   14-05    00/00      86.24      ----             Nil            60.0   1.00000         86.24
+3P       14-08   03/04    14-08   03/04   14-03    00/00     124.42      ----             Nil            60.0   1.00000        124.42
+3S       14-08   01/02    14-08   01/02   14-03    01/04     124.51      ----             Nil            60.0   1.00000        124.51
+4C       14-11   03/04    14-11   03/04   14-06    00/00     161.95      ----             Nil            60.0   1.00000        161.95
+                                                             702.63                        Nil           60.0                  702.63
+
+
+
+Draft (Ft-in)       Fwd (P)                Fwd (S)           Aft (P)      Aft (S)                Trim           List
+Before              02-00                  02-00             02-00        02-00                  00-00 00/00    0.00
+Note:
+No Trim Correction was applied.
+
+
+VESSEL QUANTITIES                         ARRIVAL
+TCV, Barrels @ 60 °F                        702.63
+Free Water Barrels                            0.00
+                                                 GSV
+Barrels @ 60 °F                                702.63
+Gallons @ 60 °F                           29,510.46
+API Gravity @ 60 °F                              0.2(T)
+Lb/Gal @ 60 °F                                 8.948909358
+
+
+
+
+ 2137 S. Phillipe Ave.
+ Gonzales, LA 70737
+ Office Phone: 225-307-0900
+ Email: OpsGonzales@camincargo.com
+
+ EXXM00-31 / 551113 / December 2, 2020
+                                                                          Page 6 of 12
+                                            VESSEL QUANTITY REPORT N° GON-10109
+VESSEL                 : WEB - 248                                                                                        MOVEMENT      : Load
+LOCATION               : PF&T - Mt. Airy, LA                                                                              JOB COMPLETED : 28-NOV-2020
+PRODUCT                : CSO/MCB                                                                                          REFERENCE N° : 5146091-10
+Comp. Chart RH                Phy GH         Gauge               TOV            Water               Water              Temp.          VCF    GSV @ 60 °F
+No      Ft-In                   Ft-In        Ft-In               Bbls           Gauge                Bbls                °F            6B         Bbls
+1C       15-01   03/04    15-01   03/04    09-10    00/00      5,410.62             ----               Nil              129.0      0.97625      5,282.12
+2P       14-09   00/00    14-09   00/00    10-08    01/02      2,819.56             ----               Nil              128.9      0.97629      2,752.71
+2S       14-09   00/00    14-09   00/00    10-08    01/04      2,812.03             ----               Nil              128.3      0.97649      2,745.92
+3P       14-08   03/04    14-08   03/04    10-09    03/04      2,843.05             ----               Nil              129.1      0.97622      2,775.44
+3S       14-08   01/02    14-08   01/02    10-09    00/00      2,829.04             ----               Nil              129.0      0.97625      2,761.85
+4C       14-11   03/04    14-11   03/04    07-10    03/04      4,078.80             ----               Nil              128.8      0.97632      3,982.21
+                                                             20,793.10                                    Nil           128.9                  20,300.25
+
+
+
+Draft (Ft-in)       Fwd (P)                 Fwd (S)             Aft (P)               Aft (S)                   Trim              List
+Before              02-00                   02-00               02-00                 02-00                     00-00 00/00       0.00
+After               09-09                   09-09               09-09                 09-09                     00-00 00/00       0.00
+Note:
+No Trim Correction was applied.
+
+
+
+VESSEL QUANTITIES                         DEPARTURE                  RECEIVED
+TCV, Barrels @ 60 °F                       20,300.25                 19,597.62           S&W         ---
+Free Water Barrels                              0.00                      0.00                       ---
+                                                GSV                       GSV                         NSV                                         GSW             NSW
+Barrels @ 60 °F                            20,300.25                 19,597.62                      19,597.62          Long Tons - Air           3,288.325       3,288.325
+Gallons @ 60 °F                           852,610.50                823,100.04                   823,100.04            Metric Tons - Air         3,341.092       3,341.092
+API Gravity @ 60 °F                             0.2(T)                     0.2(T)                                      Short Tons - Air          3,682.924       3,682.924
+Lb/Gal @ 60 °F                                 8.948909358                8.948909358                                  Kilograms - Air       3,341,092.0     3,341,092.0
+                                                                                                                       Pounds - Air          7,365,848.0     7,365,848.0
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 2137 S. Phillipe Ave.
+ Gonzales, LA 70737
+ Office Phone: 225-307-0900
+ Email: OpsGonzales@camincargo.com
+
+ EXXM00-31 / 551113 / December 2, 2020
+                                                                                     Page 7 of 12
+                                                       TIME LOG REPORT N° GON-10109
+VESSEL            : WEB - 241 & 248                                                                       MOVEMENT        : Load
+LOCATION          : PF&amp;T - Mt. Airy, LA                                                               JOB COMPLETED   : 28-NOV-2020
+PRODUCT           : CSO/MCB                                                                               REFERENCE N°    : 5146091-10
+
+Date        Time               Description
+27-NOV-2020 10:15              Inspector Notified
+            12:10              Barge(s) Arrived
+            12:15              Inspector Arrived
+            12:25              Barge(s) Docked
+            13:00              Shore Tank 217 Gauged Open
+            13:20              Inspector on Board
+            13:25              Preliminary Inspection Commenced
+            13:30              Cargo Hose Connected
+            14:05              Preliminary Inspection Completed
+            14:10              Preliminary Calculations Commenced
+            14:20              Preliminary Calculations Completed
+            14:45              Inspector Departed
+            15:00              Load Commenced
+28-NOV-2020 00:20              Inspector Notified
+            00:55              Load Completed
+            01:50              Cargo Hose Disconnected
+            02:30              Inspector Arrived
+            02:50              Inspector on Board
+            03:00              Final Inspection Commenced
+            04:00              Final Inspection Completed
+            04:51              Final Calculations Commenced
+            05:05              Final Calculations Completed
+            05:10              Released
+            05:20              Inspector Departed
+            06:45              Shore Tank 217 Gauged Close
+30-NOV-2020 14:00              Sent for/Awaiting Confirmation
+            14:18              Received confirmation from the terminal
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+2137 S. Phillipe Ave.
+Gonzales, LA 70737
+Office Phone: 225-307-0900
+Email: OpsGonzales@camincargo.com
+
+EXXM00-31 / 551113 / December 2, 2020                                             Page 8 of 12
+                                               LETTER OF PROTEST ° GON-10109
+VESSEL             : WEB - 241 & 248                                                               MOVEMENT      : Load
+LOCATION           : PF&amp;T - Mt. Airy, LA                                                       JOB COMPLETED : 28-NOV-2020
+PRODUCT            : CSO/MCB
+
+
+
+
+TO                 : Terminal                                                                      REFERENCE            : Shore to Vessel variance after
+                                                                                                                          Load
+
+On Behalf of our Principals, we do hereby note the following Protest:
+- Shore to Barge Variance upon completion of loading .
+- Shore tank Closed with a gauge of 0-2-7/8 and 60 Deg F due to all pumpable product delivered to Web 241 248
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                                Respectfully,
+Signature:
+Print Name:
+Position:                                                                                  ___________________________________
+Date/Time:                                                                                              Camin Cargo Control
+
+2137 S. Phillipe Ave.
+Gonzales, LA 70737
+Office Phone: 225-307-0900
+Email: OpsGonzales@camincargo.com
+
+EXXM00-31 / 551113 / December 2, 2020
+                                                                        Page 9 of 12
+                                               LETTER OF PROTEST ° GON-10109
+VESSEL             : WEB - 241 & 248                                                       MOVEMENT      : Load
+LOCATION           : PF&amp;T - Mt. Airy, LA                                               JOB COMPLETED : 28-NOV-2020
+PRODUCT            : CSO/MCB
+
+
+
+
+TO                 : Terminal                                                              REFERENCE         : Line Displacement
+
+On Behalf of our Principals, we do hereby note the following Protest:
+Terminal did not perform line displacement or line blow back verification.
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                    Respectfully,
+Signature:
+Print Name:
+Position:                                                                             ___________________________________
+Date/Time:                                                                                      Camin Cargo Control
+
+2137 S. Phillipe Ave.
+Gonzales, LA 70737
+Office Phone: 225-307-0900
+Email: OpsGonzales@camincargo.com
+
+EXXM00-31 / 551113 / December 2, 2020
+                                                                      Page 10 of 12
+                                               LETTER OF PROTEST ° GON-10109
+VESSEL             : WEB - 241 & 248                                                       MOVEMENT      : Load
+LOCATION           : PF&amp;T - Mt. Airy, LA                                               JOB COMPLETED : 28-NOV-2020
+PRODUCT            : CSO/MCB
+
+
+
+
+TO                 : Vessel                                                                REFERENCE         : VEF
+
+On Behalf of our Principals, we do hereby note the following Protest:
+- Unable to validate all the information found on the Navarik VEF
+- Towing company unable to provide sequential port log for the subject tow
+- VEF Factor is not available
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                    Respectfully,
+Signature:
+Print Name:
+Position:                                                                             ___________________________________
+Date/Time:                                                                                      Camin Cargo Control
+
+2137 S. Phillipe Ave.
+Gonzales, LA 70737
+Office Phone: 225-307-0900
+Email: OpsGonzales@camincargo.com
+
+EXXM00-31 / 551113 / December 2, 2020
+                                                                      Page 11 of 12
+                                                CERTIFICATE OF ANALYSIS N° GON-10109
+      VESSEL                     : WEB - 241 & 248
+      LOCATION                   : PF&T - Mt. Airy, LA                                                                                  MOVEMENT                  : Load
+      PRODUCT                    : CSO/MCB                                                                                              REF. NO.                  : 5146091-10
+
+
+006   TK :                       1C                   Running                               After Load                        Sample N° :        6                    28-NOV-2020
+                                                                                                                                                                      Sampled at
+                                                                                                                                                                      07:00
+      Description :              WEB - 241
+                                                                                                                                                                  0
+
+
+
+
+      D 5705                     Hydrogen Sulfide in Vapor (60°C / 140°F)                        <5 ppm
+001   TK :                       4C                   Running                               After Load                        Sample N° :        17                   28-NOV-2020
+  7                                                                                                                                                                   Sampled at
+                                                                                                                                                                      05:00
+      Description :              WEB - 248
+                                                                                                                                                                  0
+
+
+
+
+      D 5705                     Hydrogen Sulfide in Vapor (60°C / 140°F)                        <5 ppm
+001                                                   Volumetric                            After Load                        Sample N° :        18                   28-NOV-2020
+  8                                                   Composite                                                                                                       Sampled at
+                                                                                                                                                                      07:00
+      Description :              WEB - 241 & 248
+                                                                                                                                                                  0
+
+
+
+
+      D 4052                     API Gravity @ 60°F (Elevated Temp.)                             0.2    °API
+                                                                                                                                                                  0
+
+
+
+
+      D 93A                      Flash Point                                                   >230     °F
+                                                                                                                                                                  0
+
+
+
+
+      D 93B                      Flash Point                                                   >230     °F
+                                                                                                                                                                  0
+
+
+
+
+      D 97                       Pour Point                                                       59    °F
+                                                                                                                                                                  0
+
+
+
+
+      D 445                      Viscosity @ 50 °C                                             227.5    cSt
+                                                                                                                                                                  0
+
+
+
+
+      D 4294                     Sulfur                                                         2.49    Mass %
+                                                                                                                                                                  0
+
+
+
+
+      D 482                      Ash                                                           0.028    Mass %
+                                                                                                                                                                  0
+
+
+
+
+      D 4530                     Carbon Residue, Micro Carbon                                   13.1    Wt. %
+                                                                                                                                                                  0
+
+
+
+
+      IP 143                     Asphaltenes                                                    7.95    Wt. %
+                                                                                                                                                                  0
+
+
+
+
+      D 95                       Water by Distillation                                          0.20    Vol. %
+                                                                                                                                                                  0
+
+
+
+
+      D 473                      Sediment by Extraction                                         0.07    Vol. %
+      IP 501                     Metals by ICP - Ashing&Fusion
+                                 Scope:Al, Si, V, Ni, Fe, Na, Ca, Zn & P
+                                   Aluminum                                                      72 mg/kg(ppm)
+                                   Potassium                                                       2 mg/kg(ppm)
+                                   Silicon                                                       86 mg/kg(ppm)
+                                   Sodium                                                          5 mg/kg(ppm)
+                                   Vanadium                                                      <1 mg/kg(ppm)
+001                                                   Volumetric                            After Load                        Sample N° :        19                   28-NOV-2020
+  9                                                   Composite                                                                                                       Sampled at
+                                                                                                                                                                      11:29
+      Description :              WEB - 241 & 248
+      IP 501                     Metals by ICP - Ashing&Fusion
+                                 Scope:Al, Si, V, Ni, Fe, Na, Ca, Zn & P
+                                   Zinc                                                             9 mg/kg(ppm)
+REPORT HEADER
+
+
+
+
+The results apply to the samples as received and specifically to the items listed on this certificate.
+This report may not be reproduced except in full without the written consent of the Camin Cargo Control. Data contained in this report is confidential to the addressee and
+shall not be disclosed to any other party without their approval
+Samples taken as per Standard Practice for Manual Sampling of Petroleum and Petroleum Products (ASTM D4057 / API MPMS Chapter 8.1)
+All testing is performed on premises by Camin Cargo Control and in accordance to the latest referenced test method unless specifically stated.
+
+
+
+
+ 2137 S. Phillipe Ave.
+ Gonzales, LA 70737
+ Office Phone: 225-307-0900
+ Email: OpsGonzales@camincargo.com
+
+ EXXM00-31 / 551113 / AU / R-1 / 7032008 / Generated: December 2, 2020
+
+
+                                                                                        Page 12 of 12
+

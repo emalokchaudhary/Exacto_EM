@@ -1,0 +1,21 @@
+                            Description                              Qty          Rate             Amount
+
+Enabling Service Agreement - A2473671
+Ref.# 5495746-10
+
+Survey of Inland Barges (2 @ $505/Barge) (6,598.916MT)               0.5            1,010.00           505.00
+
+
+Analysis of Barges:                                                  0.5            1,351.00           675.50
+ H2S in Vapor, D5705M = 2 @ $71.00
+ API Gravity, D4052M = $31.00
+ Sulfur Content, D4294M = $107.00
+ Viscosity - Kinematic @ 275*F, D445 = $66.00
+ Flash Point by COC, D92 = $56.00
+ Conradson Carbon Residue, D189 = $66.00
+ Penetration, D5 = $128.00
+ Aluminum, IP501M = $609.00
+ Silicon, IP501M = Included
+ Sodium, IP501M = Included
+ Vanadium, IP501M = Included
+ Asphaltenes, D6560 = $146.00

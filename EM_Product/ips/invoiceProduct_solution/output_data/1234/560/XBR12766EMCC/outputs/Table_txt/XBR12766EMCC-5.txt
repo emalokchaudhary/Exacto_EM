@@ -1,0 +1,15 @@
+Product: Aromatic Concentrate                                                            Terminal:              ExxonMobil
+Subject: Report of Discharge                                                             Port:                  Baton Rouge, Louisiana
+EMCC Ref. #: 5102685-20                                                                  File Number:           XBR12766
+
+
+                                                       VESSEL MEASUREMENT REPORT
+                                                                    HTCO 3084 UPON ARRIVAL                           Ambient Temp  F: 70.0
+               Obs. Gauge       Gauge (Ft.)       Temp.                T.O.V.                 Water               API                         G.S.V
+   Tank          Height           Ullage           ( F)                Barrels      Gauge             Barrels    @ 60  F    V.C. F            Barrels
+    1P         18' 06 3/4"        04' 10"          71.2               4,411.51      00' 00"            0.00       60.8      0.99228          4,377.45
+    1S         18' 06 3/8"      04' 10 1/4"        71.0               4,404.08      00' 00"            0.00       60.8      0.99242          4,370.70
+    2P           18' 07"        04' 08 3/4"        71.7               4,505.48      00' 00"            0.00       60.8      0.99193          4,469.12
+    2S           18' 07"          04' 08"          71.3               4,528.04      00' 00"            0.00       60.8      0.99221          4,492.77
+    3P         18' 06 1/2"      04' 11 3/4"        70.8               4,190.04      00' 00"            0.00       60.8      0.99255          4,158.82
+    3S         18' 06 3/4"      05' 00 1/4"        70.3               4,179.48      00' 00"            0.00       60.8      0.99290          4,149.81

@@ -1,0 +1,72 @@
+CLEANED !!!
+TRIP: USEBARGINT-2106-007                                                                  21E577107 VER 2 (ISSUED)
+
+ Region: Americas                                                            Other Reference:
+Operator: ALLISON HELLWIG (allison.l.hellwig@exxonmobil.com)                  Business Group: S/R INLAND BARGING
+  Phone: 346-268-8947                                                                   Desk: Feedstocks
+ Mobile:                                                                     Nomination Type: Marine
+
+Revision Comment: adding testing
+
+
+Documentary Instructions: n/a
+
+
+ LOAD: GM1006 (VS00052668) / GM1019 (VS00056406) - BATON ROUGE REFINERY, LA (UNITED STATES)
+                                       Inspector: COASTAL GULF                      Inspection Status: Accepted
+                                             Hub: Coastal Gulf - Baton Rouge              Created On: 04 Jun 2021 by Allison
+                                                                                                       Hellwig
+                                    Coordinator: Baton Rouge Dispatch (brdis-           Last Modified: 04 Jun 2021 by Steven
+                                                  patch@coastalgulf.com)                               Moulard
+                                    Local Office:
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5495746-10
+                                           Grade: RESID-V                            Contract Number:
+                                             ETA: 05 Jun 2021                              Parcel Ref:
+                                             ETD:                                         Destination:
+                  Supply Contract Window Start: 05 Jun 2021                          Source Location:
+                   Supply Contract Window End: 07 Jun 2021                                   Supplier:
+                      Total Nominated Quantity: 40,000 Barrels                               Receiver:
+Transport / Voyage Number / Quantity / Tolerance: GM1006 (VS00052668) / 20,000 Bar-   Delivery Terms: FOB (Free On Board)
+                                                  rels +/- 10 pct
+                                                  GM1019 (VS00056406) / 20,000 Bar-    Mother Vessel:
+                                                  rels +/- 10 pct
+
+Email Quantity Results To:
+xombmtdocks@exxonmobil.com; Michael.R.Balli@exxonmobil.com; alex.s.hein@exxonmobil.com;
+mats.mto@exxonmobil.com; jeff.m.norton@exxonmobil.com; ffx_oilloss@exxonmobil.com; ma-
+rine.backup@exxonmobil.com; ds-srm-inspection-reports-mailbox@exxonmobil.com; miscella-
+neous.charges@exxonmobil.com; Nathan.t.mcguire@exxonmobil.com; michael.t.koehn@exxonmobil.com; Alli-
+son.l.hellwig@exxonmobil.com; jonathan.w.martin@exxonmobil.com; alyssa.r.revis@exxonmobil.com;
+
+Load / Discharge Instructions:
+LINE VERIFICATION: NO
+
+TANK: 24
+CUSTOMER: CITGO
+TUG: MISS ALLIE
+VETTING ID: ALHELLW-633943
+INCOTERMS: FOB
+
+
+
+Terminal and Inspector must confirm equipment and orders match those of the towing company during the
+pre-transfer conference. If there are any discrepancies, please contact the scheduler. No transfers
+shall begin until discrepancies have been cleared via issuing of new orders.
+
+Overtime: Not Approved
+
+===
+INSPECTION INSTRUCTIONS
+===
+GLOBAL INSPECTION CONTRACT effective from July 2019 to June 2026 is to be used.
+
+IF FOB:
+-QUALITY IS BASED ON SHORE TANK PRIOR TO LOAD OR BARGE COMP IF LOAD IS ACTIVE.
+-QUANTITY IS BASED ON STATIC SHORE TANK DOWNGAUGE AT LOAD OR STATIC UPGAUGE ADJUSTED FOR ROB/OBQ IF LOAD
+IS ACTIVE.
+
+
+
+                                                       Page 1 of 3
+ 

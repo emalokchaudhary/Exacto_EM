@@ -1,0 +1,321 @@
+TRIP: AF20285                                                                                20E543706 VER 2 (ISSUED)
+
+Parcel Summary
+Transport    Location        Activity    Grade   Quantity   ETA     Supply Contract Window   Inspector   Inspection Requirements
+ HAVVA       VOPAK VLD       Discharge   AP/E    3,000       13     n/a                      Saybolt     Quality / Quantity / Time
+ ANA         LWH:LUB:4583/               CORE    Metric      Nov                                         log
+ (9511442)   2235 (Nether-               150     tonnes      2020
+             lands)
+ HAVVA       VOPAK VLD       Discharge   AP/E    4,000       13     n/a                      Saybolt     Quality / Quantity / Time
+ ANA         LWH:LUB:4583/               CORE    Metric      Nov                                         log
+ (9511442)   2235 (Nether-               2500    tonnes      2020
+             lands)
+
+
+
+
+                                                          Page 1 of 6
+TRIP: AF20285                                                                                   20E543706 VER 2 (ISSUED)
+
+ Region: EAME                                           Other Reference: B&S EAME DISCHARGE ROTTERDAM TERMINALS
+                                                                         EMPC
+Operator: CHRISTINE PEIJ                                Business Group: B&S EAME
+          (christine.peij@exxonmobil.com)
+  Phone:                                                           Desk: B&S EAME Supply
+ Mobile:                                                Nomination Type: Marine
+
+Revision Comment: Performing vessel Havva Ana
+
+
+Documentary Instructions:
+
+Please provide an independent cargo inspection service in accordance with the Esso global inspection contract.
+
+
+
+ DISCHARGE: HAVVA ANA (9511442) - VOPAK VLD LWH:LUB:4583 / 2235 (NETHERLANDS)
+                                       Inspector: Saybolt                                  Inspection Status: Accepted
+                                             Hub: Europe/Africa/Russia/ME (International         Created On: 26 Oct 2020 by
+                                                  Desk Rotterdam)                                             ExxonMobil Web-
+                                                                                                              service
+                                    Coordinator: Cora Ligt (intdesk.saynl@corelab.com)         Last Modified: 16 Nov 2020 by
+                                                                                                              Cora Ligt
+                                    Local Office: Saybolt Netherland Rotterdam Chemicals
+                                                  (saybolt.rotterdam.chemical@corelab.com)
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5085238-20
+                                           Grade: AP/E CORE 150                             Contract Number:
+                                             ETA: 13 Nov 2020                                     Parcel Ref:
+                                             ETD:                                                Destination:
+                  Supply Contract Window Start: n/a                                         Source Location:
+                   Supply Contract Window End: n/a                                                  Supplier:
+                      Total Nominated Quantity: 3,000 Metric tonnes                                 Receiver:
+Transport / Voyage Number / Quantity / Tolerance: HAVVA ANA (9511442) / 3,000 Metric         Delivery Terms:
+                                                  tonnes
+                                                                                              Mother Vessel:
+
+Email Quantity Results To:
+am.vlaardingen@vopak.com; BO-Rot-Terminal@exxonmobil.com; esup.inspection@exxonmobil.com
+
+Email Quality Results To:
+am.vlaardingen@vopak.com; BO-Rot-Terminal@exxonmobil.com; esup.inspection@exxonmobil.com
+
+Parcel Comments:
+Retain samples for 90 days.
+
+Quality Inspection Instructions:
+SET 1
+            Description: On-shore tank Sample
+       Sample Location: Shore Tank Lower (L)
+Quality Test Comments:
+A 0.5 to 1-L low level sample of the on-shore tank(s) to be loaded, unless this tank is fully empty. To be sealed and retained
+by the Surveyor in case of contamination or different prior product in tank, otherwise discarded after operations.
+
+
+                                                                                                    RO = Report Only   Req. = Required
+ Test          Methods         Min   Max    UOM   Typical      R.O.   Req.   Comment
+ Additional Tests
+ Appearance    [OTHER] Vi-                        C&B          No     Yes    Appearance at ambient temperature: Clear & Bright (no
+               sual                                                          haze, no free water, no particulates)
+
+
+                                                            Page 2 of 6
+TRIP: AF20285                                                                                           20E543706 VER 2 (ISSUED)
+
+                                                                                                            RO = Report Only   Req. = Required
+ Test          Methods            Min   Max   UOM    Typical      R.O.      Req.     Comment
+ Odor          [OTHER] OL-                    None   Acceptable   No        Yes      No abnormal odor
+               FACTORY
+
+SET 2
+            Description: Vessel Compartment Sample for Field Visual Appearance
+       Sample Location: Vessel Dead Bottom
+Quality Test Comments:
+A 1-L retain, bottom sample from each compartment to be unloaded.
+
+
+                                                                                                            RO = Report Only   Req. = Required
+ Test          Methods            Min   Max   UOM    Typical      R.O.      Req.     Comment
+ Additional Tests
+ Appearance    [OTHER] Vi-                           C&B          No        Yes      Appearance at ambient temperature: Clear & Bright (no
+               sual                                                                  haze, no free water, no particulates)
+ Odor          [OTHER] OL-                    None   Acceptable   No        Yes      No abnormal odor
+               FACTORY
+
+SET 3
+            Description: Vessel Composite BTT Testing
+       Sample Location: Other (Specify in Comments)
+Quality Test Comments:
+- If all bottom samples for a grade are B&C, generate a grade composite sample to be blended for testing against the Bulk
+Transfer Tests given in ProMIS. Samples are then stored by the receiving site.
+- In case of a non-conformity, 4 x 1-L running samples are taken from the compartment(s) concerned for testing against the
+Bulk Transfer tests on one of these four samples; 3 other samples are labeled and sealed – 1 kept by the Surveyor, 1 kept by
+the EM site and 1 kept by the Shipmaster. Further tests as required if a contamination is suspected.
+
+The vessel is not to be discharged until the testing is complete and the BTT requirements below have been met:
+
+* Kinematic viscosity @100 deg C must be within +/- 2% of the value reported on CoA.
+* Appearance must be C&B (Clear & Bright) at ambient temperature. There must be NO free water.
+* No abnormal odor
+
+If any of the BTT requirements are not met, contact the scheduler and do not discharge the vessel.
+
+
+                                                                                                            RO = Report Only   Req. = Required
+ Test               Methods         Min   Max   UOM     Typical        R.O.    Req.     Comment
+ Appearance         [OTHER] Vi-                         C&B            No      Yes      Appearance at ambient temperature: Clear & Bright
+                    sual                                                                (no haze, no free water, no particulates)
+ Kinematic Vis-     [ASTM]                      mm²/                   No      Yes
+ cosity at 100°C    ASTM D445                   s
+ Odor               [OTHER] OL-                 None    Acceptable     No      Yes
+                    FACTORY
+
+SET 4
+            Description: On-Board Flange Sample at Start of Discharge
+       Sample Location: Other (Specify in Comments)
+Quality Test Comments:
+A 1L on-board flange sample, just at the beginning of unloading. Samples to be sealed and kept by the Surveyor if not Clear &
+Bright after usual flushing, otherwise discarded once the unloading operations are complete.
+
+
+
+
+                                                               Page 3 of 6
+TRIP: AF20285                                                                                      20E543706 VER 2 (ISSUED)
+
+                                                                                                     RO = Report Only    Req. = Required
+ Test          Methods         Min   Max   UOM    Typical      R.O.   Req.   Comment
+ Additional Tests
+ Appearance    [OTHER] Vi-                        C&B          No     Yes    Appearance at ambient temperature: Clear & Bright (no
+               sual                                                          haze, no free water, no particulates)
+ Odor          [OTHER] OL-                 None   Acceptable   No     Yes    No abnormal odor
+               FACTORY
+
+Invoice Instructions:
+  Bill Invoice To                                                                  Item to Bill          Split     Contact / Comment
+ 2235 - ExxonMobil Petroleum & Chemical, BV (Legal Entity: 2235 EXXONMOBIL PE-     Quantity only         100%
+ TROLEUM & CHEMICAL, BV (2235))
+                                                                                   Test: Appearance      100%
+                                                                                   Test: Odor            100%
+                                                                                   Test: Appearance      100%
+                                                                                   Test: Odor            100%
+                                                                                   Slate: B&S EAME       100%
+                                                                                   Y2 BTT
+                                                                                   Test: Appearance      100%
+                                                                                   Test: Odor            100%
+
+ DISCHARGE: HAVVA ANA (9511442) - VOPAK VLD LWH:LUB:4583 / 2235 (NETHERLANDS)
+                                       Inspector: Saybolt                                  Inspection Status: Accepted
+                                             Hub: Europe/Africa/Russia/ME (International         Created On: 26 Oct 2020 by
+                                                  Desk Rotterdam)                                             ExxonMobil Web-
+                                                                                                              service
+                                    Coordinator: Cora Ligt (intdesk.saynl@corelab.com)         Last Modified: 16 Nov 2020 by
+                                                                                                              Cora Ligt
+                                    Local Office: Saybolt Netherland Rotterdam Chemicals
+                                                  (saybolt.rotterdam.chemical@corelab.com)
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5085239-20
+                                           Grade: AP/E CORE 2500                            Contract Number:
+                                             ETA: 13 Nov 2020                                     Parcel Ref:
+                                             ETD:                                                Destination:
+                  Supply Contract Window Start: n/a                                         Source Location:
+                   Supply Contract Window End: n/a                                                  Supplier:
+                      Total Nominated Quantity: 4,000 Metric tonnes                                 Receiver:
+Transport / Voyage Number / Quantity / Tolerance: HAVVA ANA (9511442) / 4,000 Metric         Delivery Terms:
+                                                  tonnes
+                                                                                              Mother Vessel:
+
+Email Quantity Results To:
+am.vlaardingen@vopak.com; BO-Rot-Terminal@exxonmobil.com; esup.inspection@exxonmobil.com
+
+Email Quality Results To:
+am.vlaardingen@vopak.com; BO-Rot-Terminal@exxonmobil.com; esup.inspection@exxonmobil.com
+
+Parcel Comments:
+Retain samples for 90 days.
+
+Quality Inspection Instructions:
+SET 1
+            Description: On-shore tank Sample
+       Sample Location: Shore Tank Lower (L)
+Quality Test Comments:
+
+
+
+
+                                                            Page 4 of 6
+TRIP: AF20285                                                                                            20E543706 VER 2 (ISSUED)
+
+A 0.5 to 1-L low level sample of the on-shore tank(s) to be loaded, unless this tank is fully empty. To be sealed and retained
+by the Surveyor in case of contamination or different prior product in tank, otherwise discarded after operations.
+
+
+                                                                                                             RO = Report Only   Req. = Required
+ Test             Methods         Min   Max   UOM    Typical        R.O.      Req.    Comment
+ Additional Tests
+ Appearance       [OTHER] Vi-                          C&B          No        Yes     Appearance at ambient temperature: Clear & Bright (no
+                  sual                                                                haze, no free water, no particulates)
+ Odor             [OTHER] OL-                 None     Acceptable   No        Yes     No abnormal odor
+                  FACTORY
+
+SET 2
+            Description: Vessel Compartment Sample for Field Visual Appearance
+       Sample Location: Vessel Dead Bottom
+Quality Test Comments:
+A 1-L retain, bottom sample from each compartment to be unloaded.
+
+
+                                                                                                             RO = Report Only   Req. = Required
+ Test             Methods         Min   Max   UOM    Typical        R.O.      Req.    Comment
+ Additional Tests
+ Appearance       [OTHER] Vi-                          C&B          No        Yes     Appearance at ambient temperature: Clear & Bright (no
+                  sual                                                                haze, no free water, no particulates)
+ Odor             [OTHER] OL-                 None     Acceptable   No        Yes     No abnormal odor
+                  FACTORY
+
+SET 3
+            Description: Vessel Composite BTT Testing
+       Sample Location: Other (Specify in Comments)
+Quality Test Comments:
+- If all bottom samples for a grade are B&C, generate a grade composite sample to be blended for testing against the Bulk
+Transfer Tests given in ProMIS. Samples are then stored by the receiving site.
+-In case of a non-conformity, 4 x 1-L running samples are taken from the compartment(s) concerned for testing against the
+Bulk Transfer tests on one of these four samples; 3 other samples are labeled and sealed – 1 kept by the Surveyor, 1 kept by
+the EM site and 1 kept by the Shipmaster. Further tests as required if a contamination is suspected.
+
+The vessel is not to be discharged until the testing is complete and the BTT requirements below have been met:
+
+* Kinematic Viscosity (at 40C) must be within +/- 2% of the value reported on CoA.
+* Appearance must be C&B (Clear & Bright) at ambient temperature. There must be NO free water.
+* No abnormal odor.
+
+If any of the BTT requirements are not met, contact the scheduler and do not discharge the vessel.
+
+
+                                                                                                             RO = Report Only   Req. = Required
+ Test               Methods         Min   Max   UOM      Typical         R.O.   Req.    Comment
+ Appearance         [OTHER] Vi-                          C&B             No     Yes      Appearance at ambient temperature: Clear & Bright
+                    sual                                                                 (no haze, no free water, no particulates)
+ Kinematic Vis-     [ASTM]                      mm²/                     No     Yes
+ cosity at 40°C     ASTM D445                   s
+ Odor               [OTHER] OL-                 None     Acceptable      No     Yes
+                    FACTORY
+
+SET 4
+            Description: On-Board Flange Sample at Start of Discharge
+                                                               Page 5 of 6
+TRIP: AF20285                                                                                       20E543706 VER 2 (ISSUED)
+
+       Sample Location: Other (Specify in Comments)
+Quality Test Comments:
+A 1L on-board flange sample, just at the beginning of unloading. Samples to be sealed and kept by the Surveyor if not Clear &
+Bright after usual flushing, otherwise discarded once the unloading operations are complete
+
+
+                                                                                                      RO = Report Only       Req. = Required
+ Test          Methods        Min    Max   UOM     Typical      R.O.   Req.   Comment
+ Additional Tests
+ Appearance    [OTHER] Vi-                         C&B          No     Yes    Appearance at ambient temperature: Clear & Bright (no
+               sual                                                           haze, no free water, no particulates)
+ Odor          [OTHER] OL-                 None    Acceptable   No     Yes    No abnormal odor
+               FACTORY
+
+Invoice Instructions:
+  Bill Invoice To                                                                   Item to Bill          Split     Contact / Comment
+ 2235 - ExxonMobil Petroleum & Chemical, BV (Legal Entity: 2235 EXXONMOBIL PE-      Quantity only         100%
+ TROLEUM & CHEMICAL, BV (2235))
+                                                                                    Test: Appearance      100%
+                                                                                    Test: Odor            100%
+                                                                                    Test: Appearance      100%
+                                                                                    Test: Odor            100%
+                                                                                    Slate: B&S EAME       100%
+                                                                                    Y3 BTT
+                                                                                    Test: Appearance      100%
+                                                                                    Test: Odor            100%
+
+
+NOMINATION COMMENTS
+Inspection Appointment:
+Discharge Inspection Checklist Cost Share - 100% EMPC/EMS&S for EHC 50/120.
+Inspector to communicate to Operator (Scheduler) if shore line, shore line manifold, or shore tanks not suitable for discharge.
+
+Additional Comments:
+Terminals and inspectors to confirm cargo orders and to verify that nominated equipment, cargo, and terminal match are cor-
+rect for the intended transfer. In the event of ANY discrepancies, please contact scheduler (operator listed above). No trans-
+fers shall begin until all discrepancies have been cleared via issuing of new orders.
+
+Framework Agreement Reference:
+Activities provided by the Inspection Company under this nomination shall be performed in accordance with ExxonMobil Glob-
+al Inspection Contract (GIC), effective July 2019 to June 2026, Exhibit C, Schedule E. Please ensure all quality testing is
+completed at ExxonMobil approved lab unless specified not to. If there are any questions about this, contact the undersigned.
+
+Recipient List:
+intdesk.saynl@corelab.com; saybolt.rotterdam.chemical@corelab.com
+bss.med.scheduling@exxonmobil.com
+                                                                                                                  REPORT GENERATED 16 NOV 2020
+
+
+
+
+                                                             Page 6 of 6
+

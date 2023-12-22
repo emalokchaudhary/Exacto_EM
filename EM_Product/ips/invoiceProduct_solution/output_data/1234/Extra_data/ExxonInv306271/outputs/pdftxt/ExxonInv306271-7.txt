@@ -1,0 +1,68 @@
+TRIP: 2021-ITC-BPAL-EHC-09                                                                            21E567437 VER 1 (ISSUED)
+
+to be conducted at room temperature. Compare each sample with the on-shore tank sample(s). If any sam-
+ple fails appearance test or color is markedly different from on-shore tank sample(s), please flush
+through sample valve until sample is C&B. If subsequent sample is not C&B, contact scheduler to deter-
+mine corrective action.
+* Shore Line Grab Sample - Once the on-shore manifold or loading arm is filled with basestock, sample as
+close to vessel manifold valve as possible.
+* Vessel's Manifold at Start of Load - Once the vessel manifold is filled with basestock, sample at the
+vessel manifold.
+* Ship's First Foot Sample - Once the vessel tank reaches one-foot, sample the compartment.
+
+After the loading, arrange to pull one (1/2 to 1) quart sample of each compartment for visual appearance
+test. Appearance testing for the compartment samples is not required to be conducted at ambient temper-
+ature. If any compartment sample is abnormal, contact scheduler to determine corrective action.
+
+
+
+                                                                                                        RO = Report Only    Req. = Required
+ Test              Methods      Min   Max   UOM     Typical    R.O.   Req.   Comment
+ Additional Tests
+ Appearance        [ASTM]             5             C&B        No     Yes    There must be NO free water. Particle count not to exceed 5
+ Visual            ASTM E2680                                                max and no abnormal odor.
+
+SET 2
+            Description: Vessel Composite BTT
+       Sample Location: Vessel Volumetric Composite after Loading
+Quality Test Comments:
+Generate (4) composite (1) quart (clear) samples from the compartment samples. (3) Three samples are
+retains. (1) One sample is to be delivered to the inspector lab for Bulk Transfer Testing (BTT).
+Please be sure to affix the proper hazard warning labels on all samples.
+
+Inspector Lab: Please test the composite compartment samples for the listed tests. If any of the BTT
+tests fail, contact the Scheduler immediately. The vessel may be released before the BTT testing is
+complete:
+
+* KV 100 must be within +/- 2% of the value reported on CoA.
+* Appearance must be C&B (Clear & Bright) at ambient temperature. There must be NO free water. Particle
+count not to exceed 5 max and no abnormal odor.
+* ASTM D1500 color must be within (CoA +/- 4). ASTM D6045 is an acceptable alternative test method for
+color.
+
+
+
+                                                                                                        RO = Report Only    Req. = Required
+ Test                                     Methods                     Min    Max    UOM       Typical      R.O.     Req.    Comment
+ Kinematic Viscosity @ 100 deg C          [ASTM] ASTM D445            6.3    6.6    cSt                    No        Yes
+ Color (Saybolt)                          [ASTM] ASTM D156                                                 No        Yes
+ Appearance Visual                        [ASTM] ASTM E2680                  5                C&B          No        Yes
+
+Invoice Instructions:
+  Bill Invoice To                                                                     Item to Bill          Split     Contact / Comment
+ 3862 ExxonMobil Oil Corporation - B&S (Legal Entity: 3862 EM OIL CORP - MKTG &       Quantity only         100%
+ REF U.S. GL (B&S) (3862))
+                                                                                      Test: Appearance      100%
+                                                                                      Visual
+                                                                                      Slate: B&S EHC        100%
+                                                                                      65 BTT
+
+
+NOMINATION COMMENTS
+Inspection Appointment:
+Pre-Loading Inspection Checklist Cost Share - 100% EMOC.
+Inspector to communicate to Operator (Scheduler) if tanks not suitable for loading.
+
+
+                                                              Page 6 of 7
+

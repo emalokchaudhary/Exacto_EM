@@ -1,0 +1,67 @@
+CLEANED !!!
+TRIP: USEBARGARO-2009-043                                                                        20E536366 VER 1 (ISSUED)
+
+                                                                                                     RO = Report Only          Req. = Required
+ Test                       Methods                                      Min     Max     UOM     Typical     R.O.       Req.     Comment
+ Total Nitrogen             [ASTM] ASTM D4629 (mod)                              1       wppm                No         Yes
+ MTBE                       [ASTM] ASTM D7423                                    100     wppm                No         Yes
+ Appearance                 [ASTM] ASTM D4176, [OTHER] Visual                                                No         Yes
+ Specific Gravity           [ASTM] ASTM D4052 (mod)                                      g/ml                No         Yes
+ Color, Pt CO               [ASTM] ASTM D1209                                    30      Pt/Co               No         Yes
+                                                                                         scale
+ Peroxides                  [ASTM] ASTM D1022 (MODIFIED-SRC), [OTH-                      mg/kg               No         Yes
+                            ER] AMS 300.10
+
+Invoice Instructions:
+  Bill Invoice To                                                              Item to Bill              Split      Contact / Comment
+ 0102 ExxonMobil Chemical Company - U.S. (Div ExxonMobil Chemical Co) (Le-     Quantity only             50%
+ gal Entity: 0102 EM Chemical America (0102))
+ TRICON ENERGY LTD                                                             Quantity only             50%
+                                                                               Slate: CHEM-AM-ARO-       100%
+                                                                               AC BR slate new
+
+ DISCHARGE: CHEM3213 (VS00031049) - BATON ROUGE REFINERY, LA (UNITED STATES)
+                                       Inspector: COASTAL GULF                        Inspection Status: Accepted
+                                             Hub: Coastal Gulf - Baton Rouge                Created On: 31 Aug 2020 by
+                                                                                                         Wendy Lauwong
+                                    Coordinator: Jon Herrington (jherring-                Last Modified: 31 Aug 2020 by
+                                                  ton@coastalgulf.com)                                   Rusty Mitchell
+                                    Local Office:
+                                     INSPECTION REQUIREMENTS: QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 4997409-20
+                                           Grade: AROM CONCENTRATE VL BULK             Contract Number:
+                                             ETA: 06 Sep 2020                                Parcel Ref:
+                                             ETD:                                           Destination:
+                  Supply Contract Window Start: n/a                                    Source Location:
+                   Supply Contract Window End: n/a                                             Supplier:
+                      Total Nominated Quantity: 15,000 Barrels                                 Receiver:
+Transport / Voyage Number / Quantity / Tolerance: CHEM3213 (VS00031049) / 15,000 Bar-   Delivery Terms:
+                                                  rels load to max safe draft
+                                                                                         Mother Vessel:
+
+Email Quantity Results To:
+brrf.marine.super@exxonmobil.com;
+pmichem.babsc3@exxonmobil.com;
+brcp.pmi.chem.is@exxonmobil.com;
+maria.j.blanco@exxonmobil.com;
+emcc.oa.survey.reports@exxonmobil.com;
+wendy.m.lauwong@exxonmobil.com;
+pmi.cc.chemicalslubes@exxonmobil.com;
+ds-drm-inspection-reports-mailbox@exxonmobil.com;
+mats.mto-fairfax@exxonmobil.com;
+pottkotterg@triconenergy.com;
+
+Email Quality Results To:
+brrf.marine.super@exxonmobil.com;
+pmichem.babsc3@exxonmobil.com;
+brcp.pmi.chem.is@exxonmobil.com;
+maria.j.blanco@exxonmobil.com;
+emcc.oa.survey.reports@exxonmobil.com;
+wendy.m.lauwong@exxonmobil.com;
+pmi.cc.chemicalslubes@exxonmobil.com;
+ds-drm-inspection-reports-mailbox@exxonmobil.com;
+mats.mto-fairfax@exxonmobil.com;
+joseph.c.mcdonald@exxonmobil.com;
+
+                                                           Page 4 of 5
+ 

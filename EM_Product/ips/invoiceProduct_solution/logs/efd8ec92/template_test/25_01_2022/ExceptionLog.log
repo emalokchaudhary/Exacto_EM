@@ -1,0 +1,22 @@
+
+2022-01-25 06:49:48,835:__main__:
+Filename: Purchase Order 4500634027 from Allied Pinnacle Pty.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/data/BNSF/bnsf_solution/apps/start_exacto.py", line 320, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/data/BNSF/bnsf_solution/apps/exacto_extraction_flow.py", line 90, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/data/BNSF/bnsf_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2022-01-25 07:26:43,626:__main__:
+Filename: 4681025.pdf. Error occurred in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 315, in digitize_main
+    ocr_success, text_files_path, phase, ocr_flag = drive_ocr_flow(esett.OCR_MODEL_PATHS, pdf_path, INFO_PATH)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 77, in drive_ocr_flow
+    return ocr_success, text_files_path, phase, ocr_flag
+UnboundLocalError: local variable 'text_files_path' referenced before assignment

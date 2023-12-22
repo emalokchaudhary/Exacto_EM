@@ -1,0 +1,18 @@
+Product:              CSO/MCB                                                    Terminal:               Apex
+Subject:              Report of Discharge                                        Port:                   Port Allen, Louisiana
+ExxonMobil Ref. #: 4971503                                                       File Number:            BR26763
+
+                                               GAUGE HEIGHT REPORT
+                                           Barge Name:                          CBC 7035
+    Tank No.            Observed Gauge Height Open                         Reference Gauge Height           Observed Gauge Height Close
+           1P                     14' 00 1/4''                                   14' 01 1/4''                           14' 00 1/4''
+           1S                     14' 00 1/4''                                   14' 01 1/4''                           14' 00 1/4''
+           2P                       14' 00''                                     14' 00 3/4''                             14' 00''
+           2S                     14' 00 1/2''                                   14' 01 1/4''                           14' 00 1/2''
+           3P                     14' 01 1/2''                                   14' 01 3/4''                           14' 01 1/2''
+           3S                     14' 01 3/4''                                     14' 02''                             14' 01 3/4''
+
+
+
+
+                                     ANCILLARY TANK MEAURMENTS

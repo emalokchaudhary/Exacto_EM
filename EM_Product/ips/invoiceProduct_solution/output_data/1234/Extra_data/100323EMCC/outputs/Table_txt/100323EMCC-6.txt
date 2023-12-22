@@ -1,0 +1,20 @@
+Product:              Heptene                                                        Terminal:               ExxonMobil
+Subject:              Report of Discharge                                            Port:                   Baton Rouge, Louisiana
+EMCC Ref. #: 5067731                                                                 File Number:            100323
+
+                                                 GAUGE HEIGHT REPORT
+                                             Barge Name:                            Kirby 10562
+    Tank No.            Observed Gauge Height Open                           Reference Gauge Height            Observed Gauge Height Close
+          1C                       18' 04 1/2"                                       16' 10 1/4"                           18' 04 1/2"
+          2C                         18' 04"                                         16' 09 3/4"                             18' 04"
+          3C                       18' 04 1/4"                                       16' 10 1/8"                           18' 04 1/4"
+
+
+
+
+                                    ANCILLARY TANK MEASUREMENTS
+                       Tank No.                        Observed Arrival Measurement                Observed Departure Measurement
+                        FWD                                               00' 00"                             00' 00"
+                         AFT                                              00' 00"                             00' 00"
+                        PORT                                              00' 00"                             00' 00"
+                         STB                                              00' 00"                             00' 00"

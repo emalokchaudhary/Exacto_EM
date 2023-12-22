@@ -1,0 +1,45 @@
+                                  COASTAL GULF &
+                                INTERNATIONAL, INC.
+                                                "Precision"
+                                          Inspection & Analytical
+                                                  Services
+                      ®           2104 S Southland, Gonzales, LA 70737
+                                 Phone (225) 231-4990 Fax (225) 231-7875                                    Assuring accuracy through expertise!
+
+Vessel:                   Ionic Artemis                                           Date:          June 2, 2021
+Product:                  HSVGO                                                   Terminal:      ExxonMobil
+Subject:                  Report of    Discharge                                  Port:          Baton Rouge, Louisiana
+ExxonMobil Ref. #: 5497396                                                        File Number:   103812
+                                                     VOYAGE ANALYSIS
+OUTTURN COMPARISON                                                   DATE                        NET BARRELS
+Load port Terminal:           Vysotsk, Russia                              April 30, 2021              271,494.36
+Discharge Terminal:             ExxonMobil                                 June 2, 2021                270,953.23
+                                                                    Apparent Difference:                  541.13
+                                                               Adjustment for Bottoms:                     0.00
+                                                                     Adjusted Difference:                 541.13
+
+
+OBQ/ROB RECAPITULATION
+                                                   On Board Quantity at Load Port:                         0.00
+                             Remaining on Board Quantity at Discharge Port:                                0.00
+                      Adjustment for Bottoms Pumped off or Left on Board:                                  0.00
+
+
+FREE WATER COMPARISON
+                                                 Free Water Quantity at Load Port:                         0.00
+                                         Free Water Quantity at Discharge Port:                            0.00
+                      Adjustment for Bottoms Pumped off or Left on Board:                                  0.00
+
+
+IN-TRANSIT COMPARISON
+                                                         Sailing Figures at Load port:                 271,359.00
+                                                 Arrival Figures at Discharge Port:                    271,180.98
+                                                                   In-Transit Difference:                 178.02
+
+
+
+
+Coastal Gulf & International, Inc.
+Jon Herrington
+Gonzales Communication Center                                                                                       Version 7.1 04-19-20 JMH
+

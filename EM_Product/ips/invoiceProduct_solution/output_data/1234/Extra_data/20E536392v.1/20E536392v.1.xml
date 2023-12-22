@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="20.11.0">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="12" family="PXAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="1" size="12" family="PXAAAB+Arial" color="#000000"/>
+	<fontspec id="2" size="12" family="PXAAAA+Arial,Bold" color="#ffffff"/>
+	<fontspec id="3" size="12" family="PXAAAC+CourierNew" color="#000000"/>
+	<fontspec id="4" size="12" family="PXAAAD+CourierNew,Bold" color="#000000"/>
+	<fontspec id="5" size="12" family="PXAAAC+CourierNew" color="#d3d3d3"/>
+	<fontspec id="6" size="15" family="PXAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="7" size="15" family="PXAAAB+Arial" color="#999999"/>
+<image top="15" left="89" width="290" height="60" src="./../output_data/1234/560/20E536392v.1/20E536392v.1-1_1.png"/>
+<text top="128" left="100" width="46" height="14" font="0"><b>Region:</b></text>
+<text top="128" left="153" width="52" height="14" font="1">Americas</text>
+<text top="128" left="576" width="100" height="14" font="0"><b>Other Reference:</b></text>
+<text top="143" left="89" width="56" height="14" font="0"><b>Operator:</b></text>
+<text top="143" left="153" width="334" height="14" font="1">ZACHARY SCHASER (zachary.r.schaser@exxonmobil.com)</text>
+<text top="143" left="577" width="100" height="14" font="0"><b>Business Group:</b></text>
+<text top="143" left="684" width="136" height="14" font="1">S/R AMERICAS CRUDE</text>
+<text top="158" left="104" width="42" height="14" font="0"><b>Phone:</b></text>
+<text top="158" left="153" width="85" height="14" font="1">(832) 625-5371</text>
+<text top="158" left="643" width="34" height="14" font="0"><b>Desk:</b></text>
+<text top="173" left="102" width="43" height="14" font="0"><b>Mobile:</b></text>
+<text top="173" left="153" width="85" height="14" font="1">(346) 254-3307</text>
+<text top="173" left="572" width="104" height="14" font="0"><b>Nomination Type:</b></text>
+<text top="173" left="684" width="38" height="14" font="1">Marine</text>
+<text top="204" left="95" width="153" height="13" font="0"><b>Documentary Instructions:</b></text>
+<text top="204" left="251" width="17" height="13" font="1">n/a</text>
+<text top="251" left="97" width="526" height="14" font="2"><b>LOAD: SOLVIKEN (9321689) - HOUSTON, TX - OILTANKING TERMINAL (UNITED STATES)</b></text>
+<text top="267" left="325" width="60" height="14" font="0"><b>Inspector:</b></text>
+<text top="267" left="392" width="140" height="14" font="1">Camin Cargo Control Inc.</text>
+<text top="267" left="586" width="107" height="14" font="0"><b>Inspection Status:</b></text>
+<text top="267" left="701" width="52" height="14" font="1">Accepted</text>
+<text top="282" left="357" width="28" height="14" font="0"><b>Hub:</b></text>
+<text top="282" left="392" width="177" height="14" font="1">Camin Cargo Control - Head Of-</text>
+<text top="297" left="392" width="54" height="14" font="1">fice - U.S.</text>
+<text top="282" left="623" width="71" height="14" font="0"><b>Created On:</b></text>
+<text top="282" left="701" width="135" height="14" font="1">31 Aug 2020 by Zachary</text>
+<text top="297" left="701" width="45" height="14" font="1">Schaser</text>
+<text top="312" left="310" width="75" height="14" font="0"><b>Coordinator:</b></text>
+<text top="312" left="392" width="54" height="14" font="1">Ari Camin</text>
+<text top="327" left="392" width="151" height="14" font="1">(acamin@camincargo.com)</text>
+<text top="312" left="610" width="84" height="14" font="0"><b>Last Modified:</b></text>
+<text top="312" left="701" width="125" height="14" font="1">31 Aug 2020 by Josias</text>
+<text top="327" left="701" width="36" height="14" font="1">Rivero</text>
+<text top="341" left="310" width="75" height="14" font="0"><b>Local Office:</b></text>
+<text top="357" left="283" width="384" height="14" font="0"><b>INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG</b></text>
+<text top="373" left="130" width="254" height="14" font="0"><b>Voyage Parcel External Reference Number:</b></text>
+<text top="373" left="392" width="66" height="14" font="1">4986454-10</text>
+<text top="388" left="345" width="40" height="14" font="0"><b>Grade:</b></text>
+<text top="388" left="392" width="103" height="14" font="1">MIDLAND SWEET</text>
+<text top="388" left="588" width="105" height="14" font="0"><b>Contract Number:</b></text>
+<text top="403" left="356" width="29" height="14" font="0"><b>ETA:</b></text>
+<text top="403" left="392" width="70" height="14" font="1">01 Sep 2020</text>
+<text top="403" left="629" width="65" height="14" font="0"><b>Parcel Ref:</b></text>
+<text top="418" left="356" width="29" height="14" font="0"><b>ETD:</b></text>
+<text top="418" left="622" width="71" height="14" font="0"><b>Destination:</b></text>
+<text top="433" left="203" width="182" height="14" font="0"><b>Supply Contract Window Start:</b></text>
+<text top="433" left="392" width="70" height="14" font="1">01 Sep 2020</text>
+<text top="433" left="592" width="101" height="14" font="0"><b>Source Location:</b></text>
+<text top="448" left="208" width="177" height="14" font="0"><b>Supply Contract Window End:</b></text>
+<text top="448" left="392" width="70" height="14" font="1">02 Sep 2020</text>
+<text top="448" left="640" width="54" height="14" font="0"><b>Supplier:</b></text>
+<text top="462" left="230" width="155" height="14" font="0"><b>Total Nominated Quantity:</b></text>
+<text top="462" left="392" width="91" height="14" font="1">720,000 Barrels</text>
+<text top="462" left="638" width="56" height="14" font="0"><b>Receiver:</b></text>
+<text top="477" left="89" width="295" height="14" font="0"><b>Transport / Voyage Number / Quantity / Tolerance:</b></text>
+<text top="477" left="392" width="177" height="14" font="1">SOLVIKEN (9321689) / 720,000</text>
+<text top="492" left="392" width="39" height="14" font="1">Barrels</text>
+<text top="477" left="601" width="93" height="14" font="0"><b>Delivery Terms:</b></text>
+<text top="477" left="701" width="119" height="14" font="1">FOB (Free On Board)</text>
+<text top="507" left="605" width="88" height="14" font="0"><b>Mother Vessel:</b></text>
+<text top="537" left="89" width="153" height="13" font="0"><b>Email Quantity Results To:</b></text>
+<text top="556" left="95" width="432" height="14" font="3">DS-SRM-USGExports@exxonmobil.com; robbyn.williams@us.dsv.com</text>
+<text top="591" left="89" width="145" height="13" font="0"><b>Email Quality Results To:</b></text>
+<text top="611" left="95" width="432" height="14" font="3">DS-SRM-USGExports@exxonmobil.com; robbyn.williams@us.dsv.com</text>
+<text top="646" left="89" width="173" height="13" font="0"><b>Load / Discharge Instructions:</b></text>
+<text top="665" left="95" width="742" height="14" font="3">INSPECTION, REPORTING, AND INVOICING ARE TO BE HANDLED IN ACCORDANCE WITH THE EXXONMOBIL GLOBAL INSPEC-</text>
+<text top="680" left="95" width="518" height="14" font="3">TION CONTRACT (GIC) EFFECTIVE FROM JULY 2019 TO JUNE 2026 FOR CRUDE OIL.</text>
+<text top="709" left="95" width="252" height="14" font="3">Perform below testing at Load Port:</text>
+<text top="723" left="95" width="324" height="14" font="4"><b>Set 1: Load Shore (custody transfer) Sample -</b></text>
+<text top="737" left="95" width="144" height="14" font="3">API (D5002 or D1298)</text>
+<text top="752" left="95" width="173" height="14" font="3">Sediment (D4807 or D473)</text>
+<text top="766" left="95" width="223" height="14" font="3">Water (D4006 or D4377 or D4928)</text>
+<text top="781" left="95" width="202" height="14" font="5">Sulfur Content (D4294/D2622)</text>
+<text top="795" left="95" width="79" height="14" font="5">Acid Number</text>
+<text top="809" left="95" width="72" height="14" font="5">Mercaptans</text>
+<text top="838" left="95" width="223" height="14" font="4"><b>Set 2 - Vessel Composite Sample</b></text>
+<text top="853" left="95" width="144" height="14" font="3">API (D5002 or D1298)</text>
+<text top="867" left="95" width="173" height="14" font="3">Sediment (D4807 or D473)</text>
+<text top="881" left="95" width="223" height="14" font="3">Water (D4006 or D4377 or D4928)</text>
+<text top="896" left="95" width="115" height="14" font="5">Benzene (IP 344)</text>
+<text top="910" left="95" width="29" height="14" font="5">Iron</text>
+<text top="925" left="95" width="144" height="14" font="5">Mercaptans (UOP 163)</text>
+<text top="939" left="95" width="94" height="14" font="5">H2S in Liquid</text>
+<text top="953" left="95" width="29" height="14" font="5">Salt</text>
+<text top="968" left="95" width="14" height="14" font="5">pH</text>
+<text top="997" left="95" width="425" height="14" font="3">Quantity: Meters to be used; revert to shore if meters fail</text>
+<text top="1011" left="95" width="382" height="14" font="3">Quality: ILS to be used; revert to shore if ILS fails</text>
+<text top="1060" left="89" width="81" height="13" font="0"><b>Agent Details:</b></text>
+<text top="1080" left="95" width="22" height="14" font="3">ISS</text>
+<text top="92" left="89" width="222" height="18" font="6"><b>TRIP: INTV004CRU-2009-0035</b></text>
+<text top="92" left="650" width="204" height="18" font="6"><b>20E536392 VER 1 (ISSUED)</b></text>
+<text top="1129" left="433" width="77" height="17" font="7">Page 1 of 3</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="8" size="13" family="PXAAAA+Arial,Bold" color="#ffffff"/>
+	<fontspec id="9" size="9" family="PXAAAA+Arial,Bold" color="#999999"/>
+	<fontspec id="10" size="15" family="PXAAAA+Arial,Bold" color="#ffffff"/>
+	<fontspec id="11" size="12" family="PXAAAD+CourierNew,Bold" color="#d3d3d3"/>
+	<fontspec id="12" size="13" family="PXAAAE+TimesNewRoman" color="#d3d3d3"/>
+<image top="15" left="89" width="290" height="60" src="./../output_data/1234/560/20E536392v.1/20E536392v.1-2_1.png"/>
+<text top="128" left="89" width="180" height="13" font="0"><b>Quality Inspection Instructions:</b></text>
+<text top="144" left="90" width="37" height="15" font="8"><b>SET 1</b></text>
+<text top="161" left="120" width="72" height="14" font="0"><b>Description:</b></text>
+<text top="161" left="200" width="241" height="13" font="1">in-line sampler or Shore Tank tank composite</text>
+<text top="176" left="89" width="103" height="14" font="0"><b>Sample Location:</b></text>
+<text top="176" left="200" width="116" height="13" font="1">Shore In-Line Sample</text>
+<text top="176" left="323" width="3" height="13" font="0"><b>·</b></text>
+<text top="176" left="333" width="167" height="13" font="1">Shore Tank (U-M-L) Composite</text>
+<text top="208" left="669" width="75" height="10" font="9"><b>RO = Report Only</b></text>
+<text top="208" left="778" width="69" height="10" font="9"><b>Req. = Required</b></text>
+<text top="223" left="97" width="25" height="13" font="0"><b>Test</b></text>
+<text top="223" left="195" width="49" height="13" font="0"><b>Methods</b></text>
+<text top="223" left="508" width="21" height="13" font="0"><b>Min</b></text>
+<text top="223" left="543" width="23" height="13" font="0"><b>Max</b></text>
+<text top="223" left="582" width="28" height="13" font="0"><b>UOM</b></text>
+<text top="223" left="654" width="41" height="13" font="0"><b>Typical</b></text>
+<text top="223" left="711" width="25" height="13" font="0"><b>R.O.</b></text>
+<text top="223" left="750" width="26" height="13" font="0"><b>Req.</b></text>
+<text top="223" left="791" width="55" height="13" font="0"><b>Comment</b></text>
+<text top="245" left="97" width="74" height="13" font="1">API Gravity at</text>
+<text top="259" left="97" width="25" height="13" font="1">60°F</text>
+<text top="245" left="196" width="237" height="13" font="1">[ASTM] ASTM D5002, [ASTM] ASTM D1298</text>
+<text top="245" left="582" width="57" height="13" font="1">API@60°F</text>
+<text top="245" left="711" width="15" height="13" font="1">No</text>
+<text top="245" left="751" width="21" height="13" font="1">Yes</text>
+<text top="280" left="97" width="80" height="13" font="1">Sediment Con-</text>
+<text top="295" left="97" width="20" height="13" font="1">tent</text>
+<text top="280" left="196" width="230" height="13" font="1">[ASTM] ASTM D473, [ASTM] ASTM D4807</text>
+<text top="280" left="582" width="23" height="13" font="1">mg/l</text>
+<text top="280" left="711" width="15" height="13" font="1">No</text>
+<text top="280" left="751" width="21" height="13" font="1">Yes</text>
+<text top="316" left="97" width="32" height="13" font="1">Water</text>
+<text top="316" left="196" width="284" height="13" font="1">[ASTM] ASTM D4928, [ASTM] ASTM D4006, [ASTM]</text>
+<text top="331" left="196" width="72" height="13" font="1">ASTM D4377</text>
+<text top="316" left="582" width="33" height="13" font="1">mg/kg</text>
+<text top="316" left="711" width="15" height="13" font="1">No</text>
+<text top="316" left="751" width="21" height="13" font="1">Yes</text>
+<text top="365" left="90" width="37" height="15" font="8"><b>SET 2</b></text>
+<text top="382" left="120" width="72" height="14" font="0"><b>Description:</b></text>
+<text top="397" left="89" width="103" height="14" font="0"><b>Sample Location:</b></text>
+<text top="397" left="200" width="132" height="13" font="1">Vessel/Barge Composite</text>
+<text top="430" left="669" width="75" height="10" font="9"><b>RO = Report Only</b></text>
+<text top="430" left="778" width="69" height="10" font="9"><b>Req. = Required</b></text>
+<text top="444" left="97" width="25" height="13" font="0"><b>Test</b></text>
+<text top="444" left="195" width="49" height="13" font="0"><b>Methods</b></text>
+<text top="444" left="508" width="21" height="13" font="0"><b>Min</b></text>
+<text top="444" left="543" width="23" height="13" font="0"><b>Max</b></text>
+<text top="444" left="582" width="28" height="13" font="0"><b>UOM</b></text>
+<text top="444" left="654" width="41" height="13" font="0"><b>Typical</b></text>
+<text top="444" left="711" width="25" height="13" font="0"><b>R.O.</b></text>
+<text top="444" left="750" width="26" height="13" font="0"><b>Req.</b></text>
+<text top="444" left="791" width="55" height="13" font="0"><b>Comment</b></text>
+<text top="466" left="97" width="74" height="13" font="1">API Gravity at</text>
+<text top="480" left="97" width="25" height="13" font="1">60°F</text>
+<text top="466" left="196" width="237" height="13" font="1">[ASTM] ASTM D5002, [ASTM] ASTM D1298</text>
+<text top="466" left="582" width="57" height="13" font="1">API@60°F</text>
+<text top="466" left="711" width="15" height="13" font="1">No</text>
+<text top="466" left="751" width="21" height="13" font="1">Yes</text>
+<text top="502" left="97" width="32" height="13" font="1">Water</text>
+<text top="502" left="196" width="284" height="13" font="1">[ASTM] ASTM D4377, [ASTM] ASTM D4006, [ASTM]</text>
+<text top="516" left="196" width="72" height="13" font="1">ASTM D4928</text>
+<text top="502" left="582" width="33" height="13" font="1">mg/kg</text>
+<text top="502" left="711" width="15" height="13" font="1">No</text>
+<text top="502" left="751" width="21" height="13" font="1">Yes</text>
+<text top="538" left="97" width="80" height="13" font="1">Sediment Con-</text>
+<text top="552" left="97" width="20" height="13" font="1">tent</text>
+<text top="538" left="196" width="230" height="13" font="1">[ASTM] ASTM D4807, [ASTM] ASTM D473</text>
+<text top="538" left="582" width="23" height="13" font="1">mg/l</text>
+<text top="538" left="711" width="15" height="13" font="1">No</text>
+<text top="538" left="751" width="21" height="13" font="1">Yes</text>
+<text top="585" left="89" width="117" height="13" font="0"><b>Invoice Instructions:</b></text>
+<text top="603" left="97" width="81" height="13" font="0"><b>Bill Invoice To</b></text>
+<text top="603" left="510" width="61" height="13" font="0"><b>Item to Bill</b></text>
+<text top="603" left="696" width="26" height="13" font="0"><b>Split</b></text>
+<text top="603" left="737" width="110" height="13" font="0"><b>Contact / Comment</b></text>
+<text top="624" left="97" width="389" height="13" font="1">ExxonMobil Sales &amp; Supply LLC (EMSS) (Legal Entity: ExxonMobil Sales</text>
+<text top="638" left="97" width="161" height="13" font="1">&amp; Supply LLC (EMSS) (4058))</text>
+<text top="624" left="511" width="70" height="13" font="1">Quantity only</text>
+<text top="624" left="696" width="24" height="13" font="1">50%</text>
+<text top="660" left="511" width="141" height="13" font="1">Slate: USG Export Crude -</text>
+<text top="674" left="511" width="106" height="13" font="1">Load Shore Sample</text>
+<text top="660" left="696" width="24" height="13" font="1">50%</text>
+<text top="695" left="511" width="141" height="13" font="1">Slate: USG Crude Export -</text>
+<text top="709" left="511" width="127" height="13" font="1">Load Vessel Composite</text>
+<text top="695" left="696" width="24" height="13" font="1">50%</text>
+<text top="731" left="97" width="373" height="13" font="1">3862 - ExxonMobil Oil Corporation (Legal Entity: ExxonMobil Oil Corp.</text>
+<text top="745" left="97" width="249" height="13" font="1">(EMOC) - Mktg &amp; Ref U.S. Gen Ledger (3862))</text>
+<text top="731" left="511" width="70" height="13" font="1">Quantity only</text>
+<text top="731" left="696" width="24" height="13" font="1">50%</text>
+<text top="766" left="511" width="141" height="13" font="1">Slate: USG Export Crude -</text>
+<text top="781" left="511" width="106" height="13" font="1">Load Shore Sample</text>
+<text top="766" left="696" width="24" height="13" font="1">50%</text>
+<text top="802" left="511" width="141" height="13" font="1">Slate: USG Crude Export -</text>
+<text top="816" left="511" width="127" height="13" font="1">Load Vessel Composite</text>
+<text top="802" left="696" width="24" height="13" font="1">50%</text>
+<text top="853" left="93" width="198" height="18" font="10"><b>NOMINATION COMMENTS</b></text>
+<text top="875" left="89" width="141" height="13" font="0"><b>Inspection Appointment:</b></text>
+<text top="895" left="95" width="490" height="14" font="3">Sampling temporarily canceled! Please don't take or mail this sample</text>
+<text top="923" left="95" width="533" height="14" font="11"><b>Please take sample at loadport as instructed in attachment and send it to:</b></text>
+<text top="954" left="95" width="94" height="14" font="11"><b>Please notify</b></text>
+<text top="952" left="195" width="203" height="15" font="12">beverly.collins@exxonmobil.com the</text>
+<text top="954" left="413" width="180" height="14" font="5">when sample has been sent</text>
+<text top="983" left="95" width="295" height="14" font="5">ExxonMobil Research &amp; Engineering Company</text>
+<text top="998" left="95" width="180" height="14" font="11"><b>Attn: Matthew D. McKinney</b></text>
+<text top="1012" left="95" width="173" height="14" font="11"><b>Clinton EMPR, LAB CPD133</b></text>
+<text top="1026" left="95" width="130" height="14" font="5">1545 Route 22 East</text>
+<text top="1041" left="95" width="137" height="14" font="5">Annandale, NJ 08801</text>
+<text top="1055" left="95" width="22" height="14" font="3">USA</text>
+<text top="92" left="89" width="222" height="18" font="6"><b>TRIP: INTV004CRU-2009-0035</b></text>
+<text top="92" left="650" width="204" height="18" font="6"><b>20E536392 VER 1 (ISSUED)</b></text>
+<text top="1129" left="433" width="77" height="17" font="7">Page 2 of 3</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="13" size="15" family="PXAAAF+TimesNewRoman,Bold" color="#ff0000"/>
+	<fontspec id="14" size="7" family="PXAAAB+Arial" color="#999999"/>
+<image top="15" left="89" width="290" height="60" src="./../output_data/1234/560/20E536392v.1/20E536392v.1-3_1.png"/>
+<text top="128" left="89" width="128" height="13" font="0"><b>Additional Comments:</b></text>
+<text top="166" left="95" width="22" height="14" font="3">RMC</text>
+<text top="162" left="123" width="405" height="17" font="13"><b>#7268 - RMC has been canceled for mailing until further notice</b></text>
+<text top="201" left="89" width="83" height="13" font="0"><b>Recipient List:</b></text>
+<text top="215" left="89" width="351" height="13" font="1">navarik_coordinator@camincargo.com; acamin@camincargo.com</text>
+<text top="229" left="89" width="200" height="13" font="1">adam.q.gonterman@exxonmobil.com</text>
+<text top="250" left="727" width="128" height="8" font="14">REPORT GENERATED 31 AUG 2020</text>
+<text top="92" left="89" width="222" height="18" font="6"><b>TRIP: INTV004CRU-2009-0035</b></text>
+<text top="92" left="650" width="204" height="18" font="6"><b>20E536392 VER 1 (ISSUED)</b></text>
+<text top="1129" left="433" width="77" height="17" font="7">Page 3 of 3</text>
+</page>
+</pdf2xml>

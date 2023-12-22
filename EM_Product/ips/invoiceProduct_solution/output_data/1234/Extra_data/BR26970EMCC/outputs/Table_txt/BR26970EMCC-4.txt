@@ -1,0 +1,30 @@
+Product:              Benzene                                                     Terminal:               Ergon
+Subject:              Report of Loading                                           Port:                   Baton Rouge, Louisiana
+EMCC Ref. #: 5074792-10                                                           File Number:            BR26970
+
+                                               GAUGE HEIGHT REPORT
+                                           Barge Name:                           CHEM 3245
+    Tank No.            Observed Gauge Height Open                         Reference Gauge Height            Observed Gauge Height Close
+           1P                       17' 08''                                      16' 01 3/4''                              17' 08''
+           1S                     17' 08 1/4''                                      16' 02''                              17' 08 1/4''
+           2P                     17' 08 1/4''                                      16' 02''                              17' 08 1/4''
+           2S                     17' 08 1/4''                                      16' 02''                              17' 08 1/4''
+           3P                       17' 08''                                      16' 01 3/4''                              17' 08''
+           3S                     17' 08 1/4''                                      16' 02''                              17' 08 1/4''
+
+
+
+
+                                     ANCILLARY TANK MEAURMENTS
+                       Tank No.                       Observed Arrival Measurment                Observed Departure Measurment
+                        FWD                                           00' 00''                              00' 00''
+                         AFT                                          00' 00''                              00' 00''
+                        PORT                                          00' 00''                              00' 00''
+                        STRB                                          00' 00''                              00' 00''
+
+
+
+
+Coastal Gulf & International, Inc.
+Rusty Mitchell
+Gonzales Communication Center                                                                                                  Version 7.0 06-05-13 NLE

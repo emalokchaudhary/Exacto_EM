@@ -1,0 +1,451 @@
+ExxonMobil Chemical Co.
+22777 Springwoods Village Parkway
+Spring, TX 77389
+
+Attention                  : Diogo Casagrande
+                                                                        Contents
+MOVEMENT                   : Load                                        Voyage Analysis Report
+                                                                         Vessel Quantity Report
+VESSEL                     : Chem - 732                                  Timelog
+LOCATION                   : ExxonMobil - Baytown, TX                    LOP/NAD
+File N°                    : BAY-2002
+DATE                       : 12/15/2020 - 01/05/2021
+REFERENCE N°               : 5076851-10
+
+
+Dear Client,
+
+Please find attached our Inspection Report No. BAY-2002 corresponding to the Load operation of the
+captioned vessel, at place and date(s) shown above. The complete report is composed of individual field
+reports, which we believe are self-explanatory.
+
+
+We trust that this report supplies the proper input needed so that we comply with your requirements. Should
+there be any points that need further clarification, please do not hesitate to contact us.
+
+
+
+
+All Camin Cargo Control measurement devices and methods used for quantity and quality determination meet
+the pertinent requirements of 40 CFR 98.3 et. seq. (Greenhouse Gas Mandatory Reporting Rule)
+
+
+
+
+                                                                     Yours Sincerely,
+
+                                                                     Camin Cargo Control
+                                                                     6118 Bayway Drive Baytown, TX 77520
+                                                                     Phone: 832-982-2001
+                                                                     opsbaytown@camincargo.com
+ EXXO06-04 / 553677                                                  www.camincargo.com
+
+
+
+
+                                                   Page 1 of 11
+                                             VOYAGE ANALYSIS REPORT N° BAY-2002
+VESSEL                 : Chem - 732                                                                                       MOVEMENT               : Load
+LOCATION               : ExxonMobil - Baytown, TX                                                                         JOB COMPLETED          : 16-DEC-2020
+PRODUCT                : EXXSOL D80 BT VL                                                                                 REFERENCE N°           : 5076851-10
+
+                           Port                                                                                    VCF    Voyage#                  Gauge Date
+LOAD                     : ExxonMobil - Baytown, TX                                                                6B     N/A                      16-DEC-2020
+DISCHARGE
+Barrels @ 60 °F                        API @ 60 °F                TCV                      FW                  GSV                  S&W                  NSV          Reference
+I. SHORE/SHORE COMPARISON-NOT AVAILABLE
+1.   Loading Quantity                        44.6           10,057.55                     0.00             10,057.55                   0.00          10,057.55
+2.   Outturn
+3.   Difference                                                                                                                                                       (2-1)
+4.   Difference %                                                                                                                                                     (3/1*100)
+     Adjusted TCV Difference                                                                                                                                          (3-b+l)
+
+
+II. VESSEL/SHORE COMPARISON AT LOADPORT
+a.   After Loading                                          10,057.55                     0.00             10,057.55                   Liquid            Non-Liquid
+b.   OBQ                                                          0.00                    0.00                     0.00
+
+c.   Vessel Received                                        10,057.55                     0.00             10,057.55                                                  (a-b)
+d.   Difference                                                   0.00                    0.00                     0.00                                               (c-1)
+e.   Difference %                                                 0.00                                             0.00                                               (d/1*100)
+f.   Load Ratio                                                   1.00000
+                                                                                                                                                                      (c/1)
+g.   VEF                                                          1.0000
+
+h.   Theoretical Shore                                      10,057.55                                                                                                 (c/g)
+i.   Theoretical Shore Diff.                                      0.00
+                                                                                                                                                                      (h-1)
+j.   Theoretical Shore Diff. %                                    0.00                                                                                                (i/1*100)
+III. VESSEL/SHORE COMPARISON AT DISPORT-NOT AVAILABLE
+k.   Before Discharge                                                                                                                  Liquid            Non-Liquid
+l.   ROB
+m. Vessel Delivered                                                                                                                                                   (k-l)
+n.   Difference                                                                                                                                                       (2-m)
+o.   Difference %                                                                                                                                                     (n/2*100)
+p.   Discharge Ratio                                                                                                                                                  (m/2)
+q.   VEF
+r.   Theoretical Shore                                                                                                                                                (m/q)
+s.   Theoretical Shore Diff.                                                                                                                                          (2-r)
+t.   Theoretical Shore Diff. %                                                                                                                                        (s/2*100)
+IV. VESSEL IN TRANSIT COMPARISON-NOT AVAILABLE
+u.   In-Transit Diff.                                                                                                                                                 (k-a)
+v.   In-Transit Diff. %                                                                                                                Liquid            Non-Liquid (u/a*100)
+w. OBQ/ROB Difference                                                                                                                                                 (b-l)
+                          Adjusted TCV Difference                                                S&W at Loadport     0.000 %        S&W at Disport ---
+
+
+
+
+Calculated as per Chapter 17.5
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: 832-982-2001
+Email: opsbaytown@camincargo.com
+
+EXXO06-04 / 553677 / January 5, 2021
+                                                                                     Page 2 of 11
+                                              QUANTITY CERTIFICATE N° BAY-2002
+                                                               Based On Vessel Measurements
+VESSEL                 : Chem - 732                                                                       MOVEMENT      : Load
+LOCATION               : ExxonMobil - Baytown, TX                                                         JOB COMPLETED : 16-DEC-2020
+PRODUCT                : EXXSOL D80 BT VL                                                                 REFERENCE N° : 5076851-10
+Comp. Chart RH                 Phy GH      Gauge           TOV         Water             Water          Temp.      VCF      GSV @ 60 °F
+No      Ft-In                    Ft-In     Ft-In           Bbls        Gauge              Bbls            °F        6B           Bbls
+1c       17-08 03/04 17-08 03/04 00-00 00/00                  Nil        ----             Nil
+2c       17-02 01/02 17-02 01/02 00-00 00/00                  Nil        ----             Nil
+3c       17-08 01/04 17-08 01/04 00-00 00/00                  Nil        ----             Nil
+                                                              Nil                          Nil
+Gauge Date             General Information                                                                                           Sea Valves
+16-DEC-2020            Last Three Cargoes   : Blendstock                                                               SN=19890      N/A
+                       Sea Condition        : Calm                                                                     SN=9A-10312
+Draft (Ft-in)        Fwd (P)              Fwd (S)          Aft (P)         Aft (S)               Trim           List
+Before               02-00               02-00             02-00           02-00                 00-00 00/00    0.00
+Note:
+No Trim Correction was applied.
+Notes for Totals: .
+
+
+VESSEL QUANTITIES                        ARRIVAL
+TCV, Barrels @ 60 °F                         0.00
+Free Water Barrels                           0.00
+                                             GSV
+Barrels @ 60 °F                              0.00
+Gallons @ 60 °F                               0.00
+API Gravity @ 60 °F
+Lb/Gal @ 60 °F
+
+
+
+
+ 6118 Bayway Drive
+ Baytown, TX 77520
+ Office Phone: 832-982-2001
+ Email: opsbaytown@camincargo.com
+
+ EXXO06-04 / 553677 / January 5, 2021
+                                                                          Page 3 of 11
+                                               QUANTITY CERTIFICATE N° BAY-2002
+                                                                     Based On Vessel Measurements
+VESSEL                 : Chem - 732                                                                                       MOVEMENT      : Load
+LOCATION               : ExxonMobil - Baytown, TX                                                                         JOB COMPLETED : 16-DEC-2020
+PRODUCT                : EXXSOL D80 BT VL                                                                                 REFERENCE N° : 5076851-10
+Comp. Chart RH                 Phy GH       Gauge                TOV            Water               Water              Temp.          VCF       GSV @ 60 °F
+No      Ft-In                    Ft-In      Ft-In                Bbls           Gauge                Bbls                °F            6B            Bbls
+1c       17-08 03/04 17-08 03/04 04-02 01/04                   3,592.05             ----               Nil               58.5      1.00077          3,594.82
+2c       17-02 01/02 17-02 01/02 04-00 00/00                   3,351.95             ----               Nil               58.2      1.00092          3,355.03
+3c       17-08 01/04 17-08 01/04 05-00 01/02                   3,104.50             ----               Nil               58.0      1.00103          3,107.70
+                                                             10,048.50                                    Nil            58.2                      10,057.55
+Gauge Date             General Information                                                                                                               Sea Valves
+16-DEC-2020            Last Three Cargoes   : Blendstock                                                                                   SN=19890      N/A
+                       Sea Condition        : Calm                                                                                         SN=9A-10312
+Draft (Ft-in)        Fwd (P)              Fwd (S)               Aft (P)               Aft (S)                   Trim              List
+Before               02-00                 02-00                02-00                 02-00                     00-00 00/00       0.00
+After                                                                                                           00-00 00/00       0.00
+Note:
+No Trim Correction was applied.
+Notes for Totals: .
+
+
+
+VESSEL QUANTITIES                        DEPARTURE                   RECEIVED
+TCV, Barrels @ 60 °F                      10,057.55                  10,057.55           S&W         ---
+Free Water Barrels                             0.00                       0.00                       ---
+                                               GSV                        GSV                         NSV                                            GSW                   NSW
+Barrels @ 60 °F                           10,057.55                  10,057.55                      10,057.55          Long Tons - Air              1,261.613             1,261.613
+Gallons @ 60 °F                          422,417.10                 422,417.10                   422,417.10            Metric Tons - Air            1,281.858             1,281.858
+API Gravity @ 60 °F                           44.6(S)                     44.6(S)                                      Short Tons - Air             1,413.007             1,413.007
+Lb/Gal @ 60 °F                               6.690101866                  6.690101866                                  Kilograms - Air          1,281,858.0           1,281,858.0
+                                                                                                                       Pounds - Air             2,826,013.0           2,826,013.0
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 6118 Bayway Drive
+ Baytown, TX 77520
+ Office Phone: 832-982-2001
+ Email: opsbaytown@camincargo.com
+
+ EXXO06-04 / 553677 / January 5, 2021
+                                                                                     Page 4 of 11
+                                                         TIME LOG REPORT N° BAY-2002
+VESSEL             : Chem - 732                                                                           MOVEMENT        : Load
+LOCATION           : ExxonMobil - Baytown, TX                                                             JOB COMPLETED   : 16-DEC-2020
+PRODUCT            : EXXSOL D80 BT VL                                                                     REFERENCE N°    : 5076851-10
+
+Date              Time          Description
+16-DEC-2020       00:01         Notice of Readiness Tendered
+                  02:55         Barge Arrived
+                  03:10         Barge Docked
+                  03:15         Inspector Notified
+                  04:19         Inspector Arrived
+                  04:40         Inspector on Board
+                  04:45         Preliminary Inspection Commenced
+                  04:50         Preliminary Inspection Completed
+                  04:50         Preliminary Calculations Commenced
+                  04:55         Preliminary Calculations Completed
+                  05:00         Inspector Departed
+                  07:30         Notified Shore Tank 633 Was Avalible
+                  07:45         Inspector Arrived
+                  08:15         Shore Tank 663 Gauged Open
+                  08:35         Cargo Hose Connected
+                  08:40         Inspector Arrived
+                  10:25         Load Commenced
+                  10:55         Load Suspended for Line Verification
+                  10:58         Inspector Notified
+                  11:40         Inspector Arrived
+                  11:45         Inspector on Board
+                  11:48         Commenced Gauging Barge For Line Verification
+                  12:00         Completed gauging Barge For Line Verification
+                  12:40         Awaiting Shore Tank 663 to be ready (loading railcar)
+                  13:05         Shore Tank 633 Gauged For Line Verification
+                  13:10         Line Verification Calculations Completed And Approved
+                  13:15         Exxon Dock #1 and OMCC Notified
+                  13:20         Inspector Departed
+                  14:20         Load Resumed
+                  18:40         Load Completed
+                  18:45         Inspector Notified
+                  19:00         Inspector Arrived
+                  19:05         Inspector on Board
+                  19:06         Final Inspection Commenced
+                  19:25         Final Inspection Completed
+                  19:26         Final Calculations Commenced
+                  19:30         Final Calculations Completed
+                  19:35         Awaiting Terminal Operator To Close Shore Tank 663
+                  20:10         Hose Disconnected
+                  20:25         Operator Arrived At Shore Tank 663
+                  20:40         Shore Tank 663 Gauged Closed
+                  20:50         Released To Terminal
+                  21:00         Inspector Departed
+18-DEC-2020       13:40         Sent For Confirmation
+05-JAN-2021       09:47         Received Confirmation From The Terminal
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: 832-982-2001
+Email: opsbaytown@camincargo.com
+
+EXXO06-04 / 553677 / January 5, 2021                                              Page 5 of 11
+                                                 LETTER OF PROTEST ° BAY-2002
+VESSEL              : Chem - 732                                                           MOVEMENT      : Load
+LOCATION            : ExxonMobil - Baytown, TX                                             JOB COMPLETED : 16-DEC-2020
+PRODUCT             : EXXSOL D80 BT VL
+
+
+
+
+TO                  : Vessel                                                               REFERENCE         : Delays
+
+On Behalf of our Principals, we do hereby note the following Protest:
+Barge Delays
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                    Respectfully,
+Signature:
+Print Name:
+Position:                                                                          ___________________________________
+Date/Time:                                                                                      Camin Cargo Control
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: 832-982-2001
+Email: opsbaytown@camincargo.com
+
+EXXO06-04 / 553677 / January 5, 2021
+                                                                  Page 6 of 11
+                                                 LETTER OF PROTEST ° BAY-2002
+VESSEL              : Chem - 732                                                           MOVEMENT      : Load
+LOCATION            : ExxonMobil - Baytown, TX                                             JOB COMPLETED : 16-DEC-2020
+PRODUCT             : EXXSOL D80 BT VL
+
+
+
+
+TO                  : Terminal                                                             REFERENCE         : Delays
+
+On Behalf of our Principals, we do hereby note the following Protest:
+Terminal Delays
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                    Respectfully,
+Signature:
+Print Name:
+Position:                                                                          ___________________________________
+Date/Time:                                                                                      Camin Cargo Control
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: 832-982-2001
+Email: opsbaytown@camincargo.com
+
+EXXO06-04 / 553677 / January 5, 2021
+                                                                  Page 7 of 11
+                                                 LETTER OF PROTEST ° BAY-2002
+VESSEL              : Chem - 732                                                           MOVEMENT      : Load
+LOCATION            : ExxonMobil - Baytown, TX                                             JOB COMPLETED : 16-DEC-2020
+PRODUCT             : EXXSOL D80 BT VL
+
+
+
+
+TO                  : Vessel                                                               REFERENCE         : Line Displacement
+
+On Behalf of our Principals, we do hereby note the following Protest:
+Shore To Barge Difference During Line Verification
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                    Respectfully,
+Signature:
+Print Name:
+Position:                                                                          ___________________________________
+Date/Time:                                                                                      Camin Cargo Control
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: 832-982-2001
+Email: opsbaytown@camincargo.com
+
+EXXO06-04 / 553677 / January 5, 2021
+                                                                  Page 8 of 11
+                                                 LETTER OF PROTEST ° BAY-2002
+VESSEL              : Chem - 732                                                           MOVEMENT      : Load
+LOCATION            : ExxonMobil - Baytown, TX                                             JOB COMPLETED : 16-DEC-2020
+PRODUCT             : EXXSOL D80 BT VL
+
+
+
+
+TO                  : Terminal                                                             REFERENCE         : Line Displacement
+
+On Behalf of our Principals, we do hereby note the following Protest:
+Shore To Barge Difference During Line Verification
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                    Respectfully,
+Signature:
+Print Name:
+Position:                                                                          ___________________________________
+Date/Time:                                                                                      Camin Cargo Control
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: 832-982-2001
+Email: opsbaytown@camincargo.com
+
+EXXO06-04 / 553677 / January 5, 2021
+                                                                  Page 9 of 11
+                                                 LETTER OF PROTEST ° BAY-2002
+VESSEL              : Chem - 732                                                           MOVEMENT      : Load
+LOCATION            : ExxonMobil - Baytown, TX                                             JOB COMPLETED : 16-DEC-2020
+PRODUCT             : EXXSOL D80 BT VL
+
+
+
+
+TO                  : Vessel                                                               REFERENCE         : Shore to Vessel variance after
+                                                                                                               Load
+
+On Behalf of our Principals, we do hereby note the following Protest:
+Shore To Barge Difference Noted On Completion Of Loading
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                    Respectfully,
+Signature:
+Print Name:
+Position:                                                                          ___________________________________
+Date/Time:                                                                                      Camin Cargo Control
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: 832-982-2001
+Email: opsbaytown@camincargo.com
+
+EXXO06-04 / 553677 / January 5, 2021
+                                                                  Page 10 of 11
+                                                 LETTER OF PROTEST ° BAY-2002
+VESSEL              : Chem - 732                                                           MOVEMENT      : Load
+LOCATION            : ExxonMobil - Baytown, TX                                             JOB COMPLETED : 16-DEC-2020
+PRODUCT             : EXXSOL D80 BT VL
+
+
+
+
+TO                  : Terminal                                                             REFERENCE         : Shore to Vessel variance after
+                                                                                                               Load
+
+On Behalf of our Principals, we do hereby note the following Protest:
+Shore To Barge Difference Noted On Completion Of Loading
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                    Respectfully,
+Signature:
+Print Name:
+Position:                                                                          ___________________________________
+Date/Time:                                                                                      Camin Cargo Control
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: 832-982-2001
+Email: opsbaytown@camincargo.com
+
+EXXO06-04 / 553677 / January 5, 2021
+                                                                  Page 11 of 11
+

@@ -1,0 +1,26 @@
+basePath: /
+consumes:
+- application/json
+info:
+  title: API
+  version: '1.0'
+paths:
+  /swagger.yml:
+    get:
+      operationId: get_call_exacto
+      responses:
+        '200':
+          description: Success
+      tags:
+      - default
+produces:
+- application/json
+responses:
+  MaskError:
+    description: When any error occurs on mask
+  ParseError:
+    description: When a mask can't be parsed
+swagger: '2.0'
+tags:
+- description: Default namespace
+  name: default

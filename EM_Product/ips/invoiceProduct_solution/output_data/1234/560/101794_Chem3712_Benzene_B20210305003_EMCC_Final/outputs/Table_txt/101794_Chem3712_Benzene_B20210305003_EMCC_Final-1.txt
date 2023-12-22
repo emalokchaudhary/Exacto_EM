@@ -1,0 +1,12 @@
+     Sample Type:                          Composite                            Sample Location:                     Chem 3712
+                                                                                                                          Spec
+Method                  Component                                        Result                           Units      Min    -  Max            Off-Spec
+D4176                   Clear and Bright                                 Pass                                                    -
+D4176                   Free Water                                       Pass                                                    -
+D4176                   Particulates                                     Pass                                                    -
+D4176                   Test Temperature                                 21.0                              C                     -
+
+
+
+
+X                                                                                                   X

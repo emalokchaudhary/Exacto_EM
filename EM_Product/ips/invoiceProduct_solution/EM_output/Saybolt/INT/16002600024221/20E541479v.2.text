@@ -1,0 +1,245 @@
+TRIP: INTV007CRU-2010-0054                                                              20E541479 VER 2 (ISSUED)
+
+Parcel Summary
+Transport    Location           Activity    Grade   Quantity   ETA    Supply Contract Window   Inspector    Inspection Requirements
+ PROPONTIS   NOVOROSSIYSK,      Load        CPC     633,574    26     08 Oct 2020 -            Saybolt      Quality / Quantity / Time
+ (9305623)   RUSSIA - EQUITY                BLEND   Barrels    Oct    09 Oct 2020                           log
+             (Russian Federa-                                  2020
+             tion)
+ PROPONTIS   LE HAVRE,          Discharge   CPC     633,574    26     n/a                      Intertek -   Quality / Quantity / Time
+ (9305623)   FRANCE (France)                BLEND   Barrels    Oct                             Oil,         log
+                                                               2020                            Chemical
+                                                                                               and Agri
+
+
+
+
+                                                     Page 1 of 5
+TRIP: INTV007CRU-2010-0054                                                                    20E541479 VER 2 (ISSUED)
+
+ Region: EAME                                                                              Other Reference:
+Operator: INGRID CICCARDINI (ingrid.ciccardini@exxonmobil.com)                              Business Group: MTO CRUDE
+  Phone:                                                                                              Desk: Crude
+ Mobile:                                                                                   Nomination Type: Marine
+
+Revision Comment: Removed EMKI from discharge
+
+
+Documentary Instructions: n/a
+
+
+ LOAD: PROPONTIS (9305623) - NOVOROSSIYSK, RUSSIA - EQUITY (RUSSIAN FEDERATION)
+                                       Inspector: Saybolt                                Inspection Status:    Accepted
+                                             Hub: Europe/Africa/Russia/ME (International       Created On:     06 Oct 2020 by In-
+                                                  Desk Rotterdam)                                              grid Ciccardini
+                                    Coordinator: Chahida Benkoula (int-                      Last Modified:    30 Oct 2020 by
+                                                  desk.saynl@corelab.com)                                      Yuliya Zolotareva
+                                    Local Office: Saybolt Russia Novorossiysk (say-
+                                                  bolt.novorossiysk@corelab.com)
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5041841-10
+                                           Grade: CPC BLEND                               Contract Number:
+                                             ETA: 26 Oct 2020                                   Parcel Ref:
+                                             ETD:                                              Destination:
+                  Supply Contract Window Start: 08 Oct 2020                               Source Location:
+                   Supply Contract Window End: 09 Oct 2020                                        Supplier:
+                      Total Nominated Quantity: 633,574 Barrels                                   Receiver:
+Transport / Voyage Number / Quantity / Tolerance: PROPONTIS (9305623) / 11/20 / 633,574    Delivery Terms:     FOB (Free On
+                                                  Barrels                                                      Board)
+                                                                                            Mother Vessel:
+
+Quality Inspection Instructions:
+SET 1
+    Description:
+Sample Location: Shore In-Line Sample
+
+                                                                                                RO = Report Only          Req. = Required
+ Test                    Methods                                       Min   Max   UOM        Typical   R.O.       Req.     Comment
+ API Gravity at 60°F     [ASTM] ASTM D5002, [ASTM] ASTM D1298, [IP]                API@60°F             No         Yes
+                         IP 365
+ Water                   [ASTM] ASTM D4377, [ASTM] ASTM D4006,                     mg/kg                No         Yes
+                         [ASTM] ASTM D4928
+ Sediment Content        [ASTM] ASTM D473, [ASTM] ASTM D4807                       %m                   No         Yes
+ Water Content           [IP] IP 386                                               mg/kg                No         Yes
+ Sediment by Extrac-     [IP] IP 14                                                %m                   No         Yes
+ tion
+ Sulfur                  [ASTM] ASTM D2622                                         g/kg                 No         Yes
+ Kinematic Viscosity     [ASTM] ASTM D445                                          mm²/s                No         Yes
+ at 40°C
+
+SET 2
+    Description:
+Sample Location: Vessel/Barge Composite
+
+                                                                                                RO = Report Only          Req. = Required
+ Test                  Methods                                         Min   Max   UOM        Typical   R.O.       Req.     Comment
+ API Gravity at        [ASTM] ASTM D1298, [ASTM] ASTM D5002, [IP] IP               API@60°F             No         Yes
+ 60°F                  365
+ Water                 [ASTM] ASTM D4928, [ASTM] ASTM D4377,                       mg/kg                No         Yes
+                       [ASTM] ASTM D4006
+
+                                                           Page 2 of 5
+TRIP: INTV007CRU-2010-0054                                                                                20E541479 VER 2 (ISSUED)
+
+                                                                                                               RO = Report Only          Req. = Required
+ Test                   Methods                                            Min      Max    UOM            Typical      R.O.       Req.     Comment
+ Sediment by Ex-        [IP] IP 14                                                          %m                         No         Yes
+ traction
+ Water Content          [IP] IP 386                                                         mg/kg                      No         Yes
+ Sediment Con-          [ASTM] ASTM D4807, [ASTM] ASTM D473                                 %m                         No         Yes
+ tent
+
+SET 3
+            Description: RE-TEST LOAD SAMPLES - SITES DISCRETION TO EXCLUDE
+       Sample Location: As Per Standard Terminal Practice
+Quality Test Comments:
+IP 365/386/14 for Fawley only
+
+
+
+
+                                                                                                               RO = Report Only          Req. = Required
+ Test                   Methods                                            Min      Max    UOM            Typical      R.O.       Req.     Comment
+ API Gravity at         [ASTM] ASTM D5002, [ASTM] ASTM D1298, [IP] IP                       API@60°F                   No         Yes
+ 60°F                   365
+ Water content          [IP] IP 386                                                         mg/kg                      No         Yes
+ Sediment by Ex-        [IP] IP 14                                                          %m                         No         Yes
+ traction
+ Water                  [ASTM] ASTM D4006, [ASTM] ASTM D4377,                               mg/kg                      No         Yes
+                        [ASTM] ASTM D4928
+ Sediment Con-          [ASTM] ASTM D4807, [ASTM] ASTM D473                                 %m                         No         Yes
+ tent
+
+Invoice Instructions:
+  Bill Invoice To                                                                         Item to Bill             Split      Contact / Comment
+ 4058 - EMSUS Exxon Mobil Sales And Supply LLC (Legal Entity: ExxonMobil Sales &          Quantity only            50%
+ Supply LLC (EMSS) (4058))
+                                                                                          Slate: *CRUDE            50%
+                                                                                          DISCHARGE
+                                                                                          Slate: *CRUDE            100%
+                                                                                          DISCHARGE
+                                                                                          Slate: *CRUDE            100%
+                                                                                          DISCHARGE
+ EXXONMOBIL KAZAKHSTAN, INC.                                                              Quantity only            50%
+                                                                                          Slate: *CRUDE            50%
+                                                                                          DISCHARGE
+ Esso S.A.F. (Societe Anonyme Francaise) - Esso France (Legal Entity: Esso S.A.F.         Slate: *Crude dis-       100%
+ (Societe Anonyme Francaise) - Esso France (0513))                                        charge sulphur
+
+ DISCHARGE: PROPONTIS (9305623) - LE HAVRE, FRANCE (FRANCE)
+                                  Inspector: Intertek - Oil, Chemical and Agri                       Inspection Status: Accepted
+                                       Hub: Intertek - Head Office                                         Created On: 06 Oct 2020 by In-
+                                                                                                                        grid Ciccardini
+                                      Coordinator: Maggie Chapman (Mag-                                  Last Modified: 30 Oct 2020 by
+                                                    gie.Chapman@intertek.com)                                           Yuliya Zolotareva
+                                      Local Office: Intertek Russia (Novo) (Operations.CBE-
+                                                    Novorossiysk@intertek.com)
+                                 INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+         Voyage Parcel External Reference Number: 5041841-20
+                                            Grade: CPC BLEND                                Contract Number:
+                                             ETA: 26 Oct 2020                                     Parcel Ref:
+                                             ETD:                                                Destination:
+                    Supply Contract Window Start: n/a                                       Source Location:
+
+                                                             Page 3 of 5
+TRIP: INTV007CRU-2010-0054                                                                     20E541479 VER 2 (ISSUED)
+
+                   Supply Contract Window End: n/a                                                   Supplier:
+                      Total Nominated Quantity: 633,574 Barrels                                     Receiver:
+Transport / Voyage Number / Quantity / Tolerance: PROPONTIS (9305623) / 633,574 Barrels       Delivery Terms:
+                                                                                               Mother Vessel:
+
+Quality Inspection Instructions:
+SET 1
+    Description:
+Sample Location: Shore In-Line Sample
+
+                                                                                                  RO = Report Only          Req. = Required
+ Test                    Methods                                       Min   Max   UOM         Typical    R.O.       Req.     Comment
+ API Gravity at 60°F     [ASTM] ASTM D5002, [ASTM] ASTM D1298, [IP]                API@60°F               No         Yes
+                         IP 365
+ Water                   [ASTM] ASTM D4928, [ASTM] ASTM D4377,                     mg/kg                  No         Yes
+                         [ASTM] ASTM D4006
+ Sediment Content        [ASTM] ASTM D4807, [ASTM] ASTM D473                       %m                     No         Yes
+ Water Content           [IP] IP 386                                               mg/kg                  No         Yes
+ Sediment by Extrac-     [IP] IP 14                                                %m                     No         Yes
+ tion
+ Sulfur                  [ASTM] ASTM D2622                                         g/kg                   No         Yes
+ Kinematic Viscosity     [ASTM] ASTM D445                                          mm²/s                  No         Yes
+ at 40°C
+
+SET 2
+    Description:
+Sample Location: Vessel/Barge Composite
+
+                                                                                                  RO = Report Only          Req. = Required
+ Test                  Methods                                         Min   Max   UOM         Typical    R.O.       Req.     Comment
+ API Gravity at        [ASTM] ASTM D5002, [IP] IP 365, [ASTM] ASTM                 API@60°F               No         Yes
+ 60°F                  D1298
+ Water                 [ASTM] ASTM D4377, [ASTM] ASTM D4928,                       mg/kg                  No         Yes
+                       [ASTM] ASTM D4006
+ Sediment by Ex-       [IP] IP 14                                                  %m                     No         Yes
+ traction
+ Water Content         [IP] IP 386                                                 mg/kg                  No         Yes
+ Sediment Con-         [ASTM] ASTM D4807, [ASTM] ASTM D473                         %m                     No         Yes
+ tent
+
+SET 3
+            Description: RE-TEST LOAD SAMPLES - SITES DISCRETION TO EXCLUDE
+       Sample Location: As Per Standard Terminal Practice
+Quality Test Comments:
+IP 365/386/14 for Fawley only
+
+
+
+
+                                                                                                  RO = Report Only          Req. = Required
+ Test                  Methods                                         Min   Max   UOM         Typical    R.O.       Req.     Comment
+ API Gravity at        [ASTM] ASTM D5002, [ASTM] ASTM D1298, [IP] IP               API@60°F               No         Yes
+ 60°F                  365
+ Water content         [IP] IP 386                                                 mg/kg                  No         Yes
+ Sediment by Ex-       [IP] IP 14                                                  %m                     No         Yes
+ traction
+ Water                 [ASTM] ASTM D4006, [ASTM] ASTM D4377,                       mg/kg                  No         Yes
+                       [ASTM] ASTM D4928
+
+                                                            Page 4 of 5
+TRIP: INTV007CRU-2010-0054                                                                                20E541479 VER 2 (ISSUED)
+
+                                                                                                               RO = Report Only          Req. = Required
+ Test                   Methods                                            Min      Max    UOM            Typical      R.O.       Req.     Comment
+ Sediment Con-          [ASTM] ASTM D4807, [ASTM] ASTM D473                                 %m                         No         Yes
+ tent
+
+Invoice Instructions:
+  Bill Invoice To                                                                         Item to Bill             Split      Contact / Comment
+ 4058 - EMSUS Exxon Mobil Sales And Supply LLC (Legal Entity: ExxonMobil Sales &          Quantity only            100%
+ Supply LLC (EMSS) (4058))
+                                                                                          Slate: *CRUDE            100%
+                                                                                          DISCHARGE
+                                                                                          Slate: *CRUDE            100%
+                                                                                          DISCHARGE
+                                                                                          Slate: *CRUDE            100%
+                                                                                          DISCHARGE
+ Esso S.A.F. (Societe Anonyme Francaise) - Esso France (Legal Entity: Esso S.A.F.         Slate: *Crude dis-       100%
+ (Societe Anonyme Francaise) - Esso France (0513))                                        charge sulphur
+
+
+NOMINATION COMMENTS
+Additional Comments:
+Activities provided by the Inspection Company under this nomination shall be performed in accordance
+with the ExxonMobil Global Inspection Contract (GIC), effective July 2014 to June 2019.
+
+Recipient List:
+intdesk.saynl@corelab.com; saybolt.novorossiysk@corelab.com; internationalcoordination@intertek.com; Operations.CBE-
+Novorossiysk@intertek.com; Maggie.Chapman@intertek.com
+intl-eu@exxonmobil.com; intl-insp-invoices@exxonmobil.com; europe.crudeops@exxonmobil.com; MATS.MTO@exxonmobil.com; supply-pjg-
+crude-optimisation@exxonmobil.com; ;amir.mohammed@exxonmobil.com; pierrick.charoy@exxonmobil.com; do-
+minique.c.tiffay@exxonmobil.com
+                                                                                                                            REPORT GENERATED 06 OCT 2020
+
+
+
+
+                                                             Page 5 of 5
+

@@ -1,0 +1,98 @@
+                                         VESSEL EXPERIENCE FACTOR REPORT N°
+VESSEL             : Overseas New York                                                                   MOVEMENT      : Load
+LOCATION           : ExxonMobil - Baytown, TX                                                            JOB COMPLETED : 04-SEP-2020
+PRODUCT            : MOGAS 87 OCT CBOB                                                                   REFERENCE N°  : 4995985-250
+
+             Date             Voyage      Location             Cargo                       Vessel        Shore       Ratio Qual. Rejection Reason
+                              Number                                                        Bbls          Bbls
+  Last       25-AUG-2020 428              ExxonMobil -           MOGAS 87 OCT CBOB         136,913     136,416     1.00364     N
+                                          Baytown, TX
+   2nd       05-JUL-2020                  Phillips 66 - West     ULSD | REGULAR CBOB |     320,223     320,223     1.00000         Vessel Measurement
+                                          Lake, LA               PREMIUM CBOB
+   3rd       26-JUN-2020 N/A              ExxonMobil -           MOGAS 93 OCT CBOB          49,712      50,153     0.99121     N
+                                          Baytown, TX
+   4th       14-JUN-2020                  Enterprise - Vidor, TX PREMIUM GASOLINE |        319,442     261,488     1.22163         Gross Error
+                                                                 S15 MV NO 2 DSL
+                                                                 RENEW FREE | REGULAR
+                                                                 GASOLINE
+   5th       27-MAY-2020                  Enterprise - Vidor, TX S15 MV NO 2 DSL           319,440     270,043     1.18292         Gross Error
+                                                                 RENEW FREE | MOGAS
+                                                                 87
+   6th       15-MAY-2020                  Phillips 66 - West     ULSD | REGULAR CBOB |     319,482     319,482     1.00000         Vessel Measurement
+                                          Lake, LA               PREMIUM CBOB
+   7th       27-APR-2020                  TEXAS CITY, TX         ULSD                      275,182     275,064     1.00043     Y
+   8th       05-MAR-2020 414              Norco, LA              REGULAR GASOLINE          232,546     232,220     1.00140     Y
+   9th       11-FEB-2020                  Phillips 66 - West     REGULAR CBOB |            325,068     324,730     1.00104         Active Tanks/Vessel
+                                          Lake, LA               PREMIUM CBOB
+  10th       03-JAN-2020 406              Phillips 66 - West     ULSD | REGULAR CBOB |     321,032     321,032     1.00000         Vessel Measurement
+                                          Lake, LA               PREMIUM CBOB
+  11th       23-DEC-2019                  Enterprise -           CBOB 87 - 10% ETOH |      320,494     321,353     0.99733     Y
+                                          Beaumont West, TX ULSD | CBOB 93 - 10%
+                                                                 ETOH
+  12th       14-DEC-2019                  Phillips 66 - West     ULSD | REGULAR CBOB |     322,105     322,105     1.00000         Vessel Measurement
+                                          Lake, LA               PREMIUM CBOB
+  13th       05-NOV-2019                  ExxonMobil -           MOGAS 93 OCT CBOB |       320,644     320,262     1.00119     Y
+                                          Baytown, TX            MOGAS 87 OCT CBOB
+  14th       16-OCT-2019 N/A              ExxonMobil -           MOGAS 93 OCT CBOB |       321,473     321,287     1.00058     Y
+                                          Baytown, TX            MOGAS 87 OCT CBOB
+  15th       10-SEP-2019 398              Enterprise -           CBOB 87 - 10% ETOH |      320,162     320,419     0.99920     Y
+                                          Beaumont West, TX CBOB 93 - 10% ETOH
+  16th       31-AUG-2019                  Enterprise - Vidor, TX CBOB 87 - 10% ETOH |      319,883     320,001     0.99963     Y
+                                                                 ULSD | CBOB 93 - 10%
+                                                                 ETOH
+  17th       10-AUG-2019 395              NORCO, LA              REGULAR GASOLINE          319,912     320,190     0.99913     Y
+  18th       01-AUG-2019                  Enterprise -           CBOB 87 | CBOB 93         319,902     320,051     0.99953     Y
+                                          Beaumont West
+
+
+Totals:           20 considered voyages (TCV Bbls )                                                         3,246,094        3,246,668
+
+                  10 qualifying voyages (TCV Bbls )                                                         3,059,469        3,060,099
+
+
+                                                                                                             All voyages Ratio:          0.99982
+                                                                                                     Qualifying Range (*1.003):          1.00282
+                                                                                                                      (*0.997):          0.99682
+N: Excluded (not in qualifying range)                                                      Vessel Experience Factor (LOAD) :             0.9998
+
+Calculated as per API Ch. 17.9 3rd Edition, 2019. Method: Primary
+Some figures were obtained from vessels records. We cannot certify their accuracy.
+
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: 832-982-2001
+Email: opsbaytown@camincargo.com
+                                                                             Page 1 of 2
+EXXM01-14 / 539317 / September 9, 2020
+             Date             Voyage     Location              Cargo                       Vessel        Shore       Ratio Qual. Rejection Reason
+                              Number                                                        Bbls          Bbls
+  19th       23-JUL-2019                 Shell - Convent, LA    CBOB 87 | ULSD | CBOB      274,759     274,759     1.00000         Vessel Measurement
+                                                                93
+  20th       05-JUL-2019 392             Enterprise - Vidor, TX CBOB 87 | ULSD | CBOB      309,271     309,252     1.00006     Y
+                                                                93
+
+
+
+
+Totals:           20 considered voyages (TCV Bbls )                                                         3,246,094        3,246,668
+
+                  10 qualifying voyages (TCV Bbls )                                                         3,059,469        3,060,099
+
+
+                                                                                                             All voyages Ratio:          0.99982
+                                                                                                     Qualifying Range (*1.003):          1.00282
+                                                                                                                      (*0.997):          0.99682
+N: Excluded (not in qualifying range)                                                      Vessel Experience Factor (LOAD) :             0.9998
+
+Calculated as per API Ch. 17.9 3rd Edition, 2019. Method: Primary
+Some figures were obtained from vessels records. We cannot certify their accuracy.
+
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: 832-982-2001
+Email: opsbaytown@camincargo.com
+                                                                             Page 2 of 2
+EXXM01-14 / 539317 / September 9, 2020
+

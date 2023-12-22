@@ -1,0 +1,23 @@
+Product:              Aromatic Concentrate                                           Terminal:                ExxonMobil
+Subject:              Report of Discharge                                            Port:                    Baton Rouge, Louisiana
+EMCC Ref. #: 5380303                                                                 File Number:             102333
+
+                                                 GAUGE HEIGHT REPORT
+                                             Barge Name:                            Kirby 28059
+    Tank No.            Observed Gauge Height Open                           Reference Gauge Height             Observed Gauge Height Close
+           1P                      16' 05 1/4''                                      16' 05 1/2''                           16' 05 1/4''
+           1S                        16' 05''                                        16' 05 1/4''                             16' 05''
+           2P                        16' 05''                                        16' 05 1/4''                             16' 05''
+           2S                        16' 05''                                        16' 05 1/4''                             16' 05''
+           3P                      16' 04 3/4''                                        16' 05''                             16' 04 3/4''
+           3S                        16' 05''                                        16' 05 1/4''                             16' 05''
+
+
+
+
+                                    ANCILLARY TANK MEASUREMENTS
+                       Tank No.                        Observed Arrival Measurement                 Observed Departure Measurement
+                        FWD                                               00' 00"                              00' 00"
+                         AFT                                              00' 00"                              00' 00"
+                        PORT                                              00' 00"                              00' 00"
+                         STB                                              00' 00"                              00' 00"

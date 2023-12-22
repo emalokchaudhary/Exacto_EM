@@ -1,0 +1,35 @@
+Product:              Benzene                                                    Terminal:          Motiva
+Subject:              Report of Discharge                                        Port:              Port Neches, Texas
+ExxonMobil Ref. #: USEBARGARO-2008-066                                           File Number:       BT11076
+                              2130
+                                                      TIME LOG OF EVENTS
+August 24, 2020           2230             hrs.       Barge(s) Tendered
+August 31, 2020           1645             hrs.       Surveyor notified
+August 31, 2020           1725             hrs.       Surveyor arrived at terminal
+August 31, 2020           1730             hrs.       Barge(s) arrived
+August 31, 2020           1745             hrs.       Barge(s) docked
+August 31, 2020           1750             hrs.       Commenced arrival barge inspection
+August 31, 2020           1800             hrs.       Cargo hose(s) connected
+August 31, 2020           1815             hrs.       Completed arrival barge inspection
+August 31, 2020           1900             hrs.       Commenced transfer
+September 1, 2020         0635             hrs.       Surveyor notified
+September 1, 2020         0710             hrs.       Surveyor arrived at terminal
+September 1, 2020         0800             hrs.       Completed transfer
+September 1, 2020         0800             hrs.       Commenced departure barge inspection
+September 1, 2020         0810             hrs.       Completed departure barge inspection
+September 1, 2020         0815             hrs.       Barge(s) released to terminal
+September 1, 2020         0825             hrs.       Cargo hose(s) disconnected
+
+
+
+
+Delays:                                                                       Date           Time   Date        Time             Duration
+                                                                                                                                   00:00
+                                                                                                                                   00:00
+                                                                                                                                   00:00
+                                                                                                                                   00:00
+                                                                                                                                   00:00
+                                                                                                                                   00:00
+
+Coastal Gulf & International, Inc.
+Eddie Parker

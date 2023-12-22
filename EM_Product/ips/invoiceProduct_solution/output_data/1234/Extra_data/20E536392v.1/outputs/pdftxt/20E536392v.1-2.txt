@@ -1,0 +1,66 @@
+CLEANED !!!
+TRIP: INTV004CRU-2009-0035                                                                              20E536392 VER 1 (ISSUED)
+
+Quality Inspection Instructions:
+SET 1
+    Description: in-line sampler or Shore Tank tank composite
+Sample Location: Shore In-Line Sample   Shore Tank (U-M-L) Composite
+
+                                                                                                           RO = Report Only          Req. = Required
+ Test              Methods                                               Min       Max       UOM         Typical     R.O.     Req.     Comment
+ API Gravity at    [ASTM] ASTM D5002, [ASTM] ASTM D1298                                      API@60 F                No       Yes
+ 60 F
+ Sediment Con-     [ASTM] ASTM D473, [ASTM] ASTM D4807                                       mg/l                    No       Yes
+ tent
+ Water             [ASTM] ASTM D4928, [ASTM] ASTM D4006, [ASTM]                              mg/kg                   No       Yes
+                   ASTM D4377
+
+SET 2
+    Description:
+Sample Location: Vessel/Barge Composite
+
+                                                                                                           RO = Report Only          Req. = Required
+ Test              Methods                                               Min       Max       UOM         Typical     R.O.     Req.     Comment
+ API Gravity at    [ASTM] ASTM D5002, [ASTM] ASTM D1298                                      API@60 F                No       Yes
+ 60 F
+ Water             [ASTM] ASTM D4377, [ASTM] ASTM D4006, [ASTM]                              mg/kg                   No       Yes
+                   ASTM D4928
+ Sediment Con-     [ASTM] ASTM D4807, [ASTM] ASTM D473                                       mg/l                    No       Yes
+ tent
+
+Invoice Instructions:
+  Bill Invoice To                                                            Item to Bill                          Split    Contact / Comment
+ ExxonMobil Sales & Supply LLC (EMSS) (Legal Entity: ExxonMobil Sales        Quantity only                         50%
+ & Supply LLC (EMSS) (4058))
+                                                                             Slate: USG Export Crude -             50%
+                                                                             Load Shore Sample
+                                                                             Slate: USG Crude Export -             50%
+                                                                             Load Vessel Composite
+ 3862 - ExxonMobil Oil Corporation (Legal Entity: ExxonMobil Oil Corp.       Quantity only                         50%
+ (EMOC) - Mktg & Ref U.S. Gen Ledger (3862))
+                                                                             Slate: USG Export Crude -             50%
+                                                                             Load Shore Sample
+                                                                             Slate: USG Crude Export -             50%
+                                                                             Load Vessel Composite
+
+
+NOMINATION COMMENTS
+Inspection Appointment:
+Sampling temporarily canceled! Please don't take or mail this sample
+
+Please take sample at loadport as instructed in attachment and send it to:
+
+Please notify beverly.collins@exxonmobil.com the           when sample has been sent
+
+ExxonMobil Research & Engineering Company
+Attn: Matthew D. McKinney
+Clinton EMPR, LAB CPD133
+1545 Route 22 East
+Annandale, NJ 08801
+USA
+
+
+
+
+                                                               Page 2 of 3
+ 

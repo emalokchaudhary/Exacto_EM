@@ -1,0 +1,28 @@
+
+2022-01-27 13:25:30,775:__main__:
+Filename: 472258.pdf. Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 547, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/bc251ca7/hellotable/472258/outputs/Table_txt'
+
+2022-01-27 13:35:49,211:__main__:
+Filename: 472258.pdf. Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 547, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/bc251ca7/hellotable/472258/outputs/Table_txt'
+
+2022-01-27 13:45:10,449:__main__:
+Filename: 472258.pdf. Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 547, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/bc251ca7/hellotable/472258/outputs/Table_txt'
+
+2022-01-27 13:52:05,292:__main__:
+Filename: Test125_041000112_ CCC Loan Schedule (1).pdf. Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 548, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/bc251ca7/hellotable/Test125_041000112_ CCC Loan Schedule (1).pdf/outputs/Table_txt'

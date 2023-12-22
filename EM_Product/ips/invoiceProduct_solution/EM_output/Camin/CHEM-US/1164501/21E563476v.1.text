@@ -1,0 +1,258 @@
+TRIP: USEBARGARO-2103-028                                                               21E563476 VER 1 (ISSUED)
+
+Parcel Summary
+Transport       Location     Activity    Grade     Quantity   ETA    Supply Contract Window   Inspector   Inspection Requirements
+ FMT6001        BEAUMONT     Load        BENZENE   19,000     11     n/a                      Camin       Quality / Quantity / Time
+ (VS00060903)   REFINERY,                VL BULK   Barrels    Mar                             Cargo       log
+                TX (United                                    2021                            Control
+                States)                                                                       Inc.
+ FMT6001        PORT         Discharge   BENZENE   19,000     12     n/a                      COASTAL     Quantity / Time log
+ (VS00060903)   NECHES,                  VL BULK   Barrels    Mar                             GULF
+                TX - MOTI-                                    2021
+                VA (United
+                States)
+
+
+
+
+                                                      Page 1 of 5
+TRIP: USEBARGARO-2103-028                                                                   21E563476 VER 1 (ISSUED)
+
+ Region: Americas                                                        Other Reference:
+Operator: CLARISSA NARINE (clarissa.i.narine@exxonmobil.com)              Business Group: CHEMICAL: AM AROMATICS
+  Phone:                                                                            Desk: CHEM AM S&OP AROMATICS
+ Mobile:                                                                 Nomination Type: Marine
+
+Documentary Instructions: n/a
+
+
+ LOAD: FMT6001 (VS00060903) - BEAUMONT REFINERY, TX (UNITED STATES)
+                                       Inspector: Camin Cargo Control Inc.             Inspection Status:   Accepted
+                                             Hub: Camin Cargo Control - Head Office -        Created On:    08 Mar 2021 by
+                                                  U.S.                                                      Clarissa Narine
+                                    Coordinator: Stephanie Lehto                           Last Modified:   08 Mar 2021 by Ash-
+                                                  (navarik_coordinator@camincargo.com)                      ley Bailey
+                                    Local Office: Port Arthur, TX
+                                                  (opsparthur@camincargo.com)
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5340338-10
+                                           Grade: BENZENE VL BULK                       Contract Number:
+                                             ETA: 11 Mar 2021                                 Parcel Ref:
+                                             ETD:                                            Destination:
+                  Supply Contract Window Start: n/a                                     Source Location:
+                   Supply Contract Window End: n/a                                              Supplier:
+                      Total Nominated Quantity: 19,000 Barrels                                  Receiver:
+Transport / Voyage Number / Quantity / Tolerance: FMT6001 (VS00060903) / 19,000 Bar-     Delivery Terms:    DAP (Delivered at
+                                                  rels min/max                                              Place)
+                                                                                          Mother Vessel:
+
+Email Quantity Results To:
+clarissa.i.narine@exxonmobil.com;
+carolina.enright@exxonmobil.com;
+aimee.l.duke@exxonmobil.com;
+nicole.e.pfeiffer@exxonmobil.com;
+pmichem.babsc3@exxonmobil.com;
+esteban.melonaro@exxonmobil.com;
+BMCP.PMI.CHEM.IS@exxonmobil.com;
+mats.mto-fairfax@exxonmobil.com;
+emcc.oa.survey.reports@exxonmobil.com;
+ds-srm-inspection-reports-mailbox@exxonmobil.com;
+Sofia.delaTorre@motiva.com
+
+Load / Discharge Instructions:
+CUSTOMER: MOTIVA
+
+Measurement for invoicing - Static Shore tank at DISCHARGE if available otherwise static load shore
+msmt.
+?
+**This is a sale**
+Plant: USID
+Cost Center: C023210734
+Material: 5006387
+?
+Lay time: 12 hours
+Demurrage: ~$1200 pdpr
+?
+EMCC will not accept marine provisions outside of the contract terms such as the Public Terminal Clause.
+
+Bill Invoice to:
+Quality final barge comp will be completed by Beaumont Lab.
+
+"Pre-loading inspections are required and shall be performed by the inspection companies per API 17.8
+Manual of Petroleum Measurement Standards"
+
+Inspections must utilize Global Inspection Contract Rates (July 2019 - June 2026).
+
+
+                                                        Page 2 of 5
+TRIP: USEBARGARO-2103-028                                                                 21E563476 VER 1 (ISSUED)
+
+
+Inspection invoices are to be submitted into Navarik if nomination received via Navarik or by email to
+PMI.Chemicals.Inspection.Invoices@exxonmobil.com if nomination received via Outlook. Invoices submitted
+via Outlook must reference a valid EMCC Nomination Key.
+
+Acceptance of inspection invoices submitted via Ariba, Basware, and the below mentioned shared mailboxes
+will be discontinued as of 22nd of July 2019. Please do not use these channels for submission:
+emcc.oa.invoices@exxonmobil.com
+emcc.int&syn.inspection.invoices@exxonmobil.com
+intermed.invoices@exxonmobil.com
+
+Show ExxonMobil Nomination Key and customer PO# on all subject line of emails and inspection reports.
+
+Quality Inspection Instructions:
+SET 1
+            Description: 2 FOOT SAMPLE
+       Sample Location: Vessel First Foot
+Quality Test Comments:
+For AC/PyGas barges with Toluene, Raffinate, Benzene, AC, or PyGas as prior cargo:
+No need to take 2 foot sample.
+
+For AC/PyGas with different prior cargo than mentioned above:
+Take 7 samples in quart-sized containers.
+Send 6 samples to site lab.
+Seal last sample and retain in inspector's lab.
+
+
+For all other products:
+Take 5 samples in quart-sized containers.
+Send 4 samples to site lab.
+Seal last sample and retain in inspector's lab.
+
+
+
+
+                                                                                               RO = Report Only     Req. = Required
+ Test                              Methods       Min      Max        UOM        Typical   R.O.         Req.       Comment
+ Retain sample -90 days            [OTHER] n/a                                            No           Yes
+
+SET 2
+            Description: FINAL COMPOSITE
+       Sample Location: Vessel/Barge Composite
+Quality Test Comments:
+For all tanks:
+
+
+For AC:
+Take 6 quart-sized samples and send to site lab.
+Take one sample per tank, seal them, and retain in inspector's lab.
+
+
+For all other products:
+Take 4 quart-sized samples and send to site lab.
+Take one sample (three samples for PyGas) per tank, seal them, and retain in inspector's lab.
+
+
+
+
+                                                                                               RO = Report Only     Req. = Required
+ Test                              Methods       Min      Max        UOM        Typical   R.O.         Req.       Comment
+ Retain sample -90 days            [OTHER] n/a                                            No           Yes
+
+Invoice Instructions:
+  Bill Invoice To                                                          Item to Bill            Split      Contact / Comment
+
+
+                                                       Page 3 of 5
+TRIP: USEBARGARO-2103-028                                                                    21E563476 VER 1 (ISSUED)
+
+ 0102 ExxonMobil Chemical Company - U.S. (Div ExxonMobil Chemical Co) (Le-   Quantity only         100%
+ gal Entity: 0102 EM Chemical America (0102))
+                                                                             Slate: CHEM-AM-ARO-   100%
+                                                                             BM barge 2ft
+                                                                             Slate: CHEM-AM-ARO-   100%
+                                                                             BM barge final
+
+ DISCHARGE: FMT6001 (VS00060903) - PORT NECHES, TX - MOTIVA (UNITED STATES)
+                                       Inspector: COASTAL GULF                       Inspection Status: Accepted
+                                             Hub: Coastal Gulf - Beaumont                  Created On: 08 Mar 2021 by Claris-
+                                                                                                        sa Narine
+                                    Coordinator: Beaumont Operations (por-               Last Modified: 08 Mar 2021 by Ashley
+                                                  tarthur@coastalgulf.com)                              Bailey
+                                    Local Office:
+                                     INSPECTION REQUIREMENTS: QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5340338-20
+                                           Grade: BENZENE VL BULK                     Contract Number:
+                                             ETA: 12 Mar 2021                               Parcel Ref:
+                                             ETD:                                          Destination:
+                  Supply Contract Window Start: n/a                                   Source Location:
+                   Supply Contract Window End: n/a                                            Supplier:
+                      Total Nominated Quantity: 19,000 Barrels                                Receiver:
+Transport / Voyage Number / Quantity / Tolerance: FMT6001 (VS00060903) / 19,000 Bar-   Delivery Terms:
+                                                  rels +/- 5 pct
+                                                                                        Mother Vessel:
+
+Email Quantity Results To:
+clarissa.i.narine@exxonmobil.com;
+carolina.enright@exxonmobil.com;
+aimee.l.duke@exxonmobil.com;
+nicole.e.pfeiffer@exxonmobil.com;
+pmichem.babsc3@exxonmobil.com;
+fiorella.gristelli@exxonmobil.com;
+BMCP.PMI.CHEM.IS@exxonmobil.com;
+mats.mto-fairfax@exxonmobil.com;
+emcc.oa.survey.reports@exxonmobil.com;
+ds-srm-inspection-reports-mailbox@exxonmobil.com;
+Sofia.delaTorre@motiva.com
+
+Load / Discharge Instructions:
+Measurement for invoicing - Static Shore tank at DISCHARGE if available otherwise static load shore
+msmt.
+
+**This is a sale**
+Plant: USID
+Cost Center: C023210734
+Material: 5006387
+
+Lay time: 12 hours
+Demurrage: ~$1200 pdpr
+
+EMCC will not accept marine provisions outside of the contract terms such as the Public Terminal Clause.
+
+Bill Invoice to:
+Quality final barge comp will be completed by Beaumont Lab.
+
+"Pre-loading inspections are required and shall be performed by the inspection companies per API 17.8
+Manual of Petroleum Measurement Standards"
+
+Inspections must utilize Global Inspection Contract Rates (July 2019 - June 2026).
+
+Inspection invoices are to be submitted into Navarik if nomination received via Navarik or by email to
+PMI.Chemicals.Inspection.Invoices@exxonmobil.com if nomination received via Outlook. Invoices submitted
+via Outlook must reference a valid EMCC Nomination Key.
+
+
+                                                          Page 4 of 5
+TRIP: USEBARGARO-2103-028                                                                           21E563476 VER 1 (ISSUED)
+
+Acceptance of inspection invoices submitted via Ariba, Basware, and the below mentioned shared mailboxes
+will be discontinued as of 22nd of July 2019. Please do not use these channels for submission:
+emcc.oa.invoices@exxonmobil.com
+emcc.int&syn.inspection.invoices@exxonmobil.com
+intermed.invoices@exxonmobil.com
+
+Show ExxonMobil Nomination Key and customer PO# on all subject line of emails and inspection reports.
+
+Invoice Instructions:
+  Bill Invoice To                                                           Item to Bill    Split   Contact / Comment
+ 0102 ExxonMobil Chemical Company - U.S. (Div ExxonMobil Chemical Co)       Quantity        50%     Quantity at Discharge (SHORE
+ (Legal Entity: 0102 EM Chemical America (0102))                            only                    TANKS AT DISCHARGE)
+ MOTIVA ENTERPRISES LLC                                                     Quantity        50%     Quantity at Discharge (SHORE
+                                                                            only                    TANKS AT DISCHARGE)
+
+Recipient List:
+navarik_coordinator@camincargo.com; opsparthur@camincargo.com; portarthur@coastalgulf.com
+aimee.l.duke@exxomobil.com;
+nicole.e.pfeiffer@exxonmobil.com;
+mats.mto-fairfax@exxonmobil.com;
+Fernando.lee@exxonmobil.com;
+pmichem.babsc3@exxonmobil.com;
+esteban.melonaro@exxonmobil.com;
+clarissa.i.narine@exxonmobil.com;
+                                                                                                                REPORT GENERATED 08 MAR 2021
+
+
+
+
+                                                          Page 5 of 5
+

@@ -1,0 +1,279 @@
+
+2022-03-09 06:15:18,561:__main__:
+Filename: Rechnung 1147292.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2022-03-09 06:15:24,458:__main__:
+Filename: Rechnung 1147292.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2022-03-09 06:15:24,458:__main__:
+Filename: Rechnung 1147292.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2022-03-09 06:21:17,431:__main__:
+Filename: Rechnung 1147292.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2022-03-09 06:21:17,431:__main__:
+Filename: Rechnung 1147292.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2022-03-09 06:21:17,431:__main__:
+Filename: Rechnung 1147292.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2022-03-09 06:21:32,848:__main__:
+Filename: Rechnung 1147292.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2022-03-09 06:21:32,848:__main__:
+Filename: Rechnung 1147292.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2022-03-09 06:21:32,848:__main__:
+Filename: Rechnung 1147292.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2022-03-09 06:21:32,848:__main__:
+Filename: Rechnung 1147292.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2022-03-09 06:22:51,443:__main__:
+Filename: Rechnung 1147292.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2022-03-09 06:23:10,289:__main__:
+Filename: Rechnung 1147292.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2022-03-09 06:29:56,325:__main__:
+Filename: Receipt_2022-03-02_163454.pdf. Error occurred in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 332, in digitize_main
+    for page_no in range(pdf_reader.numPages):
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/PyPDF2/pdf.py", line 1158, in <lambda>
+    numPages = property(lambda self: self.getNumPages(), None, None)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/PyPDF2/pdf.py", line 1155, in getNumPages
+    self._flatten()
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/PyPDF2/pdf.py", line 1505, in _flatten
+    catalog = self.trailer["/Root"].getObject()
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/PyPDF2/generic.py", line 516, in __getitem__
+    return dict.__getitem__(self, key).getObject()
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/PyPDF2/generic.py", line 178, in getObject
+    return self.pdf.getObject(self).getObject()
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/PyPDF2/pdf.py", line 1604, in getObject
+    % (indirectReference.idnum, indirectReference.generation, idnum, generation))
+PyPDF2.utils.PdfReadError: Expected object ID (5 0) does not match actual (4 0); xref table not zero-indexed.
+
+2022-03-09 06:34:41,099:__main__:
+Filename: Rechnung 1147475.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2022-03-09 06:35:04,943:__main__:
+Filename: Rechnung 1147292.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2022-03-09 06:35:06,369:__main__:
+Filename: Rechnung 1147475.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2022-03-09 06:35:06,369:__main__:
+Filename: Rechnung 1147475.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2022-03-09 06:35:26,462:__main__:
+Filename: REC71241 acceptIT GmbH csc 010521.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2022-03-09 06:35:26,462:__main__:
+Filename: REC71241 acceptIT GmbH csc 010521.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2022-03-09 06:37:37,155:__main__:
+Filename: Rechnung 1147475.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2022-03-09 06:37:37,667:__main__:
+Filename: REC71241 acceptIT GmbH csc 010521.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType

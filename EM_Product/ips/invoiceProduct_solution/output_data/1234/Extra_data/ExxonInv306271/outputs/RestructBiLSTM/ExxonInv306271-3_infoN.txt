@@ -1,0 +1,69 @@
+TRIP: 2021-ITC-BPAL-EHC-09                                                                        21E567437 VER 1 (ISSUED)
+
+ Region: Americas                                                                           Other Reference:
+Operator: ANDREW HOVERSON (andrew.r.hoverson@exxonmobil.com)                                 Business Group: B&S AMERICAS
+  Phone: 18326243028                                                                                   Desk:
+ Mobile:                                                                                    Nomination Type: Marine
+
+Documentary Instructions:
+
+Post-Loading Inspection Reports to be completed within 48 hours, unless extension agreed.
+Please ensure Voyage ID numbers are used in all correspondence (email subject headings and emails). Omission of Voyage ID numbers can
+lead to delays in verification and payment of invoices.
+
+
+
+
+ LOAD: CBC55 (VS00023106) - DEER PARK, TX - ITC TERMINAL (UNITED STATES)
+                                   Inspector: COASTAL GULF                             Inspection Status: Pending
+                                        Hub: COASTAL GULF - Head Office                      Created On: 03 Apr 2021 by Andrew
+                                                                                                          Hoverson
+                                    Coordinator: Astin Hamilton (ahamil-                   Last Modified: 03 Apr 2021 by Andrew
+                                                  ton@coastalgulf.com)                                    Hoverson
+                                    Local Office:
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5343656-30
+                                           Grade: EHC 45 BULK.STOCK 6802 CD       Contract Number:
+                                             ETA: 03 Apr 2021                           Parcel Ref:
+                                             ETD:                                      Destination:
+                  Supply Contract Window Start: n/a                               Source Location:
+                   Supply Contract Window End: n/a                                        Supplier:
+                      Total Nominated Quantity: 3,095 Barrels                             Receiver:
+Transport / Voyage Number / Quantity / Tolerance: CBC55 (VS00023106) / 3,095 Bar-  Delivery Terms:
+                                                  rels
+                                                                                    Mother Vessel:
+
+Email Quantity Results To:
+Intl-st-confirmation-ffx@exxonmobil.com; Product.control@exxonmobil.com
+
+Email Quality Results To:
+Intl-st-confirmation-ffx@exxonmobil.com; Product.control@exxonmobil.com
+
+Load / Discharge Instructions:
+BP PO: 4800908520
+Please reference BP's PO on load inspection documentation.
+
+Please call the inspection company when the barge/vessel arrives.
+
+NOTE: Loaded quantities not to exceed nominated quantities.
+Note: Ship-shore tolerance is 0.5%. Inspectors must investigate or note discrepancies found and report
+findings. A letter of protest must also be presented for both
+ship/shore discrepancies > 0.5%.
+Special Instructions:
+--Owner is to communicate immediately via phone and email any errors in this voyage order.
+--Owner is to confirm prior cargo and cleaning directions.
+--Owner is to acknowledge voyage order received and understood via email return of this voyage order.
+--Please provide an ROB report within 24hrs of movement if ROB is greater than 0.5% of loaded volume.
+
+The cargo(es) listed above may contain different levels of H2S, including levels that could result in
+serious injury or death. Vessel operator should take the appropriate
+precautions to protect their crews from exposure to H2S. Information about H2S levels should be dis-
+cussed with the terminal operator before loading. MSDS and shore
+tank specific H2S information should be obtained during the pre-transfer conference.
+
+Agent Details:
+
+
+
+                                                           Page 2 of 7
+

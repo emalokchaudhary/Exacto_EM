@@ -1,0 +1,638 @@
+ExxonMobil Oil Corporation
+Products - EM Baton Rouge
+Ste. 6137
+Spring,
+
+Attention                  : Martin Schnell
+                                                                        Contents
+MOVEMENT                   : Load                                        Voyage Analysis Report
+                                                                         Shore Tank Quantity
+VESSEL                     : WEB - 276 & 277                             Vessel Quantity Report
+LOCATION                   : ExxonMobil - Baton Rouge, LA                Line Displacement
+                                                                         Timelog
+File N°                    : GON-10539                                   LOP/NAD
+DATE                       : 05/30/2021 - 06/02/2021                     Analytical Report
+REFERENCE N°               : 5497348-10
+
+
+Dear Client,
+
+Please find attached our Inspection Report No. GON-10539 corresponding to the Load operation of the
+captioned vessel, at place and date(s) shown above. The complete report is composed of individual field
+reports, which we believe are self-explanatory.
+
+
+We trust that this report supplies the proper input needed so that we comply with your requirements. Should
+there be any points that need further clarification, please do not hesitate to contact us.
+
+
+
+
+All Camin Cargo Control measurement devices and methods used for quantity and quality determination meet
+the pertinent requirements of 40 CFR 98.3 et. seq. (Greenhouse Gas Mandatory Reporting Rule)
+
+
+
+
+                                                                     Yours Sincerely,
+
+                                                                     Camin Cargo Control
+                                                                     2137 S. Phillipe Ave. Gonzales, LA 70737
+                                                                     Phone: 225-307-0900
+                                                                     OpsGonzales@camincargo.com
+ EXXM17-14 / 577989                                                  www.camincargo.com
+
+
+
+
+                                                   Page 1 of 12
+                                          VOYAGE ANALYSIS REPORT N° GON-10539
+VESSEL                 : WEB - 276 & 277                                                                                 MOVEMENT               : Load
+LOCATION               : ExxonMobil - Baton Rouge, LA                                                                    JOB COMPLETED          : 31-MAY-2021
+PRODUCT                : SC TAR                                                                                          REFERENCE N°           : 5497348-10
+
+                          Port                                                                                     VCF   Voyage#                  Gauge Date
+LOAD                     : ExxonMobil - Baton Rouge, LA                                                            6B                             31-MAY-2021
+DISCHARGE
+Barrels @ 60 °F                      API @ 60 °F                     TCV                   FW                  GSV                 S&W                  NSV          Reference
+I. SHORE/SHORE COMPARISON-NOT AVAILABLE
+1.   Loading Quantity                         2.5            32,198.33                    0.00             32,198.33                  0.00          32,198.33
+2.   Outturn
+3.   Difference                                                                                                                                                      (2-1)
+4.   Difference %                                                                                                                                                    (3/1*100)
+     Adjusted TCV Difference                                                                                                                                         (3-b+l)
+
+
+II. VESSEL/SHORE COMPARISON AT LOADPORT
+a.   After Loading                                           31,289.69                    0.00             31,289.69                  Liquid            Non-Liquid
+b.   OBQ                                                        952.01                    0.00                952.01                952.01                0.00
+
+c.   Vessel Received                                         30,337.68                    0.00             30,337.68                                                 (a-b)
+d.   Difference                                              -1,860.65                    0.00             -1,860.65                                                 (c-1)
+e.   Difference %                                                -5.78                                         -5.78                                                 (d/1*100)
+f.   Load Ratio                                                      0.94221
+                                                                                                                                                                     (c/1)
+g.   VEF
+h.   Theoretical Shore                                                                                                                                               (c/g)
+i.   Theoretical Shore Diff.                                                                                                                                         (h-1)
+j.   Theoretical Shore Diff. %                                                                                                                                       (i/1*100)
+III. VESSEL/SHORE COMPARISON AT DISPORT-NOT AVAILABLE
+k.   Before Discharge                                                                                                                 Liquid            Non-Liquid
+l.   ROB
+m. Vessel Delivered                                                                                                                                                  (k-l)
+n.   Difference                                                                                                                                                      (2-m)
+o.   Difference %                                                                                                                                                    (n/2*100)
+p.   Discharge Ratio                                                                                                                                                 (m/2)
+q.   VEF
+r.   Theoretical Shore                                                                                                                                               (m/q)
+s.   Theoretical Shore Diff.                                                                                                                                         (2-r)
+t.   Theoretical Shore Diff. %                                                                                                                                       (s/2*100)
+IV. VESSEL IN TRANSIT COMPARISON-NOT AVAILABLE
+u.   In-Transit Diff.                                                                                                                                                (k-a)
+v.   In-Transit Diff. %                                                                                                               Liquid            Non-Liquid (u/a*100)
+w. OBQ/ROB Difference                                                                                                                                                (b-l)
+                          Adjusted TCV Difference                                                S&W at Loadport    0.000 %        S&W at Disport ---
+There are an insufficient number of voyages to compute a Load VEF.
+
+
+
+
+Calculated as per Chapter 17.5
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+2137 S. Phillipe Ave.
+Gonzales, LA 70737
+Office Phone: 225-307-0900
+Email: OpsGonzales@camincargo.com
+
+EXXM17-14 / 577989 / June 3, 2021
+                                                                                     Page 2 of 12
+                                               QUANTITY CERTIFICATE N° GON- 10539
+                                                                             Based on Shore Measurements
+VESSEL                 : WEB - 276 & 277                                                                                             MOVEMENT      : Load
+LOCATION               : ExxonMobil - Baton Rouge, LA                                                                                JOB COMPLETED : 31-MAY-2021
+PRODUCT                : SC TAR                                                                                                      REFERENCE N° : 5497348-10
+
+
+                                     Water         Water                     Roof                       Amb.                                                                    S&W
+         Gauge          TOV                                     CTSh                       GOV                       Temp.     API       VCF          GSV           S&W                          NSV
+                                     Gauge          Vol.                     Corr.                      Temp                                                                     Vol.
+Tank: 179                                          Ref. Gauge Ht: 36-04 01/08                          Gauge Date Open: 30-May 14:00                   Gauge Date Close: 31-May 03:45
+      Ft-In (Inn.)      Bbls         Ft-In           Bbls       Factor       Bbls          Bbls           °F          °F      @ 60°F      6B       Bbls @ 60°F      %          @ 60°F         Bbls @ 60°F
+ O     30-04 07/08      57,474.08            ---        Nil     0.99958              ---   57,449.94       81.0       132.2    2.5 (T)   0.97459      55,990.14         ---             ---      55,990.14
+ C     12-06 03/08      24,313.78            ---        Nil     0.99950              ---   24,301.62       67.0       128.1    2.5 (T)   0.97604      23,719.36         ---             ---      23,719.36
+                        33,160.30                           0                              33,148.32                                                  32,270.78                                  32,270.78
+Obs. Gauge Ht(O): 36-04 01/08                      OGH vs RGH (O): 0-0 0/0                             Line:                                          Bbls -72.45
+
+Obs. Gauge Ht(C): 36-04 01/08                      OGH vs RGH (C): 0-0 0/0                             Adjustment:                                            ---
+
+S=Submitted / C=Calculated / T=Tested by CCC / W=Tested by Terminal/Refinery & Witnessed by CCC
+Totals computed using appropriate tables corresponding to Delivered API.
+
+
+                                                                         SC TAR - TOTAL QUANTITIES - DELIVERED
+TCV, Barrels @ 60 °F                         32,198.33               S&W             ---
+Free Water Barrels                                0.00                        ---
+                                              GSV                            NSV                                                                     GSW                           NSW
+Barrels @ 60 °F                               32,198.33                     32,198.33             Long Tons - Air                                    5,309.788                     5,309.788
+Gallons @ 60 °F                         1,352,329.86                     1,352,329.86             Metric Tons - Air                                  5,394.994                     5,394.994
+API Gravity @ 60 °F (T)                                2.5                                        Short Tons - Air                                   5,946.963                     5,946.963
+Lb/Gal @ 60 °F                               8.795136869                                          Kilograms - Air                               5,394,994.0                   5,394,994.0
+                                                                                                  Pounds - Air                                 11,893,926.0                   11,893,926.0
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 2137 S. Phillipe Ave.
+ Gonzales, LA 70737
+ Office Phone: 225-307-0900
+ Email: OpsGonzales@camincargo.com
+
+ EXXM17-14 / 577989 / June 3, 2021                                                           Page 3 of 12
+                                              VESSEL QUANTITY REPORT N° GON-10539
+VESSEL                 : WEB - 276                                                                         MOVEMENT      : Load
+LOCATION               : ExxonMobil - Baton Rouge, LA                                                      JOB COMPLETED : 31-MAY-2021
+PRODUCT                : SC TAR                                                                            REFERENCE N° : 5497348-10
+Comp. Chart RH                 Phy GH          Gauge          TOV       Water             Water          Temp.      VCF    GSV @ 60 °F
+No      Ft-In                    Ft-In         Ft-In          Bbls      Gauge              Bbls            °F        6B         Bbls
+01P      15-05    00/00    15-03     01/02   15-03    00/00    42.70      ----             Nil            60.0   1.00000         42.70
+01S      15-04    03/04    15-03     01/02   15-03    00/00    38.65      ----             Nil            60.0   1.00000         38.65
+02P      15-05    00/00    15-03     01/04   15-02    01/04    75.68      ----             Nil            60.0   1.00000         75.68
+02S      15-05    00/00    15-03     01/04   15-02    01/04    75.68      ----             Nil            60.0   1.00000         75.68
+03P      15-05    00/00    15-03     00/00   15-00    01/04   132.06      ----             Nil            60.0   1.00000        132.06
+03S      15-05    00/00    15-02     01/02   14-11    03/04   146.56      ----             Nil            60.0   1.00000        146.56
+                                                              511.33                        Nil           60.0                  511.33
+
+
+
+Draft (Ft-in)        Fwd (P)                  Fwd (S)         Aft (P)      Aft (S)                Trim           List
+Before               02-00                    02-00           02-00        02-00                  00-00 00/00    0.00
+Note:
+No Trim Correction was applied.
+
+
+VESSEL QUANTITIES                            ARRIVAL
+TCV, Barrels @ 60 °F                           511.33
+Free Water Barrels                               0.00
+                                                  GSV
+Barrels @ 60 °F                                 511.33
+Gallons @ 60 °F                              21,475.86
+API Gravity @ 60 °F                               2.5(T)
+Lb/Gal @ 60 °F                                  8.795136869
+
+
+
+
+ 2137 S. Phillipe Ave.
+ Gonzales, LA 70737
+ Office Phone: 225-307-0900
+ Email: OpsGonzales@camincargo.com
+
+ EXXM17-14 / 577989 / June 3, 2021
+                                                                           Page 4 of 12
+                                               VESSEL QUANTITY REPORT N° GON-10539
+VESSEL                 : WEB - 276                                                                                        MOVEMENT      : Load
+LOCATION               : ExxonMobil - Baton Rouge, LA                                                                     JOB COMPLETED : 31-MAY-2021
+PRODUCT                : SC TAR                                                                                           REFERENCE N° : 5497348-10
+Comp. Chart RH                 Phy GH           Gauge            TOV            Water               Water              Temp.          VCF    GSV @ 60 °F
+No      Ft-In                    Ft-In          Ft-In            Bbls           Gauge                Bbls                °F            6B         Bbls
+01P      15-05    00/00    15-05     00/00    06-11    00/00    2,944.25             ----              Nil              121.2      0.97848      2,880.89
+01S      15-04    03/04    15-04     03/04    07-00    01/04    2,903.71             ----              Nil              121.1      0.97852      2,841.34
+02P      15-05    00/00    15-05     00/00    08-00    03/04    2,590.16             ----              Nil              120.8      0.97862      2,534.78
+02S      15-05    00/00    15-05     00/00    08-02    03/04    2,547.16             ----              Nil              120.2      0.97884      2,493.26
+03P      15-05    00/00    15-05     00/00    07-10    01/04    2,644.36             ----              Nil              121.1      0.97852      2,587.56
+03S      15-05    00/00    15-05     00/00    07-10    00/00    2,670.79             ----              Nil              120.9      0.97859      2,613.61
+                                                               16,300.43                                  Nil           120.9                  15,951.44
+
+
+
+Draft (Ft-in)        Fwd (P)                   Fwd (S)           Aft (P)              Aft (S)                   Trim              List
+Before               02-00                     02-00             02-00                02-00                     00-00 00/00       0.00
+After                09-00                     09-00             09-00                09-00                     00-00 00/00       0.00
+Note:
+No Trim Correction was applied.
+
+
+
+VESSEL QUANTITIES                            DEPARTURE               RECEIVED
+TCV, Barrels @ 60 °F                          15,951.44              15,440.11           S&W         ---
+Free Water Barrels                                 0.00                   0.00                       ---
+                                                   GSV                    GSV                         NSV                                         GSW             NSW
+Barrels @ 60 °F                               15,951.44              15,440.11                      15,440.11          Long Tons - Air           2,546.210       2,546.210
+Gallons @ 60 °F                              669,960.48             648,484.62                   648,484.62            Metric Tons - Air         2,587.069       2,587.069
+API Gravity @ 60 °F                                2.5(T)                   2.5(T)                                     Short Tons - Air          2,851.755       2,851.755
+Lb/Gal @ 60 °F                                   8.795136869               8.795136869                                 Kilograms - Air       2,587,069.0     2,587,069.0
+                                                                                                                       Pounds - Air          5,703,511.0     5,703,511.0
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 2137 S. Phillipe Ave.
+ Gonzales, LA 70737
+ Office Phone: 225-307-0900
+ Email: OpsGonzales@camincargo.com
+
+ EXXM17-14 / 577989 / June 3, 2021
+                                                                                     Page 5 of 12
+                                              VESSEL QUANTITY REPORT N° GON-10539
+VESSEL                 : WEB - 277                                                                         MOVEMENT      : Load
+LOCATION               : ExxonMobil - Baton Rouge, LA                                                      JOB COMPLETED : 31-MAY-2021
+PRODUCT                : SC TAR                                                                            REFERENCE N° : 5497348-10
+Comp. Chart RH                 Phy GH          Gauge          TOV       Water             Water          Temp.      VCF    GSV @ 60 °F
+No      Ft-In                    Ft-In         Ft-In          Bbls      Gauge              Bbls            °F        6B         Bbls
+01P      15-04    01/02    15-03     01/02   15-02    03/04    38.65      ----             Nil            60.0   1.00000         38.65
+01S      15-04    03/04    15-03     03/04   15-03    01/04    34.62      ----             Nil            60.0   1.00000         34.62
+02P      15-04    01/02    15-03     01/04   15-02    01/04    62.18      ----             Nil            60.0   1.00000         62.18
+02S      15-04    01/02    15-03     03/04   15-02    01/02    55.40      ----             Nil            60.0   1.00000         55.40
+03P      15-04    03/04    15-03     00/00   15-00    00/00   132.08      ----             Nil            60.0   1.00000        132.08
+03S      15-04    01/02    15-03     01/04   15-00    01/04   117.75      ----             Nil            60.0   1.00000        117.75
+                                                              440.68                        Nil           60.0                  440.68
+
+
+
+Draft (Ft-in)        Fwd (P)                  Fwd (S)         Aft (P)      Aft (S)                Trim           List
+Before               02-00                    02-00           02-00        02-00                  00-00 00/00    0.00
+Note:
+No Trim Correction was applied.
+
+
+VESSEL QUANTITIES                            ARRIVAL
+TCV, Barrels @ 60 °F                           440.68
+Free Water Barrels                               0.00
+                                                  GSV
+Barrels @ 60 °F                                 440.68
+Gallons @ 60 °F                              18,508.56
+API Gravity @ 60 °F                               2.5(T)
+Lb/Gal @ 60 °F                                  8.795136869
+
+
+
+
+ 2137 S. Phillipe Ave.
+ Gonzales, LA 70737
+ Office Phone: 225-307-0900
+ Email: OpsGonzales@camincargo.com
+
+ EXXM17-14 / 577989 / June 3, 2021
+                                                                           Page 6 of 12
+                                               VESSEL QUANTITY REPORT N° GON-10539
+VESSEL                 : WEB - 277                                                                                        MOVEMENT      : Load
+LOCATION               : ExxonMobil - Baton Rouge, LA                                                                     JOB COMPLETED : 31-MAY-2021
+PRODUCT                : SC TAR                                                                                           REFERENCE N° : 5497348-10
+Comp. Chart RH                 Phy GH           Gauge            TOV            Water               Water              Temp.          VCF    GSV @ 60 °F
+No      Ft-In                    Ft-In          Ft-In            Bbls           Gauge                Bbls                °F            6B         Bbls
+01P      15-04    01/02    15-04     01/02    07-01    01/02    2,851.40             ----              Nil              121.1      0.97852      2,790.15
+01S      15-04    03/04    15-04     03/04    07-01    03/04    2,858.40             ----              Nil              121.2      0.97848      2,796.89
+02P      15-04    01/02    15-04     01/02    08-05    03/04    2,426.37             ----              Nil              120.9      0.97859      2,374.42
+02S      15-04    01/02    15-04     01/02    08-05    01/04    2,456.67             ----              Nil              120.8      0.97862      2,404.15
+03P      15-04    03/04    15-04     03/04    08-01    00/00    2,555.19             ----              Nil              121.3      0.97845      2,500.13
+03S      15-04    01/02    15-04     01/02    08-02    01/04    2,526.97             ----              Nil              121.3      0.97845      2,472.51
+                                                               15,675.00                                  Nil           121.1                  15,338.25
+
+
+
+Draft (Ft-in)        Fwd (P)                   Fwd (S)           Aft (P)              Aft (S)                   Trim              List
+Before               02-00                     02-00             02-00                02-00                     00-00 00/00       0.00
+After                09-00                     09-00             09-00                09-00                     00-00 00/00       0.00
+Note:
+No Trim Correction was applied.
+
+
+
+VESSEL QUANTITIES                            DEPARTURE               RECEIVED
+TCV, Barrels @ 60 °F                          15,338.25              14,897.57           S&W         ---
+Free Water Barrels                                 0.00                   0.00                       ---
+                                                   GSV                    GSV                         NSV                                         GSW             NSW
+Barrels @ 60 °F                               15,338.25              14,897.57                      14,897.57          Long Tons - Air           2,456.741       2,456.741
+Gallons @ 60 °F                              644,206.50             625,697.94                   625,697.94            Metric Tons - Air         2,496.164       2,496.164
+API Gravity @ 60 °F                                2.5(T)                   2.5(T)                                     Short Tons - Air          2,751.550       2,751.550
+Lb/Gal @ 60 °F                                   8.795136869               8.795136869                                 Kilograms - Air       2,496,164.0     2,496,164.0
+                                                                                                                       Pounds - Air          5,503,099.0     5,503,099.0
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 2137 S. Phillipe Ave.
+ Gonzales, LA 70737
+ Office Phone: 225-307-0900
+ Email: OpsGonzales@camincargo.com
+
+ EXXM17-14 / 577989 / June 3, 2021
+                                                                                     Page 7 of 12
+                                       LINE DISPLACEMENT REPORT N° GON-10539
+VESSEL                 : WEB - 276 & 277                                                                                 MOVEMENT      : Load
+LOCATION               : ExxonMobil - Baton Rouge, LA                                                                    JOB COMPLETED : 31-MAY-2021
+PRODUCT                : SC TAR                                                                                          REFERENCE N° : 5497348-10
+
+
+                   Shore Tank              Observed Gauges                    TOV           Temp.            API                  VCF                  TCV
+
+            Gauge Date: 30-MAY-2021            Ft-In (Inn.)                   Bbls            °F           @ 60 °F                6B               Bbls @ 60 °F
+                                     O        30-05 01/04               57,532.29
+                       179                                                                  132.2            2.5              0.97459                2,998.13
+                                      C       28-09 03/08               54,455.99
+                                                                         3,076.30
+
+                                                  Total                  3,076.30                                                                    2,998.13
+
+          Shore Line                              Length                      Size               Nominal Capacity              Condition Before Displacement
+                                                   0 km                       0″                 2939.00 Bbls                               Empty
+
+
+                       Vessel               Observed Gauges                   TOV           Temp.            API                  VCF                   TCV
+
+                    WEB - 277                  Ft-In (Ull.)                   Bbls            °F           @ 60 °F                6B                Bbls @ 60 °F
+                                      O       15-02 03/04                     38.65
+                       01P                                                                   60.0            2.5               1.00000                363.89
+                                      C       14-00 01/04                 402.54
+                                                                          363.89
+
+                                      O       15-03 01/04                     34.62
+                       01S                                                                   60.0            2.5               1.00000                354.29
+                                      C       14-01 00/00                 388.91
+                                                                          354.29
+
+                                      O       15-02 01/04                     62.18
+                       02P                                                                   60.0            2.5               1.00000                601.51
+                                      C       13-05 01/02                 663.69
+                                                                          601.51
+
+                                      O       15-02 01/02                     55.40
+                       02S                                                                   60.0            2.5               1.00000                667.07
+                                      C       13-03 01/02                 722.47
+                                                                          667.07
+
+                                      O       15-00 00/00                 132.08
+                       03P                                                                   60.0            2.5               1.00000                504.96
+                                      C       13-06 01/02                 637.04
+                                                                          504.96
+
+                                      O       15-00 01/04                 117.75
+                       03S                                                                   60.0            2.5               1.00000                512.13
+                                      C       13-06 01/02                 629.88
+                                                                          512.13
+
+                                                   Total                 3,003.85                                                                    3,003.85
+
+          Vessel's System                    Condition Before          Condition After           Nominal Capacity            Adjusted Volume Displaced
+                                                 Empty                      Full                   0.00 Bbls                                0.00
+
+
+
+          Note: #2FUEL
+
+
+                                                                                      TOV
+                                                           Barrels                                             Gallons
+          Total Tank                                            3,076.30                                            129,204.60
+
+          Total Vessel                                          3,003.85                                            126,161.70
+
+          Volume Difference                                          -72.45                                          -3,042.90
+
+          % Difference                                                 2.36                                                2.36
+
+
+As per API Ch. 17.6 TOV of the product displaced was at least 120% of the combined capacity of all designated vessel and shore transfer lines unless the conditions referred to in
+17.6.8.1.1 applied, then 100 % of line capacity.
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 2137 S. Phillipe Ave.
+ Gonzales, LA 70737
+ Office Phone: 225-307-0900
+ Email: OpsGonzales@camincargo.com
+
+ EXXM17-14 / 577989 / June 3, 2021                                                    Page 8 of 12
+                                                       TIME LOG REPORT N° GON-10539
+VESSEL            : WEB - 276 & 277                                                                       MOVEMENT        : Load
+LOCATION          : ExxonMobil - Baton Rouge, LA                                                          JOB COMPLETED   : 31-MAY-2021
+PRODUCT           : SC TAR                                                                                REFERENCE N°    : 5497348-10
+
+Date        Time                Description
+30-MAY-2021 05:11               Notice of Readiness Tendered
+            05:36               Inspector Notified
+            09:20               Barge(s) Arrived
+            10:00               Barge(s) Docked
+            10:30               Preliminary Inspection Commenced
+            10:50               Preliminary Inspection Completed
+            10:50               Preliminary Calculations Commenced
+            11:35               Preliminary Calculations Completed
+            12:30               Cargo Hose(s) Connected
+            14:00               Shore Tank 179 Gauged Open
+            14:20               Load Commenced
+            15:35               Load Suspended for Line Verification
+            17:05               Load Resumed
+31-MAY-2021 02:30               Load Completed
+            02:30               Inspector Notified
+            03:05               Inspector Arrived
+            03:15               Sampling Commenced
+            03:45               Shore Tank 179 Gauged Close
+            04:20               Sampling Completed
+            04:30               Final Inspection Commenced
+            05:15               Final Inspection Completed
+            05:45               Final Calculations Commenced
+            07:00               Final Calculations Completed
+            09:00               Cargo Hose(s) Disconnected
+            09:05               Released by Inspector
+            09:20               Sailed
+01-JUN-2021 13:26               Sent for/Awaiting Confirmation
+02-JUN-2021 11:18               Received confirmation from the terminal
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+2137 S. Phillipe Ave.
+Gonzales, LA 70737
+Office Phone: 225-307-0900
+Email: OpsGonzales@camincargo.com
+
+EXXM17-14 / 577989 / June 3, 2021                                                 Page 9 of 12
+                                              LETTER OF PROTEST ° GON-10539
+VESSEL              : WEB - 276 & 277                                                      MOVEMENT      : Load
+LOCATION            : ExxonMobil - Baton Rouge, LA                                         JOB COMPLETED : 31-MAY-2021
+PRODUCT             : SC TAR
+
+
+
+
+TO                  : Other                                                                REFERENCE         : VAR
+
+On Behalf of our Principals, we do hereby note the following Protest:
+
+Loading Quantity: 32,198.33 bbls.
+Vessel Received: 30,337.68 bbls.
+Difference: -1,860.65 bbls.
+Difference %: -5.78
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                    Respectfully,
+Signature:
+Print Name:
+Position:                                                                          ___________________________________
+Date/Time:                                                                                      Camin Cargo Control
+
+2137 S. Phillipe Ave.
+Gonzales, LA 70737
+Office Phone: 225-307-0900
+Email: OpsGonzales@camincargo.com
+
+EXXM17-14 / 577989 / June 3, 2021
+                                                                  Page 10 of 12
+                                              LETTER OF PROTEST ° GON-10539
+VESSEL              : WEB - 276 & 277                                                      MOVEMENT      : Load
+LOCATION            : ExxonMobil - Baton Rouge, LA                                         JOB COMPLETED : 31-MAY-2021
+PRODUCT             : SC TAR
+
+
+
+
+TO                  : Vessel                                                               REFERENCE         : VEF
+
+On Behalf of our Principals, we do hereby note the following Protest:
+- Unable to validate all the information found on the Navarik VEF
+- Towing company unable to provide sequential port log for the subject tow
+- No qualifying VEF available
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                    Respectfully,
+Signature:
+Print Name:
+Position:                                                                             ___________________________________
+Date/Time:                                                                                      Camin Cargo Control
+
+2137 S. Phillipe Ave.
+Gonzales, LA 70737
+Office Phone: 225-307-0900
+Email: OpsGonzales@camincargo.com
+
+EXXM17-14 / 577989 / June 3, 2021
+                                                                      Page 11 of 12
+                                                 CERTIFICATE OF ANALYSIS N° GON-10539
+      VESSEL                      : WEB - 276 & 277
+      LOCATION                    : ExxonMobil - Baton Rouge, LA                                                                        MOVEMENT                  : Load
+      PRODUCT                     : SC TAR                                                                                              REF. NO.                  : 5497348-10
+
+
+001                                                   Volumetric                            After Load                         Sample N° :        1                    31-MAY-2021
+                                                      Composite                                                                                                        Sampled at
+                                                                                                                                                                       03:44
+      Description :              WEB - 276 & 277
+                                                                                                                                                                   0
+
+
+
+
+      D 4052                     API Gravity @ 60°F                                              2.5    °API
+                                                                                                                                                                   0
+
+
+
+
+      D 93B                      Flash Point                                                     230    °F
+                                                                                                                                                                   0
+
+
+
+
+      D 97                       Pour Point                                                        6    °C
+                                                                                                                                                                   0
+
+
+
+
+      D 445                      Viscosity @ 50 °C                                             123.1    cSt
+                                                                                                                                                                   0
+
+
+
+
+      D 4294                     Sulfur                                                         2.14    Mass %
+                                                                                                                                                                   0
+
+
+
+
+      D 95                       Water by Distillation                                          0.05    Vol. %
+                                                                                                                                                                   0
+
+
+
+
+      D 473                      Sediment by Extraction                                         0.10    Wt. %
+      IP 501                     Metals by ICP - Ashing&Fusion
+                                 Scope:Al, Si, V, Ni, Fe, Na, Ca, Zn & P
+                                   Aluminum                                                        6 mg/kg(ppm)
+                                   Calcium                                                       <1 mg/kg(ppm)
+                                   Phosphorus                                                      1 mg/kg(ppm)
+                                   Potassium                                                     <1 mg/kg(ppm)
+                                   Silicon                                                       10 mg/kg(ppm)
+                                   Sodium                                                          3 mg/kg(ppm)
+                                   Vanadium                                                      <1 mg/kg(ppm)
+                                   Zinc                                                          <1 mg/kg(ppm)
+002                                                   H2S Sample                            After Load                         Sample N° :        2                    31-MAY-2021
+                                                                                                                                                                       Sampled at
+                                                                                                                                                                       03:48
+      Description :              WEB - 276
+                                                                                                                                                                   0
+
+
+
+
+      D 5705                     Hydrogen Sulfide in Vapor (60°C / 140°F)                         <5 ppm
+
+003                                                   H2S Sample                            After Load                         Sample N° :        3                    31-MAY-2021
+                                                                                                                                                                       Sampled at
+                                                                                                                                                                       03:49
+      Description :              WEB - 277
+                                                                                                                                                                   0
+
+
+
+
+      D 5705                     Hydrogen Sulfide in Vapor (60°C / 140°F)                         <5 ppm
+
+REPORT HEADER
+
+
+
+
+The results apply to the samples as received and specifically to the items listed on this certificate.
+Data contained in this report is confidential to the addressee and shall not be disclosed to any other party without their approval. This report may not be reproduced except
+in full without the written consent of the Camin Cargo Control.
+Samples taken as per Standard Practice for Manual Sampling of Petroleum and Petroleum Products (ASTM D4057 / API MPMS Chapter 8.1)
+All testing is performed on premises by Camin Cargo Control and in accordance to the latest referenced test method unless specifically stated otherwise.
+
+
+
+
+                                                                                                                                                   Bradley Malain / Laboratory Manager
+
+
+
+ 2137 S. Phillipe Ave.
+ Gonzales, LA 70737
+ Office Phone: 225-307-0900
+ Email: OpsGonzales@camincargo.com
+
+ EXXM17-14 / 577989 / AU / R0 / 7032008 / Generated: June 3, 2021
+                                                                                        Page 12 of 12
+

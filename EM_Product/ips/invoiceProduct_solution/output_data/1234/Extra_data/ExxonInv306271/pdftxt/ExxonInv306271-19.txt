@@ -1,0 +1,35 @@
+                                                         Certificate of Analysis
+                                                                                                                  Report Date:       4/4/2021 3:05:10PM
+
+
+    Vessel/Equipment:                        CBC 55                             File Number:                          102471
+       Shore Tank                              N/A                              Lab Number:                        P20210404004
+        Product:                             EHC 45                                 Client:                         ExxonMobil
+        Terminal:                       ITC, Deer Park, TX                    Client Reference:                      5343656
+        Subject:                            After Load
+    Sample Number:                          97992
+     Sample Type:                       Running Average                       Sample Location:                           CBC 55 3C
+                                                                                                                           Spec
+Method                  Component                                        Result                        Units          Min   -    Max          Off-Spec
+Visual                  Appearance                                       Clear and Free                                          -
+Visual                  Temperature                                      22                            °C                        -
+D445                    Viscosity - Kinematic at 100°C                   4.628                         cSt                       -
+D156                    Saybolt Color                                    > +30                                                   -
+
+
+
+
+X                                                                                                  X
+
+
+ Signed:     Sunil Kanampalli                                                                      Reviewed by:    Glenn Hanson
+             Laboratory Technician                                                                                 VP of Laboratories
+
+
+
+
+                                                             105 Rustic Lane, Pasadena, TX 77502
+                                                   Phone: (713) 740-9800 Email: houstonops@coastalgulf.com
+                  4
+                                                                              1
+

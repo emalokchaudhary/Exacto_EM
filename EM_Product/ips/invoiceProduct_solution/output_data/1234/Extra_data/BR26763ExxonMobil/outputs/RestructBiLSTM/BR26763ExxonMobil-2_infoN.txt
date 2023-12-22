@@ -1,0 +1,45 @@
+                                  COASTAL GULF &
+                                INTERNATIONAL, INC.
+                                                 "Precision"
+                                           Inspection & Analytical
+                                                   Services
+                      ®         2104 South Southland Ave. Gonzales, LA 70737
+                                  Phone (225) 231-4990 Fax (225) 231-7875                                  Assuring accuracy through expertise!
+
+Vessel:                   CBC 333 & 7035                                         Date:          August 21, 2020
+Product:                  CSO/MCB                                                Terminal:      Apex
+Subject:                  Report of     Discharge                                Port:          Port Allen, Louisiana
+ExxonMobil Ref. #: 4971503                                                       File Number:   BR26763
+                                                      VOYAGE ANALYSIS
+OUTTURN COMPARISON                                                    DATE                      NET BARRELS
+Load port Terminal:                P.F.T.                                 August 18, 2020               Active
+Discharge Terminal:                   Apex                                August 21, 2020              39,959.96
+                                                                      Apparent Difference:                N/A
+                                                                Adjustment for Bottoms:                 21.16
+                                                                      Adjusted Difference:                N/A
+
+
+OBQ/ROB RECAPITULATION
+                                                    On Board Quantity at Load Port:                     558.20
+                             Remaining on Board Quantity at Discharge Port:                             579.36
+                      Adjustment for Bottoms Pumped off or Left on Board:                               21.16
+
+
+FREE WATER COMPARISON
+                                                  Free Water Quantity at Load Port:                       0.00
+                                          Free Water Quantity at Discharge Port:                          0.00
+                      Adjustment for Bottoms Pumped off or Left on Board:                                 0.00
+
+
+IN-TRANSIT COMPARISON
+                                                          Sailing Figures at Load port:                40,771.94
+                                                  Arrival Figures at Discharge Port:                   41,140.57
+                                                                     In-Transit Difference:             368.63
+
+
+
+
+Coastal Gulf & International, Inc.
+Zachary Ural
+Gonzales Communication Center                                                                                      Version 7.0 06-05-13 NLE
+

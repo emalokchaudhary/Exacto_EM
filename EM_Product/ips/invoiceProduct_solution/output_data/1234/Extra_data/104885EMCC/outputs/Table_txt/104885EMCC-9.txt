@@ -1,0 +1,53 @@
+CLEANED !!!
+                                COASTAL GULF &
+                              INTERNATIONAL, INC.                                    VESSEL EXPERIENCE FACTOR SEQUENTIAL
+                                                "Precision"
+                                          Inspection & Analytical
+                                                 Services
+                                    P.O. Box 429 Kenner, LA. 70063-429
+                                Phone (985)785-0765 Fax (985)785-1328                                                                                                                  Assuring accuracy through expertise!
+
+Vessel:             CBC 197                                                                                                                     Date:      July 13, 2021
+
+Type of Movement:              Loading
+                                                                                                                                                                           Step 2
+                                                                                                    Enter all units as Barrels                                              Qual
+                                                                                                                                                                   Step 1 Voy            Qualifying Voyages
+                                                                                      Vessel                         Vessel                                        Gross (+0.30
+       Voyage  Cargo                                 Terminal or                      Sailing         Vessel          Load               Outturn                   Error > %) Y/N       Vessel               Shore
+ Cargo Number Description                               Port               Date        TCV             OBQ            TCV                 TCV           Ratio       2%?      ?           TCV                 TCV
+      Last                 Benzene            Lemont (United States)     17-May-18      14,435.94               0         14,435.94        14,419.21     1.00116              YES          14,435.94           14,419.21
+      2nd                  Xylene             Texas City (United         23-Oct-17      14,608.31               0         14,608.31        14,542.91      1.0045                  NO
+                                              States)
+       3rd                 Meta-Xylene        Texas City (United         16-Oct-16      14,616.48               0         14,616.48        14,619.64     0.99978              YES          14,616.48           14,619.64
+                                              States)
+          4th              Benzene            Lemont (United States)     12-May-16      13,919.60               0         13,919.60        13,886.17     1.00241              YES            13919.6            13886.17
+          5th              Meta-Xylene        Texas City (United         31-Jan-16      14,228.29               0         14,228.29        14,235.47      0.9995              YES          14,228.29           14,235.47
+                                              States)
+          6th              Benzene            Lemont (United States)     18-Dec-15      14,235.10               0         14,235.10        14,254.38     0.99865              YES          14,235.10           14,254.38
+          7th              Nonexempt       Lemont (United States)        6-Jun-15       15,068.40               0         15,068.40        14,970.56     1.00654                  NO
+                           Mineral Spirits
+          8th              Nonexempt       Lemont (United States)        27-Apr-15      10,005.12               0         10,005.12        10,030.12     0.99751                  NO
+                           Mineral Spirits
+          9th              Base Oil 100R Pascagoula (United              19-Aug-14      14,984.85               0         14,984.85        14,957.65     1.00182              YES          14984.85             14957.65
+                                           States)
+      10th                 Base Oil 225N Westlake (United States)        2-May-14       10,094.28               0         10,094.28        10,093.42     1.00009              YES          10,094.28           10,093.42
+      11th                 Meta-Xylene        Texas City (United         13-Jul-13      13,948.16               0         13,948.16        13,908.90     1.00282              YES          13,948.16           13,908.90
+                                              States)
+      12th                 Meta-Xylene        Texas City (United         29-Jan-13                                        12,443.86        12,406.57     1.00301              YES          12,443.86           12,406.57
+                                              States)
+      13th 12-Meta0 Meta-Xylene               Texas City (United         28-Nov-12                                        12,670.34        12,702.55     0.99746                  NO
+                                              States)
+      14th                 Meta-Xylene        Texas City (United         5-Jun-12       13,820.88               0         13,820.88        13,821.46     0.99996              YES          13820.88             13821.46
+                                              States)
+      15th                 Meta-Xylene        Texas City (United         27-Jan-12      13,824.62                         13,824.62        13,823.78     1.00006              YES          13,824.62           13,823.78
+                                              States)
+      16th                 Meta-Xylene        Texas City (United         10-Nov-11      13,809.08                         13,809.08        13,808.49     1.00004              YES          13809.08             13808.49
+                                              States)
+      17th                 Ethanol            St Louis (United States)    1-Jul-11      15,029.74               0         15,029.74        14,956.72     1.00488                  NO
+      18th 11-mx011 Meta-Xylene               Texas City (United         26-May-11      14,104.70                         14,104.70        13,809.70     1.02136    YES           NO
+                                              States)
+      19th                 Ethanol            Argo (United States)       17-Feb-11      15,496.25                         15,496.25        15,569.51     0.99529                  NO
+      20th                 Ethanol            Argo (United States)       13-Dec-10      15,258.54                         15,258.54        15,102.94      1.0103                  NO
+
+                                                                                                    Totals:           262,497.84          262,110.45                         Totals:     164,361.14          164,235.14

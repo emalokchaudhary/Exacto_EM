@@ -1,0 +1,55 @@
+                                         COASTAL GULF &
+                                       INTERNATIONAL, INC.
+                                                        "Precision"
+                                                  Inspection & Analytical
+                                                          Services
+                                           2104 S Southland, Gonzales, LA 70737
+                                         Phone (225) 231-4990 Fax (225) 231-7875                                   Assuring accuracy through expertise!
+Vessel:       CBC 197                                                                    Date:                 July 13, 2021
+Product: IPA                                                                            Terminal:              ExxonMobil
+Subject: Report of Loading                                                              Port:                  Baton Rouge, Louisiana
+EMCC Ref. #: 5270944                                                                    File Number:           104885
+
+
+                                                      VESSEL MEASUREMENT REPORT
+                                                                        CBC 197 UPON ARRIVAL                            Ambient Temp °F: 90.0
+               Obs. Gauge      Gauge (Ft.)       Temp.               T.O.V.                  Water                                               G.S.V
+   Tank          Height          Innage           (°F)               Gallons       Gauge             Gallons                   V.C. F            Gallons
+    1C         16' 10 3/4"      00' 00"           60.0                0.00         00' 00"            0.00                    1.00000             0.00
+    2P         16' 05 3/4"      00' 00"           60.0                0.00         00' 00"            0.00        0.0         1.00000             0.00
+    2S          16' 07"         00' 00"           60.0                0.00         00' 00"            0.00        0.0         1.00000             0.00
+    3P         16' 05 3/4"      00' 00"           60.0                0.00         00' 00"            0.00        0.0         1.00000             0.00
+    3S           16' 07"        00' 00"           60.0                0.00         00' 00"            0.00        0.0         1.00000             0.00
+    4C         16' 11 1/2"      00' 00"           60.0                0.00         00' 00"            0.00        0.0         1.00000             0.00
+
+
+
+
+Tape Serial #: 6144   Probe Serial #: 6144                                                            0.00                   Total:                        0.00
+                                 Avg. Temp °F: 60.0            T.O.V. bbls Total         0.00
+                                                                        CBC 197 UPON DEPARTURE                          Ambient Temp °F: 78.0
+               Obs. Gauge      Gauge (Ft.)       Temp.               T.O.V.                  Water                                                G.S.V
+   Tank          Height          Ullage           (°F)               Gallons       Gauge             Gallons                   V.C. F            Gallons
+    1C         16' 10 3/4"     04' 07 1/8"        84.1             157,216.00      00' 00"            0.00        0.0         0.98630           155,062.14
+    2P         16' 06 1/2"     04' 05 7/8"        84.3              78,667.50      00' 00"            0.00        0.0         0.98630           77,589.76
+    2S          16' 07"        04' 04 3/4"        84.3              82,335.00      00' 00"            0.00        0.0         0.98630           81,207.01
+    3P         16' 05 3/4"     05' 02 1/2"        83.7              73,538.00      00' 00"            0.00        0.0         0.98630           72,530.53
+    3S           16' 07"         05' 02"          84.5              76,989.00      00' 00"            0.00        0.0         0.98630           75,934.25
+    4C         16' 11 3/4"     05' 02 5/8"        84.4             145,842.50      00' 00"            0.00        0.0         0.98630           143,844.46
+
+
+
+
+Tape Serial #: 6144   Probe Serial #: 6144                                                            0.00                   Total:                606,168.15
+Arrival:                         Avg. Temp °F: 84.2            T.O.V. bbls Total    14,633.05                TOTAL QUANTITY
+ Fwd Port:       02' 00"          Fwd Stbd: 02' 00"                                              Barrels @ 60 °F              14,432.58
+  Aft Port:      02' 00"          Aft Stbd.: 02' 00"                                             Gallons @ 60 °F             606,168.15
+Departure:                                                                                       TCV Barrels                  14,432.58
+ Fwd Port:       08' 03"          Fwd Stbd: 08' 03"                                              Pounds                    3,990,405.00
+  Aft Port:      08' 09"          Aft Stbd.: 08' 09"                                             Metric Tons                  1,810.019
+   Trim or List Correction Applied:                 No                                           Short Tons                   1,995.203
+                                                                                                 Long Tons                    1,781.431
+Coastal Gulf & International, Inc.                                                               Lbs / Gallon                                           6.583
+Jon Herrington                                                                                   API Gravity @ 60°F
+Gonzales Communication Center                                                                                                            Version 7.1 04-19-20 JMH
+

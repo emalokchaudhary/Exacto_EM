@@ -1,0 +1,7 @@
+
+2022-02-01 13:33:56,114:__main__:
+Filename: . Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 548, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/bc251ca7/outputs/Table_txt'

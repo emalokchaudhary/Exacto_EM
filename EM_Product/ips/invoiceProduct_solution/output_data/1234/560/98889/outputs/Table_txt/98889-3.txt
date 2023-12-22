@@ -1,0 +1,21 @@
+Product:                    CSO/MCB                                                          Terminal:                      P.F.T
+Subject:                    Report of Loading                                                Port:                          MT Airy, Louisiana
+ExxonMobil Ref. #: 5048618                                                                   File Number:                   98889
+Cabot Ref. #: 108258-117517
+                                        SHORE TANK MEASUREMENT REPORT
+              SHORE                                            TEMP.                 T.O.V.                                         G.S.V,
+              TANK                  INNAGE                     DEG. F               BARRELS                FACTOR                  BARRELS
+                 217
+
+              1-Oct-20            19' 07 15/16"         129.6                        53,434.54
+                1230               Water Volume (00' 00")                               0.00                   API
+              Ambient                  Shell Correction                               1.00087                  -2.8
+               Temp.                   Roof Correction                                  0.00
+                82.0                                                                 53,481.03              0.97673                 52,236.53
+              2-Oct-20            04' 04 1/2"          128.8                         11,546.93
+                0050              Water Volume (00' 00")                                0.00                   API
+             Ambient                  Shell Correction                                1.00086                  -2.8
+              Temp.                   Roof Correction                                   0.00
+               65.0                                                                  11,556.86              0.97700                 11,291.05
+            Tank API                             0.0
+            Diff:                               0.00                                        Line Quantity                                0.00

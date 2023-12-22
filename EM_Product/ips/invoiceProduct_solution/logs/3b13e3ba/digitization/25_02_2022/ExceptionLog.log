@@ -1,0 +1,39 @@
+
+2022-02-25 08:18:46,199:__main__:
+Filename: Invoice_2-4-2021.pdf. Error occured in ocr module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 329, in __single_doc_process
+    ocr_success, text_files_path, phase, ocr_flag = drive_ocr_flow(esett.OCR_MODEL_PATHS, document_path, output_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 77, in drive_ocr_flow
+    return ocr_success, text_files_path, phase, ocr_flag
+UnboundLocalError: local variable 'text_files_path' referenced before assignment
+
+2022-02-25 08:18:46,825:__main__:
+Filename: PNG 3.png. Error occurred in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 315, in digitize_main
+    pdf_path = check_and_convert_extension(pdf_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/multiple_format_to_pdf.py", line 41, in check_and_convert_extension
+    pdf_bytes = img2pdf.convert(imagePath)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 2102, in convert
+    ) in read_images(rawdata, kwargs["colorspace"], kwargs["first_frame_only"]):
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 1483, in read_images
+    imgdata, imgformat, default_dpi, colorspace, rawdata
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 1189, in get_imgmetadata
+    raise AlphaChannelError("Refusing to work on images with alpha channel")
+img2pdf.AlphaChannelError: Refusing to work on images with alpha channel
+
+2022-02-25 08:37:01,547:__main__:
+Filename: PNG 3.png. Error occurred in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 315, in digitize_main
+    pdf_path = check_and_convert_extension(pdf_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/multiple_format_to_pdf.py", line 41, in check_and_convert_extension
+    pdf_bytes = img2pdf.convert(imagePath)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 2102, in convert
+    ) in read_images(rawdata, kwargs["colorspace"], kwargs["first_frame_only"]):
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 1483, in read_images
+    imgdata, imgformat, default_dpi, colorspace, rawdata
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/img2pdf.py", line 1189, in get_imgmetadata
+    raise AlphaChannelError("Refusing to work on images with alpha channel")
+img2pdf.AlphaChannelError: Refusing to work on images with alpha channel

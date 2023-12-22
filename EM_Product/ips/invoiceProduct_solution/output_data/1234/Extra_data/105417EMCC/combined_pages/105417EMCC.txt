@@ -1,0 +1,146 @@
+                                   COASTAL GULF &
+                                 INTERNATIONAL, INC.
+                                                 "Precision"
+                                           Inspection & Analytical
+                                                   Services
+                                2104 South Southland Ave. Gonzales, LA 70737
+                                  Phone (225) 231-4990 Fax (225) 231-7875                         Assuring accuracy through expertise!
+
+Vessel:                 Chem 3248                                              Date:              August 10, 2021
+Product:                Benzene                                                Terminal:          Total
+Subject:                Report of Discharge                                    Port:              Carville, Louisiana
+EMCC Ref. #: 5618157-20                                                        File Number:       105417
+
+                                                         RECAPITULATION
+                OFFICIAL QUANTITY                                                          FOR REFERENCE ONLY
+
+SHORE FIGURES                                QUANTITY                           BARGE FIGURES                           QUANTITY
+Barrels                                           25,272.12                    Barrels                                       25,419.97
+Gallons                                        1,061,429.07                    Gallons                                    1,067,638.74
+Pounds                                         7,817,425.00                    Pounds                                     7,863,159.00
+Metric Tons                                       3,545.929                    Metric Tons                                   3,566.673
+Short Tons                                        3,908.713                    Short Tons                                    3,931.580
+Long Tons                                         3,489.922                    Long Tons                                     3,510.339
+
+
+                                                             For Comparison only
+                               VEF:              1.00550                         Barge With VEF Applied:          25,280.92
+
+BARGE FIGURES In Barrels
+BARGE                                         ARRIVAL                             DEPARTURE                           DIFFERENCE
+Chem 3248                                     25,419.97                              0.00                               25,419.97
+
+
+
+
+TOV BARRELS                                    25,905.50                               0.00                                25,905.50
+
+                      Survey was peformed by CGI Surveyor Patrick Herrington/Logan Billeaudeau
+                              Table Benzene D1555 used for Volume Correction purposes
+                            Surveyor equipment verified daily using Certified Thermometer
+                         Conditions during the inspection were Calm; between 00' and 01' Seas
+
+           Survey performed as per and strictly adhering to methods set forth by API Chapters 3, 7, 8, 12, & 17
+
+      "All CGI measurement devices and methods used for quantity and quality determination meet the pertinent
+                requirements of 40 CFR 98.3 et. Seq. (Greenhouse Gas Mandatory Reporting Rule)"
+
+
+Coastal Gulf & International, Inc.
+Rusty Mitchell
+Gonzales Communication Center                                                                                          Version 7.0 06-05-13 NLE
+                                 COASTAL GULF &
+                               INTERNATIONAL, INC.
+                                                "Precision"
+                                          Inspection & Analytical
+                                                  Services
+                               2104 South Southland Ave. Gonzales, LA 70737
+                                 Phone (225) 231-4990 Fax (225) 231-7875                     Assuring accuracy through expertise!
+
+Vessel:                  Chem 3248                                            Date:          August 10, 2021
+Product:                 Benzene                                              Terminal:      Total
+Subject:                 Report of Discharge                                  Port:          Carville, Louisiana
+EMCC Ref. #: 5618157-20                                                       File Number:   105417
+
+                                                   TIME LOG OF EVENTS
+August 8, 2021              0900          hrs.      Barge(s) NOR Tendered
+August 9, 2021              1300          hrs.      Barge(s) called in
+August 9, 2021              1600          hrs.      Notified transfer was postponed, due to no tankerman
+August 10, 2021             0001          hrs.      Barge(s) called in second time
+August 10, 2021             0015          hrs.      Surveyor notified
+August 10, 2021             0225          hrs.      Barge(s) arrived
+August 10, 2021             0250          hrs.      Surveyor arrived at terminal
+August 10, 2021             0255          hrs.      Barge(s) docked
+August 10, 2021             0320          hrs.      Shore tank(s) opened
+August 10, 2021             0405          hrs.      Cargo hose(s) connected
+August 10, 2021             0515          hrs.      Commenced arrival barge inspection
+August 10, 2021             0600          hrs.      Completed arrival barge inspection
+August 10, 2021             0900          hrs.      Commenced transfer
+August 10, 2021             0900          hrs.      Surveyor departed terminal
+August 10, 2021             1725          hrs.      Surveyor notified
+August 10, 2021             1845          hrs.      Surveyor arrived at terminal
+August 10, 2021             1945          hrs.      Completed transfer
+August 10, 2021             1950          hrs.      Commenced departure barge inspection
+August 10, 2021             1955          hrs.      Completed departure barge inspection
+August 10, 2021             2015          hrs.      Shore tank(s) closed
+August 10, 2021             2020          hrs.      Cargo hose(s) disconnected
+August 10, 2021             2025          hrs.      Barge(s) Released
+
+
+
+
+Coastal Gulf & International, Inc.
+Rusty Mitchell
+Gonzales Communication Center                                                                                       Version 7.0 06-05-13 NLE
+                                          COASTAL GULF &
+                                        INTERNATIONAL, INC.
+                                                        "Precision"
+                                                  Inspection & Analytical
+                                                          Services
+                                       2104 South Southland Ave. Gonzales, LA 70737
+                                         Phone (225) 231-4990 Fax (225) 231-7875                                          Assuring accuracy through expertise!
+
+Vessel:                     Chem 3248                                                       Date:                         August 10, 2021
+Product:                    Benzene                                                         Terminal:                     Total
+Subject:                    Report of Discharge                                             Port:                         Carville, Louisiana
+EMCC Ref. #: 5618157-20                                                                     File Number:                  105417
+
+
+                                         SHORE TANK MEASUREMENT REPORT
+              SHORE                                             TEMP.                  T.O.V.                                     G.S.V,
+              TANK                  INNAGE                      DEG. F                GALLONS              FACTOR                GALLONS
+                303A
+
+             8/10/2021           07' 10 3/4"           80.3                           794,410.00
+                0420            Water Volume        00' 03 1/8''                      28,212.00                API
+              Ambient                Shell Correction                                  1.00026                 28.0
+               Temp.                 Roof Correction                                     0.00
+                88.0                                                                  766,397.21            0.98658              756,112.16
+             8/10/2021           18' 01 7/8''          86.7                           1,877,893.00
+                2015            Water Volume        00' 03 1/8''                        28,212.00              API
+             Ambient                 Shell Correction                                    1.00033               28.0
+              Temp.                  Roof Correction                                       0.00
+               88.0                                                                   1,850,291.39          0.98230             1,817,541.23
+            Tank API                            28.0
+            Diff:                               0.00                                       Line Quantity
+            Insulated                            No                                                TCV:                          1,061,429.07
+            Working Temp                        60.0                                             TOTAL:                         1,061,429.07
+            Open: Tape Serial #: 21502 Probe Serial #: 9A-9462 Close: Tape Serial #: 15107 Probe Serial #: 9-05811
+
+                      Opening Gauge Height                            Reference Gauge Height                         Closing Gauge Height
+                             27' 10"                                          27' 10"                                       27' 09''
+                                                                                              TOTAL QUANTITY
+                                                                                Barrels @ 60 °F                 25,272.12
+                                                                                Gallons @ 60 °F              1,061,429.07
+                                                                                Pounds                       7,817,425.00
+                                                                                Metric Tons                     3,545.929
+                                                                                Short Tons                      3,908.713
+                                                                                Long Tons                       3,489.922
+                                                                                Pounds per Gallon                   7.365
+                                                                                API Gravity @ 60°F                  28.00
+
+
+Coastal Gulf & International, Inc.
+Rusty Mitchell
+Gonzales Communication Center                                                                                                                 Version 7.0 06-05-13 NLE
+

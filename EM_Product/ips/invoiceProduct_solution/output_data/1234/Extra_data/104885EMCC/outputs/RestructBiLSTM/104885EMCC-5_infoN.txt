@@ -1,0 +1,50 @@
+                                  COASTAL GULF &
+                                INTERNATIONAL, INC.
+                                                  "Precision"
+                                            Inspection & Analytical
+                                                    Services
+                   ®                2104 S Southland, Gonzales, LA 70737
+                                   Phone (225) 231-4990 Fax (225) 231-7875                           Assuring accuracy through expertise!
+
+Vessel:                CBC 197                                               Date:          July 13, 2021
+Product:               IPA                                                   Terminal:      ExxonMobil
+Subject:               Report of       Loading                               Port:          Baton Rouge, Louisiana
+EMCC Ref. #: 5270944                                                         File Number:   104885
+
+
+
+                                                      BARGE SEAL REPORT
+                                                           CBC 197
+
+                             TANK MANWAYS             BALL VALVE
+                        1 Center       0688103 1 Center         0688101
+                         2 Port        0688105 2 Port             22467
+                         2 Stbd        0688108 2 Stbd             22797
+                         3 Port        0688111 3 Port             22267
+                         3 Stbd        0688114 3 Stbd             22977
+                        4 Center       0688117 4 Center           22626
+
+                                                                SEAL NUMBERS
+                                                        Port Manifold 22686 22705
+                                                        Stbd Manifold 22360 0688125
+
+                                                             BUTTERWORTHS
+                                                          PORT             STBD
+                                                         0688128 1 Fwd 0688129
+                                                         0688130 1 Middle 0688131
+                                                         0688132   1 Aft  0688133
+                                                         0688134 2 Fwd 0688135
+                                                         0688136 2 Middle 0688137
+                                                         0688138   2 Aft  0688139
+                                                         0688140 3 Fwd 0688141
+                                                         0688142 3 Middle 0688143
+                                                           N/A     3 Aft    N/A
+
+
+
+
+Coastal Gulf & International, Inc.
+
+Jon Herrington
+Gonzales Communication Center                                                                                Version 7.1 04-19-20 JMH
+

@@ -1,0 +1,47 @@
+CLEANED !!!
+                               COASTAL GULF &
+                             INTERNATIONAL, INC.
+                                               "Precision"
+                                        Inspection & Analytical
+                                                 Services
+                             1900 Industrial Park Rd. Neederland, TX 77628
+                               Phone (409) 853-1150 Fax (409) 853-1465                                              Assuring accuracy through expertise!
+
+Vessel:               FMT 6010                                                     Date:                   September 1, 2020
+Product:              Benzene                                                      Terminal:               Motiva
+Subject:              Report of Discharge                                          Port:                   Port Neches, Texas
+ExxonMobil Ref. #: USEBARGARO-2008-066                                             File Number:            BT11076
+
+                                            VESSEL GAUGE HEIGHT REPORT
+                                             Vessel Name: Barge: FMT 6010
+    Tank No.            Observed Gauge Height Open                           Reference Gauge Height          Observed Gauge Height Close
+           1P                      17' 03 1/2"                                     17' 03 3/4"                         17' 03 1/2"
+           1S                      17' 03 1/2"                                     17' 03 1/2"                         17' 03 1/2"
+           2P                      17' 03 1/2"                                     17' 03 3/4"                         17' 03 1/2"
+           2S                      17' 03 1/2"                                     17' 03 3/4"                         17' 03 1/2"
+           3P                      17' 03 3/4"                                     17' 04 00"                          17' 03 3/4"
+           3S                      17' 03 3/4"                                     17' 03 3/4"                         17' 03 3/4"
+          0.00
+          0.00
+          0.00
+          0.00
+          0.00
+          0.00
+          0.00
+          0.00
+          0.00
+          0.00
+          0.00
+          0.00
+          0.00
+          0.00
+                                                          ANCILLARY TANKS
+                       Tank No.                        Observed Arrival Measurement              Observed Departure Measurement
+
+
+
+
+Coastal Gulf & International, Inc.
+Eddie Parker
+Port Arthur Communication Center                                                                                             Version 8.0 05-15-15 NLE
+ 

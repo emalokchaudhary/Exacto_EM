@@ -1,0 +1,606 @@
+EXXONMOBIL OIL CORPORATION
+22777 SPRINGWOODS VILLAGE PARKWAY
+77389-1425 Spring
+United States
+ExxonMobil MATS MTO Fairfax
+5065250-10
+Job No                           13052/00002377.0000/01/I/21
+Report date                      04 Feb 2021
+Installation                     Houston, United States of America, ExxonMobil Baytown
+
+Barge                            CBC 397
+Product                          EHC 45
+Bill of Lading date: 02-Feb-2021                                                                                                         Time Log
+
+01 Feb 2021 (Monday)
+       00:05                          NOR Tendered
+       10:00                          Barge Called In
+       12:35                          Object arrived at Installation
+       12:50                          Moored Aloide Berth (All Fast)
+       13:15                          Saybolt onboard before Operation
+       13:20                          Commenced Initial Inspection
+       13:35                          Completed Initial Inspection, Tank(s) Inspected and Accepted
+       14:30                          Hose / Arm Connected
+       15:45                          Shore Tank No. 25 Gauged Open
+       19:15                          COMMENCED LOADING
+       19:40                          Suspended Loading for First Foot Sampling
+       20:30                          Commenced Barge Inspection for LP
+       20:40                          Completed Barge Inspection for LP
+       21:00                          ST 25 Gauge for LP
+       22:25                          Resumed Loading
+02 Feb 2021 (Tuesday)
+                 07:55                COMPLETED LOADING
+                 08:14                Saybolt onboard after Operation
+                 08:15                Commenced Final Inspection
+                 08:59                Completed Final Inspection and Calculations, Tank(s) Measured and Sampled
+                 09:05                Shore Tank No. 25 Gauged Close
+                 09:45                Hose / Arm Disconnected
+                 10:30                Object Sailed / Departed
+
+
+
+
+,,,                                                                                                                              Date: 04 Feb 2021 14:57
+Tel. FAX                                                                                                                                     Page 1 of 11
+Website: E-mail:
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 TML2 V4.1.1.6 2020/07/21
+EXXONMOBIL OIL CORPORATION
+22777 SPRINGWOODS VILLAGE PARKWAY
+77389-1425 Spring
+United States
+ExxonMobil MATS MTO Fairfax
+5065250-10
+Job No                            13052/00002377.0000/01/I/21
+Report date                       04 Feb 2021
+Installation                      Houston, United States of America, ExxonMobil Baytown
+
+Barge                             CBC 397
+Product                           EHC 45
+Bill of Lading date: 02-Feb-2021                                                                                                                     Summary Loading (GSV)
+
+
+Gross Standard Volume Data
+
+GSV Figures                                                                      Loaded excl OBQ                             Bill of Lading        Δ Quantity                     Δ%
+Liters 15°C                                                                             4,298,949                                4,287,773             11,176                     0.26
+Liters 20°C                                                                             4,315,044                                4,303,826             11,218                     0.26
+Liters 30°C                                                                             4,347,731                                4,336,428             11,303                     0.26
+Cu m 15°C                                                                               4,298.949                                4,287.773             11.176                     0.26
+Cu m 20°C                                                                               4,315.044                                4,303.826             11.218                     0.26
+Cu m 60°F                                                                               4,300.712                                4,289.532             11.180                     0.26
+Barrels 60°F                                                                            27,050.66                                26,980.34              70.32                     0.26
+US Gallons 60°F                                                                      1,136,127.72                            1,133,174.28            2,953.44                     0.26
+Metric Tons Vac                                                                         3,618.759                                3,609.352              9.407                     0.26
+Metric Tons Air                                                                         3,614.145                                3,604.750              9.395                     0.26
+Long Tons Air                                                                           3,557.065                                3,547.818              9.247                     0.26
+Short Tons Air                                                                          3,983.913                                3,973.556             10.357                     0.26
+Pounds                                                                                  7,967,826                                7,947,112             20,714                     0.26
+
+
+
+GSV Figures (VEF Adjusted)                                                   Loaded adjusted by VEF                              Bill of Lading     Δ Quantity                    Δ%
+Liters 15°C                                                                               4,298,949                                  4,287,773         11,176                     0.26
+Liters 20°C                                                                               4,315,044                                  4,303,826         11,218                     0.26
+Barrels 60°F                                                                              27,050.66                                  26,980.34          70.32                     0.26
+
+
+
+                                                                  Density 15°C                     Density 20°C                         API 60°F    RD 60/60°F                 S&W%
+Vessel Loaded                                                         0.84178                                                             36.50       0.84226
+Bill of Lading                                                        0.84178                                                             36.50       0.84226
+
+
+
+General Data
+Vessel Loaded Ratio                                                                                          1.00261
+
+
+
+
+,,,                                                                                                                                                              Date: 04 Feb 2021 14:57
+Tel. FAX                                                                                                                                                                     Page 2 of 11
+Website: E-mail:
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 SLGSV V4.1.1.2 2020/05/18
+EXXONMOBIL OIL CORPORATION
+22777 SPRINGWOODS VILLAGE PARKWAY
+77389-1425 Spring
+United States
+ExxonMobil MATS MTO Fairfax
+5065250-10
+Job No                           13052/00002377.0000/01/I/21
+Report date                      04 Feb 2021
+Installation                     Houston, United States of America, ExxonMobil Baytown
+
+Barge                            CBC 397
+Product                          EHC 45
+Bill of Lading date: 02-Feb-2021                                                                                                                      Shore Tank Report Single
+Shore tank 25 at ExxonMobil Baytown
+Shore tank measurement                                                                                                                        Open                         Close
+ Date / Time of measurement                                                                                                      01 Feb 2021 15:45             02 Feb 2021 09:05
+ Average Innage                                                              FT/IN                                                         21 5-7/8                       7 5-3/8
+ Average temp.                                                               °F                                                                70.0                          70.0
+ T.O.V.                                                                      Barrels                                                     41,478.11                     14,388.61
+ Water                                                                       FT/IN                                                             N/D                           N/D
+ Ambient temp.                                                               °F                                                              60.00                         48.00
+ Tank shell temp.                                                            °F                                                              69.00                         67.00
+ CTsh                                                                                                                                      1.00011                       1.00009
+ G.O.V.                                                                      Barrels                                                     41,482.67                     14,389.90
+ API 60°F                                                                                                                                    36.50                         36.50
+ V.C.F.                                                                      6D                                                            0.99585                       0.99585
+ G.S.V.                                                                      barrels 60°F                                                41,310.52                     14,330.18
+ W.C.F.                                                                      MPMS 11.5.1.4.12                                         0.131496430                   0.131496430
+ W.C.F.                                                                      MPMS 11.5.1.4.15                                         0.133606542                   0.133606542
+ Long Tons                                                                                                                               5,432.186                     1,884.368
+ Metric Tons Air                                                                                                                         5,519.356                     1,914.606
+
+
+Totals                                                                                                                                                 GSV                      NSV
+T.O.V.                                  Barrels                                        27,089.50
+                                                                                 Liters 15°C                                                      4,287,773
+G.O.V.                                  Barrels                                        27,092.77
+                                                                                 Liters 20°C                                                      4,303,826
+                                                                                 Liters 30°C                                                      4,336,428
+Density 15°C                            kg/l                            0.84178 Cu m 15°C                                                         4,287.773
+RD 60/60°F                                                              0.84226 Cu m 20°C                                                         4,303.826
+API 60°F                                                                  36.50 Cu m 60°F                                                         4,289.532
+                                                                                 Barrels 60°F                                                     26,980.34
+Average Temp.                           °F                                  70.0 US Gallons 60°F                                               1,133,174.28
+                                                                                 Metric Tons Vac                                                  3,609.352
+Tables used:                            6D and W.C.F. MPMS 11.5.1.4.12.          Metric Tons Air                                                  3,604.750
+                                                                                 Long Tons Air                                                    3,547.818
+                                                                                 Short Tons Air                                                   3,973.556
+                                                                                 Pounds                                                           7,947,112
+
+
+
+
+,,,                                                                                                                                                             Date: 04 Feb 2021 14:57
+Tel. FAX                                                                                                                                                                    Page 3 of 11
+Website: E-mail:
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 STSi V4.1.1.2 2020/05/18
+EXXONMOBIL OIL CORPORATION
+22777 SPRINGWOODS VILLAGE PARKWAY
+77389-1425 Spring
+United States
+ExxonMobil MATS MTO Fairfax
+5065250-10
+Job No                           13052/00002377.0000/01/I/21
+Report date                      04 Feb 2021
+Installation                     Houston, United States of America, ExxonMobil Baytown
+
+Barge                            CBC 397
+Product                          EHC 45
+Bill of Lading date: 02-Feb-2021                                                                                                  Shore Tank Subtotals
+Shore tank Subtotals                                                                                                                   Totals                  25
+
+Gross Standard Volume
+  Liters 15°C                                                                                                                       4,287,773        4,287,773
+  Cu m 15°C                                                                                                                         4,287.773        4,287.773
+  Liters 20°C                                                                                                                       4,303,826        4,303,826
+  Liters 30°C                                                                                                                       4,336,428        4,336,428
+  Cu m 20°C                                                                                                                         4,303.826        4,303.826
+  Cu m 60°F                                                                                                                         4,289.532        4,289.532
+  Barrels 60°F                                                                                                                      26,980.34        26,980.34
+  US gallons 60°F                                                                                                                1,133,174.28     1,133,174.28
+  Metric Tons Vac                                                                                                                   3,609.352        3,609.352
+  Metric Tons Air                                                                                                                   3,604.750        3,604.750
+  Long Tons Air                                                                                                                     3,547.818        3,547.818
+  Short Tons Air                                                                                                                    3,973.556        3,973.556
+  Pounds Air                                                                                                                        7,947,112        7,947,112
+
+      Density 15°C                                                                                                                                      0.84178
+      API 60°F                                                                                                                                            36.50
+      RD 60/60°                                                                                                                                         0.84226
+
+Net Standard Volume
+   Liters 15°C                                                                                                                      4,287,773
+   Liters 20°C                                                                                                                      4,303,826
+   Cu m 15°C                                                                                                                        4,287.773
+   Cu m 20°C                                                                                                                        4,303.826
+   Cu m 60°F                                                                                                                        4,289.532
+   Barrels 60°F                                                                                                                     26,980.34
+   US gallons 60°F                                                                                                               1,133,174.28
+   Metric Tons Vac                                                                                                                  3,609.352
+   Metric Tons Air                                                                                                                  3,604.750
+   Long Tons Air                                                                                                                    3,547.818
+   Short Tons Air                                                                                                                   3,973.556
+   Pounds Air                                                                                                                       7,947,112
+Total Calculated Volume
+   Liters 15°C                                                                                                                                       4,287,773
+   Liters 20°C                                                                                                                                       4,303,826
+   Barrels 60°F                                                                                                                    26,980.34         26,980.34
+   US gallons 60°F                                                                                                                                1,133,174.28
+
+
+
+
+,,,                                                                                                                                        Date: 04 Feb 2021 14:57
+Tel. FAX                                                                                                                                               Page 4 of 11
+Website: E-mail:
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 STST V4.1.1.2 2020/05/18
+EXXONMOBIL OIL CORPORATION
+22777 SPRINGWOODS VILLAGE PARKWAY
+77389-1425 Spring
+United States
+ExxonMobil MATS MTO Fairfax
+5065250-10
+Job No                          13052/00002377.0000/01/I/21
+Report date                     04 Feb 2021
+Installation                    Houston, United States of America, ExxonMobil Baytown
+
+Barge                           CBC 397
+Product                         EHC 45
+Bill of Lading date: 02 Feb 2021                                                                                                                         Certificate of Quantity
+
+The undersigned Independent Saybolt Surveyor herewith declares that the quantity of product loaded by the above mentioned object amounts to:
+
+                                                                                                                                                        Gross                  Net
+Liters 15°C                                                                                                                                         4,287,773            4,287,773
+Liters 20°C                                                                                                                                         4,303,826            4,303,826
+Liters 30°C                                                                                                                                         4,336,428            4,336,428
+Cubic meters 15°C                                                                                                                                   4,287.773            4,287.773
+Cubic meters 20°C                                                                                                                                   4,303.826            4,303.826
+Cubic meters 60°F                                                                                                                                   4,289.532            4,289.532
+Barrels 60°F                                                                                                                                        26,980.34            26,980.34
+US Gallons 60°F                                                                                                                                  1,133,174.28         1,133,174.28
+Metric Tons vac                                                                                                                                     3,609.352            3,609.352
+Metric Tons air                                                                                                                                     3,604.750            3,604.750
+Long Tons                                                                                                                                           3,547.818            3,547.818
+Short Tons                                                                                                                                          3,973.556            3,973.556
+Pounds                                                                                                                                              7,947,112            7,947,112
+
+These quantities have been determined by measurement of shore tanks.
+B/L API 60°F                                                                                                                                           36.50
+B/L Density 15°C                                                                                                                                     0.84178
+B/L RD 60/60°F                                                                                                                                       0.84226
+
+Criteria used
+Liters 15°C to Cu m 15°C                                                                          MPMS 11.5.3 - Annex A                                                      0.001
+US Barrels 60°F to US Gallons 60°F                                                                MPMS 11.5 - Annex D                                                           42
+US Barrels 60°F to Liters 15°C                                                                    MPMS 11.5.1 - 4.20                                                   158.922137
+US Barrels 60°F to Cu m 60°F                                                                      MPMS 11.5 - Annex D                                                 0.158987304
+Metric Tons Air to Metric Tons Vac                                                                MPMS 11.5.3 - 4.5                                                   1.001276515
+Barrels 60°F to Metric Tons Air                                                                   MPMS 11.5.1 - 4.15                                                 0.1336065416
+Barrels 60°F to Long Tons                                                                         MPMS 11.5.1 - 4.12                                                 0.1314964304
+
+
+
+
+                                                                                                                                 Signed by: Saybolt representative
+                                                                                                                                     Name:
+                                                                                                                                     Rank: Saybolt Inspector
+,,,                                                                                                                                                             Date: 04 Feb 2021 14:57
+Tel. FAX                                                                                                                                                                    Page 5 of 11
+Website: E-mail:
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 COQ V4.1.1.2 2020/05/18
+EXXONMOBIL OIL CORPORATION
+22777 SPRINGWOODS VILLAGE PARKWAY
+77389-1425 Spring
+United States
+ExxonMobil MATS MTO Fairfax
+5065250-10
+Job No                             13052/00002377.0000/01/I/21
+Report date                        04 Feb 2021
+Installation                       Houston, United States of America, ExxonMobil Baytown
+
+Barge                              CBC 397
+Product                            EHC 45
+Bill of Lading date: 02-Feb-2021                                                                                                                              Ullage Report Arrival
+Survey Date and Time                          01 Feb 2021 13:35                                                                               API 60°F
+
+Tank                            Innage         Innage corr                TOV                 Free water                           GOV     Temp          VCF table                       GSV
+                                  FT/IN              FT/IN             Barrels           FT/IN         Barrels                   Barrels      °F               6D                Barrels 60°F
+1p                                                      nil                               NIL
+1s                                                      nil                               NIL
+2p                                                      nil                               NIL
+2s                                                      nil                               NIL
+3p                                                      nil                               NIL
+3s                                                      nil                               NIL
+
+Summary Totals
+On-board figures                                                                                                                 Draft                        Correction
+                                                                                                                                 FORE      FT/IN          2-0 TRIM       FT/IN             nil
+                                                                                                                                 AFT       FT/IN          2-0 LIST       °
+
+On-board figures
+
+
+
+
+ Signed by: Ship's representative                                                                                                             Saybolt representative
+     Name:
+     Rank: Barge Master                                                                                                                       Saybolt Inspector
+Measurements in accordance with API standards.
+,,,                                                                                                                                                                    Date: 04 Feb 2021 14:57
+Tel. FAX                                                                                                                                                                           Page 6 of 11
+Website: E-mail:
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 ULL V4.1.1.8 2020/08/03
+EXXONMOBIL OIL CORPORATION
+22777 SPRINGWOODS VILLAGE PARKWAY
+77389-1425 Spring
+United States
+ExxonMobil MATS MTO Fairfax
+5065250-10
+Job No                            13052/00002377.0000/01/I/21
+Report date                       04 Feb 2021
+Installation                      Houston, United States of America, ExxonMobil Baytown
+
+Barge                             CBC 397
+Product                           EHC 45
+Bill of Lading date: 02-Feb-2021                                                                                                                                 Ullage Report Departure
+Survey Date and Time                         02 Feb 2021 08:45                                                                                    API 60°F                         36.50
+
+Tank                              Innage       Innage corr                     TOV                Free water                            GOV       Temp           VCF table                      GSV
+                                    FT/IN            FT/IN                  Barrels           FT/IN       Barrels                    Barrels         °F                6D               Barrels 60°F
+1p                              12 10-3/4              N/A                 4,673.14            N/D                                  4,673.14      68.40           0.99651                  4,656.83
+1s                               13 1-1/8              N/A                 4,732.12            N/D                                  4,732.12      68.40           0.99651                  4,715.60
+2p                               13 3-1/8              N/A                 4,780.73            N/D                                  4,780.73      68.50           0.99647                  4,763.85
+2s                               13 2-3/4              N/A                 4,748.24            N/D                                  4,748.24      68.50           0.99647                  4,731.48
+3p                              12 11-3/8              N/A                 4,122.33            N/D                                  4,122.33      68.10           0.99664                  4,108.48
+3s                              12 11-1/8              N/A                 4,088.32            N/D                                  4,088.32      68.20           0.99660                  4,074.42
+Totals                                                                   27,144.88                                                27,144.88                                               27,050.66
+
+Summary Totals
+On-board figures                                                 OBQ Information                                                 Draft                                Correction
+GSV Barrels 60°F                                 27,050.66                                                                       FORE          FT/IN             10 0 TRIM      FT/IN             nil
+TCV Barrels 60°F                                 27,050.66                                                                       AFT           FT/IN             10 0 LIST      °
+
+                                                                                                                                 Trim/List correction applied:                               No
+On-board figures                                                 Loaded figures
+GSV Liters 15°C                                  4,298,949       GSV Loaded Ltrs 15°C                             4,298,949 Average Product Temp °F                                        68.4
+GSV Liters 20°C                                  4,315,044       Liters 30°C Loaded                               4,347,731
+GSV Liters 30°C                                  4,347,731       Cu m 15°C Loaded                                 4,298.949
+GSV Cu m 15°C                                    4,298.949       Cu m 20°C Loaded                                 4,315.044
+GSV Cu m 20°C                                    4,315.044       Cu m 60°F Loaded                                 4,300.712
+GSV Cu m 60°F                                    4,300.712       GSV Loaded Bbls 60°F                             27,050.66
+GSV Barrels 60°F                                 27,050.66       GSV Loaded US Glns 60°F                       1,136,127.72
+GSV US gallons 60                             1,136,127.72       MT Vac Loaded                                    3,618.759
+MT vac                                           3,618.759       MT Air Loaded                                    3,614.145
+MT air                                           3,614.145       LT Loaded                                        3,557.065
+LT                                               3,557.065       ST Loaded                                        3,983.913
+ST                                               3,983.913       Pounds Loaded                                    7,967,826
+Pounds                                           7,967,826
+
+
+
+
+ Signed by: Ship's representative                                                                                                                 Saybolt representative
+     Name:                                                                                                                                        Paul Kilgore
+     Rank: Barge Master                                                                                                                           Saybolt Inspector
+Measurements in accordance with API standards.
+,,,                                                                                                                                                                          Date: 04 Feb 2021 14:57
+Tel. FAX                                                                                                                                                                                 Page 7 of 11
+Website: E-mail:
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 ULL V4.1.1.8 2020/08/03
+EXXONMOBIL OIL CORPORATION
+22777 SPRINGWOODS VILLAGE PARKWAY
+77389-1425 Spring
+United States
+ExxonMobil MATS MTO Fairfax
+5065250-10
+Job No                           13052/00002377.0000/01/I/21
+Report date                      04 Feb 2021
+Installation                     Houston, United States of America, ExxonMobil Baytown
+
+Barge                            CBC 397
+Product                          EHC 45
+Bill of Lading date: 02-Feb-2021                                                                                             Reference Height and Measurement data report
+Manual Tank Heights
+Tank                                            Calibrated Reference                                     Found Reference Height in FT/IN                    Gauging Location
+                                                    Height in FT/IN                                     Before                      After
+1p                                                     15-7-6                                           15-7-6                    15 7-3/4                         Center
+1s                                                     15-8-4                                           15-8-4                    15 8-3/8                         Center
+2p                                                     15-8-2                                           15-8-2                    15 8-1/4                         Center
+2s                                                     15-8-4                                           15-8-4                    15 8-1/4                         Center
+3p                                                     15-8-4                                           15-8-4                    15 8-1/2                         Center
+3s                                                     15-8-0                                           15-8-0                      15 8                           Center
+
+* Tanks where full sounding depth could not be reached due to obstructions or tankcontours.
+
+Draft                                                                             Before                                                            After
+FWD                                                          FT/IN                                        2-0                           FT/IN                      10 0
+AFT                                                          FT/IN                                        2-0                           FT/IN                      10 0
+
+Measurement data Before Operations
+Survey Date and Time            01 Feb 2021 13:35                                                            Gauge equipment type               Saybolt equipment
+                                                                                                             Gauge equipment used               Manual tape
+                                                                                                             Temp equipment type                Saybolt equipment
+                                                                                                             Temp equipment used                Portable Electronic Thermometer
+
+Measurement data After Operations
+Survey Date and Time            02 Feb 2021 08:45                                                            Gauge equipment type               Saybolt equipment
+Inspector Equipment used for    No                                                                           Gauge equipment used               Manual tape
+verification?                                                                                                Gauge equipment number             20008
+Water Measurement Method        Paste - Kolor Kut                                                            Temp equipment type                Saybolt equipment
+Connector Type                  2"                                                                           Temp equipment used                Portable Electronic Thermometer
+Weather Condition               Cloudy                                                                       Temp equipment number              MK2S 1076
+Sea Condition                   Calm (glassy) - 0 m (0 ft)
+
+
+
+
+ Signed by: Ship's representative                                                                                                         Saybolt representative
+     Name:                                                                                                                                Paul Kilgore
+     Rank: Barge Master                                                                                                                   Saybolt Inspector
+,,,                                                                                                                                                            Date: 04 Feb 2021 14:57
+Tel. FAX                                                                                                                                                                   Page 8 of 11
+Website: E-mail:
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 RHRD V4.1.1.2 2020/06/08
+    EXXONMOBIL OIL CORPORATION
+    22777 SPRINGWOODS VILLAGE PARKWAY
+    77389-1425 Spring
+    United States
+    ExxonMobil MATS MTO Fairfax
+    5065250-10
+    Job No                       13052/00002377.0000/01/I/21
+    Report date                  04 Feb 2021
+    Installation                 Houston, United States of America, ExxonMobil Baytown
+
+    Barge                        CBC 397
+    Product                      EHC 45
+Bill of Lading date: 02-Feb-2021                                                                                                            Line Displacement Report
+Mineral
+
+
+    On your request a line displacement was carried out before loading of the above mentioned vessel, in order to check the
+    condition of the shoreline, and we report as follows:
+,
+
+    Capacity of shoreline from tankside to ships
+                                                                                       700
+    manifold
+    Shore tank(s) used                                                                 25
+    Tanks API 60°F
+    Shore line(s) used                                                                 94
+    Shore line API 60°F
+    Ship tank(s) used                                                                  3W
+    Ships API 60°F
+    Shore Line Displacement Comparison
+                                                                                                        Observed Volume          Temperature       Standard Volume
+                                                                                                            Barrels                  °F                Barrels
+    Shore
+      A Shore tank 25 quantity before                                                                          41,478.11
+      B Shore tank 25 quantity after                                                                           40,693.83
+      C Shore tank difference                                                      (A-B)                        784.28
+      D           Shore tank quantity before                                                                           0
+      E           Shore tank quantity after
+      F           Shore tank difference                                            (D-E)                               0
+      G Total shore difference                                                    (C+F)                           784.28
+    Vessel
+      K Ship tanks quantity before
+      L Ship tanks quantity after                                                                                 736.69
+      M Ships difference                                                           (L-K)                          736.69
+      N Ship line quantity
+      O Difference including Ship line                                            (M+N)                           736.69
+    Totals
+    Difference Ship vs Shore                                                      (O-G)                        Δ Quantity            Δ%
+    Observed Volume                                                              Barrels                         -47.59             -6.07
+    Standard Volume                                                              Barrels
+
+
+
+
+    Signed by: Ship's representative                                                   Shore representative                         Saybolt representative
+        Name:                                                                                                                       DB
+        Rank:                                                                          Loading Master                               Saybolt Inspector
+
+,,,                                                                                                                                                     Date: 04 Feb 2021 14:57
+Tel. FAX                                                                                                                                                            Page 9 of 11
+Website: E-mail:
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 LDP V4.0.10.0 2018/11/21
+EXXONMOBIL OIL CORPORATION
+22777 SPRINGWOODS VILLAGE PARKWAY
+77389-1425 Spring
+United States
+ExxonMobil MATS MTO Fairfax
+5065250-10
+Job No                          13052/00002377.0000/01/I/21
+Report date                     04 Feb 2021
+Installation                    Houston, United States of America, ExxonMobil Baytown
+
+Barge                           CBC 397
+Product                         EHC 45
+Bill of Lading date: 02-Feb-2021                                                                                                                                Sample Report
+
+Grade                                   Description                                                                              Sealed      Distribution   Amount         Volume
+EHC 45                                  st 25 open avg                                                                           Open        Retain         1              1 quarts
+EHC 45                                  1W-3W Final Average                                                                      Sealed      Retain         6              1 Quarts
+                                                                                                                                 Total Samples              7
+
+Vessel's samples were taken using vessel's closed sampling system.
+
+Information
+Samples drawn by                                                                     Saybolt Inspector
+Shoretank sampling location                                                          Top of tank
+Type / condition of sampling containers                                              Clean glass bottles/tins
+Loadport samples delivered by                                                        Saybolt Inspector
+received by                                                                          Vessel
+
+
+Remarks:
+      Samples retained by Saybolt will be held for 90 days (unless otherwise specified) at the end of which they shall be disposed of.
+
+
+
+
+,,,                                                                                                                                                             Date: 04 Feb 2021 14:57
+Tel. FAX                                                                                                                                                                   Page 10 of 11
+Website: E-mail:
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 SMP V4.1.1.2 2020/05/18
+EXXONMOBIL OIL CORPORATION
+22777 SPRINGWOODS VILLAGE PARKWAY
+77389-1425 Spring
+United States
+ExxonMobil MATS MTO Fairfax
+5065250-10
+Job No                            13052/00002377.0000/01/I/21
+Report date                       04 Feb 2021
+Installation                      Houston, United States of America, ExxonMobil Baytown
+
+Barge                             CBC 397
+Product                           EHC 45
+Bill of Lading date: 02-Feb-2021                                                                                                        API Checklist Loading
+  Before Loading                                                                                                                 Standards Ref.
+  Participated in the key meeting                                                                                                API 17.1         Yes
+  Closed / restricted measurement and sampling equipment used onboard                                                            API 17.2         Yes
+  Vessel capacity tables apply, without adjustments, to gauge point used                                                         US Customs       Yes
+  Recorded vessel capacity table reference gauge heights before gauging                                                          API 17.1         Yes
+  Discussed measurements with US Customs inspector before proceeding                                                             US Customs       Yes
+  Used Saybolt calibrated gauging and temperature equipment                                                                      API 3.1a         Yes
+  Pre-loading tank inspection completed and tanks accepted                                                                       API 17.8         Yes
+  Recorded shore automatic gauges and temperatures                                                                               API 17.1         Yes
+  Manual gauging not permitted / possible; vessel’s automatic gauges used                                                        API 17.2         Yes
+  Personally measured shore product, free water & temperature                                                                    API 3.1a         Yes
+  Measured / recorded ambient air temperature for shell expansion calculation                                                    API 12.1         Yes
+  Obtained shore samples using Manual sampling or Automatic sampling                                                             API 8.1/8.2      Manual
+  Automatic sampling pot inspected for cleanliness                                                                               API 17.1         Yes
+  Shore line sample at dock taken before loading                                                                                 API 17.1         Yes
+  Recorded vessel's draft readings before loading                                                                                API 17.1         Yes
+  Check sea valve security and recorded seal numbers before loading                                                              API 17.1         Yes
+  Every cargo tank gauged or visually verifed for OBQ                                                                            API 17.4         Yes
+  Measured OBQ using Saybolt equipment at low end of tank                                                                        API 17.4         Yes
+  OBQ measured at points other than the reference gauge point                                                                    API 17.4         Yes
+  Calculations (or tables) for trim and wedge were used as applicable                                                            API 17.4         Yes
+  OBQ was sampled                                                                                                                API 17.1         Yes
+  OBQ temperature was measured                                                                                                   API 17.1         Not Applicable
+  First foot samples were taken before loading commenced                                                                         API 17.1         Not Applicable
+  Bunker quantities were recorded                                                                                                API 17.1         Not Applicable
+  Verified shore line capacity and fill                                                                                          API 17.6         Yes
+  After Loading                                                                                                                  Standards Ref.
+  Line sample taken during loading                                                                                               API 17.1         Not Applicable
+  Time Log Prepared                                                                                                              API 17.1         Yes
+  Recorded vessel's draft readings after loading                                                                                 API 17.1         Yes
+  Check sea valve security and recorded seal numbers after loading                                                               API 17.1         Not Applicable
+  Bunker quantities were recorded after loading                                                                                  API 17.1         Not Applicable
+  Shore line fill verified after vessel loading                                                                                  API 17.6         Not Applicable
+  Personally measured shore product, free water & temperature                                                                    API 3.1a         Yes
+  Measured / recorded ambient air temperature for shell expansion calculation                                                    API 12.1         Yes
+  Vessel deck lines drained into cargo tanks before gauging                                                                      API 17.1         Yes
+  Measured vessel's cargo, slops, free water, non-cargo areas & temperatures                                                     API 17.2         Yes
+  Inspected ballast tanks for presence of cargo                                                                                  API 17.1         Not Applicable
+  Automatic sampling inspected and appeared to be functioning properly                                                           API 17.1         Not Applicable
+  Loadport samples placed on board; receipt signed by vessel's representative                                                    API 17.1         Not Applicable
+  Vessel Experience Factor data obtained from vessel's records                                                                   API 17.1         Not Applicable
+  Appropriate Letters of Protest issued and signed before leaving job site                                                       API 17.1         Yes
+  Copies of meter tickets and meter proving records obtained                                                                     API 17.1         Not Applicable
+  Meters were proved before or after cargo transfer                                                                              API 17.1         Not Applicable
+
+
+
+
+,,,                                                                                                                                               Date: 04 Feb 2021 14:57
+Tel. FAX                                                                                                                                                     Page 11 of 11
+Website: E-mail:
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 ACAL V4.0.10.0 2018/12/04
+

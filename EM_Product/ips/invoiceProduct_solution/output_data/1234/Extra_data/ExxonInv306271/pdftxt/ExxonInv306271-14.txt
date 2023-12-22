@@ -1,0 +1,43 @@
+                                    COASTAL GULF &
+                                  INTERNATIONAL, INC.
+                                                 "Precision"
+                                          Inspection & Analytical
+                                                   Services
+                                    105 Rustic Drive, Pasadena, TX 77503
+                                   Phone (713)740-9800 Fax (713)740-9292                                     Assuring accuracy through expertise!
+Vessel:      CBC 55                                                              Date:                 April 4, 2021
+Product: EHC 45                                                                 Terminal:              ITC
+Subject: Report of Loading                                                      Port:                  Deer Park, Texas
+ExxonMobil Ref. #: 5343656 / 5343657 / 4800908520                               File Number:           102471
+
+                                                VESSEL MEASURMENT REPORT
+                                                                    CBC 55 UPON ARRIVAL
+               Gauge         Gauge        Temp.                T.O.V.                Water               API                         G.S.V
+   Tank        Height          (Ft.)       (°F)                Barrels       Gauge           Barrels    @ 60° F     V.C. F           Barrels
+    3C       16' 09 1/2"   00' 00 0/4"     60.0                 0.00          ND              0.00       36.5      1.000000           0.00
+
+
+
+
+Tape Serial #: WLWHT 3700/2641           Probe Serial #: 1G113000                             0.00                 Total:                       0.00
+                                                                    CBC 55 UPON DEPARTURE
+               Gauge         Gauge        Temp.                T.O.V.                Water               API                         G.S.V
+   Tank        Height          (Ft.)       (°F)                Barrels       Gauge           Barrels    @ 60° F     V.C. F           Barrels
+    3C       16' 09 1/2"   11' 08 3/8"     67.8               2,863.89        ND             00' 00"     36.5      0.996760         2,854.64
+
+
+
+
+Tape Serial #: WLWHT 3700/2641           Probe Serial #: 1G113000                             0.00                 Total:                 2,854.64
+Arrival:
+Fwd Port:     02' 03"       Fwd Stbd: 02' 03"                                                      QUANTITY RECEIVED
+ Aft Port:    02' 06"       Aft Stbd.: 02' 06"                                           Barrels @ 60 °F              2,854.64
+Departure:                                                                               Gallons @ 60 °F            119,894.88
+Fwd Port:     08' 02"       Fwd Stbd: 08' 02"                                            Pounds                     840,823.00
+ Aft Port:    08' 09"       Aft Stbd.: 08' 09"                                           Metric Tons                  381.391
+                                                                                         Short Tons                   420.412
+                                                                                         Long Tons                    375.367
+Coastal Gulf & International, Inc.                                                       Lbs / Gallon                                        7.013
+Astin Hamilton                                                                           API Gravity @ 60°F                                  36.50
+Houston Communication Center                                                                                                   Version 7.0 01-8-13 NLE
+

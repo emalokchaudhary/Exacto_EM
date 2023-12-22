@@ -1,0 +1,6 @@
+invoice_number        :    ['', 'B-1', '0.0']  
+invoice_date          :    ['', 'B-2', '0.0']  
+tax_amount            :    ['', 'B-3', '0.0']  
+total_amount          :    ['869,186.64', 'B-4', '39.7']  
+company_name          :    ['', 'B-8', '0.0']  
+shipping_amount       :    ['', 'B-9', '0.0']  

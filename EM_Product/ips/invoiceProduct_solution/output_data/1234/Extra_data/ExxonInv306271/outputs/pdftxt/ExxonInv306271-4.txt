@@ -1,0 +1,70 @@
+TRIP: 2021-ITC-BPAL-EHC-09                                                                         21E567437 VER 1 (ISSUED)
+
+Equipment     List: CBC55
+Tow Name:     LUBES-10K-05
+Tow Code:     L10K05
+Voyage #:     11
+Ref No.
+
+2021-ITC-BPAL-EHC-09--5343656
+
+Vetting #: maresly-630284
+Prior Cargo: EHC45
+Cleaning Required: LOT
+
+Owner is to communicate immediately via phone and email any errors in this voyage order.
+Owner is to confirm prior cargo and cleaning directions.
+Owner is to acknowledge voyage order received and understood via email return of this voyage order.
+Please provide an ROB report within 24 hrs of movement if ROB is greater than 0.5% of loaded volume.
+Please include a copy of this voyage order with invoice and send to:
+DS-SRM.Inland-Invoices-Mailbox@ExxonMobil.com
+The cargo(es) listed above may contain different levels of H2S, including levels that could result in
+serious injury or death.
+Vessel operator should take the appropriate precautions to protect their crews from exposure to H2S.
+Information about H2S should be discussed with the terminal operator before loading.
+MSDS and shore tank specific H2S information should be obtained during the pre-transfer conference.
+
+Parcel Comments:
+Retain samples for 90 days.
+
+Quality Inspection Instructions:
+SET 1
+            Description: Shore Tank to Ship Tank Individual Samples
+       Sample Location: Shore Line Grab Sample · Vessel's Manifold at Start of Load · Vessel First Foot · Ship Tank Individual · Shore
+                         Tank Composite (Running)
+Quality Test Comments:
+Prior to vessel arrival, verify temperature of on-shore tank is between 50-149 degF for EHC 45.    If
+shore tank temperature is not within this range, contact scheduler to determine corrective action.
+Arrange to pull (1) liter (clear) sample from each on-shore tank for field appearance test and retain.
+The shore tank appearance test should be conducted at ambient temperature. If any shore tank sample
+fails appearance test, contact scheduler to determine corrective action. The shore tank composite sam-
+ples should be readily available during vessel conveyance for field visual comparison purposes.
+
+During vessel conveyance, arrange to pull (1) liter (clear) samples from each location specified below
+for field appearance test and retain. Field appearance testing for these sample points is not required
+to be conducted at room temperature. Compare each sample with the on-shore tank sample(s). If any sam-
+ple fails appearance test or color is markedly different from on-shore tank sample(s), please flush
+through sample valve until sample is C&B. If subsequent sample is not C&B, contact scheduler to deter-
+mine corrective action.
+* Shore Line Grab Sample - Once the on-shore manifold or loading arm is filled with basestock, sample as
+close to vessel manifold valve as possible.
+* Vessel's Manifold at Start of Load - Once the vessel manifold is filled with basestock, sample at the
+vessel manifold.
+* Ship's First Foot Sample - Once the vessel tank reaches one-foot, sample the compartment.
+
+After the loading, arrange to pull one (1/2 to 1) quart sample of each compartment for visual appearance
+test. Appearance testing for the compartment samples is not required to be conducted at ambient temper-
+ature. If any compartment sample is abnormal, contact scheduler to determine corrective action.
+
+
+
+                                                                                                      RO = Report Only    Req. = Required
+ Test          Methods         Min   Max    UOM    Typical    R.O.   Req.   Comment
+ Additional Tests
+ Appearance    [ASTM]                5              C&B       No     Yes    There must be NO free water. Particle count not to exceed 5
+ Visual        ASTM E2680                                                   max and no abnormal odor.
+
+SET 2
+
+                                                             Page 3 of 7
+

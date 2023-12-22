@@ -1,0 +1,60 @@
+                                         VESSEL EXPERIENCE FACTOR REPORT
+VESSEL          : 650 - 1                                                                                 DATE                 : 06-OCT-2020
+
+           Date           Voyage         Location                 Cargo                     Vessel        Shore       Ratio Qual. Rejection Reason
+                          Number                                                             Bbls          Bbls
+  Last     03-OCT-2020 272               ExxonMobil -             EHC 45 BULK.STOCK          59,823      59,932     0.99818     Y
+                                         Baytown, TX              6802 C
+   2nd     04-SEP-2020 271               ExxonMobil -             EHC 65 BULK.STOCK          11,773      11,777     0.99966     Y
+                                         Baytown, TX              7279
+   3rd     04-SEP-2020 271               ExxonMobil -             EHC 45 BULK.STOCK          50,199      50,028     1.00342     N
+                                         Baytown, TX              6802 C
+   4th     28-MAR-2012                   Magellan -Galena         MULTIPLE                  173,997     173,913     1.00048     Y
+                                         Park, TX
+   5th     02-SEP-2011                   OilTanking -             NAPHTHA                    58,897      58,843     1.00092     Y
+                                         Beaumont, TX
+   6th     19-AUG-2011                   BP Amoco - Texas         JET FUEL                  150,347     150,120     1.00151     Y
+                                         City, TX
+   7th     05-AUG-2011                   BP Amoco - Texas         CBOB 87                   150,114     149,875     1.00159     Y
+                                         City, TX
+   8th     17-JUN-2011                   IMTT St. Rose            FUEL ETHANOL              178,611     178,441     1.00095     Y
+   9th     17-DEC-2010                   OTTI - Houston, TX       NAPHTHA                   173,849     174,008     0.99909     Y
+  10th     08-DEC-2010                   OTTI - Houston, TX       NAPHTHA                   171,957     172,259     0.99825     Y
+  11th     05-DEC-2010                   OTTI - Houston, TX       NAPHTHA                   174,290     174,485     0.99888     Y
+  12th     30-NOV-2010                   OTTI - Houston, TX       NAPHTHA                   175,867     175,926     0.99966     Y
+  13th     26-NOV-2010                   OTTI - Houston, TX       NAPHTHA                   173,299     173,372     0.99958     Y
+  14th     12-NOV-2010                   OTTI - Houston, TX       NAPHTHA                   174,040     173,674     1.00211     Y
+  15th     08-NOV-2010                   OTTI - Houston, TX       NAPHTHA                   173,815     173,849     0.99980     Y
+  16th     29-OCT-2010                   Oil Tanking -            UNTREATED NAPTHA          172,020     172,322     0.99825     Y
+                                         Houston, TX
+  17th     14-OCT-2010                   Oil Tanking -            UNTREATED NAPTHA          174,899     175,319     0.99760     Y
+                                         Houston, TX
+  18th     04-OCT-2010                   Oil Tanking -            LIGHT NAPHTHA             173,921     175,338     0.99192     N
+                                         Houston, TX
+  19th     21-NOV-2009                   Shell Oil - Deer Park,   BG RUL 87 RVP>7.8         174,448     174,966     0.99704     Y
+                                         TX
+  20th     20-JAN-2009                   IMTT Bayonne, NJ         RBOB                      174,965     174,930     1.00020     Y
+
+
+
+
+Totals:        20 considered voyages (TCV Bbls )                                                             2,921,131        2,923,377
+
+               18 qualifying voyages (TCV Bbls )                                                             2,697,011        2,698,011
+
+
+                                                                                                              All voyages Ratio:           0.99923
+                                                                                                      Qualifying Range (*1.003):          1.00223
+                                                                                                                       (*0.997):          0.99623
+N: Excluded (not in qualifying range)                                                       Vessel Experience Factor (LOAD) :             0.9996
+
+Calculated as per API Ch. 17.9 3rd Edition, 2019. Method: Primary
+Some figures were obtained from vessels records. We cannot certify their accuracy.
+
+
+#Error                                                                                                                                      FM-INS-174
+                                                                                                                                   Rev. 0, Octubre 2016
+#Error                                                                                                             Aprobado por: Gerente de Operaciones
+
+                                                                              Page 1 of 1
+

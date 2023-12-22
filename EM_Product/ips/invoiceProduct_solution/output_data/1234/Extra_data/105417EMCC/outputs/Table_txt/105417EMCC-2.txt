@@ -1,0 +1,27 @@
+Product:                 Benzene                                              Terminal:      Total
+Subject:                 Report of Discharge                                  Port:          Carville, Louisiana
+EMCC Ref. #: 5618157-20                                                       File Number:   105417
+
+                                                   TIME LOG OF EVENTS
+August 8, 2021              0900          hrs.      Barge(s) NOR Tendered
+August 9, 2021              1300          hrs.      Barge(s) called in
+August 9, 2021              1600          hrs.      Notified transfer was postponed, due to no tankerman
+August 10, 2021             0001          hrs.      Barge(s) called in second time
+August 10, 2021             0015          hrs.      Surveyor notified
+August 10, 2021             0225          hrs.      Barge(s) arrived
+August 10, 2021             0250          hrs.      Surveyor arrived at terminal
+August 10, 2021             0255          hrs.      Barge(s) docked
+August 10, 2021             0320          hrs.      Shore tank(s) opened
+August 10, 2021             0405          hrs.      Cargo hose(s) connected
+August 10, 2021             0515          hrs.      Commenced arrival barge inspection
+August 10, 2021             0600          hrs.      Completed arrival barge inspection
+August 10, 2021             0900          hrs.      Commenced transfer
+August 10, 2021             0900          hrs.      Surveyor departed terminal
+August 10, 2021             1725          hrs.      Surveyor notified
+August 10, 2021             1845          hrs.      Surveyor arrived at terminal
+August 10, 2021             1945          hrs.      Completed transfer
+August 10, 2021             1950          hrs.      Commenced departure barge inspection
+August 10, 2021             1955          hrs.      Completed departure barge inspection
+August 10, 2021             2015          hrs.      Shore tank(s) closed
+August 10, 2021             2020          hrs.      Cargo hose(s) disconnected
+August 10, 2021             2025          hrs.      Barge(s) Released

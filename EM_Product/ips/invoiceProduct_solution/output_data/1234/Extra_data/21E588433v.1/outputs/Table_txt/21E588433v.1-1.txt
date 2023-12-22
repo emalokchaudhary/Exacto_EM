@@ -1,0 +1,3 @@
+                  Supply Contract Window Start: n/a                              Source Location:
+                   Supply Contract Window End: n/a                                       Supplier:
+                      Total Nominated Quantity: 25,000 Barrels                           Receiver:

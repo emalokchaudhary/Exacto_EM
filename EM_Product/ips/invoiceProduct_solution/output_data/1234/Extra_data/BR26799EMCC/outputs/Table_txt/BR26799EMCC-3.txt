@@ -1,0 +1,15 @@
+Product: Aromatic Concentrate                                                              Terminal:              Placid Refining
+Subject: Report of Loading                                                                 Port:                  Port Allen, Louisiana
+EMCC Ref. #: 4997409-10                                                                    File Number:           BR26799
+
+
+                                                      VESSEL MEASUREMENT REPORT
+                                                                    Chem 3213 UPON ARRIVAL                             Ambient Temp  F: 94.0
+               Obs. Gauge   Gauge (Ft.)          Temp.                T.O.V.                    Water               API                        G.S.V
+   Tank          Height       Ullage              ( F)                Barrels         Gauge             Barrels    @ 60  F    V.C. F           Barrels
+    1P         18' 02 1/2"   00' 00"              60.0                 0.00           00' 00"            0.00       62.2      1.00000           0.00
+    1S           18' 03"     00' 00"              60.0                 0.00           00' 00"            0.00       62.2      1.00000           0.00
+    2P         18' 02' 1/2"  00' 00"              60.0                 0.00           00' 00"            0.00       62.2      1.00000           0.00
+    2S           18' 03"     00' 00"              60.0                 0.00           00' 00"            0.00       62.2      1.00000           0.00
+    3P           18' 03"     00' 00"              60.0                 0.00           00' 00"            0.00       62.2      1.00000           0.00
+    3S           18' 03"     00' 00"              60.0                 0.00           00' 00"            0.00       62.2      1.00000           0.00

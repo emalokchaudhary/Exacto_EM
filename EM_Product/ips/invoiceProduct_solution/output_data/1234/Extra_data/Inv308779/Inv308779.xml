@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="20.11.0">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="16" family="DBEGIA+Arial,Bold" color="#000000"/>
+	<fontspec id="1" size="13" family="FLIPRF+Arial" color="#000000"/>
+	<fontspec id="2" size="16" family="FLIPRF+Arial" color="#000000"/>
+	<fontspec id="3" size="17" family="DBEGIA+Arial,Bold" color="#000000"/>
+	<fontspec id="4" size="17" family="FLIPRF+Arial" color="#000000"/>
+	<fontspec id="5" size="14" family="FLIPRF+Arial" color="#000000"/>
+	<fontspec id="6" size="14" family="DBEGIA+Arial,Bold" color="#000000"/>
+<image top="81" left="54" width="128" height="127" src="./../output_data/1234/560/Inv308779/Inv308779-1_1.jpg"/>
+<text top="77" left="430" width="72" height="16" font="0"><b>Remit to:</b></text>
+<text top="119" left="694" width="28" height="13" font="1">Date</text>
+<text top="151" left="672" width="74" height="16" font="2">7/16/2021</text>
+<text top="119" left="790" width="39" height="13" font="1">Inv No</text>
+<text top="151" left="780" width="60" height="18" font="3"><b>308779</b></text>
+<text top="240" left="79" width="50" height="13" font="1">BILL TO</text>
+<text top="268" left="65" width="255" height="18" font="4">ExxonMobil Chemical Company</text>
+<text top="289" left="65" width="186" height="18" font="4">Attn: Accounts Payable</text>
+<text top="310" left="65" width="292" height="18" font="4">22777 Springwoods Village Parkway</text>
+<text top="330" left="65" width="145" height="18" font="4">Spring, TX  77389</text>
+<text top="351" left="65" width="135" height="18" font="4">(Upload Navarik)</text>
+<text top="240" left="609" width="138" height="15" font="5">JOB INFORMATION</text>
+<text top="268" left="497" width="73" height="18" font="4">CBC 197</text>
+<text top="289" left="497" width="29" height="18" font="4">IPA</text>
+<text top="310" left="497" width="143" height="18" font="4">Report of Loading</text>
+<text top="330" left="497" width="113" height="18" font="4">at ExxonMobil</text>
+<text top="351" left="497" width="192" height="18" font="4">Baton Rouge, Louisiana</text>
+<text top="97" left="269" width="278" height="18" font="3"><b>Coastal Gulf &amp; International, Inc.</b></text>
+<text top="120" left="291" width="235" height="15" font="6"><b>Routing 065402423  acct 3113892</b></text>
+<text top="138" left="281" width="254" height="15" font="6"><b>PO Box 429  Kenner, LA 70063-0429</b></text>
+<text top="156" left="334" width="148" height="15" font="6"><b>985-785-0765 ext 213</b></text>
+<text top="402" left="99" width="52" height="13" font="1">P.O. No.</text>
+<text top="402" left="234" width="174" height="15" font="6"><b>USEBARGCHE-2104-015</b></text>
+<text top="1042" left="412" width="47" height="16" font="2">Terms</text>
+<text top="1042" left="536" width="49" height="16" font="2">30 Net</text>
+<text top="409" left="618" width="79" height="13" font="1">Date Worked</text>
+<text top="442" left="625" width="66" height="15" font="5">7/13/2021</text>
+<text top="409" left="749" width="73" height="13" font="1">File Number</text>
+<text top="442" left="761" width="50" height="15" font="6"><b>104885</b></text>
+<text top="436" left="74" width="100" height="13" font="1">Scheduler Name</text>
+<text top="436" left="258" width="124" height="15" font="6"><b>Marcio Bolicenho</b></text>
+<text top="1021" left="83" width="250" height="18" font="4">We understand that you have a</text>
+<text top="1042" left="81" width="254" height="18" font="4">choice . . .  Thanks for choosing</text>
+<text top="1063" left="193" width="32" height="18" font="4">CGI</text>
+<text top="477" left="268" width="67" height="13" font="1">Description</text>
+<text top="477" left="572" width="21" height="13" font="1">Qty</text>
+<text top="477" left="669" width="28" height="13" font="1">Rate</text>
+<text top="477" left="780" width="46" height="13" font="1">Amount</text>
+<text top="504" left="65" width="270" height="15" font="5">Enabling Service Agreement - A2473671</text>
+<text top="521" left="65" width="119" height="15" font="5">Ref.# 5270944-10</text>
+<text top="556" left="65" width="254" height="15" font="5">Survey of Inland Barge (1,810.019MT)</text>
+<text top="556" left="694" width="46" height="15" font="5">510.00</text>
+<text top="556" left="805" width="46" height="15" font="5">510.00</text>
+<text top="590" left="65" width="459" height="15" font="5">Manpower - Inspector Working Time - Sealing of Hatches (32 Mins @</text>
+<text top="607" left="65" width="122" height="15" font="5">$97/Hr) (10 Seals)</text>
+<text top="590" left="702" width="37" height="15" font="5">48.50</text>
+<text top="590" left="813" width="37" height="15" font="5">48.50</text>
+<text top="658" left="65" width="233" height="15" font="5">Subtotal of Invoice Before Discount</text>
+<text top="658" left="805" width="46" height="15" font="5">558.50</text>
+<text top="675" left="65" width="247" height="15" font="5">Navarik E-Enablement Discount (2%)</text>
+<text top="675" left="684" width="47" height="15" font="5">-2.00%</text>
+<text top="675" left="808" width="42" height="15" font="5">-11.17</text>
+<text top="1005" left="572" width="133" height="16" font="0"><b>INVOICE TOTAL:</b></text>
+<text top="1005" left="794" width="65" height="18" font="3"><b>$547.33</b></text>
+</page>
+</pdf2xml>

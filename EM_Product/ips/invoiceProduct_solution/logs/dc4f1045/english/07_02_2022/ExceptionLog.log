@@ -1,0 +1,32 @@
+
+2022-02-07 06:23:39,592:__main__:
+Filename: CEPAP_7083355.pdf. Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 549, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/dc4f1045/english/CEPAP_7083355/outputs/Table_txt'
+
+2022-02-07 06:51:15,476:__main__:
+Filename: Pyrollpap Oy 3616989.pdf. Error occured in ocr module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 313, in __single_doc_process
+    ocr_success, text_files_path, phase, ocr_flag = drive_ocr_flow(esett.OCR_MODEL_PATHS, document_path, output_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 77, in drive_ocr_flow
+    return ocr_success, text_files_path, phase, ocr_flag
+UnboundLocalError: local variable 'text_files_path' referenced before assignment
+
+2022-02-07 06:58:48,857:__main__:
+Filename: Pyrollpap Oy 3616989.pdf. Error occured in ocr module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 313, in __single_doc_process
+    ocr_success, text_files_path, phase, ocr_flag = drive_ocr_flow(esett.OCR_MODEL_PATHS, document_path, output_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 77, in drive_ocr_flow
+    return ocr_success, text_files_path, phase, ocr_flag
+UnboundLocalError: local variable 'text_files_path' referenced before assignment
+
+2022-02-07 09:35:53,497:__main__:
+Filename: Bong_7023892.Pdf. Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 549, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/dc4f1045/english/Bong_7023892.Pdf/outputs/Table_txt'

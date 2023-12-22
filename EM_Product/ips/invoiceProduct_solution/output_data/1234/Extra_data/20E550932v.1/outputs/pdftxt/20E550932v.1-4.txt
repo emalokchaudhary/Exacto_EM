@@ -1,0 +1,25 @@
+CLEANED !!!
+TRIP: USEBARGCHE-2011-006                                                                      20E550932 VER 1 (ISSUED)
+
+                                                                                                    RO = Report Only          Req. = Required
+ Test                      Methods                                       Min     Max     UOM   Typical      R.O.       Req.     Comment
+ Water content             [ASTM] ASTM D1364, [EN] EN ISO 12937,                 0.10    wt%                No         Yes
+                           [ISO] ISO 12937
+ ACIDITY (ACETIC ACID)     [ASTM] ASTM D1613, [ASTM] ASTM D1045                  0.003   wt%                No         Yes
+
+Invoice Instructions:
+  Bill Invoice To                                                Item to Bill                           Split      Contact / Comment
+ 0102 ExxonMobil Chemical Company - U.S. (Div ExxonMobil Chem-   Quantity only                          100%
+ ical Co) (Legal Entity: 0102 EM Chemical America (0102))
+                                                                 Slate: CHEM-AM-OXO-Lab Sheet           100%
+                                                                 Exxal 13 Inbound Vessel Release
+
+Recipient List:
+batonrouge@coastalgulf.com; ogc.navarik@sgs.com; sgsogc.neworleans@sgs.com; marla.fortner@sgs.com
+                                                                                                                 REPORT GENERATED 09 DEC 2020
+
+
+
+
+                                                         Page 4 of 4
+ 
