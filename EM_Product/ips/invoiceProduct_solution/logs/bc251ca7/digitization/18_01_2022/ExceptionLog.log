@@ -1,0 +1,29 @@
+
+2022-01-18 09:07:33,924:__main__:
+Filename: 2019030574630012090011.tif. Error occured in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 304, in digitize_main
+    main_logger.exception('\nFilename: {0}. Error occured in Digitization.'.format(file_name))
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/PyPDF2/pdf.py", line 1084, in __init__
+    self.read(stream)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/PyPDF2/pdf.py", line 1696, in read
+    raise utils.PdfReadError("EOF marker not found")
+PyPDF2.utils.PdfReadError: EOF marker not found
+
+2022-01-18 09:08:23,779:__main__:
+Filename: full_text_jpeg.jpeg. Error occured in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 304, in digitize_main
+    main_logger.exception('\nFilename: {0}. Error occured in Digitization.'.format(file_name))
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/PyPDF2/pdf.py", line 1084, in __init__
+    self.read(stream)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/PyPDF2/pdf.py", line 1696, in read
+    raise utils.PdfReadError("EOF marker not found")
+PyPDF2.utils.PdfReadError: EOF marker not found
+
+2022-01-18 09:08:50,894:__main__:
+Filename: test.jpg. Error occured in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 304, in digitize_main
+    main_logger.exception('\nFilename: {0}. Error occured in Digitization.'.format(file_name))
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/pradeep/eips/exacto/static/eips_data/scan_invoice_data/bc251ca7/test.jpg'

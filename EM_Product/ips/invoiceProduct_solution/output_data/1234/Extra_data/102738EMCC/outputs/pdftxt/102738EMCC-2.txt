@@ -1,0 +1,45 @@
+CLEANED !!!
+                                 COASTAL GULF &
+                               INTERNATIONAL, INC.
+                                                "Precision"
+                                          Inspection & Analytical
+                                                  Services
+                               2104 South Southland Ave. Gonzales, LA 70737
+                                 Phone (225) 231-4990 Fax (225) 231-7875                     Assuring accuracy through expertise!
+
+Vessel:                  Chem 3248                                            Date:          April 15, 2021
+Product:                 Benzene                                              Terminal:      Ergon
+Subject:                 Report of Loading                                    Port:          Baton Rouge, Louisiana
+EMCC Ref. #: 5403168-10                                                       File Number:   102738
+
+
+                                                    TIME LOG OF EVENTS
+
+April 15, 2021              0001          hrs.      Barge(s) NOR Tendered
+April 15, 2021              1000          hrs.      Barge(s) called in
+April 15, 2021              1015          hrs.      Surveyor notified
+April 15, 2021              1145          hrs.      Surveyor arrived at terminal
+April 15, 2021              1205          hrs.      Shore tank(s) opened
+April 15, 2021              1300          hrs.      Barge(s) arrived
+April 15, 2021              1315          hrs.      Barge(s) docked
+April 15, 2021              1325          hrs.      Commenced arrival barge inspection
+April 15, 2021              1330          hrs.      Completed arrival barge inspection
+April 15, 2021              1345          hrs.      Cargo hose(s) connected
+April 15, 2021              1405          hrs.      Commenced transfer
+April 15, 2021              1430          hrs.      Surveyor departed terminal
+April 15, 2021              1630          hrs.      Surveyor notified
+April 15, 2021              1935          hrs.      Surveyor arrived at terminal
+April 15, 2021              2030          hrs.      Completed transfer
+April 15, 2021              2030          hrs.      Commenced departure barge inspection
+April 15, 2021              2040          hrs.      Completed departure barge inspection
+April 15, 2021              2050          hrs.      Cargo hose(s) disconnected
+April 15, 2021              2050          hrs.      Barge(s) Released
+April 15, 2021              2115          hrs.      Shore tank(s) closed
+
+
+
+
+Coastal Gulf & International, Inc.
+Rusty Mitchell
+Gonzales Communication Center                                                                                       Version 7.0 06-05-13 NLE
+ 

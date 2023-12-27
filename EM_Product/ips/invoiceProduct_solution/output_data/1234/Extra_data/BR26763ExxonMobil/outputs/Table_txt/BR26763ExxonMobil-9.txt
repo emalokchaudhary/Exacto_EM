@@ -1,0 +1,16 @@
+Product:                CSO/MCB                                                     Terminal:               Apex
+Subject:                Report of Discharge                                         Port:                   Port Allen, Louisiana
+ExxonMobil Ref. #: 4971503                                                          File Number:            BR26763
+
+                                     SHORE LINE VERIFICATION REPORT
+
+           Comparison made for Line Displacement at:                           Discharge
+
+                                                SHORE TANK NO.:                              1906
+
+                                                     ullage guage                                         Gross Barrels
+                   OPEN:                                30' 04"                                            49,167.85
+                   CLOSE:                             30' 03 1/2"                                          49,363.29
+                   GROSS BARRELS:                           Received                                         195.44
+
+                                                  VESSEL :                        CBC 7035

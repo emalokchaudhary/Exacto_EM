@@ -1,0 +1,65 @@
+                                         VESSEL EXPERIENCE FACTOR REPORT
+VESSEL          : Oregon                                                                                     DATE             : 19-JAN-2021
+
+       Date          Voyage          Location             Cargo                Unit    Vessel       Shore     Ratio    Rej. Rejection Reason
+                     Number
+ Last 19-AUG-2020 N/A                ExxonMobil -         MOGAS       87 OCT   Bbls   265,425     265,660    0.99912   N
+                                     Baytown, TX          CBOB
+  2nd 17-AUG-2020 N/A                ExxonMobil -         MOGAS       93 OCT    MT     47,917      48,288    0.99232   N
+                                     Baytown, TX          CBOB
+  3rd 14-JUL-2020 N/A                ExxonMobil -         MOGAS       93 OCT   Bbls    47,994      47,948    1.00096   N
+                                     Baytown, TX          CBOB
+  4th 14-JUL-2020                    ExxonMobil -         MOGAS       87 OCT   Bbls   268,929     269,415    0.99820   N
+                                     Baytown, TX          CBOB
+  5th 03-JUL-2020 61                 ExxonMobil -         MOGAS       93 OCT   Bbls    47,685      47,972    0.99402   N
+                                     Baytown, TX          CBOB
+  6th 05-JUN-2020 59                 ExxonMobil -         MOGAS       87 OCT   Bbls   270,493     270,099    1.00146   N
+                                     Baytown, TX          CBOB
+  7th 05-JUN-2020 59                 ExxonMobil -         MOGAS       93 OCT   Bbls    48,002      48,114    0.99767   N
+                                     Baytown, TX          CBOB
+  8th 04-MAY-2020                    ExxonMobil -         ULSD                 Bbls   250,151     250,362    0.99916   N
+                                     Baytown, TX
+  9th 07-MAR-2020                    Enterprise -           CBOB 87 - 10%      Bbls   310,778     310,567    1.00068   N
+                                     Beaumont West, TX      ETOH | ULSD
+ 10th 04-FEB-2020                    ExxonMobil -           MOGAS 93 OCT       Bbls    48,577      48,354    1.00461   N
+                                     Baytown, TX            CBOB
+ 11th 04-FEB-2020 n/a                ExxonMobil -           MOGAS 87 OCT       Bbls   272,963     272,574    1.00143   N
+                                     Baytown, TX            CBOB
+ 12th 23-JAN-2020 N/A                ExxonMobil -           MOGAS 87 OCT       Bbls   274,320     273,946    1.00137   N
+                                     Baytown, TX            CBOB
+ 13th 23-JAN-2020 N/A                ExxonMobil -           MOGAS 93 OCT       Bbls    48,859      48,745    1.00234   N
+                                     Baytown, TX            CBOB
+ 14th 11-DEC-2019                    ExxonMobil -           MOGAS 93 OCT       Bbls   313,549     313,438    1.00035   N
+                                     Baytown, TX            CBOB | MOGAS
+                                                            87 OCT CBOB
+ 15th 12-NOV-2019                    Phillips 66 - West     REGULAR CBOB |     Bbls   323,010     323,010    1.00000   Y   Vessel Measurement
+                                     Lake, LA               PREMIUM CBOB
+ 16th 30-OCT-2019                    ExxonMobil -           MOGAS 93 OCT       Bbls   321,290     320,865    1.00132   N
+                                     Baytown, TX            CBOB | MOGAS
+                                                            87 OCT CBOB
+ 17th 16-OCT-2019                    Enterprise - Vidor, TX CBOB 87 - 10%      Bbls   307,218     306,807    1.00134   N
+                                                            ETOH | ULSD
+ 18th 21-SEP-2019 N/A                ExxonMobil -           MOGAS 93 OCT       Bbls   292,980     293,225    0.99916   N
+                                     Baytown, TX            CBOB | MOGAS
+                                                            87 OCT CBOB
+ 19th 22-AUG-2019 40                 Enterprise -           CBOB 87 - 10%      Bbls   317,887     317,833    1.00017   N
+                                     Beaumont West, TX ETOH | CBOB 93
+                                                            - 10% ETOH
+ 20th 08-AUG-2019                    Enterprise - Vidor, TX CBOB 87 | ULSD     Bbls   271,345     271,096    1.00092   N
+
+
+
+Selected Voyages:            20
+Rejected Voyages:            1
+Considered Voyages:          19
+Remaining Voyages:           16
+Interactions:                4
+
+                                                                                               Vessel Experience Factor (LOAD) :       1.0004
+Calculated as per API Ch. 17.9 3rd Edition, 2019. Method: Alternate
+
+
+
+
+                                                                                 Page 1 of 1
+

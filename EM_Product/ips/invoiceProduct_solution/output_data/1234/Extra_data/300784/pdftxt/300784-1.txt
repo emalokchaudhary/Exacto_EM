@@ -1,0 +1,39 @@
+                                                   Remit to:
+                             Coastal Gulf & International, Inc.
+                                Routing 065402423 acct 3113892                            Date           Inv No
+                               PO Box 429 Kenner, LA 70063-0429
+                                      985-785-0765 ext 213                           9/10/2020         300784
+
+
+
+ BILL TO                                                                    JOB INFORMATION
+
+Exxonmobil Chemical Company                                Chem 3213
+22777 Springwoods Village Parkway                          Aromatic Concentrate
+Spring, TX 77389                                           Report of Loading
+(Upload to Navarik)                                        at Placid Refining
+                                                           Port Allen, Louisiana
+
+    P.O. No.            USEBARGARO-2009-043                                   Date Worked          File Number
+
+ Scheduler Name             Wendy Lauwong                                      9/1/2002            BR26799
+
+                             Description                              Qty            Rate              Amount
+
+Billing Contract/Service Agreement - A2473671
+Ref.# 4997409-10
+
+Survey of Inland Barge (Under 6KM/T) at Minimum                     0.33333               675.00           225.00
+
+
+Subtotal of Invoice Before Discount                                                                        225.00
+Navarik E-Enablement Discount (15%)                                                   -15.00%              -33.75
+
+
+
+
+                                                                      INVOICE TOTAL:                     $191.25
+  We understand that you have a
+  choice . . . Thanks for choosing                Terms           30 Net
+                 CGI
+

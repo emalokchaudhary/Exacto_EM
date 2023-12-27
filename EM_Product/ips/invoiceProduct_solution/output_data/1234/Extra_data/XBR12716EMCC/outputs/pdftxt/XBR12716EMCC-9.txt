@@ -1,0 +1,55 @@
+CLEANED !!!
+                                         COASTAL GULF &
+                                       INTERNATIONAL, INC.
+                                                        "Precision"
+                                                  Inspection & Analytical
+                                                          Services
+                                           2104 S Southland, Gonzales, LA 70737
+                                         Phone (225) 231-4990 Fax (225) 231-7875                                   Assuring accuracy through expertise!
+Vessel:       Kirby 28721 & 29112                                                        Date:                 October 11, 2020
+Product: Aromatic Concentrate                                                           Terminal:              ExxonMobil
+Subject: Report of Discharge                                                            Port:                  Baton Rouge, Louisiana
+EMCC Ref. #: 5054187-20                                                                 File Number:           XBR12716
+
+                                                      VESSEL MEASUREMENT REPORT
+                                                                   Kirby 29112 UPON ARRIVAL                         Ambient Temp  F: 75.5
+               Obs. Gauge      Gauge (Ft.)       Temp.                T.O.V.                 Water               API                         G.S.V
+   Tank          Height          Ullage           ( F)                Barrels      Gauge             Barrels    @ 60  F    V.C. F            Barrels
+    1P         16' 02 3/4"     04' 04 1/4"        76.6               4,501.00      00' 00"            0.00       58.2      0.98878          4,450.50
+    1S           16' 03"       04' 03 3/4"        76.3               4,521.72      00' 00"            0.00       58.2      0.98898          4,471.89
+    2P           16' 03"       04' 03 1/2"        76.8               4,364.05      00' 00"            0.00       58.2      0.98864          4,314.47
+    2S           16' 03"         04' 03"          76.9               4,396.96      00' 00"            0.00       58.2      0.98857          4,346.70
+    3P         16' 00 3/4"     04' 04 1/2"        76.0               4,026.27      00' 00"            0.00       58.2      0.98918          3,982.71
+    3S         16' 00 1/2"     04' 04 3/4"        76.1               4,047.48      00' 00"            0.00       58.2      0.98912          4,003.44
+
+
+
+
+Tape Serial #: 25746   Probe Serial #: 25746                                                          0.00                Total:                25,569.71
+                                 Avg. Temp  F: 76.5            T.O.V. bbls Total    25,857.48
+                                                                   Kirby 29112 UPON DEPARTURE                       Ambient Temp  F: 74.0
+               Obs. Gauge      Gauge (Ft.)       Temp.                T.O.V.                 Water               API                        G.S.V
+   Tank          Height          Ullage           ( F)                Barrels      Gauge             Barrels    @ 60  F    V.C. F           Barrels
+    1P         16' 02 3/4"     16' 02 3/4"        60.0                 0.00        00' 00"            0.00       58.2      1.00000           0.00
+    1S           16' 03"         16' 03"          60.0                 0.00        00' 00"            0.00       58.2      1.00000           0.00
+    2P           16' 03"         16' 03"          60.0                 0.00        00' 00"            0.00       58.2      1.00000           0.00
+    2S           16' 03"         16' 03"          60.0                 0.00        00' 00"            0.00       58.2      1.00000           0.00
+    3P         16' 00 3/4"     16' 00 3/4"        60.0                 0.00        00' 00"            0.00       58.2      1.00000           0.00
+    3S         16' 00 1/2"     16' 00 1/2"        60.0                 0.00        00' 00"            0.00       58.2      1.00000           0.00
+
+
+
+
+Tape Serial #: 25746   Probe Serial #: N/A                                                            0.00                Total:                       0.00
+Arrival:                         Avg. Temp  F: 60.0            T.O.V. bbls Total         0.00                TOTAL QUANTITY
+ Fwd Port:       09' 00"          Fwd Stbd: 09' 00"                                              Barrels @ 60  F              25,569.71
+  Aft Port:      09' 00"          Aft Stbd.: 09' 00"                                             Gallons @ 60  F           1,073,927.82
+Departure:                                                                                       TCV Barrels                  25,569.71
+ Fwd Port:       02' 00"          Fwd Stbd: 02' 00"                                              Pounds                    6,669,092.00
+  Aft Port:      02' 00"          Aft Stbd.: 02' 00"                                             Metric Tons                  3,025.053
+   Trim or List Correction Applied:                 No                                           Short Tons                   3,334.546
+                                                                                                 Long Tons                    2,977.273
+Coastal Gulf & International, Inc.                                                               Lbs / Gallon                                          6.21
+Jon Herrington                                                                                   API Gravity @ 60 F                                 58.20
+Gonzales Communication Center                                                                                                        Version 7.1 04-19-20 JMH
+ 

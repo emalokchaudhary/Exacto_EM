@@ -1,0 +1,27 @@
+Product:                Benzene                                                Terminal:           Ergon
+Subject:                Report of Loading                                      Port:               Baton Rouge, Louisiana
+EMCC Ref. #: 5074792-10                                                        File Number:        BR26970
+
+                                                         RECAPITULATION
+                OFFICIAL QUANTITY                                                           FOR REFERENCE ONLY
+
+DISPORT SHORE FIGURES                        QUANTITY                           BARGE FIGURES                            QUANTITY
+Barrels                                           21,541.97                    Barrels                                        21,248.44
+Gallons                                          904,762.74                    Gallons                                       892,434.48
+Pounds                                         6,664,663.00                    Pounds                                      6,573,851.00
+Metric Tons                                       3,023.040                    Metric Tons                                    2,981.852
+Short Tons                                        3,332.332                    Short Tons                                     3,286.926
+Long Tons                                         2,975.296                    Long Tons                                      2,934.755
+
+
+                                                             For Comparison only
+                              VEF:               0.99970                         Barge With VEF Applied:           21,254.82
+
+BARGE FIGURES In Barrels
+BARGE                                         ARRIVAL                             DEPARTURE                            DIFFERENCE
+CHEM 3245                                       0.00                                21,248.44                            21,248.44
+
+
+
+
+TOV BARRELS                                        0.00                                21,580.15                            21,580.15

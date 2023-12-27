@@ -1,0 +1,37 @@
+CLEANED !!!
+                             COASTAL GULF &
+                           INTERNATIONAL, INC.                                    VESSEL EXPERIENCE FACTOR SEQUENTIAL
+                                           "Precision"
+                                     Inspection & Analytical
+                                            Services
+                               P.O. Box 429 Kenner, LA. 70063-429
+                              Phone (985)785-0765 Fax (985)785-1328                                                                                                                      Assuring accuracy through expertise!
+
+Vessel:          Kirby 10562                                                                                                                    Date:      January 27, 2021
+
+Type of Movement:            Discharge
+                                                                                                                                                                           Step 2
+                                                                                                    Enter all units as Barrels                                              Qual
+                                                                                                                                                                   Step 1 Voy              Qualifying Voyages
+                                                                                     Vessel                          Vessel                                        Gross (+0.30
+       Voyage  Cargo                            Terminal or                          Arrival          Vessel       Discharge              B/L                      Error > %) Y/N         Vessel               Shore
+ Cargo Number Description                          Port                 Date          TCV              ROB            TCV                 TCV           Ratio       2%?      ?             TCV                 TCV
+      Last              Light Straight
+                                    Galveston (United                 30-Oct-19          7,445.79               0          7,445.79         7,408.55     1.00503                  NO
+                        Run GasolineStates)
+      2nd               Toluene     Pasadena (United                  30-Aug-19          9,746.99               0          9,746.99         9,756.89     0.99899                YES           9,746.99            9,756.89
+                                    States)
+       3rd         Toluene          Baton Rouge (United               28-Oct-18          4,991.13               0          4,991.13         5,095.40     0.97954    YES           NO
+                                    States)
+       4th         Isooctyl Alcohol Beaumont (United                  29-Jun-16          8,708.44               0          8,708.44         8,763.01     0.99377                  NO
+                                    States)
+       5th 2447850 Heavy Aromatic Beaumont (United                    30-Jan-16          9,347.19               0          9,347.19         9,348.02     0.99991                YES           9,347.19            9,348.02
+                   Solvent          States)
+       6th         Isopropyl        Braithwaite (United               28-Oct-15          8,718.18               0          8,718.18         9,604.91     0.90768    YES           NO
+                   Alcohol          States)
+       7th         Mono Ethylene Houston (United States)              12-Aug-14          7,720.51               0          7,720.51         7,699.68     1.00271                YES           7,720.51            7,699.68
+                   Glycol
+
+
+
+

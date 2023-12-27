@@ -1,0 +1,56 @@
+CLEANED !!!
+                                         COASTAL GULF &
+                                       INTERNATIONAL, INC.
+                                                        "Precision"
+                                                  Inspection & Analytical
+                                                          Services
+                                       2104 South Southland Ave. Gonzales, LA 70737
+                                         Phone (225) 231-4990 Fax (225) 231-7875                                      Assuring accuracy through expertise!
+Vessel:       Chem 3712                                                                     Date:                 March 5, 2021
+Product: Benzene                                                                           Terminal:              Ergon
+Subject: Report of Loading                                                                 Port:                  Baton Rouge, Louisiana
+EMCC Ref. #: 5323715-10                                                                    File Number:           101794
+
+
+                                                      VESSEL MEASUREMENT REPORT
+                                                                    Chem 3712 UPON ARRIVAL                             Ambient Temp  F: 70.0
+               Obs. Gauge      Gauge (Ft.)       Temp.                T.O.V.                    Water               API                        G.S.V
+   Tank          Height          Ullage           ( F)                Barrels         Gauge             Barrels    @ 60  F    V.C. F           Barrels
+    1P           16' 02"         16' 02"          60.0                32.15           00' 00"            0.00       28.0      1.00000          32.15
+    1S         16' 02 1/4"     16' 02 1/4"        60.0                32.15           00' 00"            0.00       28.0      1.00000          32.15
+    2P         16' 01 1/2"     16' 01 1/2"        60.0                48.13           00' 00"            0.00       28.0      1.00000          48.13
+    2S         16' 01 3/4"     16' 01 3/4"        60.0                35.94           00' 00"            0.00       28.0      1.00000          35.94
+    3P           15' 11"         15' 11"          60.0                39.05           00' 00"            0.00       28.0      1.00000          39.05
+    3S         15' 11 1/2"     15' 11 1/2"        60.0                29.40           00' 00"            0.00       28.0      1.00000          29.40
+
+
+
+
+Tape Serial #: 26405   Probe Serial #: 26405                                                             0.00                Total:                    216.82
+                                 Avg. Temp  F: 60.0            T.O.V. bbls Total          216.82
+                                                                    Chem 3712 UPON DEPARTURE                           Ambient Temp  F: 48.0
+               Obs. Gauge      Gauge (Ft.)       Temp.                T.O.V.                    Water               API                         G.S.V
+   Tank          Height          Ullage           ( F)                Barrels         Gauge             Barrels    @ 60  F    V.C. F            Barrels
+    1P           16' 02"       05' 04 1/4"        64.6               4,412.11         00' 00"            0.00       28.0      0.99698          4,398.79
+    1S         16' 02 1/4"     05' 10 1/2"        65.2               4,209.35         00' 00"            0.00       28.0      0.99658          4,194.95
+    2P         16' 01 1/2"     04' 06 3/4"        65.1               4,410.66         00' 00"            0.00       28.0      0.99665          4,395.88
+    2S         16' 01 3/4"       04' 08"          65.3               4,365.49         00' 00"            0.00       28.0      0.99652          4,350.30
+    3P           15' 11"       06' 00 1/4"        64.8               3,431.67         00' 00"            0.00       28.0      0.99685          3,420.86
+    3S         15' 11 1/2"     05' 06 1/4"        65.0               3,566.91         00' 00"            0.00       28.0      0.99671          3,555.17
+
+
+
+
+Tape Serial #: 26405   Probe Serial #: 26405                                                             0.00                Total:                24,315.95
+Arrival:                         Avg. Temp  F: 65.0            T.O.V. bbls Total       24,396.19                TOTAL QUANTITY
+ Fwd Port:       02' 00"          Fwd Stbd: 02' 00"                                                 Barrels @ 60  F              24,099.13
+  Aft Port:      02' 00"          Aft Stbd.: 02' 00"                                                Gallons @ 60  F           1,012,163.46
+Departure:                                                                                          TCV Barrels                  24,099.13
+ Fwd Port:       09' 00"          Fwd Stbd: 09' 00"                                                 Pounds                    7,455,798.00
+  Aft Port:      09' 00"          Aft Stbd.: 09' 00"                                                Metric Tons                  3,381.897
+   Trim or List Correction Applied:                 No                                              Short Tons                   3,727.899
+                                                                                                    Long Tons                    3,328.481
+Coastal Gulf & International, Inc.                                                                  Lbs / Gallon                                     7.3662
+Rusty Mitchell                                                                                      API Gravity @ 60 F                                 28.00
+Gonzales Communication Center                                                                                                           Version 7.0 06-05-13 NLE
+ 

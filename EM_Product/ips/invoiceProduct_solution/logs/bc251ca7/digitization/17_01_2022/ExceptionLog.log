@@ -1,0 +1,11 @@
+
+2022-01-17 07:58:23,655:__main__:
+Filename: test.jpg. Error occurred in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 311, in digitize_main
+    pdf_path = check_and_convert_extension(pdf_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/multiple_format_to_pdf.py", line 21, in check_and_convert_extension
+    image = Image.open(filePath)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/site-packages/PIL/Image.py", line 2968, in open
+    fp = builtins.open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/pradeep/eips/exacto/static/eips_data/scan_invoice_data/bc251ca7/test.jpg'

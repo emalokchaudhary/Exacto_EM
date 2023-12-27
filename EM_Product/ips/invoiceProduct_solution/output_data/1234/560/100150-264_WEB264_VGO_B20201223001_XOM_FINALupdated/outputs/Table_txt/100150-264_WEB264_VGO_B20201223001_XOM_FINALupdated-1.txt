@@ -1,0 +1,40 @@
+Method               Component                                         Result                           Units        Min   -   Max        Off-Spec
+D5705                Hydrogen Sulfide (Vapor Phase)                    <5                               ppm                  -
+D5705                Temperature                                       140                               F                   -
+IP570                Hydrogen Sulfide (Liquid Phase)                   <1                               ppm                  -
+  Sample Number:                          88739
+   Sample Type:                          Composite                            Sample Location:                        WEB 264
+                                                                                                                          Spec
+Method               Component                                         Result                           Units         Min   -  Max        Off-Spec
+D1159                Bromine Number                                    18.95                            g/kg                 -
+D1160                IBP Recovered AET                                 444                               F                   -
+D1160                5% Recovered AET                                  520                               F                   -
+D1160                10% Recovered AET                                 534                               F                   -
+D1160                20% Recovered AET                                 557                               F                   -
+D1160                30% Recovered AET                                 570                               F                   -
+D1160                40% Recovered AET                                 593                               F                   -
+D1160                50% Recovered AET                                 614                               F                   -
+D1160                60% Recovered AET                                 638                               F                   -
+D1160                70% Recovered AET                                 677                               F                   -
+D1160                80% Recovered AET                                 769                               F                   -
+D1160                90% Recovered AET                                 982                               F                   -
+D1160                95% Recovered AET                                 1017                              F                   -
+D1160                FBP Recovered AET                                 1066                              F                   -
+D1160                Recovery                                          99.0                             %                    -
+D1160                Residue                                           1.0                              %                    -
+D4052                API Gravity at 60 F                               34.2                                                  -
+D4294                Sulfur Content                                    0.181                            wt%                  -
+D4377M               Water Content                                     0.030                            wt%                  -   0.5
+D4530                Micro Carbon Residue Test                         <0.10                            % (m/m)              -   1.5
+D5708A-M             Calcium + Magnesium                               <0.1                             ppm                  -
+D5708A-M             Copper                                            <0.1                             ppm                  -
+D5708A               Iron                                              0.2                              ppm                  -
+D5708A-M             Sodium                                            0.4                              ppm                  -
+D5708A               Nickel                                            <0.1                             ppm                  -
+D5708A               Vanadium                                          <0.1                             ppm                  -
+D5762                Nitrogen                                          160                              ppm                  -
+D611                 Aniline Point                                     180.9                             F                   -
+
+
+
+                                                            13615 River Road, Luling, LA 70070

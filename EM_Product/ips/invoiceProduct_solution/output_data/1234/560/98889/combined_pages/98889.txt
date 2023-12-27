@@ -1,0 +1,155 @@
+                                  COASTAL GULF &
+                                INTERNATIONAL, INC.
+                                                   "Precision"
+                                             Inspection & Analytical
+                                                     Services
+                                      13615 River Road, Luling, LA. 70070
+                                     Phone (985)785-0765 Fax (985)785-1328                       Assuring accuracy through expertise!
+
+Vessel:                 EMS 3009 & 3041B                                     Date:               October 2, 2020
+Product:                CSO/MCB                                              Terminal:           P.F.T
+Subject:                Report of Loading                                    Port:               MT Airy, Louisiana
+ExxonMobil Ref. #: 5048618                                                   File Number:        98889
+Cabot Ref. #: 108258-117517
+                                                          RECAPITULATION
+
+
+               OFFICIAL QUANTITY                                                          FOR REFERENCE ONLY
+                 SHORE FIGURES                                                               BARGE FIGURES
+Barrels                                              40,945.48               Barrels                                          40,837.82
+Gallons                                           1,719,710.16               Gallons                                       1,715,188.44
+Pounds                                           15,749,106.00               Pounds                                       15,707,695.00
+Metric Tons                                          7,143.683               Metric Tons                                      7,124.900
+Short Tons                                           7,874.553               Short Tons                                       7,853.848
+Long Tons                                            7,030.851               Long Tons                                        7,012.364
+
+
+                                                              For Comparison only
+                              VEF:                1.00140                       Barge With VEF Applied:          40,780.73
+
+BARGE FIGURES In Barrels
+BARGE                                           ARRIVAL                         DEPARTURE                            DIFFERENCE
+EMS 3009                                          859.20                          21,554.12                            20,694.92
+EMS 3041B                                        1,406.36                         21,549.26                            20,142.90
+                                                 2,265.56                         43,103.38                            40,837.82
+
+
+
+
+TOV BARRELS                                       2,265.56                           44,114.17                            41,848.61
+
+
+                                Survey was peformed by CGI Surveyor Josh Richardson
+                                    Table 6B used for Volume Correction purposes
+                             Surveyor equipment verified daily using Certified Thermometer
+
+           Survey performed as per and strictly adhering to methods set forth by API Chapters 3,7,8,17 & 12
+
+
+
+Coastal Gulf & International, Inc.
+Bentley Kraemer
+Central Communication Center                                                                                           Version 7.0 06-05-13 NLE
+                                 COASTAL GULF &
+                               INTERNATIONAL, INC.
+                                               "Precision"
+                                         Inspection & Analytical
+                                                 Services
+                                   13615 River Road, Luling, LA. 70070
+                                 Phone (985)785-0765 Fax (985)785-1328                   Assuring accuracy through expertise!
+
+Vessel:                  EMS 3009 & 3041B                                Date:           October 2, 2020
+Product:                 CSO/MCB                                         Terminal:       P.F.T
+Subject:                 Report of Loading                               Port:           MT Airy, Louisiana
+ExxonMobil Ref. #: 5048618                                               File Number:    98889
+Cabot Ref. #: 108258-117517
+                                                  TIME LOG OF EVENTS
+
+September 29, 2020          1700         hrs.     Barge(s) Tendered
+October 1, 2020             0800         hrs.     Barge(s) Called In
+October 1, 2020             1015         hrs.     Surveyor notified of barge arrival
+October 1, 2020             1145         hrs.     Surveyor arrived
+October 1, 2020             1150         hrs.     Barge(s) arrived
+October 1, 2020             1225         hrs.     Barge(s) docked
+October 1, 2020             1230         hrs.     Shore Tank gauged open
+October 1, 2020             1255         hrs.     Commenced arrival barge inspection
+October 1, 2020             1340         hrs.     Cargo hose connected
+October 1, 2020             1345         hrs.     Completed arrival barge inspection
+October 1, 2020             1430         hrs.     Completed arrival barge paperwork
+October 1, 2020             1430         hrs.     Barge approved to commence with Logistics
+October 1, 2020             1455         hrs.     Commenced transfer
+October 1, 2020             1510         hrs.     Suspended transfer for Line Displacement
+October 1, 2020             1520         hrs.     Commenced LD Inspection
+October 1, 2020             1525         hrs.     Completed LD Inspection
+October 1, 2020             1540         hrs.     Completed line displacement paperwork
+October 1, 2020             1540         hrs.     Barge approved to resume with Logistics
+October 1, 2020             1550         hrs.     Resumed transfer
+October 2, 2020             0000         hrs.     Completed transfer
+October 2, 2020             0015         hrs.     Commenced departure barge inspection
+October 2, 2020             0050         hrs.     Shore Tank gauged close
+October 2, 2020             0115         hrs.     Cargo hose disconnected
+October 2, 2020             0210         hrs.     Completed departure barge inspection
+October 2, 2020             0250         hrs.     Completed departure barge paperwork
+October 2, 2020             0250         hrs.     Barge approved to released with Logistics
+October 2, 2020             0520         hrs.     Barge sailed
+October 2, 2020             2210         hrs.     Surveyor notified for barge completion
+October 2, 2020             2345         hrs.     Surveyor arrived
+October 5, 2020             0745         hrs.     Confirmation Received from Terminal
+
+
+
+
+Coastal Gulf & International, Inc.
+Bentley Kraemer
+Central Communication Center                                                                                    Version 7.0 06-05-13 NLE
+                                          COASTAL GULF &
+                                        INTERNATIONAL, INC.
+                                                        "Precision"
+                                                  Inspection & Analytical
+                                                          Services
+                                            13615 River Road, Luling, LA. 70070
+                                          Phone (985)785-0765 Fax (985)785-1328                                             Assuring accuracy through expertise!
+
+Vessel:                     EMS 3009 & 3041B                                                 Date:                          October 2, 2020
+Product:                    CSO/MCB                                                          Terminal:                      P.F.T
+Subject:                    Report of Loading                                                Port:                          MT Airy, Louisiana
+ExxonMobil Ref. #: 5048618                                                                   File Number:                   98889
+Cabot Ref. #: 108258-117517
+                                        SHORE TANK MEASUREMENT REPORT
+              SHORE                                            TEMP.                 T.O.V.                                         G.S.V,
+              TANK                  INNAGE                     DEG. F               BARRELS                FACTOR                  BARRELS
+                 217
+
+              1-Oct-20            19' 07 15/16"         129.6                        53,434.54
+                1230               Water Volume (00' 00")                               0.00                   API
+              Ambient                  Shell Correction                               1.00087                  -2.8
+               Temp.                   Roof Correction                                  0.00
+                82.0                                                                 53,481.03              0.97673                 52,236.53
+              2-Oct-20            04' 04 1/2"          128.8                         11,546.93
+                0050              Water Volume (00' 00")                                0.00                   API
+             Ambient                  Shell Correction                                1.00086                  -2.8
+              Temp.                   Roof Correction                                   0.00
+               65.0                                                                  11,556.86              0.97700                 11,291.05
+            Tank API                             0.0
+            Diff:                               0.00                                        Line Quantity                                0.00
+            Insulated                           Yes                                                 TCV:                              40,945.48
+            Working Temp                        60.0                                              TOTAL:                            40,945.48
+            Open: Tape Serial #: 21609 Probe Serial #: 9A-11009 Close: Tape Serial #: 21609 Probe Serial #: 9A-11009
+
+                     Opening Guage Height                            Reference Gauge Height                            Closing Gauge Height
+                            43' 03 1/4"                                       43' 01 1/8"                                   43' 03 1/4"
+                                                           TOTAL QUANTITY
+                                            Barrels @ 60 °F                   40,945.48
+                                            Gallons @ 60 °F                1,719,710.16
+                                            Pounds                        15,749,106.00
+                                            Metric Tons                       7,143.683
+                                            Short Tons                        7,874.553
+                                            Long Tons                         7,030.851
+                                            Pounds per Gallon                     9.158
+                                            API Gravity @ 60°F                    -2.80
+
+
+Coastal Gulf & International, Inc.
+Bentley Kraemer
+Central Communication Center                                                                                                                    Version 7.0 06-05-13 NLE
+

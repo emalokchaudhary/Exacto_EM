@@ -1,0 +1,265 @@
+TRIP: INTV009FIN-2107-0056                                                               21E584141 VER 1 (ISSUED)
+
+Parcel Summary
+Transport    Location        Activity    Grade    Quantity   ETA    Supply Contract Window   Inspector   Inspection Requirements
+ EXCELLO     PORT-JEROME     Load        VGO      16,500     22     n/a                      SGS Oil,    Quality / Quantity / Time
+ (9308558)   REFINERY,                   LOW      Metric     Jul                             Gas &       log
+             FRANCE                      SULFUR   tonnes     2021                            Chemicals
+             (France)
+ EXCELLO     ROTTERDAM       Discharge   VGO      16,500     24     n/a                      Saybolt     Quantity / Time log
+ (9308558)   REFINERY,                   LOW      Metric     Jul
+             NETHERLANDS                 SULFUR   tonnes     2021
+             (Netherlands)
+
+
+
+
+                                                      Page 1 of 5
+TRIP: INTV009FIN-2107-0056                                                               21E584141 VER 1 (ISSUED)
+
+ Region: EAME                                                                   Other Reference:
+Operator: LOEK VISSCHERS (loek.visschers@exxonmobil.com)                         Business Group: MTO PRODUCTS
+  Phone:                                                                                   Desk: Heavy
+ Mobile:                                                                        Nomination Type: Marine
+
+Documentary Instructions: n/a
+
+
+ LOAD: EXCELLO (9308558) - PORT-JEROME REFINERY, FRANCE (FRANCE)
+                                  Inspector: SGS Oil, Gas & Chemicals           Inspection Status: Accepted
+                                       Hub: HUB - London International office         Created On: 19 Jul 2021 by Loek Viss-
+                                                                                                   chers
+                                    Coordinator: London VBO 01                      Last Modified: 20 Jul 2021 by London
+                                                  (gb.navarik@sgs.com)                             VBO 27
+                                    Local Office: SGS FR - Le Havre
+                                                  (ogc.lehavre@sgs.com)
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5592898-10
+                                           Grade: VGO LOW SULFUR                  Contract Number:
+                                             ETA: 22 Jul 2021                           Parcel Ref:
+                                             ETD:                                      Destination:
+                  Supply Contract Window Start: n/a                               Source Location:
+                   Supply Contract Window End: n/a                                        Supplier:
+                      Total Nominated Quantity: 16,500 Metric tonnes                      Receiver:
+Transport / Voyage Number / Quantity / Tolerance: EXCELLO (9308558) / 16,500 Met-  Delivery Terms: FOB (Free On Board)
+                                                  ric tonnes
+                                                                                    Mother Vessel:
+
+Email Quantity Results To:
+gmtobrussels.heavyproducts@exxonmobil.com, MATS.MTO@exxonmobil.com, sup-
+plybnl.fuelsscheduler@exxonmobil.com, arne.flachet@exxonmobil.com,
+
+Email Quality Results To:
+gmtobrussels.heavyproducts@exxonmobil.com, MATS.MTO@exxonmobil.com, sup-
+plybnl.fuelsscheduler@exxonmobil.com, arne.flachet@exxonmobil.com
+
+Load / Discharge Instructions:
+Activities provided by the Inspection Company under this nomination shall be performed in accor-
+dance with the ExxonMobil Global Inspection Contract (GIC), effective July 2014 to June 2019. SPE-
+CIAL INSTRUCTIONS: Notify nominator if test methods deviate from Quality Specifications Notify
+nominator is any Quality Specification value exceeds min / max value Notify nominator if contami-
+nation or homogeneity checks per vessel composite fail Please provide daily updates using the be-
+low template to complete distribution list: Email Subject: “Vessel Name – ID # - Load Inspection
+Daily Update” 1. Indicate shore tank(s) and date/time of sampling 2. ETA (date and time) of test-
+ing results from shore/ship tank(s) sample(s) 3. ETA (date and time) when Certificate of Quality
+will be issued 4. Comparison of Quality Specifications - showing test, test method, test result,
+and min/max values 5. ETA (date and time) of vessel to berth and Berth No. 6. ETA (date and time)
+to commence / complete loading 7. ETA (date and time) of vessel to depart berth SAMPLING REQUIRE-
+MENTS - Following samples to be drawn as is appropriate: - Jetty head just before commencing load-
+ing from first shore tank: 2x2L, 1 set for retaining and 1 set for master - Jetty head just before
+commencing loading from additional tanks: 2x2L, 1 set for retaining and 1 set for master - Jetty
+head just before completion of loading: 2x2L, 1 set for retaining and 1 set for master - Each
+shore tank: 2x2L, 1 set for retaining and 1 set for master - First foot composite sample: 2x2L, 1
+set for retaining and 1 set for master - Ship's composite sample : 2x2L, 1 set for retaining and 1
+set for master Samples must be sealed and signed by the Master; seal number shall be recorded in
+Sample Receipt Report. One sample set to be placed onboard the vessel for the receivers at the
+disport. One sample set to be retained by load independent inspector for three months.
+
+Quality Inspection Instructions:
+SET 1
+    Description:
+Sample Location: Ship Tanks VolumeMetric Composite
+
+                                                      Page 2 of 5
+TRIP: INTV009FIN-2107-0056                                                                           21E584141 VER 1 (ISSUED)
+
+                                                                                                           RO = Report Only    Req. = Required
+ Test               Methods                         Min   Max      UOM      Typical   R.O.   Req.       Comment
+ Additional Tests
+ Aniline Point      [ASTM] ASTM D611                75             °C                 No     Yes
+ 3.3 Density @      [ASTM] ASTM D4052                     940      Kg/                No     Yes        Also test method EN ISO 12185
+ 15°C                                                              M3
+ FLASH              [ASTM] ASTM D93                 101            °C                 No     Yes        also test method EN ISO 2719
+ POINT,PM °C
+ Pour Point         [ASTM] ASTM D5950, [ASTM]             47       °C                 No     Yes
+                    ASTM D97, [ISO] ISO 3016
+ Viscosity @ 100    [ASTM] ASTM D445                      20       cSt                No     Yes        UOM mm2/s
+ deg C
+ Viscosity at       [ASTM] ASTM D445                               cSt                Yes    No
+ 50°C
+ Bromine Num-       [ASTM] ASTM D1159                     6        g/                 No     Yes
+ ber                                                               100g
+ DISTIL,95%         [ASTM] ASTM D86                                °C                 Yes    No         Test with methods IP 480 and
+ RECOVERED                                                                                              ASTM D7500
+ °C
+ Ash                [ASTM] ASTM D482, [ISO] ISO           500      wt%                No     Yes        UOM: mg/kg
+                    6245
+ Chlorine, organ-   [EN] EN 14075                         2        mg/                No     Yes        Test with methods EN 14077, ASTM
+ ic                                                                kg                                   D5808
+ Conradson Car-     [ISO] ISO 10370, [ASTM] ASTM          15       g/kg               No     Yes
+ bon Residue        D4530
+ Iron               [OTHER] AA                            1.5      mg/                No     Yes        Method ICP/AA
+                                                                   kg
+ Nickel             [OTHER] AA                            1        mg/                No     Yes        Method ICP/AA
+                                                                   kg
+  Total Nitrogen    [ASTM] ASTM D4629                     2,000    ppm                No     Yes        UOM: mg/kg - Also test methods
+                                                                                                        ASTM D3228 and ASTM D5762
+ Sodium             [OTHER] AA/ICP                        1.5      mg/                No     Yes
+                                                                   kg
+ Sulphur            [ASTM] ASTM D4294               5.1   20       mg/                No     Yes        UOM: g/kg - Also test method ASTM
+                                                                   kg                                   D2622
+ Vanadium           [OTHER] AA                            1        mg/                No     Yes        Method ICP/AA
+                                                                   kg
+ Water              [ASTM] ASTM D95                       5        mg/                No     Yes        UOM: dm3/m3
+                                                                   kg
+ Water free en-     [OTHER] Visual                                                    Yes    No
+ trained
+ Total Acid Num-    [ASTM] ASTM D664                               mg                 Yes    No
+ ber (TAN)                                                         KOH/
+                                                                   g
+
+Invoice Instructions:
+  Bill Invoice To                                                                 Item to Bill                  Split    Contact / Comment
+ 0530 Esso Nederland BV (Legal Entity: Esso Nederland BV (0530))                  Quantity only                 50%
+                                                                                  Test: Aniline Point           50%
+                                                                                  Test: 3.3 Density @           50%
+                                                                                  15°C
+                                                                                  Test: FLASH                   50%
+                                                                                  POINT,PM °C
+                                                                                  Test: Pour Point              50%
+
+
+                                                              Page 3 of 5
+TRIP: INTV009FIN-2107-0056                                                                 21E584141 VER 1 (ISSUED)
+
+                                                                      Test: Viscosity @ 100     50%
+                                                                      deg C
+                                                                      Test: Viscosity at        50%
+                                                                      50°C
+                                                                      Test: Bromine Number      50%
+                                                                      Test: DISTIL,95% RE-      50%
+                                                                      COVERED °C
+                                                                      Test: Ash                 50%
+                                                                      Test: Chlorine, organic   50%
+                                                                      Test: Conradson Car-      50%
+                                                                      bon Residue
+                                                                      Test: Iron                50%
+                                                                      Test: Nickel              50%
+                                                                      Test: Total Nitrogen      50%
+                                                                      Test: Sodium              50%
+                                                                      Test: Sulphur             50%
+                                                                      Test: Vanadium            50%
+                                                                      Test: Water               50%
+                                                                      Test: Water free en-      50%
+                                                                      trained
+                                                                      Test: Total Acid Num-     50%
+                                                                      ber (TAN)
+0513 ESSO SOC ANONYME FRANCAISE (Legal Entity: Esso S.A.F. (Societe   Quantity only             50%
+Anonyme Francaise) - Esso France (0513))
+                                                                      Test: Aniline Point       50%
+                                                                      Test: 3.3 Density @       50%
+                                                                      15°C
+                                                                      Test: FLASH               50%
+                                                                      POINT,PM °C
+                                                                      Test: Pour Point          50%
+                                                                      Test: Viscosity @ 100     50%
+                                                                      deg C
+                                                                      Test: Viscosity at        50%
+                                                                      50°C
+                                                                      Test: Bromine Number      50%
+                                                                      Test: DISTIL,95% RE-      50%
+                                                                      COVERED °C
+                                                                      Test: Ash                 50%
+                                                                      Test: Chlorine, organic   50%
+                                                                      Test: Conradson Car-      50%
+                                                                      bon Residue
+                                                                      Test: Iron                50%
+                                                                      Test: Nickel              50%
+                                                                      Test: Total Nitrogen      50%
+                                                                      Test: Sodium              50%
+                                                                      Test: Sulphur             50%
+                                                                      Test: Vanadium            50%
+                                                                      Test: Water               50%
+                                                                      Test: Water free en-      50%
+                                                                      trained
+
+
+
+                                                      Page 4 of 5
+TRIP: INTV009FIN-2107-0056                                                                      21E584141 VER 1 (ISSUED)
+
+                                                                               Test: Total Acid Num-     50%
+                                                                               ber (TAN)
+
+ DISCHARGE: EXCELLO (9308558) - ROTTERDAM REFINERY, NETHERLANDS (NETHERLANDS)
+                                  Inspector: Saybolt                               Inspection Status:               Accepted
+                                       Hub: Europe/Africa/Russia/ME (International       Created On:                19 Jul 2021 by
+                                             Desk Rotterdam)                                                        Loek Visschers
+                                Coordinator: Cora Ligt (intdesk.saynl@corelab.com)     Last Modified:               20 Jul 2021 by
+                                                                                                                    London VBO 27
+                                    Local Office: Saybolt Netherlands Rotterdam (Say-
+                                                  bolt.Rotterdam.Mineral@corelab.com)
+                                     INSPECTION REQUIREMENTS: QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5593327-20
+                                           Grade: VGO LOW SULFUR                          Contract Number:
+                                             ETA: 24 Jul 2021                                   Parcel Ref:
+                                             ETD:                                              Destination:
+                  Supply Contract Window Start: n/a                                        Source Location:
+                   Supply Contract Window End: n/a                                                Supplier:
+                      Total Nominated Quantity: 16,500 Metric tonnes                              Receiver:
+Transport / Voyage Number / Quantity / Tolerance: EXCELLO (9308558) / 16,500 Metric tonnes Delivery Terms: DAP (Delivered at
+                                                                                                            Place)
+                                                                                             Mother Vessel:
+
+Email Quantity Results To:
+Supplybnl.fuelsscheduler@exxonmobil.com, Rotterdam.pc.offsite@exxonmobil.com, soir@exxonmobil.com
+
+gmtobrussels.heavyproducts@exxonmobil.com, MATS.MTO-Brussels@exxonmobil.com, arne.flachet@exxonmobil.com
+
+Load / Discharge Instructions:
+Activities provided by the Inspection Company under this nomination shall be performed in accordance
+with the ExxonMobil Global Inspection Contract (GIC), effective July 2014 to June 2019. SPECIAL INSTRUC-
+TIONS: Notify nominator if test methods deviate from Quality Specifications Notify nominator if any
+Quality Specification value exceeds min / max value Notify nominator if contamination or homogeneity
+checks per vessel composite fail In case the analysis results meet the specification, please indicate on
+the Certificate of Quality "Results are within specification" In case the analysis results do not meet
+the specification, please indicate on the Certificate of Quality "Results are outside specification"
+Please provide daily updates using the below template to complete distribution list: Email Subject:
+“Vessel Name – ID # - Load Inspection Daily Update” 1. Indicate shore tank(s) and date/time of sampling
+2. ETA (date and time) of testing results from shore/ship tank(s) sample(s) 3. ETA (date and time) when
+Certificate of Quality will be issued 4. Comparison of Quality Specifications - showing test, test
+method, test result, and min/max values 5. ETA (date and time) of vessel to berth and Berth No. 6. ETA
+(date and time) to commence / complete loading 7. ETA (date and time) of vessel to depart berth SAMPLING
+REQUIREMENTS - Following samples to be drawn as is appropriate: - Jetty head just before commencing
+loading from first shore tank: 2x2L, 1 set for retaining and 1 set for master - Jetty head just before
+commencing loading from additional tanks: 2x2L, 1 set for retaining and 1 set for master - Jetty head
+just before completion of loading: 2x2L, 1 set for retaining and 1 set for master - Each shore tank:
+2x2L, 1 set for retaining and 1 set for master - First foot composite sample: 2x2L, 1 set for retaining
+and 1 set for master - Ship's composite sample : 2x2L, 1 set for retaining and 1 set for master Samples
+must be sealed and signed by the Master; seal number shall be recorded in Sample Receipt Report. One
+sample set to be placed onboard the vessel for the receivers at the disport. One sample set to be re-
+tained by load independent inspector for three months.
+
+Invoice Instructions:
+  Bill Invoice To                                                             Item to Bill       Split      Contact / Comment
+ 0530 Esso Nederland BV (Legal Entity: Esso Nederland BV (0530))              Quantity only      100%
+
+Recipient List:
+gb.navarik@sgs.com; ogc.lehavre@sgs.com; intdesk.saynl@corelab.com; Saybolt.Rotterdam.Mineral@corelab.com
+                                                                                                               REPORT GENERATED 19 JUL 2021
+
+
+
+
+                                                            Page 5 of 5
+

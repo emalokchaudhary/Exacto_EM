@@ -1,0 +1,31 @@
+Product:                Aromatic Concentrate                                   Terminal:            ExxonMobil
+Subject:                Report of Discharge                                    Port:                Baton Rouge, Louisiana
+EMCC Ref. #: 5054187-20                                                        File Number:         XBR12716
+
+
+                                                           RECAPITULATION
+               OFFICIAL QUANTITY                                                              FOR REFERENCE ONLY
+
+METER FIGURES                                  QUANTITY                         BARGE FIGURES                             QUANTITY
+Barrels                                             51,810.00                  Barrels                                         51,439.59
+Gallons                                          2,176,020.00                  Gallons                                      2,160,462.78
+Pounds                                          13,513,084.00                  Pounds                                      13,416,474.00
+Metric Tons                                         6,129.439                  Metric Tons                                     6,085.618
+Short Tons                                          6,756.543                  Short Tons                                      6,708.237
+Long Tons                                           6,032.627                  Long Tons                                       5,989.497
+
+
+                                                         No Qualifying VEF Available
+
+
+
+BARGE FIGURES In Barrels
+BARGE                                            ARRIVAL                          DEPARTURE                             DIFFERENCE
+Kirby 28721                                      25,869.88                           0.00                                 25,869.88
+Kirby 29112                                      25,569.71                           0.00                                 25,569.71
+                                                 51,439.59                           0.00                                 51,439.59
+
+
+
+
+TOV BARRELS                                       52,088.56                               0.00                               52,088.56

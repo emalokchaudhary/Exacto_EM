@@ -1,0 +1,25 @@
+Product:                 IPA                                               Terminal:      ExxonMobil
+Subject:                 Report of Loading                                 Port:          Baton Rouge, Louisiana
+EMCC Ref. #: 5270944                                                       File Number:   104885
+
+
+                                                   TIME LOG OF EVENTS
+
+July 11, 2021               1340          hrs.     Barge(s) NOR Tendered
+July 11, 2021               1344          hrs.     Barge(s) called in
+July 11, 2021               1345          hrs.     Surveyor notified
+July 11, 2021               1525          hrs.     Barge(s) arrived
+July 11, 2021               1540          hrs.     Barge(s) docked
+July 11, 2021               1615          hrs.     Commenced arrival barge inspection
+July 11, 2021               1630          hrs.     Completed arrival barge inspection
+July 11, 2021               2025          hrs.     Cargo hose(s) connected
+July 11, 2021               2110          hrs.     Commenced transfer
+July 12, 2021               0225          hrs.     Down for Heels
+July 12, 2021               0340          hrs.     Resume transfer
+July 13, 2021               0525          hrs.     Completed transfer
+July 13, 2021               0545          hrs.     Surveyor notified
+July 13, 2021               0605          hrs.     Commenced departure barge inspection
+July 13, 2021               0625          hrs.     Cargo hose(s) disconnected
+July 13, 2021               0655          hrs.     Completed departure barge inspection
+July 13, 2021               0815          hrs.     Barge(s) Released
+July 13, 2021               0920          hrs.     Barge(s) Sailed

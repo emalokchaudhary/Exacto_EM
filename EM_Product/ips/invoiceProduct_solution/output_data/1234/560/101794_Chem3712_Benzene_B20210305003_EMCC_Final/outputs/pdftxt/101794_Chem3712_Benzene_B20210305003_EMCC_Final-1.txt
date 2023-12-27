@@ -1,0 +1,36 @@
+CLEANED !!!
+                                                         Certificate of Analysis
+                                                                                                                  Report Date:       3/5/2021 4:18:53AM
+
+
+    Vessel/Equipment:                      Chem 3712                              File Number:                        101794
+       Shore Tank                             2000                                Lab Number:                      B20210305003
+        Product:                            Benzene                                   Client:                         EMCC
+        Terminal:                    Ergon, Baton Rouge, LA                     Client Reference:                    5323715
+        Subject:                              Load
+    Sample Number:                           95253
+     Sample Type:                          Composite                            Sample Location:                     Chem 3712
+                                                                                                                          Spec
+Method                  Component                                        Result                           Units      Min    -  Max            Off-Spec
+D4176                   Clear and Bright                                 Pass                                                    -
+D4176                   Free Water                                       Pass                                                    -
+D4176                   Particulates                                     Pass                                                    -
+D4176                   Test Temperature                                 21.0                              C                     -
+
+
+
+
+X                                                                                                   X
+
+
+Signed:      Aaron Manguno                                                                         Reviewed by:    Glenn Hanson
+             Laboratory Supervisor                                                                                 VP of Laboratories
+
+
+
+
+                                                              13615 River Road, Luling, LA 70070
+                                                       Phone: (985) 785-0765 Email: cgi@coastalgulf.com
+                  4
+                                                                              1
+ 

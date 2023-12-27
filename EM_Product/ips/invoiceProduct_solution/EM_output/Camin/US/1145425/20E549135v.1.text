@@ -1,0 +1,139 @@
+TRIP: USEBARGFIN-2011-059                                                                     20E549135 VER 1 (ISSUED)
+
+ Region: Americas                                                               Other Reference:
+Operator: SCOTT FRIEDMAN (scott.m.friedman@exxonmobil.com)                       Business Group: S/R INLAND BARGING
+  Phone: 281-838-2976                                                                      Desk: Feedstocks
+ Mobile:                                                                        Nomination Type: Marine
+
+Documentary Instructions: n/a
+
+
+ LOAD: WEB241 (VS00023063) / WEB248 (VS00024485) - MOUNT AIRY, LA - APEX FS TP (UNITED STATES)
+                                       Inspector: Camin Cargo Control Inc.                 Inspection Status: Accepted
+                                             Hub: Camin Cargo Control - Head Office - U.S.       Created On: 25 Nov 2020 by
+                                                                                                              Scott Friedman
+                                    Coordinator: Cassandra Nickerson (cassan-                  Last Modified: 11 Dec 2020 by
+                                                  dra.nickerson@camincargo.com)                               Jamie Smith
+                                    Local Office: Gonzales, LA (opsgonza-
+                                                  les@camincargo.com)
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5146091-10
+                                           Grade: CSO / MCB                                 Contract Number:
+                                             ETA: 25 Nov 2020                                     Parcel Ref:
+                                             ETD:                                                Destination:
+                  Supply Contract Window Start: n/a                                         Source Location:
+                   Supply Contract Window End: n/a                                                  Supplier:
+                      Total Nominated Quantity: 38,000 Barrels                                      Receiver:
+Transport / Voyage Number / Quantity / Tolerance: WEB241 (VS00023063) / 19,000 Barrels       Delivery Terms:
+                                                  +/- 10 pct
+                                                  WEB248 (VS00024485) / 19,000 Barrels        Mother Vessel:
+                                                  +/- 10 pct
+
+Email Quantity Results To:
+mats.mto-fairfax@exxonmobil.com;ffx_oilloss@exxonmobil.com; marine.backup@exxonmobil.com; ds-srm-
+inspection-reports-mailbox@exxonmobil.com; miscellaneous.charges@exxonmobil.com;
+jeff.m.norton@exxonmobil.com; michael.t.koehn@exxonmobil.com; jonathan.w.martin@exxonmobil.com;
+
+Email Quality Results To:
+mats.mto-fairfax@exxonmobil.com; steven.c.greco@exxonmobil.com; jeff.m.norton@exxonmobil.com;
+nathan.t.mcguire@exxonmobil.com; scott.m.friedman@exxonmobil.com; jonathan.w.martin@exxonmobil.com;
+louis.b.faulkner@exxonmobil.com;
+
+Load / Discharge Instructions:
+TANK: 217 - strip into critical zone to load max draft
+CUSTOMER: XOM
+TUG: Charles E Martin
+VETTING ID: lbfaulk-622308
+INCOTERMS: DAP
+
+
+
+Terminal and Inspector must confirm equipment and orders match those of the towing company during the
+pre-transfer conference. If there are any discrepancies, please contact the scheduler. No transfers
+shall begin until discrepancies have been cleared via issuing of new orders.
+
+Overtime: Not Approved
+
+===========================================
+INSPECTION INSTRUCTIONS
+===========================================
+GLOBAL INSPECTION CONTRACT effective from July 2019 to June 2026 is to be used.
+
+IF FOB:
+-QUALITY IS BASED ON SHORE TANK PRIOR TO LOAD OR BARGE COMP IF LOAD IS ACTIVE.
+-QUANTITY IS BASED ON STATIC SHORE TANK DOWNGAUGE AT LOAD OR STATIC UPGAUGE ADJUSTED FOR ROB/OBQ IF LOAD
+IS ACTIVE.
+
+IF DES:
+
+                                                         Page 1 of 3
+TRIP: USEBARGFIN-2011-059                                                                           20E549135 VER 1 (ISSUED)
+
+-QUALITY IS BASED ON BARGE COMP ANALYSIS.
+-QUANTITY IS BASED ON STATIC SHORE TANK UPGAUGE AT DISCHARGE OR STATIC UPGAUGE ADJUSTED FOR ROB/OBQ IF
+LOAD IS ACTIVE.
+
+Quality Inspection Instructions:
+SET 1
+            Description:
+       Sample Location: Vessel/Barge Composite
+Quality Test Comments:
+PLEASE REPORT ZINC ON SEPARATE COA
+
+
+
+
+                                                                                                        RO = Report Only          Req. = Required
+ Test                        Methods                                       Min    Max    UOM        Typical     R.O.       Req.     Comment
+ Aluminium                   [IP] IP 501, [IP] IP 377                                    mg/kg                  No         Yes
+ API Gravity at 60°F         [ASTM] ASTM D1298, [ASTM] ASTM D4052                        API@60°F               No         Yes
+ Ash Content                 [ASTM] ASTM D482                                            %m/m                   No         Yes
+ Asphaltenes                 [IP] IP 143                                                 %m/m                   No         Yes
+ Conradson Carbon            [ASTM] ASTM D189, [ASTM] ASTM D4530                         %m/m                   No         Yes
+ Residue
+ Flash Point (PMCC)          [ASTM] ASTM D93, [ASTM] ASTM D93 Pro-                       °F                     No         Yes
+                             cedure B
+ Potassium                   [IP] IP 501                                                 mg/kg                  No         Yes
+ Pour Point                  [ASTM] ASTM D97                                             °F                     No         Yes
+ Silicon                     [IP] IP 377, [IP] IP 501                                    mg/kg                  No         Yes
+ Sodium                      [IP] IP 501                                                 mg/kg                  No         Yes
+ Sulfur                      [ASTM] ASTM D4294                                           g/kg                   No         Yes
+ Vanadium                    [IP] IP 501                                                 mg/kg                  No         Yes
+ Viscosity @ 50 C (122 F),   [ASTM] ASTM D445                                                                   No         Yes
+ CST
+ H2S in Vapor                [ASTM] ASTM D5705                                           ppm v/v                No         Yes
+ Water by Distillaton        [ASTM] ASTM D95                                             Vol %                  No         Yes
+ Sediment by Extraction      [ASTM] ASTM D473                                            %m                     No         Yes
+ Zinc                        [IP] IP 501                                                 mg/kg                  No         Yes
+ Flash Point                 [ASTM] ASTM D93 Procedure A                                 °F                     No         Yes
+
+Invoice Instructions:
+  Bill Invoice To                                                                 Item to Bill              Split      Contact / Comment
+ 3862 - ExxonMobil Oil Corporation (Legal Entity: ExxonMobil Oil Corp. (EMOC) -   Quantity only             100%
+ Mktg & Ref U.S. Gen Ledger (3862))
+                                                                                  Slate: US BLKO HAFO       100%
+                                                                                  SLATE 2020
+
+
+NOMINATION COMMENTS
+Additional Comments:
+Please strip 217 and load barges max safe draft.
+
+This must load before the Capt Shawn D Martinez discharges into 215 and the balance into 217. Will send
+order for that discharge following these. It is loading in Baton Rouge 11/25-26 so no COA is available
+yet.
+
+Recipient List:
+navarik_coordinator@camincargo.com; opsgonzales@camincargo.com; cassandra.nickerson@camincargo.com
+
+                                                              Page 2 of 3
+TRIP: USEBARGFIN-2011-059                                                                20E549135 VER 1 (ISSUED)
+
+eplaisance@apexoil.com; beilers@apexoil.com; pft4084@apexoil.com; jjackson@apexoil.com
+                                                                                                 REPORT GENERATED 25 NOV 2020
+
+
+
+
+                                                           Page 3 of 3
+

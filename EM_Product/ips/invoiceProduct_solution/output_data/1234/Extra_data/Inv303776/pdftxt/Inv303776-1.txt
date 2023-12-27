@@ -1,0 +1,41 @@
+                                                   Remit to:
+                            Coastal Gulf & International, Inc.
+                               Routing 065402423 acct 3113892                           Date              Inv No
+                              PO Box 429 Kenner, LA 70063-0429
+                                     985-785-0765 ext 213                            12/31/2020         303776
+
+
+
+ BILL TO                                                                      JOB INFORMATION
+
+ExxonMobil Chemical Corporation                              CBC 1388
+Attn: Accounts Payable                                       IPA
+22777 Springwoods Village Parkway                            Report of Loading
+Spring, TX 77389                                             at ExxonMobil
+(Upload To Navarik)                                          Baton Rouge, Louisiana
+
+    P.O. No.             USEBARGCHE-2012-047                                  Date Worked           File Number
+
+ Scheduler Name             Fabiola Arnold                                     12/31/2020            100139
+
+                            Description                                 Qty          Rate               Amount
+
+Enabling Service Agreement - A2473671
+Ref.# 5104721
+
+Survey of Inland Barge                                                                  675.00              675.00
+
+Manpower - Inspector Working Time - Sealing of Hatches (30 Mins @                           50.00             50.00
+$100/Hr) (10 Seals)
+
+Subtotal of Invoice Before Discount                                                                         725.00
+Navarik E-Enablement Discount (15%)                                                   -15.00%              -108.75
+
+
+
+
+                                                                        INVOICE TOTAL:                    $616.25
+  We understand that you have a
+  choice . . . Thanks for choosing               Terms              30 Net
+                 CGI
+

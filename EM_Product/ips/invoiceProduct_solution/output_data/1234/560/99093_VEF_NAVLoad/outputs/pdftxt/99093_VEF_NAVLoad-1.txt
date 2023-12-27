@@ -1,0 +1,54 @@
+CLEANED !!!
+                                                                         VESSEL EXPERIENCE FACTOR
+ VESSEL: EMS 3001 (1029671) / EMS                                                           ACTIVITY: LOAD                                                                       DATE: 09 Nov 2020
+ 3004B (1089245)
+  1       2                 3                      4               5              6           7              8             9          10        11         12           13            14            15
+        Voyage            Grade               Location            Date       Vessel Sail-    OBQ            Load        B/L TCV      Vessel    Step 1     Step 2    Vessel TCV     Shore TCV     Current
+                                                                              ing TCV                       TCV                       Load      Has     Qualified                                Port Call
+                                                                                                                                      Ratio    Gross     Voyage
+                                                                                                     Bbls                                       Error   (> 0.30%)
+                                                                                                                                               (> 2%)
+ Last            Slurry                  Norco (United         03 Sep 2020      26,090.39      1,216.6      24,873.79    24,079.01   1.03301    YES       NO                                       YES
+                                         States)
+ 2nd             Clarified Slurry Oil    Garyville (United     08 Jul 2020      40,540.74     1,126.09      39,414.65    38,404.03   1.02632    YES       NO                                       YES
+                                         States)
+  3rd            High Sulfur Vacuum      Houston (United       12 Apr 2020       47,007.1     1,192.67      45,814.43    45,086.86   1.01614              YES          45,814.43     45,086.86     YES
+                 Gasoil                  States)
+  4th            Heavy Aromatics Fu-     Garyville (United     01 Mar 2020      35,340.51     1,148.48      34,192.03     33,101.5   1.03295    YES       NO                                       YES
+                 el Oil                  States)
+  5th            Gasoil 0.5% Sulfur      Galveston (United     10 Feb 2020      42,221.17     1,331.18      40,889.99    40,020.15   1.02174    YES       NO                                       YES
+                                         States)
+  6th            Slurry                  St Rose (United       05 Nov 2019      30,940.35     1,204.37      29,735.98    29,130.12   1.02080    YES       NO                                       YES
+                                         States)
+  7th            Slurry                  St Rose (United       13 Oct 2019      31,726.64     1,172.99      30,553.65    29,772.67   1.02623    YES       NO                                       YES
+                                         States)
+  8th            Low Sulfur Slurry Oil   Galveston (United     26 Sep 2019      41,560.15     1,171.16      40,388.99    39,400.35   1.02509    YES       NO                                       YES
+                                         States)
+  9th            Slurry                  Houston (United       17 Sep 2019      42,143.28     1,200.45      40,942.83    40,051.79   1.02225    YES       NO                                       YES
+                                         States)
+ 10th            Low Sulfur Slurry Oil   Marrero (United       11 Sep 2019      41,114.25     1,079.26      40,034.99    39,098.54   1.02395    YES       NO                                       YES
+                                         States)
+ 11th            Heavy Aromatics Fu-     Baton Rouge (United   16 Aug 2019      31,410.17     1,155.83      30,254.34    29,165.37   1.03734    YES       NO                                       YES
+                 el Oil                  States)
+ 12th            Heavy Aromatics Fu-     Baton Rouge (United   09 Aug 2019      37,386.46     1,435.43      35,951.03    35,053.85   1.02559    YES       NO                                       YES
+                 el Oil                  States)
+ 13th            Slurry                  St Rose (United       19 Jun 2019      35,305.81     1,192.77      34,113.04    33,252.49   1.02588    YES       NO                                       YES
+                                         States)
+ 14th            Slurry                  St Rose (United       10 Jun 2019      35,367.11     1,217.41       34,149.7    33,511.47   1.01905              NO                                       YES
+                                         States)
+ 15th            Slurry                  St Rose (United       27 May 2019       35,114.8     1,592.81      33,521.99    32,824.26   1.02126    YES       NO                                       YES
+                                         States)
+ 16th            Vacuum Gasoil           Sunshine (United      13 Mar 2019      46,261.58     1,198.94      45,062.64    44,151.35   1.02064    YES       NO                                       YES
+                                         States)
+ 17th            Heavy Aromatics Fu-     Baton Rouge (United   27 Jan 2019      35,236.12     1,087.63      34,148.49    33,191.73   1.02883    YES       NO                                       YES
+                 el Oil                  States)
+ 18th            Heavy Aromatics Fu-     Baton Rouge (United   15 Oct 2018       35,098.3     1,578.31      33,519.99    33,170.23   1.01054              NO                                       YES
+                 el Oil                  States)
+ 19th            Heavy Aromatics Fu-     Baton Rouge (United   09 May 2018      39,822.81     1,271.62      38,551.19    38,118.22   1.01136              YES          38,551.19     38,118.22     YES
+                 el Oil                  States)
+
+
+
+
+EMS 3001 (1029671) / EMS 3004B (1089245)                                                           Page 1 of 2
+ 

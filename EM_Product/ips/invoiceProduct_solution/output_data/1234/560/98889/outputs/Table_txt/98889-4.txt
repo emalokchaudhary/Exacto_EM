@@ -1,0 +1,14 @@
+Product: CSO/MCB                                                                  Terminal:              P.F.T
+Subject: Report of Loading                                                        Port:                  MT Airy, Louisiana
+ExxonMobil Ref. #: 5048618                                                        File Number:           98889
+Cabot Ref. #: 108258-117517
+                                               VESSEL MEASUREMENT REPORT
+                                                               EMS 3009 UPON ARRIVAL
+             Obs. Gauge      Gauge         Temp.               T.O.V.                  Water               API                        G.S.V
+  Tank         Height         (Ft.)         ( F)               Barrels       Gauge             Barrels    @ 60  F    V.C. F           Barrels
+  1 Port       12' 02"     00' 02 1/2"      60.0                78.18        00' 00"            0.00       -2.8      1.00000           78.18
+  1 Stbd     12' 01 3/4"   00' 03 1/4"      60.0                93.06        00' 00"            0.00       -2.8      1.00000           93.06
+  2 Port     12' 00 1/4"     00' 05"        60.0               161.95        00' 00"            0.00       -2.8      1.00000          161.95
+  2 Stbd     12' 00 1/2"   00' 04 1/4"      60.0               131.11        00' 00"            0.00       -2.8      1.00000          131.11
+  3 Port     11' 11 1/2"   00' 06 3/4"      60.0               209.06        00' 00"            0.00       -2.8      1.00000          209.06
+  3 Stbd     11' 11 1/4"     00' 06"        60.0               185.84        00' 00"            0.00       -2.8      1.00000          185.84

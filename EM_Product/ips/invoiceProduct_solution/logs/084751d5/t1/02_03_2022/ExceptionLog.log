@@ -1,0 +1,450 @@
+
+2022-03-02 07:54:16,777:__main__:
+Filename: REC71243 acceptIT GmbH csc 010521.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 136, in drive_nlp_flow
+    sta.update(custom_field_dict)
+UnboundLocalError: local variable 'sta' referenced before assignment
+
+2022-03-02 07:54:16,777:__main__:
+Filename: REC71243 acceptIT GmbH csc 010521.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 136, in drive_nlp_flow
+    sta.update(custom_field_dict)
+UnboundLocalError: local variable 'sta' referenced before assignment
+
+2022-03-02 07:54:16,777:__main__:
+Filename: REC71243 acceptIT GmbH csc 010521.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 136, in drive_nlp_flow
+    sta.update(custom_field_dict)
+UnboundLocalError: local variable 'sta' referenced before assignment
+
+2022-03-02 07:54:16,777:__main__:
+Filename: REC71243 acceptIT GmbH csc 010521.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 136, in drive_nlp_flow
+    sta.update(custom_field_dict)
+UnboundLocalError: local variable 'sta' referenced before assignment
+
+2022-03-02 07:54:16,777:__main__:
+Filename: REC71243 acceptIT GmbH csc 010521.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 136, in drive_nlp_flow
+    sta.update(custom_field_dict)
+UnboundLocalError: local variable 'sta' referenced before assignment
+
+2022-03-02 07:54:16,777:__main__:
+Filename: REC71243 acceptIT GmbH csc 010521.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 136, in drive_nlp_flow
+    sta.update(custom_field_dict)
+UnboundLocalError: local variable 'sta' referenced before assignment
+
+2022-03-02 07:54:16,777:__main__:
+Filename: REC71243 acceptIT GmbH csc 010521.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 136, in drive_nlp_flow
+    sta.update(custom_field_dict)
+UnboundLocalError: local variable 'sta' referenced before assignment
+
+2022-03-02 07:54:16,777:__main__:
+Filename: REC71243 acceptIT GmbH csc 010521.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 136, in drive_nlp_flow
+    sta.update(custom_field_dict)
+UnboundLocalError: local variable 'sta' referenced before assignment
+
+2022-03-02 07:54:16,777:__main__:
+Filename: REC71243 acceptIT GmbH csc 010521.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 136, in drive_nlp_flow
+    sta.update(custom_field_dict)
+UnboundLocalError: local variable 'sta' referenced before assignment
+
+2022-03-02 07:54:16,777:__main__:
+Filename: REC71243 acceptIT GmbH csc 010521.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 136, in drive_nlp_flow
+    sta.update(custom_field_dict)
+UnboundLocalError: local variable 'sta' referenced before assignment
+
+2022-03-02 07:54:16,777:__main__:
+Filename: REC71243 acceptIT GmbH csc 010521.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 136, in drive_nlp_flow
+    sta.update(custom_field_dict)
+UnboundLocalError: local variable 'sta' referenced before assignment
+
+2022-03-02 07:54:16,777:__main__:
+Filename: REC71243 acceptIT GmbH csc 010521.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 136, in drive_nlp_flow
+    sta.update(custom_field_dict)
+UnboundLocalError: local variable 'sta' referenced before assignment
+
+2022-03-02 07:54:16,777:__main__:
+Filename: REC71243 acceptIT GmbH csc 010521.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 136, in drive_nlp_flow
+    sta.update(custom_field_dict)
+UnboundLocalError: local variable 'sta' referenced before assignment
+
+2022-03-02 07:54:16,777:__main__:
+Filename: REC71243 acceptIT GmbH csc 010521.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 136, in drive_nlp_flow
+    sta.update(custom_field_dict)
+UnboundLocalError: local variable 'sta' referenced before assignment
+
+2022-03-02 07:54:16,777:__main__:
+Filename: REC71243 acceptIT GmbH csc 010521.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 136, in drive_nlp_flow
+    sta.update(custom_field_dict)
+UnboundLocalError: local variable 'sta' referenced before assignment
+
+2022-03-02 07:57:48,856:__main__:
+Filename: 0005115022.PDF. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 122, in create_output_folder
+    shutil.rmtree(info_folder_path)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 494, in rmtree
+    _rmtree_safe_fd(fd, path, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 452, in _rmtree_safe_fd
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 450, in _rmtree_safe_fd
+    os.unlink(entry.name, dir_fd=topfd)
+FileNotFoundError: [Errno 2] No such file or directory: '0005115022-1_infoN.txt'
+
+2022-03-02 07:57:48,856:__main__:
+Filename: 0005115022.PDF. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 122, in create_output_folder
+    shutil.rmtree(info_folder_path)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 494, in rmtree
+    _rmtree_safe_fd(fd, path, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 452, in _rmtree_safe_fd
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 450, in _rmtree_safe_fd
+    os.unlink(entry.name, dir_fd=topfd)
+FileNotFoundError: [Errno 2] No such file or directory: '0005115022-1_infoN.txt'
+
+2022-03-02 07:57:48,856:__main__:
+Filename: 0005115022.PDF. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 122, in create_output_folder
+    shutil.rmtree(info_folder_path)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 494, in rmtree
+    _rmtree_safe_fd(fd, path, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 452, in _rmtree_safe_fd
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 450, in _rmtree_safe_fd
+    os.unlink(entry.name, dir_fd=topfd)
+FileNotFoundError: [Errno 2] No such file or directory: '0005115022-1_infoN.txt'
+
+2022-03-02 07:57:48,856:__main__:
+Filename: 0005115022.PDF. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 122, in create_output_folder
+    shutil.rmtree(info_folder_path)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 494, in rmtree
+    _rmtree_safe_fd(fd, path, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 452, in _rmtree_safe_fd
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 450, in _rmtree_safe_fd
+    os.unlink(entry.name, dir_fd=topfd)
+FileNotFoundError: [Errno 2] No such file or directory: '0005115022-1_infoN.txt'
+
+2022-03-02 07:57:48,856:__main__:
+Filename: 0005115022.PDF. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 122, in create_output_folder
+    shutil.rmtree(info_folder_path)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 494, in rmtree
+    _rmtree_safe_fd(fd, path, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 452, in _rmtree_safe_fd
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 450, in _rmtree_safe_fd
+    os.unlink(entry.name, dir_fd=topfd)
+FileNotFoundError: [Errno 2] No such file or directory: '0005115022-1_infoN.txt'
+
+2022-03-02 07:57:48,856:__main__:
+Filename: 0005115022.PDF. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 122, in create_output_folder
+    shutil.rmtree(info_folder_path)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 494, in rmtree
+    _rmtree_safe_fd(fd, path, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 452, in _rmtree_safe_fd
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 450, in _rmtree_safe_fd
+    os.unlink(entry.name, dir_fd=topfd)
+FileNotFoundError: [Errno 2] No such file or directory: '0005115022-1_infoN.txt'
+
+2022-03-02 07:57:48,856:__main__:
+Filename: 0005115022.PDF. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 122, in create_output_folder
+    shutil.rmtree(info_folder_path)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 494, in rmtree
+    _rmtree_safe_fd(fd, path, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 452, in _rmtree_safe_fd
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 450, in _rmtree_safe_fd
+    os.unlink(entry.name, dir_fd=topfd)
+FileNotFoundError: [Errno 2] No such file or directory: '0005115022-1_infoN.txt'
+
+2022-03-02 07:57:48,856:__main__:
+Filename: 0005115022.PDF. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 122, in create_output_folder
+    shutil.rmtree(info_folder_path)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 494, in rmtree
+    _rmtree_safe_fd(fd, path, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 452, in _rmtree_safe_fd
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 450, in _rmtree_safe_fd
+    os.unlink(entry.name, dir_fd=topfd)
+FileNotFoundError: [Errno 2] No such file or directory: '0005115022-1_infoN.txt'
+
+2022-03-02 07:57:48,856:__main__:
+Filename: 0005115022.PDF. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 122, in create_output_folder
+    shutil.rmtree(info_folder_path)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 494, in rmtree
+    _rmtree_safe_fd(fd, path, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 452, in _rmtree_safe_fd
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 450, in _rmtree_safe_fd
+    os.unlink(entry.name, dir_fd=topfd)
+FileNotFoundError: [Errno 2] No such file or directory: '0005115022-1_infoN.txt'
+
+2022-03-02 07:57:48,856:__main__:
+Filename: 0005115022.PDF. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 122, in create_output_folder
+    shutil.rmtree(info_folder_path)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 494, in rmtree
+    _rmtree_safe_fd(fd, path, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 452, in _rmtree_safe_fd
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 450, in _rmtree_safe_fd
+    os.unlink(entry.name, dir_fd=topfd)
+FileNotFoundError: [Errno 2] No such file or directory: '0005115022-1_infoN.txt'
+
+2022-03-02 07:57:48,856:__main__:
+Filename: 0005115022.PDF. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 122, in create_output_folder
+    shutil.rmtree(info_folder_path)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 494, in rmtree
+    _rmtree_safe_fd(fd, path, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 452, in _rmtree_safe_fd
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 450, in _rmtree_safe_fd
+    os.unlink(entry.name, dir_fd=topfd)
+FileNotFoundError: [Errno 2] No such file or directory: '0005115022-1_infoN.txt'
+
+2022-03-02 07:57:48,856:__main__:
+Filename: 0005115022.PDF. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 122, in create_output_folder
+    shutil.rmtree(info_folder_path)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 494, in rmtree
+    _rmtree_safe_fd(fd, path, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 452, in _rmtree_safe_fd
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 450, in _rmtree_safe_fd
+    os.unlink(entry.name, dir_fd=topfd)
+FileNotFoundError: [Errno 2] No such file or directory: '0005115022-1_infoN.txt'
+
+2022-03-02 07:57:48,856:__main__:
+Filename: 0005115022.PDF. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 122, in create_output_folder
+    shutil.rmtree(info_folder_path)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 494, in rmtree
+    _rmtree_safe_fd(fd, path, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 452, in _rmtree_safe_fd
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 450, in _rmtree_safe_fd
+    os.unlink(entry.name, dir_fd=topfd)
+FileNotFoundError: [Errno 2] No such file or directory: '0005115022-1_infoN.txt'
+
+2022-03-02 07:57:48,856:__main__:
+Filename: 0005115022.PDF. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 122, in create_output_folder
+    shutil.rmtree(info_folder_path)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 494, in rmtree
+    _rmtree_safe_fd(fd, path, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 452, in _rmtree_safe_fd
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 450, in _rmtree_safe_fd
+    os.unlink(entry.name, dir_fd=topfd)
+FileNotFoundError: [Errno 2] No such file or directory: '0005115022-1_infoN.txt'
+
+2022-03-02 07:57:48,856:__main__:
+Filename: 0005115022.PDF. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 122, in create_output_folder
+    shutil.rmtree(info_folder_path)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 494, in rmtree
+    _rmtree_safe_fd(fd, path, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 432, in _rmtree_safe_fd
+    _rmtree_safe_fd(dirfd, fullname, onerror)
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 452, in _rmtree_safe_fd
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/shutil.py", line 450, in _rmtree_safe_fd
+    os.unlink(entry.name, dir_fd=topfd)
+FileNotFoundError: [Errno 2] No such file or directory: '0005115022-1_infoN.txt'

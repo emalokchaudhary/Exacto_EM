@@ -1,0 +1,137 @@
+                                  COASTAL GULF &
+                                INTERNATIONAL, INC.
+                                                    "Precision"
+                                              Inspection & Analytical
+                                                      Services
+                                      2104 S Southland, Gonzales, LA 70737
+                                     Phone (225) 231-4990 Fax (225) 231-7875                        Assuring accuracy through expertise!
+
+Vessel:                 Kirby 28721 & 29112                                    Date:                October 11, 2020
+Product:                Aromatic Concentrate                                   Terminal:            ExxonMobil
+Subject:                Report of Discharge                                    Port:                Baton Rouge, Louisiana
+EMCC Ref. #: 5054187-20                                                        File Number:         XBR12716
+
+
+                                                           RECAPITULATION
+               OFFICIAL QUANTITY                                                              FOR REFERENCE ONLY
+
+METER FIGURES                                  QUANTITY                         BARGE FIGURES                             QUANTITY
+Barrels                                             51,810.00                  Barrels                                         51,439.59
+Gallons                                          2,176,020.00                  Gallons                                      2,160,462.78
+Pounds                                          13,513,084.00                  Pounds                                      13,416,474.00
+Metric Tons                                         6,129.439                  Metric Tons                                     6,085.618
+Short Tons                                          6,756.543                  Short Tons                                      6,708.237
+Long Tons                                           6,032.627                  Long Tons                                       5,989.497
+
+
+                                                         No Qualifying VEF Available
+
+
+
+BARGE FIGURES In Barrels
+BARGE                                            ARRIVAL                          DEPARTURE                             DIFFERENCE
+Kirby 28721                                      25,869.88                           0.00                                 25,869.88
+Kirby 29112                                      25,569.71                           0.00                                 25,569.71
+                                                 51,439.59                           0.00                                 51,439.59
+
+
+
+
+TOV BARRELS                                       52,088.56                               0.00                               52,088.56
+                                          51,439.59                                    0.00
+                           Survey was peformed by CGI Surveyor A,B,C,and D TEAMS
+                                   Table 6B used for Volume Correction purposes
+                          Surveyor equipment verified daily using Certified Thermometer
+                        Conditions during the inspection were Calm; between 00' and 01' Seas
+          "Survey performed as per and strictly adhering to methods set forth by API Chapters 3,7,8,17 & 12"
+      "All CGI measurement devices and methods used for quantity and quality determination meet the pertinent
+                 requirements of 40 CFR 98.3 et. Seq. (Greenhouse Gas Mandatory Reporting Rule)"
+
+
+Coastal Gulf & International, Inc.
+Jon Herrington
+Gonzales Communication Center                                                                                             Version 7.1 04-19-20 JMH
+                                  COASTAL GULF &
+                                INTERNATIONAL, INC.
+                                                "Precision"
+                                          Inspection & Analytical
+                                                  Services
+                      ®           2104 S Southland, Gonzales, LA 70737
+                                 Phone (225) 231-4990 Fax (225) 231-7875                                     Assuring accuracy through expertise!
+
+Vessel:                   Kirby 28721 & 29112                                      Date:          October 11, 2020
+Product:                  Aromatic Concentrate                                     Terminal:      ExxonMobil
+Subject:                  Report of    Discharge                                   Port:          Baton Rouge, Louisiana
+EMCC Ref. #: 5054187-20                                                            File Number:   XBR12716
+                                                     VOYAGE ANALYSIS
+OUTTURN COMPARISON                                                   DATE                         NET BARRELS
+Load port Terminal:         EMCC, Beaumont                                 October 5, 2020               ACTIVE
+Discharge Terminal:             ExxonMobil                                 October 11, 2020             51,810.00
+                                                                    Apparent Difference:                 ACTIVE
+                                                               Adjustment for Bottoms:                     0.00
+                                                                     Adjusted Difference:                ACTIVE
+
+
+OBQ/ROB RECAPITULATION
+                                                   On Board Quantity at Load Port:                         0.00
+                             Remaining on Board Quantity at Discharge Port:                                0.00
+                      Adjustment for Bottoms Pumped off or Left on Board:                                  0.00
+
+
+FREE WATER COMPARISON
+                                                 Free Water Quantity at Load Port:                         0.00
+                                         Free Water Quantity at Discharge Port:                            0.00
+                      Adjustment for Bottoms Pumped off or Left on Board:                                  0.00
+
+
+IN-TRANSIT COMPARISON
+                                                         Sailing Figures at Load port:                  51,402.89
+                                                 Arrival Figures at Discharge Port:                     51,439.59
+                                                                   In-Transit Difference:                 36.70
+
+
+
+
+Coastal Gulf & International, Inc.
+Jon Herrington
+Gonzales Communication Center                                                                                        Version 7.1 04-19-20 JMH
+                                 COASTAL GULF &
+                               INTERNATIONAL, INC.
+                                                "Precision"
+                                          Inspection & Analytical
+                                                  Services
+                                  2104 S Southland, Gonzales, LA 70737
+                                 Phone (225) 231-4990 Fax (225) 231-7875                  Assuring accuracy through expertise!
+
+Vessel:                  Kirby 28721 & 29112                               Date:          October 11, 2020
+Product:                 Aromatic Concentrate                              Terminal:      ExxonMobil
+Subject:                 Report of Discharge                               Port:          Baton Rouge, Louisiana
+EMCC Ref. #: 5054187-20                                                    File Number:   XBR12716
+
+
+                                      Kirby 28721 TIME LOG OF EVENTS
+
+October 8, 2020             0515          hrs.     Barge(s) NOR Tendered
+October 8, 2020             0518          hrs.     Barge(s) called in
+October 8, 2020             0518          hrs.     Surveyor notified
+October 8, 2020             0640          hrs.     Barge(s) arrived
+October 8, 2020             0725          hrs.     Barge(s) docked
+October 8, 2020             0750          hrs.     Commenced arrival barge inspection
+October 8, 2020             0840          hrs.     Completed arrival barge inspection
+October 8, 2020             0845          hrs.     Cargo hose(s) connected
+October 8, 2020             0945          hrs.     Commenced transfer
+October 8, 2020             2015          hrs.     Surveyor notified
+October 8, 2020             2110          hrs.     Completed transfer
+October 8, 2020             2120          hrs.     Commenced departure barge inspection
+October 8, 2020             2140          hrs.     Completed departure barge inspection
+October 8, 2020             2215          hrs.     Cargo hose(s) disconnected
+October 8, 2020             2307          hrs.     Barge(s) Released
+October 8, 2020             2307          hrs.     Barge(s) Sailed
+
+
+
+
+Coastal Gulf & International, Inc.
+Jon Herrington
+Gonzales Communication Center                                                                                    Version 7.1 04-19-20 JMH
+

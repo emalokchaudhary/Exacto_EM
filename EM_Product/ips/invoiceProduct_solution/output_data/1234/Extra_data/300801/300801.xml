@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="20.11.0">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="16" family="UMJUHG+Arial,Bold" color="#000000"/>
+	<fontspec id="1" size="13" family="EFHZFS+Arial" color="#000000"/>
+	<fontspec id="2" size="16" family="EFHZFS+Arial" color="#000000"/>
+	<fontspec id="3" size="17" family="UMJUHG+Arial,Bold" color="#000000"/>
+	<fontspec id="4" size="17" family="EFHZFS+Arial" color="#000000"/>
+	<fontspec id="5" size="14" family="EFHZFS+Arial" color="#000000"/>
+	<fontspec id="6" size="14" family="UMJUHG+Arial,Bold" color="#000000"/>
+<image top="81" left="54" width="128" height="127" src="./../output_data/1234/560/300801/300801-1_1.jpg"/>
+<text top="77" left="430" width="72" height="16" font="0"><b>Remit to:</b></text>
+<text top="120" left="694" width="28" height="13" font="1">Date</text>
+<text top="152" left="672" width="74" height="16" font="2">9/10/2020</text>
+<text top="120" left="790" width="39" height="13" font="1">Inv No</text>
+<text top="151" left="780" width="60" height="18" font="3"><b>300801</b></text>
+<text top="241" left="79" width="50" height="13" font="1">BILL TO</text>
+<text top="269" left="65" width="255" height="17" font="4">ExxonMobil Chemical Company</text>
+<text top="290" left="65" width="186" height="17" font="4">Attn: Accounts Payable</text>
+<text top="311" left="65" width="292" height="17" font="4">22777 Springwoods Village Parkway</text>
+<text top="331" left="65" width="145" height="17" font="4">Spring, TX  77389</text>
+<text top="352" left="65" width="155" height="17" font="4">(Upload to Navarik)</text>
+<text top="240" left="609" width="138" height="14" font="5">JOB INFORMATION</text>
+<text top="269" left="497" width="82" height="17" font="4">FMT 6010</text>
+<text top="290" left="497" width="71" height="17" font="4">Benzene</text>
+<text top="311" left="497" width="160" height="17" font="4">Report of Discharge</text>
+<text top="331" left="497" width="73" height="17" font="4">at Motiva</text>
+<text top="352" left="497" width="158" height="17" font="4">Port Neches, Texas</text>
+<text top="97" left="269" width="278" height="18" font="3"><b>Coastal Gulf &amp; International, Inc.</b></text>
+<text top="120" left="291" width="235" height="15" font="6"><b>Routing 065402423  acct 3113892</b></text>
+<text top="138" left="281" width="254" height="15" font="6"><b>PO Box 429  Kenner, LA 70063-0429</b></text>
+<text top="156" left="334" width="148" height="15" font="6"><b>985-785-0765 ext 213</b></text>
+<text top="403" left="99" width="52" height="13" font="1">P.O. No.</text>
+<text top="402" left="233" width="176" height="15" font="6"><b>USEBARGARO-2008-066</b></text>
+<text top="1043" left="412" width="47" height="16" font="2">Terms</text>
+<text top="1043" left="536" width="49" height="16" font="2">30 Net</text>
+<text top="410" left="618" width="79" height="13" font="1">Date Worked</text>
+<text top="443" left="629" width="58" height="14" font="5">9/1/2020</text>
+<text top="410" left="749" width="73" height="13" font="1">File Number</text>
+<text top="442" left="755" width="61" height="15" font="6"><b>BT11076</b></text>
+<text top="437" left="74" width="100" height="13" font="1">Scheduler Name</text>
+<text top="436" left="259" width="123" height="15" font="6"><b>Veronica Morales</b></text>
+<text top="1022" left="83" width="250" height="17" font="4">We understand that you have a</text>
+<text top="1043" left="81" width="254" height="17" font="4">choice . . .  Thanks for choosing</text>
+<text top="1064" left="193" width="32" height="17" font="4">CGI</text>
+<text top="477" left="268" width="67" height="13" font="1">Description</text>
+<text top="477" left="572" width="21" height="13" font="1">Qty</text>
+<text top="477" left="669" width="28" height="13" font="1">Rate</text>
+<text top="477" left="780" width="46" height="13" font="1">Amount</text>
+<text top="505" left="65" width="312" height="14" font="5">Billing Contract/Service Agreement - A2473671</text>
+<text top="522" left="65" width="119" height="14" font="5">Ref.# 4974269-20</text>
+<text top="556" left="65" width="340" height="14" font="5">Survey of Inland Barge  (Under 6KM/T) at Minimum</text>
+<text top="556" left="572" width="21" height="14" font="5">0.5</text>
+<text top="556" left="694" width="46" height="14" font="5">675.00</text>
+<text top="556" left="805" width="46" height="14" font="5">337.50</text>
+<text top="608" left="65" width="233" height="14" font="5">Subtotal of Invoice Before Discount</text>
+<text top="608" left="805" width="46" height="14" font="5">337.50</text>
+<text top="625" left="65" width="255" height="14" font="5">Navarik E-Enablement Discount (15%)</text>
+<text top="625" left="676" width="56" height="14" font="5">-15.00%</text>
+<text top="625" left="808" width="42" height="14" font="5">-50.63</text>
+<text top="1005" left="572" width="133" height="16" font="0"><b>INVOICE TOTAL:</b></text>
+<text top="1005" left="794" width="65" height="18" font="3"><b>$286.87</b></text>
+</page>
+</pdf2xml>

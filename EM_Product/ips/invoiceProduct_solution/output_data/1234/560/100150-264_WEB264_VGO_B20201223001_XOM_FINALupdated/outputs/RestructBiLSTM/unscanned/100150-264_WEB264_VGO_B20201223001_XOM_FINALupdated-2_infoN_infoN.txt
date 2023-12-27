@@ -1,0 +1,28 @@
+    Vessel/Equipment:                     WEB 264                              File Number:                        100150-264
+       Shore Tank                           50-1                               Lab Number:                        B20201223001
+        Product:                       Vacuum Gas Oil                              Client:                         ExxonMobil
+        Terminal:                     LBC, Sunshine, LA                      Client Reference:                      5196493
+        Subject:                         After Load
+D664A                   Total Acid Number                             0.10                             mg KOH/g             -
+D7536                   Total Chlorides                               2.3                              ppm                  -
+D7536-Mod               Organic Chlorides                             <1.0                             ppm                  -
+D93B                    Flash Point                                   179                              °F         165       -
+D97                     Pour Point                                    -12                              °C                   -
+
+
+
+
+X                                                                                                X
+
+
+Signed:      Patrick Odell                                                                      Reviewed by:      Glenn Hanson
+             Lab Supervisor                                                                                       VP of Laboratories
+
+
+
+
+                                                           13615 River Road, Luling, LA 70070
+                                                    Phone: (985) 785-0765 Email: cgi@coastalgulf.com
+                 36
+                                                                            2
+

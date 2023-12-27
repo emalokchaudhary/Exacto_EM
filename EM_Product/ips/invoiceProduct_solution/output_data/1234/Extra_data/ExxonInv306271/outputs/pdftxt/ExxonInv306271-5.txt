@@ -1,0 +1,68 @@
+TRIP: 2021-ITC-BPAL-EHC-09                                                                         21E567437 VER 1 (ISSUED)
+
+            Description: Vessel Composite BTT
+       Sample Location: Vessel Volumetric Composite after Loading
+Quality Test Comments:
+Generate (4) composite (1) quart (clear) samples from the compartment samples. (3) Three samples are
+retains. (1) One sample is to be delivered to the inspector lab for Bulk Transfer Testing (BTT).
+Please be sure to affix the proper hazard warning labels on all samples.
+
+Inspector Lab: Please test the composite compartment samples for the listed tests. If any of the BTT
+tests fail, contact the Scheduler immediately. The vessel may be released before the BTT testing is
+complete:
+
+* KV 100 must be within +/- 2% of the value reported on CoA.
+* Appearance must be C&B (Clear & Bright) at ambient temperature. There must be NO free water. Particle
+count not to exceed 5 max and no abnormal odor.
+* ASTM D1500 color must be within (CoA +/- 4). ASTM D6045 is an acceptable alternative test method for
+color.
+
+
+
+                                                                                                      RO = Report Only    Req. = Required
+ Test                                   Methods                     Min   Max     UOM       Typical      R.O.     Req.    Comment
+ Kinematic Viscosity @ 100 deg C        [ASTM] ASTM D445            4.4   4.7     cSt                    No        Yes
+ Color (Saybolt)                        [ASTM] ASTM D156                                                 No        Yes
+ Appearance Visual                      [ASTM] ASTM E2680                 5                 C&B          No        Yes
+
+Invoice Instructions:
+  Bill Invoice To                                                                  Item to Bill           Split     Contact / Comment
+ 3862 ExxonMobil Oil Corporation - B&S (Legal Entity: 3862 EM OIL CORP - MKTG &    Quantity only          100%
+ REF U.S. GL (B&S) (3862))
+                                                                                   Test: Appearance       100%
+                                                                                   Visual
+                                                                                   Slate: B&S EHC         100%
+                                                                                   45 BTT
+
+ LOAD: CBC55 (VS00023106) - DEER PARK, TX - ITC TERMINAL (UNITED STATES)
+                                   Inspector: COASTAL GULF                              Inspection Status: Pending
+                                        Hub: COASTAL GULF - Head Office                       Created On: 03 Apr 2021 by Andrew
+                                                                                                           Hoverson
+                                    Coordinator: Astin Hamilton (ahamil-                    Last Modified: 03 Apr 2021 by Andrew
+                                                  ton@coastalgulf.com)                                     Hoverson
+                                    Local Office:
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5343657-10
+                                           Grade: EHC 65, BULK.STOCK 7279         Contract Number:
+                                             ETA: 03 Apr 2021                           Parcel Ref:
+                                             ETD:                                      Destination:
+                  Supply Contract Window Start: n/a                               Source Location:
+                   Supply Contract Window End: n/a                                        Supplier:
+                      Total Nominated Quantity: 6,190 Barrels                             Receiver:
+Transport / Voyage Number / Quantity / Tolerance: CBC55 (VS00023106) / 6,190 Bar-  Delivery Terms:
+                                                  rels
+                                                                                    Mother Vessel:
+
+Email Quantity Results To:
+Intl-st-confirmation-ffx@exxonmobil.com; Product.control@exxonmobil.com
+
+Email Quality Results To:
+Intl-st-confirmation-ffx@exxonmobil.com; Product.control@exxonmobil.com
+
+Load / Discharge Instructions:
+
+
+
+
+                                                          Page 4 of 7
+

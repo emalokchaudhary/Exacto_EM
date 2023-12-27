@@ -1,0 +1,620 @@
+ExxonMobil Oil Corporation
+22777 Springwoods Village Parkway
+Spring, TX 77389
+
+Attention                  : Kelly Schultz
+                                                                        Contents
+MOVEMENT                   : Load                                        Voyage Analysis Report
+                                                                         Shore Tank Quantity
+VESSEL                     : Overseas New York                           Vessel Quantity Report
+LOCATION                   : ExxonMobil - Baytown, TX                    Line Displacement
+                                                                         Timelog
+File N°                    : BAY-1782                                    LOP/NAD
+DATE                       : 09/02/2000 - 09/15/2020                     Analytical Report
+REFERENCE N°               : 4995985-700
+
+
+Dear Client,
+
+Please find attached our Inspection Report No. BAY-1782 corresponding to the Load operation of the
+captioned vessel, at place and date(s) shown above. The complete report is composed of individual field
+reports, which we believe are self-explanatory.
+
+
+We trust that this report supplies the proper input needed so that we comply with your requirements. Should
+there be any points that need further clarification, please do not hesitate to contact us.
+
+Gauges, temperatures and volumes were obtained in accordance to the latest procedures in applicable API
+MPMS Chapters and Sections 3.x,4.x,5.x,7,8.x,10.x,11.x,12.x & 17.x
+
+All Camin Cargo Control measurement devices and methods used for quantity and quality determination meet
+the pertinent requirements of 40 CFR 98.3 et. seq. (Greenhouse Gas Mandatory Reporting Rule)
+
+
+
+
+                                                                     Yours Sincerely,
+
+                                                                     Camin Cargo Control
+                                                                     6118 Bayway Drive Baytown, TX 77520
+                                                                     Phone: 832-982-2001
+                                                                     opsbaytown@camincargo.com
+ EXXM01-14 / 539313                                                  www.camincargo.com
+
+
+
+
+                                                   Page 1 of 14
+                                                VOYAGE ANALYSIS REPORT N° BAY-1782
+VESSEL                 : Overseas New York                                                                                MOVEMENT               : Load
+LOCATION               : ExxonMobil - Baytown, TX                                                                         JOB COMPLETED          : 04-SEP-2020
+PRODUCT                : MOGAS 93 OCT CBOB                                                                                REFERENCE N°           : 4995985-700
+
+                          Port                                                                                     VCF    Voyage#                  Gauge Date
+LOAD                     : ExxonMobil - Baytown, TX                                                                6B     N/A                      01-SEP-2020
+DISCHARGE
+Barrels @ 60 °F                           API @ 60 °F             TCV                      FW                  GSV                  S&W                  NSV          Reference
+I. SHORE/SHORE COMPARISON-NOT AVAILABLE
+1.   Loading Quantity                           59.2        49,771.67                     0.00             49,771.67                   0.00          49,771.67
+2.   Outturn
+3.   Difference                                                                                                                                                       (2-1)
+4.   Difference %                                                                                                                                                     (3/1*100)
+     Adjusted TCV Difference                                                                                                                                          (3-b+l)
+
+
+II. VESSEL/SHORE COMPARISON AT LOADPORT
+a.   After Loading                                          49,282.09                     0.00             49,282.09                   Liquid            Non-Liquid
+b.   OBQ                                                          0.00                    0.00                     0.00
+
+c.   Vessel Received                                        49,282.09                     0.00             49,282.09                                                  (a-b)
+d.   Difference                                               -489.58                     0.00               -489.58                                                  (c-1)
+e.   Difference %                                               -0.98                                          -0.98                                                  (d/1*100)
+f.   Load Ratio                                                   0.99016
+                                                                                                                                                                      (c/1)
+g.   VEF                                                          0.9998
+
+h.   Theoretical Shore                                      49,291.95                                                                                                 (c/g)
+i.   Theoretical Shore Diff.                                  -479.72
+                                                                                                                                                                      (h-1)
+j.   Theoretical Shore Diff. %                                  -0.96                                                                                                 (i/1*100)
+III. VESSEL/SHORE COMPARISON AT DISPORT-NOT AVAILABLE
+k.   Before Discharge                                                                                                                  Liquid            Non-Liquid
+l.   ROB
+m. Vessel Delivered                                                                                                                                                   (k-l)
+n.   Difference                                                                                                                                                       (2-m)
+o.   Difference %                                                                                                                                                     (n/2*100)
+p.   Discharge Ratio                                                                                                                                                  (m/2)
+q.   VEF
+r.   Theoretical Shore                                                                                                                                                (m/q)
+s.   Theoretical Shore Diff.                                                                                                                                          (2-r)
+t.   Theoretical Shore Diff. %                                                                                                                                        (s/2*100)
+IV. VESSEL IN TRANSIT COMPARISON-NOT AVAILABLE
+u.   In-Transit Diff.                                                                                                                                                 (k-a)
+v.   In-Transit Diff. %                                                                                                                Liquid            Non-Liquid (u/a*100)
+w. OBQ/ROB Difference                                                                                                                                                 (b-l)
+                          Adjusted TCV Difference                                                S&W at Loadport     0.000 %        S&W at Disport ---
+
+
+
+
+Calculated as per Chapter 17.5
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: 832-982-2001
+Email: opsbaytown@camincargo.com
+
+EXXM01-14 / 539313 / September 15, 2020
+                                                                                     Page 2 of 14
+                                                      QUANTITY CERTIFICATE N° BAY- 1782
+                                                                               Based on Shore Measurements
+VESSEL                : Overseas New York                                                                                            MOVEMENT      : Load
+LOCATION              : ExxonMobil - Baytown, TX                                                                                     JOB COMPLETED : 04-SEP-2020
+PRODUCT               : MOGAS 93 OCT CBOB                                                                                            REFERENCE N° : 4995985-700
+
+
+                                      Water           Water                    Roof                     Amb.                                                                   S&W
+        Gauge           TOV                                        CTSh                    GOV                       Temp.     API       VCF          GSV          S&W                          NSV
+                                      Gauge            Vol.                    Corr.                    Temp                                                                    Vol.
+Tank: 860                                            Ref. Height: 68-08-01/0                           Gauge Date Open: 01-Sep 12:05                   Gauge Date Close: 02-Sep 03:20
+      Ft-In (Inn.)      Bbls           Ft-In           Bbls        Factor      Bbls        Bbls           °F          °F      @ 60°F      6B       Bbls @ 60°F     %          @ 60°F         Bbls @ 60°F
+ O    36-05 01/02       73,084.18              ---        Nil      1.00035       16.17     73,125.93       91.0        87.0   59.2 (T)   0.98156      71,777.49        ---             ---      71,777.49
+ C    11-03 01/02       22,390.57              ---        Nil      1.00033       16.48     22,414.44       88.0        86.7   59.2 (T)   0.98177      22,005.82        ---             ---      22,005.82
+                        50,693.61                             0                            50,711.49                                                  49,771.67                                 49,771.67
+                                                                                                       Line:                                                 ---
+                                                                                                       Adjustment:                                           ---
+S=Submitted / C=Calculated / T=Tested by CCC / W=Tested by Terminal/Refinery & Witnessed by CCC
+Totals computed using appropriate tables corresponding to Delivered API.
+Notes for 860: *** REMOTE STOP 11-3-1/4 ***
+
+                                                                  MOGAS 93 OCT CBOB - TOTAL QUANTITIES - DELIVERED
+TCV, Barrels @ 60 °F                           49,771.67              S&W         ---
+Free Water Barrels                                  0.00                    ---
+                                                GSV                             NSV                                                                  GSW                          NSW
+Barrels @ 60 °F                                 49,771.67                      49,771.67          Long Tons - Air                                    5,764.624                    5,764.624
+Gallons @ 60 °F                            2,090,410.14                     2,090,410.14          Metric Tons - Air                                  5,857.129                    5,857.129
+Cubic Meters @ 60 °F                                 7,913.062                 7,913.062          Short Tons - Air                                   6,456.379                    6,456.379
+Cubic Meters @ 15 °C                                 7,907.686                 7,907.686          Kilograms - Air                               5,857,129.0                  5,857,129.0
+Liters @ 60 °F                             7,913,062.0                      7,913,062.0           Pounds - Air                                 12,912,758.0                  12,912,758.0
+Liters @ 15 °C                             7,907,686.0                      7,907,686.0
+API Gravity @ 60 °F (T)                                59.2
+Lb/Gal @ 60 °F                                 6.177141056
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 6118 Bayway Drive
+ Baytown, TX 77520
+ Office Phone: 832-982-2001
+ Email: opsbaytown@camincargo.com
+
+ EXXM01-14 / 539313 / September 15, 2020                                                     Page 3 of 14
+                                             VESSEL QUANTITY REPORT N° BAY-1782
+VESSEL                 : Overseas New York                                                                MOVEMENT      : Load
+LOCATION               : ExxonMobil - Baytown, TX                                                         JOB COMPLETED : 04-SEP-2020
+PRODUCT                : MOGAS 93 OCT CBOB                                                                REFERENCE N° : 4995985-700
+Comp. Chart RH                 Phy GH       Gauge            TOV       Water             Water          Temp.      VCF      GSV @ 60 °F
+No     Meters                   Meters      Meters           Bbls      Gauge              Bbls            °F        6B           Bbls
+06P         17.9730             17.9730      0.000              Nil    0.000              Nil
+06S         17.9550             17.9550      0.000              Nil    0.000              Nil
+                                                                Nil                        Nil
+Gauge Date            General Information                                                                                           Sea Valves
+01-SEP-2020           Last Three Cargoes   : ON FILE                                                                   SN=26954     N/A
+                      Sea Condition        : Calm                                                                      SN=26954
+Draft (m)           Fwd (P)              Fwd (S)             Aft (P)      Aft (S)                Trim           List
+Before              6.40                   6.40              8.40         8.40                   2.00           0.00
+Note:
+No Trim Correction was applied.
+Vessel was gauged/sampled using a Closed/Restricted System
+
+
+VESSEL QUANTITIES                          ARRIVAL
+TCV, Barrels @ 60 °F                           0.00
+Free Water Barrels                             0.00
+                                                  GSV
+Barrels @ 60 °F                                   0.00
+Gallons @ 60 °F                                   0.00
+Cubic Meters @ 60 °F                              0.000
+Cubic Meters @ 15 °C                              0.000
+Liters @ 60 °F                                    0.0
+Liters @ 15 °C                                    0.0
+API Gravity @ 60 °F
+Lb/Gal @ 60 °F
+
+
+
+
+ 6118 Bayway Drive
+ Baytown, TX 77520
+ Office Phone: 832-982-2001
+ Email: opsbaytown@camincargo.com
+
+ EXXM01-14 / 539313 / September 15, 2020
+                                                                          Page 4 of 14
+                                              VESSEL QUANTITY REPORT N° BAY-1782
+VESSEL                 : Overseas New York                                                                                MOVEMENT      : Load
+LOCATION               : ExxonMobil - Baytown, TX                                                                         JOB COMPLETED : 04-SEP-2020
+PRODUCT                : MOGAS 93 OCT CBOB                                                                                REFERENCE N° : 4995985-700
+Comp. Chart RH                 Phy GH         Gauge            TOV            Water                    Water           Temp.          VCF       GSV @ 60 °F
+No     Meters                   Meters        Meters           Bbls           Gauge                     Bbls             °F            6B            Bbls
+06P           17.97              17.955        1.30          25,172.45              0                     Nil            89.4      0.97993            24,667.24
+06S           17.95               17.95        1.32          25,118.99              0                     Nil            89.4      0.97993            24,614.85
+                                                             50,291.44                                    Nil            89.4                         49,282.09
+Gauge Date              General Information                                                                                                                 Sea Valves
+01-SEP-2020             Last Three Cargoes   : ON FILE                                                                                     SN=26954         N/A
+                        Sea Condition        : Calm                                                                                        SN=26954
+Draft (m)             Fwd (P)              Fwd (S)             Aft (P)                  Aft (S)                 Trim              List
+Before                6.40                   6.40              8.40                     8.40                    2.00              0.00
+After                 10.6                   10.6              10.8                     10.8                    0.2               0.00
+Note:
+No Trim Correction was applied.
+Vessel was gauged/sampled using a Closed/Restricted System
+
+
+
+VESSEL QUANTITIES                          DEPARTURE                  RECEIVED
+TCV, Barrels @ 60 °F                        49,282.09                 49,282.09            S&W          ---
+Free Water Barrels                               0.00                      0.00                         ---
+                                                GSV                        GSV                           NSV                                            GSW                   NSW
+Barrels @ 60 °F                            49,282.09                  49,282.09                        49,282.09       Long Tons - Air                 5,710.920             5,710.920
+Gallons @ 60 °F                        2,069,847.78            2,069,847.78                       2,069,847.78         Metric Tons - Air               5,802.563             5,802.563
+Cubic Meters @ 60 °F                        7,835.225                  7,835.225                        7,835.225 Short Tons - Air                     6,396.230             6,396.230
+Cubic Meters @ 15 °C                        7,829.902                  7,829.902                        7,829.902 Kilograms - Air               5,802,563.0              5,802,563.0
+Liters @ 60 °F                         7,835,225.0             7,835,225.0                        7,835,225.0          Pounds - Air            12,792,461.0          12,792,461.0
+Liters @ 15 °C                         7,829,902.0             7,829,902.0                        7,829,902.0
+API Gravity @ 60 °F                             59.1(S)                   59.1(T)
+Lb/Gal @ 60 °F                                 6.180387200               6.180387200
+
+
+
+
+ 6118 Bayway Drive
+ Baytown, TX 77520
+ Office Phone: 832-982-2001
+ Email: opsbaytown@camincargo.com
+
+ EXXM01-14 / 539313 / September 15, 2020
+                                                                                        Page 5 of 14
+                                             VESSEL QUANTITY REPORT N° BAY-1782
+VESSEL                 : Overseas New York                                                                            MOVEMENT      : Load
+LOCATION               : ExxonMobil - Baytown, TX                                                                     JOB COMPLETED : 04-SEP-2020
+PRODUCT                : MOGAS 93 OCT CBOB                                                                            REFERENCE N° : 4995985-700
+VESSEL QUANTITIES                          ARRIVAL                 DEPARTURE                        RECEIVED
+TCV, Barrels @ 60 °F                           0.00                 49,282.09                        49,282.09          S&W       ---
+Free Water Barrels                             0.00                      0.00                             0.00                    ---
+                                               GSV                         GSV                           GSV                       NSV
+Barrels @ 60 °F                                 0.00                  49,282.09                      49,282.09                   49,282.09
+Gallons @ 60 °F                                0.00               2,069,847.78                   2,069,847.78                 2,069,847.78
+Cubic Meters @ 60 °F                           0.000                   7,835.225                          7,835.225               7,835.225
+Cubic Meters @ 15 °C                           0.000                   7,829.902                          7,829.902               7,829.902
+Liters @ 60 °F                                 0.0                7,835,225.0                    7,835,225.0                  7,835,225.0
+Liters @ 15 °C                                 0.0                7,829,902.0                    7,829,902.0                  7,829,902.0
+                                              GSW                         GSW                                GSW                  NSW
+Long Tons - Air                                0.000                   5,710.920                          5,710.920               5,710.920
+Metric Tons - Air                              0.000                   5,802.563                          5,802.563               5,802.563
+Short Tons - Air                               0.000                   6,396.230                          6,396.230               6,396.230
+Kilograms - Air                                0.0                5,802,563.0                    5,802,563.0                  5,802,563.0
+Pounds - Air                                   0.0               12,792,461.0                   12,792,461.0               12,792,461.0
+
+
+API Gravity @ 60 °F                                                        59.1(S)
+Lb/Gal @ 60 °F                                                               6.180387200
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 6118 Bayway Drive
+ Baytown, TX 77520
+ Office Phone: 832-982-2001
+ Email: opsbaytown@camincargo.com
+
+ EXXM01-14 / 539313 / September 15, 2020
+                                                                                     Page 6 of 14
+                                           LINE DISPLACEMENT REPORT N° BAY-1782
+VESSEL                 : Overseas New York                                                                               MOVEMENT      : Load
+LOCATION               : ExxonMobil - Baytown, TX                                                                        JOB COMPLETED : 04-SEP-2020
+PRODUCT                : MOGAS 93 OCT CBOB                                                                               REFERENCE N° : 4995985-700
+
+
+                   Shore Tank              Observed Gauges                  TOV             Temp.            API                  VCF                   TCV
+
+            Gauge Date: 01-SEP-2020            Ft-In (Inn.)                 Bbls              °F           @ 60 °F                6B                Bbls @ 60 °F
+                                       O      36-05 01/02               73,084.18
+                       860                                                                   87.0           58.9              0.98161                2,945.71
+                                       C      34-11 05/08               70,083.28
+                                                                        3,000.90
+
+                                                  Total                 3,000.90                                                                     2,945.71
+
+          Shore Line                              Length                    Size                 Nominal Capacity              Condition Before Displacement
+                                                   0 km                     0″                    700.00 Bbls                                Full
+
+
+                       Vessel               Observed Gauges                 TOV             Temp.            API                  VCF                   TCV
+
+              Overseas New York                Meter (Ull.)                 Bbls              °F           @ 60 °F                6B                Bbls @ 60 °F
+                                       O           0.00                     0.00
+                       06P                                                                   87.0            58.9              0.98161               1,443.65
+                                       C          16.11                  1,470.70
+                                                                         1,470.70
+
+                                       O           0.00                     0.00
+                       06S                                                                   87.0            58.9              0.98161               1,389.96
+                                       C          16.15                  1,416.00
+                                                                         1,416.00
+
+                                                   Total                 2,886.70                                                                    2,833.61
+
+
+
+
+          No quantity adjustment was applied
+          Note: LINE 18 REC DISP 700BBLS TOL 150BBLS
+
+
+                                                                                     TOV
+                                                           Barrels                                             Gallons
+          Total Tank                                            3,000.90                                            126,037.80
+
+          Total Vessel                                          2,886.70                                            121,241.40
+
+          Volume Difference                                      -114.20                                             -4,796.40
+
+          % Difference                                               3.81                                                  3.81
+
+
+As per API Ch. 17.6 TOV of the product displaced was at least 120% of the combined capacity of all designated vessel and shore transfer lines unless the conditions referred to in
+17.6.8.1.1 applied, then 100 % of line capacity.
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 6118 Bayway Drive
+ Baytown, TX 77520
+ Office Phone: 832-982-2001
+ Email: opsbaytown@camincargo.com
+
+ EXXM01-14 / 539313 / September 15, 2020                                            Page 7 of 14
+                                                         TIME LOG REPORT N° BAY-1782
+VESSEL            : Overseas New York                                                                     MOVEMENT        : Load
+LOCATION          : ExxonMobil - Baytown, TX                                                              JOB COMPLETED   : 04-SEP-2020
+PRODUCT           : MOGAS 93 OCT CBOB                                                                     REFERENCE N°    : 4995985-700
+
+Date        Time                Description
+31-AUG-2020 12:30               Notice of Readiness Tendered
+            13:48               Vessel Anchored
+01-SEP-2020 06:00               Anchor Aweigh
+            07:12               Pilot on Board
+            10:24               First Line Ashore
+            10:54               All Fast
+            10:54               Gangway Down
+            11:00               Inspector Notified
+            12:05               Shore Tank 860 Gauged Open
+            12:42               Inspector on Board
+            12:42               Preliminary Inspection Commenced
+            14:18               Preliminary Inspection Completed
+            14:18               Preliminary Calculations Commenced
+            14:18               Cargo Hose Connected
+            14:24               Preliminary Calculations Completed
+            14:54               Key Meeting Held
+            15:00               Notice of Readiness Accepted
+            16:00               Load Commenced
+            16:36               Load Suspended for Line Verification
+            17:30               Line Verification Inspection Commenced
+            17:40               Line Verification Inspection Completed
+            17:40               Sampling Commenced 1MTR
+            18:00               Sampling Completed 1MTR
+            18:00               Inspector Departed
+            18:16               Awaiting Tank Operator 1717-1816 given ok -b.hooks
+            18:30               Shore Tank 860 Gauged for Line Verification
+            18:35               Line Verification Calculations Commenced
+            19:00               Line VerificationCalculations Completed
+            19:10               Line Pack Approved-email to Exxon
+            20:17               Load Resumed
+02-SEP-2020 03:20               ST 860 Gauged Closed
+04-SEP-2020 14:45               Inspector #1 & #2 Arrived
+            15:00               Inspector #1 & #2 on Board
+            15:06               Final Inspection Commenced
+            15:30               Cargo Hose(s) Disconnected
+            15:46               Final Inspection Completed
+            15:50               Final Calculations Commenced
+            16:20               Final Calculations Completed
+            16:50               Vessel Released To Terminal
+            17:00               Inspector #1 & #2 Departed
+09-SEP-2020 16:37               Sent For Confirmation
+15-SEP-2020 15:21               Received Confirmation From The Terminal
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: 832-982-2001
+Email: opsbaytown@camincargo.com
+
+EXXM01-14 / 539313 / September 15, 2020                                           Page 8 of 14
+                                                LETTER OF PROTEST ° BAY-1782
+VESSEL             : Overseas New York                                                     MOVEMENT      : Load
+LOCATION           : ExxonMobil - Baytown, TX                                              JOB COMPLETED : 04-SEP-2020
+PRODUCT            : MOGAS 93 OCT CBOB
+
+
+
+
+TO                 : Terminal                                                              REFERENCE         : Delays
+
+On Behalf of our Principals, we do hereby note the following Protest:
+DELAYS DUE TO TERMIANL READINESS TERMINAL WAS NOT READY TO START LOADING OPERATIONS AFTER VESSEL WAS APPROVED.
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                    Respectfully,
+Signature:
+Print Name:
+Position:                                                                          ___________________________________
+Date/Time:                                                                                      Camin Cargo Control
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: 832-982-2001
+Email: opsbaytown@camincargo.com
+
+EXXM01-14 / 539313 / September 15, 2020
+                                                                  Page 9 of 14
+                                                LETTER OF PROTEST ° BAY-1782
+VESSEL             : Overseas New York                                                     MOVEMENT      : Load
+LOCATION           : ExxonMobil - Baytown, TX                                              JOB COMPLETED : 04-SEP-2020
+PRODUCT            : MOGAS 93 OCT CBOB
+
+
+
+
+TO                 : Vessel                                                                REFERENCE         : Line Displacement
+
+On Behalf of our Principals, we do hereby note the following Protest:
+VESSEL TO SHORE QUANTITY DIFFERENCE NOTED UPON COMPLETION OF LINE DISPLACEMENT.
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                    Respectfully,
+Signature:
+Print Name:
+Position:                                                                          ___________________________________
+Date/Time:                                                                                      Camin Cargo Control
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: 832-982-2001
+Email: opsbaytown@camincargo.com
+
+EXXM01-14 / 539313 / September 15, 2020
+                                                                 Page 10 of 14
+                                                LETTER OF PROTEST ° BAY-1782
+VESSEL             : Overseas New York                                                     MOVEMENT      : Load
+LOCATION           : ExxonMobil - Baytown, TX                                              JOB COMPLETED : 04-SEP-2020
+PRODUCT            : MOGAS 93 OCT CBOB
+
+
+
+
+TO                 : Terminal                                                              REFERENCE         : Line Displacement
+
+On Behalf of our Principals, we do hereby note the following Protest:
+SHORE TO VESSEL QUANTITY DIFFERENCE NOTED UPON COMPLETION OF LINE DISPLACEMENT.
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                    Respectfully,
+Signature:
+Print Name:
+Position:                                                                          ___________________________________
+Date/Time:                                                                                      Camin Cargo Control
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: 832-982-2001
+Email: opsbaytown@camincargo.com
+
+EXXM01-14 / 539313 / September 15, 2020
+                                                                 Page 11 of 14
+                                                LETTER OF PROTEST ° BAY-1782
+VESSEL             : Overseas New York                                                     MOVEMENT      : Load
+LOCATION           : ExxonMobil - Baytown, TX                                              JOB COMPLETED : 04-SEP-2020
+PRODUCT            : MOGAS 93 OCT CBOB
+
+
+
+
+TO                 : Vessel                                                                REFERENCE         : ROB/OBQ Difference
+
+On Behalf of our Principals, we do hereby note the following Protest:
+VESSEL TO SHORE QUANTITY DIFFERENCE NOTED UPON COMPLETION OF FINAL INSPECTION.
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                    Respectfully,
+Signature:
+Print Name:
+Position:                                                                          ___________________________________
+Date/Time:                                                                                      Camin Cargo Control
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: 832-982-2001
+Email: opsbaytown@camincargo.com
+
+EXXM01-14 / 539313 / September 15, 2020
+                                                                 Page 12 of 14
+                                                LETTER OF PROTEST ° BAY-1782
+VESSEL             : Overseas New York                                                     MOVEMENT      : Load
+LOCATION           : ExxonMobil - Baytown, TX                                              JOB COMPLETED : 04-SEP-2020
+PRODUCT            : MOGAS 93 OCT CBOB
+
+
+
+
+TO                 : Terminal                                                              REFERENCE         : ROB/OBQ Difference
+
+On Behalf of our Principals, we do hereby note the following Protest:
+SHORE TO VESSEL QUANTITY DIFFERENCE NOTED UPON COMPLETION OF FINAL INSPECTION.
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                    Respectfully,
+Signature:
+Print Name:
+Position:                                                                          ___________________________________
+Date/Time:                                                                                      Camin Cargo Control
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: 832-982-2001
+Email: opsbaytown@camincargo.com
+
+EXXM01-14 / 539313 / September 15, 2020
+                                                                 Page 13 of 14
+                                                  CERTIFICATE OF ANALYSIS N° BAY-1782
+      VESSEL                     : Overseas New York
+      LOCATION                   : ExxonMobil - Baytown, TX                                                                             MOVEMENT                  : Load
+      PRODUCT                    : MOGAS 93 OCT CBOB                                                                                    REF. NO.                  : 4995985-700
+                                                                                                                                        JOB COMPLETED             : 04-SEP-2020
+
+003                                                   1st Ft Composite                        During                          Sample N° :        3                     Sampled 01-
+                                                                                                                                                                       SEP-2020
+                                                                                                                                                                       18:00
+                                                                                                                                                                   0
+
+
+
+
+      D   4052-11                API Gravity @ 60°F                                           58.9 °API
+                                                                                                                                                                   0
+
+
+
+
+      D   4176 (1)               Appearance                                          Clear & Bright
+                                                                                                                                                                   0
+
+
+
+
+      D   5191 (1L)              DVPE (ASTM)                                                  57.4 kPa
+                                                                                                                                                                   0
+
+
+
+
+      D   2622                   Sulfur                                                         7.2 mg/kg
+REPORT HEADER
+
+
+
+
+The results apply to the samples as received and specifically to the items listed on this certificate.
+This report may not be reproduced except in full without the written consent of the Camin Cargo Control. Data contained in this report is confidential to the addressee and
+shall not be disclosed to any other party without their approval
+All testing is performed on premises by Camin Cargo Control and in accordance to the latest referenced test method unless specifically stated.
+
+
+
+
+                                                                                                                                                     Nikolaos Deverikos / Laboratory
+                                                                                                                                                               Supervisor
+
+
+ 6118 Bayway Drive
+ Baytown, TX 77520
+ Office Phone: 832-982-2001
+ Email: opsbaytown@camincargo.com
+
+ EXXM01-14 / 539313 / OK / R0 / 7032008 / Generated: September 15, 2020
+                                                                                        Page 14 of 14
+

@@ -1,0 +1,72 @@
+CLEANED !!!
+TRIP: USEBARGARO-2108-016                                                             21E588433 VER 1 (ISSUED)
+
+ Region: Americas                                                    Other Reference:
+Operator: CLARISSA NARINE (clarissa.i.narine@exxonmobil.com)          Business Group: CHEMICAL: AM AROMATICS
+  Phone:                                                                        Desk: CHEM AM S&OP AROMATICS
+ Mobile:                                                             Nomination Type: Marine
+
+Documentary Instructions: n/a
+
+
+ DISCHARGE: CHEM3248 (VS00050500) - CARVILLE, LA - TOTAL (UNITED STATES)
+                                 Inspector: COASTAL GULF                         Inspection Status: Accepted
+                                      Hub: Coastal Gulf - Baton Rouge                  Created On: 11 Aug 2021 by
+                                                                                                    Clarissa Narine
+                                    Coordinator: Baton Rouge Operations (baton-      Last Modified: 11 Aug 2021 by Rusty
+                                                  rouge@coastalgulf.com)                            Mitchell
+                                    Local Office:
+                                     INSPECTION REQUIREMENTS: QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5618157-20
+                                           Grade: BENZENE VL BULK                Contract Number:
+                                             ETA: 06 Aug 2021                          Parcel Ref:
+                                             ETD:                                     Destination:
+                  Supply Contract Window Start: n/a                              Source Location:
+                   Supply Contract Window End: n/a                                       Supplier:
+                      Total Nominated Quantity: 25,000 Barrels                           Receiver:
+Transport / Voyage Number / Quantity / Tolerance: CHEM3248 (VS00050500) / 25,000  Delivery Terms:
+                                                  Barrels +/- 5 pct
+                                                                                   Mother Vessel:
+
+Email Quantity Results To:
+clarissa.i.narine@exxonmobil.com;
+pmichem.babsc3@exxonmobil.com;
+carolina.enright@exxonmobil.com;
+Luis.Guerra@motiva.com;
+mats.mto-fairfax@exxonmobil.com;
+emcc.oa.survey.reports@exxonmobil.com;
+ds-srm-inspection-reports-mailbox@exxonmobil.com;
+
+Load / Discharge Instructions:
+SRM JOB #
+?
+Measurement for invoicing: Static shore tank at DISCHARGE if available.
+?
+*This is a sale**
+Plant: USJK
+Cost Center: C021243029
+Material: 5006387
+?
+Lay time: 12 hours
+Demurrage: $1200 pdpr
+?
+EMCC will not accept marine provisions outside of the contract terms such as the Public Terminal Clause.
+
+Bill Invoice to:
+Quantity at Discharge (SHORE TANKS AT DISCHARGE): 50% ExxonMobil / 50% MOTIVA
+
+"Pre-loading inspections are required and shall be performed by the inspection companies per API 17.8
+Manual of Petroleum Measurement Standards"
+
+Inspections must utilize Global Inspection Contract Rates (July 2019 - June 2026).
+
+Inspection invoices are to be submitted into Navarik if nomination received via Navarik or by email to
+PMI.Chemicals.Inspection.Invoices@exxonmobil.com if nomination received via Outlook. Invoices submitted
+via Outlook must reference a valid EMCC Nomination Key.
+
+Acceptance of inspection invoices submitted via Ariba, Basware, and the below mentioned shared mailboxes
+will be discontinued as of 22nd of July 2019. Please do not use these channels for submission:
+
+
+                                                       Page 1 of 2
+ 

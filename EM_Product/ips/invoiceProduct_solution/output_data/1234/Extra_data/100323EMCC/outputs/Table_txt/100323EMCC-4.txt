@@ -1,0 +1,32 @@
+Product:                Heptene                                      Terminal:          ExxonMobil
+Subject:                Report of Discharge                          Port:              Baton Rouge, Louisiana
+EMCC Ref. #: 5067731                                                 File Number:       100323
+
+
+                                        REPORT OF METER QUANTITY
+
+                                                           Meter No.:               Oxo Olefins Pig Line
+
+               Opening Meter Reading                                                        Closing Meter Reading
+                       0.00                                                                        9,188.00
+
+
+                                                   Indicated Volume                                  9,188.00
+                                                 * Meter Factor                                       1.0000
+                                                   Gross Observed Volume                             9,188.00
+                                                   Volume Correction Factor                           1.0000
+                                                   Gross Standard Volume                             9,188.00
+                                                   C.P.L. Factor                                      1.0000
+                                                   Net Standard Volume (Bbls)                        9,188.00
+                                                   Line Temperature                                    61.6
+
+
+                                                       TOTAL NET BARRELS
+
+                                     Net Barrels @ 60  F                                  9,188.00
+                                     Net Gallons @ 60  F                                385,896.00
+                                     Pounds                                           2,288,363.00
+                                     Metric Tons                                         1,037.985
+                                     Short Tons                                          1,144.182
+                                     Long Tons                                           1,021.591
+                                     Pounds per Gallon                                        5.93

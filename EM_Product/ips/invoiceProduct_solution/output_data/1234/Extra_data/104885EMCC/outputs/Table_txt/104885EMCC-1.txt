@@ -1,0 +1,33 @@
+Product:                IPA                                                    Terminal:                ExxonMobil
+Subject:                Report of Loading                                      Port:                    Baton Rouge, Louisiana
+EMCC Ref. #: 5270944                                                           File Number:             104885
+
+
+                                                           RECAPITULATION
+
+
+
+                                                                   BARGE FIGURES
+                                         Barrels                                            14,432.58
+                                         Gallons                                           606,168.15
+                                         Pounds                                          3,990,405.00
+                                         Metric Tons                                        1,810.019
+                                         Short Tons                                         1,995.203
+                                         Long Tons                                          1,781.431
+
+                                                           For Comparison only
+                              VEF:                 1.00080                   Barge With VEF Applied:                     14,421.04
+
+BARGE FIGURES In Barrels
+BARGE                                            ARRIVAL                          DEPARTURE                                  DIFFERENCE
+CBC 197                                            0.00                             14,432.58                                  14,432.58
+
+
+
+
+TOV BARRELS                                           0.00                             14,633.05                                 14,633.05
+
+                           Survey was peformed by CGI Surveyor A,B,C,and D TEAMS
+                                  Table IPA used for Volume Correction purposes
+                          Surveyor equipment verified daily using Certified Thermometer
+                        Conditions during the inspection were Calm; between 00' and 01' Seas

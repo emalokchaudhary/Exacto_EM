@@ -1,0 +1,72 @@
+CLEANED !!!
+TRIP: USEBARGFIN-2011-006                                                                20E546055 VER 2 (ISSUED)
+
+ Region: Americas                                                           Other Reference:
+Operator: SCOTT FRIEDMAN (scott.m.friedman@exxonmobil.com)                   Business Group: S/R INLAND BARGING
+  Phone: 281-838-2976                                                                  Desk: Feedstocks
+ Mobile:                                                                    Nomination Type: Marine
+
+Revision Comment: NOW LOADING 18KB, not 40KB
+
+
+Documentary Instructions: n/a
+
+
+ LOAD: EMS3001 (VS00021573) / EMS3004 (VS00021268) - MOUNT AIRY, LA - APEX FS TP (UNITED STATES)
+                                       Inspector: COASTAL GULF                 Inspection Status: Accepted
+                                             Hub: Coastal Gulf - Luling              Created On: 06 Nov 2020 by ExxonMobil
+                                                                                                  Webservice
+                                    Coordinator: Bentley Kraemer (bkrae-           Last Modified: 06 Nov 2020 by Bentley
+                                                  mer@coastalgulf.com)                            Kraemer
+                                    Local Office:
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5107066-10
+                                           Grade: CSO / MCB                     Contract Number: 213194
+                                             ETA: 06 Nov 2020                         Parcel Ref:
+                                             ETD:                                    Destination:
+                  Supply Contract Window Start: 06 Nov 2020                     Source Location:
+                   Supply Contract Window End: 07 Nov 2020                              Supplier:
+                      Total Nominated Quantity: 18,000 Barrels                          Receiver:
+Transport / Voyage Number / Quantity / Tolerance: EMS3001 (VS00021573) / 9,000   Delivery Terms: FOB (Free On Board)
+                                                  Barrels +/- 5 pct
+                                                  EMS3004 (VS00021268) / 9,000    Mother Vessel:
+                                                  Barrels +/- 5 pct
+
+Email Quantity Results To:
+mats.mto-fairfax@exxonmobil.com;ffx_oilloss@exxonmobil.com; marine.backup@exxonmobil.com; ds-srm-
+inspection-reports-mailbox@exxonmobil.com; miscellaneous.charges@exxonmobil.com;
+jeff.m.norton@exxonmobil.com; michael.t.koehn@exxonmobil.com; jonathan.w.martin@exxonmobil.com;
+
+Load / Discharge Instructions:
+TANK: 217
+CUSTOMER: Cabot
+TUG: Nolan Rhodes
+VETTING ID: smfried-621002
+INCOTERMS: DAP
+
+
+
+Terminal and Inspector must confirm equipment and orders match those of the towing company during the
+pre-transfer conference. If there are any discrepancies, please contact the scheduler. No transfers
+shall begin until discrepancies have been cleared via issuing of new orders.
+
+Overtime: Not Approved
+
+===
+INSPECTION INSTRUCTIONS
+===
+GLOBAL INSPECTION CONTRACT effective from July 2019 to June 2026 is to be used.
+
+IF FOB:
+-QUALITY IS BASED ON SHORE TANK PRIOR TO LOAD OR BARGE COMP IF LOAD IS ACTIVE.
+-QUANTITY IS BASED ON STATIC SHORE TANK DOWNGAUGE AT LOAD OR STATIC UPGAUGE ADJUSTED FOR ROB/OBQ IF LOAD
+IS ACTIVE.
+
+IF DES:
+-QUALITY IS BASED ON BARGE COMP ANALYSIS.
+-QUANTITY IS BASED ON STATIC SHORE TANK UPGAUGE AT DISCHARGE OR STATIC UPGAUGE ADJUSTED FOR ROB/OBQ IF
+LOAD IS ACTIVE.
+
+
+                                                      Page 1 of 2
+ 

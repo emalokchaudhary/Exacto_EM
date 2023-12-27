@@ -1,0 +1,790 @@
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Scheduler
+AF21045 (Engen)
+Job No                          12004/00130857.0000/01/I/21
+Report date                     30 Mar 2021
+Installation                    Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                          BOW SKY
+Product                         AP/E Core 2500, AP/E Core 600
+Bill of Lading date: 29-Mar-2021, 29-Mar-2021                                                                                                           Contents page
+Saybolt Nederland BV has performed a survey of the above mentioned object, the findings of the survey are reflected in the following reports:
+
+Title                                                                                                                                       Number of Pages
+Contents page                                                                                                                               one
+Cover Page Loading                                                                                                                          two
+Time Log                                                                                                                                    one
+Summary Loading (GSV)                                                                                                                       two
+Sample Report                                                                                                                               one
+Tank Inspection Report                                                                                                                      two
+Shore Tank Report Single                                                                                                                    two
+Ullage Report Departure                                                                                                                     two
+Certificate of Quantity                                                                                                                     two
+
+This report consists of 15 pages.
+A copy of this report and all field documents and related correspondence will be retained for a period of 10 years, unless local law requires
+otherwise
+
+
+
+
+Handled by: Corla Lakerveld
+
+This report reflects only the findings at the time and place of the inspection and testing. This report is not a guarantee or policy of insurance with respect to the goods or
+the contractual performance of any party. Any person relying upon this report should be aware that issuer's activities are carried out under their general terms and
+conditions.
+
+
+
+
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                Date: 30 Mar 2021 11:23
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                    Page 1 of 15
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 CNT V4.1.1.2 2020/05/18
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Scheduler
+AF21045 (Engen)
+Job No                           12004/00130857.0000/01/I/21
+Report date                      30 Mar 2021
+Installation                     Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                           BOW SKY
+Product                          AP/E Core 600
+                                                                                                                                           Cover Page Loading
+
+Loading data
+
+Quantity data
+Bill of Lading is based on:                                                                       Shore tank measurements
+Bill of Lading figure amounts to Gross                                      Metric Tons Air       1,102.171
+Bill of Lading date                                                                               29 Mar 2021
+Average product temperature onboard                                         °C                    31.60
+Calculation data
+Shore tank Volume conversion table used                                                           54D
+Vessel Volume conversion table used                                                               54D
+Shore data
+Loading Installation                                                                              Vopak Terminal Vlaardingen
+Shore tank number(s)                                                                              5031
+Type of Standpipe of shore tank(s)                                                                Slotted
+Shore tank measurements were carried out with                                                     Shore equipment/ATG            by See Shore tank details report for data
+Shore tank temperatures were carried out with                                                     Shore equipment/ATG            by Automatic Tank Temperature
+Vessel data
+Cargo stowed in cargo tanks                                                                       P7
+Type of standpipes of vessel tanks                                                                Slotted
+Vessel tank measurement were carried out with                                                     Vessel/barge equipment/ATG     by UTI
+Vessel tank measurement equipment used                                                            G10903
+Vessel tank temperatures were carried out with                                                    Vessel/barge equipment/ATG     by UTI
+Vessel tank temperature equipment number                                                          G10903
+Sea Condition                                                                                     Calm (glassy) - 0 m (0 ft)
+Weather condition                                                                                 Clear Sky
+Operational data
+Agreed Pump rate                                                            Cbm/hr                250
+Ambient outside temperature at loading                                                            10.00
+Quality has been determined by                                                                    Shore
+
+
+
+
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                            Date: 30 Mar 2021 11:23
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                Page 2 of 15
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 CPL V4.0.10.0 2018/10/24
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Scheduler
+AF21045 (Engen)
+Job No                           12004/00130857.0000/01/I/21
+Report date                      30 Mar 2021
+Installation                     Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                           BOW SKY
+Product                          AP/E Core 2500
+                                                                                                                                           Cover Page Loading
+
+Loading data
+
+Quantity data
+Bill of Lading is based on:                                                                       Shore tank measurements
+Bill of Lading figure amounts to Gross                                      Metric Tons Air       396.713
+Bill of Lading date                                                                               29 Mar 2021
+Average product temperature onboard                                         °C                    49.50
+Calculation data
+Shore tank Volume conversion table used                                                           54D
+Vessel Volume conversion table used                                                               54D
+Shore data
+Loading Installation                                                                              Vopak Terminal Vlaardingen
+Shore tank number(s)                                                                              2038
+Type of Standpipe of shore tank(s)                                                                Slotted
+Shore tank measurements were carried out with                                                     Shore equipment/ATG            by See Shore tank details report for data
+Shore tank temperatures were carried out with                                                     Shore equipment/ATG            by Automatic Tank Temperature
+Vessel data
+Cargo stowed in cargo tanks                                                                       B6
+Type of standpipes of vessel tanks                                                                Slotted
+Vessel tank measurement were carried out with                                                     Vessel/barge equipment/ATG     by UTI
+Vessel tank measurement equipment used                                                            G10903
+Vessel tank temperatures were carried out with                                                    Vessel/barge equipment/ATG     by UTI
+Vessel tank temperature equipment number                                                          G10903
+Sea Condition                                                                                     Calm (glassy) - 0 m (0 ft)
+Weather condition                                                                                 Clear Sky
+Operational data
+Agreed Pump rate                                                            Cbm/hr                135
+Ambient outside temperature at loading                                                            10.00
+Quality has been determined by                                                                    Shore
+
+
+
+
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                            Date: 30 Mar 2021 11:23
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                Page 3 of 15
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 CPL V4.0.10.0 2018/10/24
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Scheduler
+AF21045 (Engen)
+Job No                           12004/00130857.0000/01/I/21
+Report date                      30 Mar 2021
+Installation                     Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                           BOW SKY
+Product                          AP/E Core 2500, AP/E Core 600
+Bill of Lading date: 29-Mar-2021, 29-Mar-2021                                                                                            Time Log
+
+28 Mar 2021 (Sunday)
+       07:00                          End of Sea Passage
+       07:00                          Notice of Readiness Tendered
+       08:10                          Pilot on Board
+       10:30                          First Line Ashore
+       11:00                          Moored Alongside Berth (All Fast) 624
+       11:00                          Notice of Readiness Received
+       11:05                          Gangway in Place
+       11:10                          Saybolt onboard before Operation
+       11:29                          Key Meeting
+       11:30                          Commenced Initial Inspection
+       13:45                          Completed Initial Inspection, Tank(s) Inspected and Accepted
+                 13:46                Delay: Shore line occupied (AP/E Core 2500) (19 hours and 8 minutes)
+                 13:46                Delay: Shore line occupied (AP/E Core 600) (22 hours and 58 minutes)
+29 Mar 2021 (Monday)
+       08:04                          Hose remained connected (AP/E Core 2500)
+       08:25                          End of shoreline sample taken (AP/E Core 2500)
+       08:45                          Shoreline released (AP/E Core 2500)
+       08:55                          COMMENCED LOADING (AP/E Core 2500)
+       10:07                          Suspended loading (AP/E Core 2500)
+       10:33                          Completed Foot Sampling (AP/E Core 2500)
+       10:55                          First foot released (AP/E Core 2500)
+       11:15                          Resumed Loading (AP/E Core 2500)
+       12:45                          Arm Connected (AP/E Core 600)
+       13:05                          COMMENCED LOADING (AP/E Core 600)
+       13:25                          Suspended Loading (AP/E Core 600)
+       13:50                          Completed Foot Sampling (AP/E Core 600)
+       14:22                          Analysis released (AP/E Core 600)
+       14:30                          Resumed Loading (AP/E Core 600)
+       15:30                          COMPLETED LOADING (AP/E Core 2500)
+       16:15                          Arm Disconnected (AP/E Core 2500)
+       16:30                          Cargo tank sampled (AP/E Core 2500)
+       19:30                          Arm Disconnected (AP/E Core 600)
+       19:45                          COMPLETED LOADING (AP/E Core 600)
+       21:00                          Saybolt onboard after Operation
+       21:05                          Commenced Final Inspection
+       22:00                          Completed Final Inspection and Calculations, Tank(s) Measured and Sampled
+30 Mar 2021 (Tuesday)
+                 02:15                Documents on Board
+                 04:45                Object Sailed / Departed
+
+Remarks
+No Vef data available
+
+
+
+
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                         Date: 30 Mar 2021 11:23
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                             Page 4 of 15
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 TML2 V4.1.1.6 2020/07/21
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Scheduler
+AF21045 (Engen)
+Job No                            12004/00130857.0000/01/I/21
+Report date                       30 Mar 2021
+Installation                      Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                            BOW SKY
+Product                           AP/E Core 600
+Bill of Lading date: 29-Mar-2021                                                                                                                     Summary Loading (GSV)
+
+
+Gross Standard Volume Data
+
+GSV Figures                                                                      Loaded excl OBQ                             Bill of Lading        Δ Quantity                    Δ%
+Liters 15°C                                                                            1,245,571                                 1,250,478            -4,907                    -0.39
+Barrels 60°F                                                                             7,837.54                                  7,868.42           -30.88                    -0.39
+US Gallons 60°F                                                                          329,177                                   330,474            -1,297                    -0.39
+Metric Tons Vac                                                                        1,099.213                                 1,103.505            -4.292                    -0.39
+Metric Tons Air                                                                        1,097.884                                 1,102.171            -4.287                    -0.39
+Long Tons Air                                                                            1,080.54                                  1,084.76            -4.22                    -0.39
+
+
+
+GSV Figures (VEF Adjusted)                                                   Loaded adjusted by VEF                              Bill of Lading     Δ Quantity                   Δ%
+Liters 15°C                                                                               1,245,571                                  1,250,478         -4,907                   -0.39
+Barrels 60°F                                                                               7,837.54                                    7,868.42        -30.88                   -0.39
+
+
+
+                                                                  Density 15°C                     Density 20°C                         API 60°F    RD 60/60°F                S&W%
+Vessel Loaded                                                           0.8825                           0.8794                           28.75        0.8830
+Bill of Lading                                                          0.8825                           0.8794                           28.75        0.8830
+
+
+
+General Data
+Vessel Loaded Ratio                                                                                          0.99608
+
+
+
+
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                         Date: 30 Mar 2021 11:23
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                             Page 5 of 15
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 SLGSV V4.1.2.0 2020/08/31
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Scheduler
+AF21045 (Engen)
+Job No                            12004/00130857.0000/01/I/21
+Report date                       30 Mar 2021
+Installation                      Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                            BOW SKY
+Product                           AP/E Core 2500
+Bill of Lading date: 29-Mar-2021                                                                                                                     Summary Loading (GSV)
+
+
+Gross Standard Volume Data
+
+GSV Figures                                                                      Loaded excl OBQ                             Bill of Lading        Δ Quantity                    Δ%
+Liters 15°C                                                                              443,168                                   441,676             1,492                     0.34
+Barrels 60°F                                                                             2,788.53                                  2,779.14             9.39                     0.34
+US Gallons 60°F                                                                           117,118                                   116,724              394                     0.34
+Metric Tons Vac                                                                          398.543                                   397.183             1.360                     0.34
+Metric Tons Air                                                                          398.071                                   396.713             1.358                     0.34
+Long Tons Air                                                                              391.78                                    390.45             1.33                     0.34
+
+
+
+GSV Figures (VEF Adjusted)                                                   Loaded adjusted by VEF                              Bill of Lading     Δ Quantity                   Δ%
+Liters 15°C                                                                                 443,168                                    441,676          1,492                    0.34
+Barrels 60°F                                                                               2,788.53                                    2,779.14          9.39                    0.34
+
+
+
+                                                                  Density 15°C                     Density 20°C                         API 60°F    RD 60/60°F                S&W%
+Vessel Loaded                                                           0.8993                           0.8962                           25.75        0.8998
+Bill of Lading                                                          0.8993                           0.8962                           25.75        0.8998
+
+
+
+General Data
+Vessel Loaded Ratio                                                                                          1.00338
+
+
+
+
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                         Date: 30 Mar 2021 11:23
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                             Page 6 of 15
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 SLGSV V4.1.2.0 2020/08/31
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Scheduler
+AF21045 (Engen)
+Job No                          12004/00130857.0000/01/I/21
+Report date                     30 Mar 2021
+Installation                    Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                          BOW SKY
+Product                         AP/E Core 2500, AP/E Core 600
+Bill of Lading date: 29-Mar-2021, 29-Mar-2021                                                                                                                   Sample Report
+
+Grade                                   Description                                                                              Sealed      Distribution   Amount        Volume
+AP/E Core 2500                          Shore tank 2038:Running from shore tank before loading                                   Open        Retain         1             1 liters
+AP/E Core 2500                          Shore tank 2038:Dead bottom from shore tank before loading                               Open        Retain         1             0.25 liters
+AP/E Core 2500                          End of shoreline at jetty before and during loading                                      Open        Retain         2             1 liters
+AP/E Core 2500                          TV BOW SKY:Foot from ships tanks during loading                                          Open        Retain         1             1 liters
+AP/E Core 2500                          TV BOW SKY:Running from ships tanks after loading                                        Open        Retain         2             1 liters
+AP/E Core 2500                          TV BOW SKY:Dead bottom from ships tanks after loading                                    Open        Retain         1             0.25 liters
+AP/E Core 2500                          Shore tank 2038:Running from shore tank before loading                                   235824      Vessel         1             1 liters
+AP/E Core 2500                          End of shoreline at jetty before loading                                                 235854      Vessel         1             1 liters
+AP/E Core 2500                          TV BOW SKY:Foot from ships tanks during loading                                          235855      Vessel         1             1 liters
+AP/E Core 2500                          TV BOW SKY:Running from ships tanks after loading                                        235850      Vessel         1             1 liters
+AP/E Core 600                           Shore tank 5031:Running from shore tank before loading                                   Open        Retain         1             1 liters
+AP/E Core 600                           Shore tank 5031:Dead bottom from shore tank before loading                               Open        Retain         1             0.25 liters
+AP/E Core 600                           End of shoreline at jetty before and during loading                                      Open        Retain         2             1 liters
+AP/E Core 600                           TV BOW SKY:Foot from ships tanks during loading                                          Open        Retain         1             1 liters
+AP/E Core 600                           TV BOW SKY:Running from ships tanks after loading                                        Open        Retain         2             1 liters
+AP/E Core 600                           TV BOW SKY:Dead bottom from ships tanks after loading                                    Open        Retain         1             0.25 liters
+AP/E Core 600                           Shore tank 5031:Running from shore tank before loading                                   235989      Vessel         1             1 liters
+AP/E Core 600                           End of shoreline at jetty before loading                                                 235861      Vessel         1             1 liters
+AP/E Core 600                           TV BOW SKY:Foot from ships tanks during loading                                          235860      Vessel         1             1 liters
+AP/E Core 600                           TV BOW SKY:Running from ships tanks after loading                                        235863      Vessel         1             1 liters
+                                                                                                                                 Total Samples              24
+
+
+
+
+Information
+Samples drawn by                                                                     Saybolt Inspector
+Shoretank sampling location                                                          Top of tank
+Type / condition of sampling containers                                              Clean plastic bottles
+Loadport samples delivered by                                                        Saybolt
+received by                                                                          Vessel
+Loadport sample seal numbers                                                         See list
+
+
+Remarks:
+      Samples retained by Saybolt will be held for 90 days (unless otherwise specified) at the end of which they shall be disposed of.
+
+
+
+
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                        Date: 30 Mar 2021 11:23
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                            Page 7 of 15
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 SMP V4.1.1.2 2020/05/18
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Scheduler
+AF21045 (Engen)
+Job No                          12004/00130857.0000/01/I/21
+Report date                     30 Mar 2021
+Installation                    Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                          BOW SKY
+Product                         AP/E Core 600
+Bill of Lading date: 29-Mar-2021                                                                                                                 Tank Inspection Report
+
+
+Information supplied by ship's officers or ship's log cannot be guaranteed as accurate and no liability can be assumed for errors that result from
+improper information supplied. The responsibility for such information must rest with the ship and her officers.
+
+Date of Inspection:                                                                             28 Mar 2021
+Time of Inspection:                                                                             13:45
+Last cargo                                                                                      Aniline
+Second last cargo                                                                               Styrene Monomer
+Third last cargo                                                                                Yubase 6
+Method said to be used to clean tanks                                                           Bw.ambient Sw., Bwhsw 1 hr., Fw rinse 10 mins., ventilated, mopped and dried
+Method said to be used to clean line system                                                     line used for tank cleaning
+Are any tanks coated                                                                            No
+Which tanks and type of coating                                                                 Stainless Steel
+
+This is to advise that on the above date we carried out a visual inspection from deck-level of the following tanks: P7
+
+From such visual inspection, and from information as supplied by ship's officers, we consider that said tanks are substantially Suitable to load the
+nominated cargo
+
+Whilst every effort has been made to comply with tank inspection instructions we can not be held responsible for those areas beyond visual
+inspection (such as pumps, lines, closed or restricted sample system) and/or the effectiveness of advised tank cleaning methods.
+
+Sea-valves sealed and numbered:
+
+
+
+
+ Signed by: Ship's representative                                                                                                    Saybolt representative
+     Name: Eilertsen                                                                                                                 L.T van den Langenberg
+     Rank: Chief Officer                                                                                                             Saybolt Inspector
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                    Date: 30 Mar 2021 11:23
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                        Page 8 of 15
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 TIR V4.1.1.2 2020/05/18
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Scheduler
+AF21045 (Engen)
+Job No                          12004/00130857.0000/01/I/21
+Report date                     30 Mar 2021
+Installation                    Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                          BOW SKY
+Product                         AP/E Core 2500
+Bill of Lading date: 29-Mar-2021                                                                                                                 Tank Inspection Report
+
+
+Information supplied by ship's officers or ship's log cannot be guaranteed as accurate and no liability can be assumed for errors that result from
+improper information supplied. The responsibility for such information must rest with the ship and her officers.
+
+Date of Inspection:                                                                             28 Mar 2021
+Time of Inspection:                                                                             13:45
+Last cargo                                                                                      Econate 18V
+Second last cargo                                                                               Ethylne Glycol
+Third last cargo                                                                                Methanol
+Method said to be used to clean tanks                                                           Bwwsw 2 hrs., Bwhsw 2 hrs. 80C., Fw.rinse 20., ventilated, mopped and dried
+Method said to be used to clean line system                                                     line used for tank cleaning
+Are any tanks coated                                                                            No
+Which tanks and type of coating                                                                 Stainless Steel
+
+This is to advise that on the above date we carried out a visual inspection from deck-level of the following tanks: B6
+
+From such visual inspection, and from information as supplied by ship's officers, we consider that said tanks are substantially Suitable to load the
+nominated cargo
+
+Whilst every effort has been made to comply with tank inspection instructions we can not be held responsible for those areas beyond visual
+inspection (such as pumps, lines, closed or restricted sample system) and/or the effectiveness of advised tank cleaning methods.
+
+Sea-valves sealed and numbered:
+              n/a
+
+
+
+
+ Signed by: Ship's representative                                                                                                   Saybolt representative
+     Name: Eilertsen                                                                                                                L.T van den Langenberg
+     Rank: Chief Officer                                                                                                            Saybolt Inspector
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                    Date: 30 Mar 2021 11:23
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                        Page 9 of 15
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 TIR V4.1.1.2 2020/05/18
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Scheduler
+AF21045 (Engen)
+Job No                           12004/00130857.0000/01/I/21
+Report date                      30 Mar 2021
+Installation                     Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                           BOW SKY
+Product                          AP/E Core 600
+Bill of Lading date: 29-Mar-2021                                                                                                                     Shore Tank Report Single
+Shore tank 5031 at Vopak Terminal Vlaardingen
+Shore tank measurement                                                                                                                        Open                         Close
+ Date / Time of measurement                                                                                                      29 Mar 2021 12:31             29 Mar 2021 20:17
+ Average Innage                                                              mm                                                                VMS                          VMS
+ Average temp.                                                               °C                                                              34.60                         34.50
+ T.O.V.                                                                      Liters                                                      1,950,507                      682,332
+ G.O.V.                                                                      Liters                                                      1,950,507                      682,332
+ Dens 15°C                                                                   kg/l                                                           0.8825                       0.8825
+ V.C.F.                                                                      54D                                                           0.98600                      0.98607
+ G.S.V.                                                                      liters 15°C                                                 1,923,288                      672,810
+ Main Table 56                                                               MPMS 11.5.3.4.7                                               0.88140                      0.88140
+ Metric Tons Air                                                                                                                         1,695.186                      593.015
+
+
+Totals                                                                                                                                                GSV                     NSV
+T.O.V.                                  Liters                                         1,268,175         Liters 15°C                             1,250,478
+G.O.V.                                  Liters                                         1,268,175         Barrels 60°F                             7,868.42
+                                                                                                         US Gallons 60°F                           330,474
+Density 15°C                            kg/l                                               0.8825        Metric Tons Vac                         1,103.505
+RD 60/60°F                                                                                 0.8830        Metric Tons Air                         1,102.171
+API 60°F                                                                                    28.75        Long Tons Air                            1,084.76
+
+Average Temp.                           °C                                                   34.65
+
+Tables used:                            54D and W.C.F. MPMS 11.5.3.4.7.
+
+
+
+
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                       Date: 30 Mar 2021 11:23
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                          Page 10 of 15
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 STSi V4.1.2.0 2021/01/12
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Scheduler
+AF21045 (Engen)
+Job No                           12004/00130857.0000/01/I/21
+Report date                      30 Mar 2021
+Installation                     Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                           BOW SKY
+Product                          AP/E Core 2500
+Bill of Lading date: 29-Mar-2021                                                                                                                     Shore Tank Report Single
+Shore tank 2038 at Vopak Terminal Vlaardingen
+Shore tank measurement                                                                                                                        Open                          Close
+ Date / Time of measurement                                                                                                      29 Mar 2021 07:52              29 Mar 2021 15:57
+ Average Innage                                                              mm                                                                VMS                           VMS
+ Average temp.                                                               °C                                                              55.20                          54.50
+ T.O.V.                                                                      Liters                                                      1,433,355                       978,430
+ G.O.V.                                                                      Liters                                                      1,433,355                       978,430
+ Dens 15°C                                                                   kg/l                                                           0.8993                        0.8993
+ V.C.F.                                                                      54D                                                           0.97171                       0.97221
+ G.S.V.                                                                      liters 15°C                                                 1,392,982                       951,306
+ Main Table 56                                                               MPMS 11.5.3.4.7                                               0.89820                       0.89820
+ Metric Tons Air                                                                                                                         1,251.176                       854.463
+
+
+Totals                                                                                                                                                   GSV                   NSV
+T.O.V.                                   Liters                                          454,925 Liters 15°C                                         441,676
+G.O.V.                                   Liters                                          454,925 Barrels 60°F                                        2,779.14
+                                                                                                 US Gallons 60°F                                      116,724
+Density 15°C                             kg/l                                             0.8993 Metric Tons Vac                                     397.183
+RD 60/60°F                                                                                0.8998 Metric Tons Air                                     396.713
+API 60°F                                                                                   25.75 Long Tons Air                                         390.45
+
+Average Temp.                            °C                                                  56.71
+
+Tables used:                             54D and W.C.F. MPMS 11.5.3.4.7.
+
+
+
+
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                        Date: 30 Mar 2021 11:23
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                           Page 11 of 15
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 STSi V4.1.2.0 2021/01/12
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Scheduler
+AF21045 (Engen)
+Job No                              12004/00130857.0000/01/I/21
+Report date                         30 Mar 2021
+Installation                        Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                              BOW SKY
+Product                             AP/E Core 600
+Bill of Lading date: 29-Mar-2021                                                                                                                               Ullage Report Departure
+Survey Date and Time                           29 Mar 2021 22:48                                                                                  Dens.15°C Vac                  0.8825
+
+Tank                            ullage       ullage corr                  TOV               Free water                                GOV         Temp          VCF table                   GSV
+                                   mm               mm                   Liters            mm          Liters                        Liters          °C              54D             Liters 15°C
+P7                               4665              4704              1,260,508                                                   1,260,508        31.60          0.98815              1,245,571
+Totals                                                               1,260,508                                                   1,260,508                                             1,245,571
+
+Summary Totals
+On-board figures                                                 OBQ Information                                                 Draft                         Correction
+GSV Liters 15°C                                    1,245,571                                                                     FORE         m           8.80 TRIM          m                -0.39
+TCV Liters 15°C                                    1,245,571                                                                     AFT          m           9.19 LIST          °                   nil
+
+On-board figures                                                 Loaded figures
+GSV Liters 15°C                                    1,245,571     GSV Loaded Ltrs 15°C                              1,245,571 Average Product Temp °C                              31.60
+GSV Barrels 60°F                                    7,837.54     GSV Loaded Bbls 60°F                               7,837.54 Sea Water temp                                       In port 8
+GSV US gallons 60                                    329,177     GSV Loaded US Glns 60°F                             329,177 Ambient temp                                         10
+MT vac                                             1,099.213     MT Vac Loaded                                     1,099.213
+MT air                                             1,097.884     MT Air Loaded                                     1,097.884
+Kilos air                                          1,097,884     Kilo Air Loaded                                   1,097,884
+LT                                                  1,080.54     LT Loaded                                          1,080.54
+
+Equipment used
+Gauge Equipment Type                                Vessel/barge equipment/ATG                               Temperature Equipment Type                      Vessel/barge equipment/ATG
+Gauge Equipment Used                                UTI                                                      Temperature Equipment Used                      UTI
+Gauge Equipment number                              G10903                                                   Temperature Equipment number                    G10903
+
+
+
+
+ Signed by: Ship's representative                                                                                                                 Saybolt representative
+     Name: Eilertsen                                                                                                                              L.T van den Langenberg
+     Rank: Chief Officer                                                                                                                          Saybolt Inspector
+Measurements in accordance with API standards.
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                                    Date: 30 Mar 2021 11:23
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                                       Page 12 of 15
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 ULL V4.1.2.0 2020/10/19
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Scheduler
+AF21045 (Engen)
+Job No                             12004/00130857.0000/01/I/21
+Report date                        30 Mar 2021
+Installation                       Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                             BOW SKY
+Product                            AP/E Core 2500
+Bill of Lading date: 29-Mar-2021                                                                                                                          Ullage Report Departure
+Survey Date and Time                          29 Mar 2021 22:48                                                                                 Dens.15°C Vac               0.8993
+
+Tank                            ullage        ullage corr                TOV                Free water                              GOV     Temp           VCF table                   GSV
+                                   mm                mm                 Liters             mm          Liters                      Liters      °C               54D             Liters 15°C
+B6                               4344               4349              454,182                                                    454,182    49.50           0.97575                443,168
+Totals                                                                454,182                                                    454,182                                             443,168
+
+Summary Totals
+On-board figures                                                 OBQ Information                                                 Draft                    Correction
+GSV Liters 15°C                                     443,168                                                                      FORE       m        8.80 TRIM          m                -0.39
+TCV Liters 15°C                                     443,168                                                                      AFT        m        9.19 LIST          °                   nil
+
+On-board figures                                                 Loaded figures
+GSV Liters 15°C                                    443,168       GSV Loaded Ltrs 15°C                                443,168 Average Product Temp °C                         49.50
+GSV Barrels 60°F                                   2,788.53      GSV Loaded Bbls 60°F                                2,788.53 Sea Water temp                                 In port 8
+GSV US gallons 60                                   117,118      GSV Loaded US Glns 60°F                              117,118 Ambient temp                                   10
+MT vac                                             398.543       MT Vac Loaded                                       398.543
+MT air                                             398.071       MT Air Loaded                                       398.071
+Kilos air                                          398,071       Kilo Air Loaded                                     398,071
+LT                                                   391.78      LT Loaded                                             391.78
+
+Equipment used
+Gauge Equipment Type                                Vessel/barge equipment/ATG                               Temperature Equipment Type                 Vessel/barge equipment/ATG
+Gauge Equipment Used                                UTI                                                      Temperature Equipment Used                 UTI
+Gauge Equipment number                              G10903                                                   Temperature Equipment number               G10903
+
+
+
+
+ Signed by: Ship's representative                                                                                                               Saybolt representative
+     Name: Eilertsen                                                                                                                            L.T van den Langenberg
+     Rank: Chief Officer                                                                                                                        Saybolt Inspector
+Measurements in accordance with API standards.
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                               Date: 30 Mar 2021 11:23
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                                  Page 13 of 15
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 ULL V4.1.2.0 2020/10/19
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Scheduler
+AF21045 (Engen)
+Job No                          12004/00130857.0000/01/I/21
+Report date                     30 Mar 2021
+Installation                    Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                          BOW SKY
+Product                         AP/E Core 600
+Bill of Lading date: 29 Mar 2021                                                                                                                        Certificate of Quantity
+
+The undersigned Independent Saybolt Surveyor herewith declares that the quantity of product loaded by the above mentioned object amounts to:
+
+                                                                                                                                                       Gross
+Liters 15°C                                                                                                                                 *      1,250,478
+Barrels 60°F                                                                                                                                *       7,868.42
+US Gallons 60°F                                                                                                                             *        330,474
+Metric Tons vac                                                                                                                             *      1,103.505
+Metric Tons air                                                                                                                                    1,102.171
+Long Tons                                                                                                                                   *       1,084.76
+* as calculated by Saybolt only.
+These quantities have been determined by measurement of shore tanks.
+B/L Dens.15°C Vac                                                                                                                                    0.8825
+B/L Density 20°C                                                                                                                                     0.8794
+B/L Api 60°F                                                                                                                                          28.75
+B/L RD 60/60°F                                                                                                                                       0.8830
+
+Additional data
+Loadport                                                                                          Vlaardingen, Netherlands
+Destination                                                                                       Durban
+
+Criteria used
+Liters 15°C (1000) to US Barrels 60°F                                                             MPMS 11.5.3 - 4.25                                                  6.292327703
+Liters 15°C to US Gallons 60°F                                                                    MPMS 11.5.3 - 4.24                                                 0.2642777635
+Metric Tons Air to Metric Tons Vac                                                                MPMS 11.5.3 - 4.5                                                    1.00121064
+Metric Tons Air to Long Tons                                                                      MPMS 11.5 - Annex D                                                   0.9842065
+
+
+
+
+                                                                                                                                 Signed by: Saybolt representative
+                                                                                                                                     Name: L. van den Langenberg
+                                                                                                                                     Rank: Saybolt Inspector
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                        Date: 30 Mar 2021 11:23
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                           Page 14 of 15
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 COQ V4.1.2.2 2021/03/04
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Scheduler
+AF21045 (Engen)
+Job No                          12004/00130857.0000/01/I/21
+Report date                     30 Mar 2021
+Installation                    Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                          BOW SKY
+Product                         AP/E Core 2500
+Bill of Lading date: 29 Mar 2021                                                                                                                        Certificate of Quantity
+
+The undersigned Independent Saybolt Surveyor herewith declares that the quantity of product loaded by the above mentioned object amounts to:
+
+                                                                                                                                                       Gross
+Liters 15°C                                                                                                                                 *       441,676
+Barrels 60°F                                                                                                                                *       2,779.14
+US Gallons 60°F                                                                                                                             *        116,724
+Metric Tons vac                                                                                                                             *       397.183
+Metric Tons air                                                                                                                                     396.713
+Long Tons                                                                                                                                   *         390.45
+* as calculated by Saybolt only.
+These quantities have been determined by measurement of shore tanks.
+B/L Dens.15°C Vac                                                                                                                                    0.8993
+B/L Density 20°C                                                                                                                                     0.8962
+B/L Api 60°F                                                                                                                                          25.75
+B/L RD 60/60°F                                                                                                                                       0.8998
+
+Additional data
+Loadport                                                                                          Vlaardingen, Netherlands
+Destination                                                                                       Durban
+
+Criteria used
+Liters 15°C (1000) to US Barrels 60°F                                                             MPMS 11.5.3 - 4.25                                                  6.292264755
+Liters 15°C to US Gallons 60°F                                                                    MPMS 11.5.3 - 4.24                                                 0.2642751197
+Metric Tons Air to Metric Tons Vac                                                                MPMS 11.5.3 - 4.5                                                     1.00118519
+Metric Tons Air to Long Tons                                                                      MPMS 11.5 - Annex D                                                    0.9842065
+
+
+
+
+                                                                                                                                 Signed by: Saybolt representative
+                                                                                                                                     Name: L. van den Langenberg
+                                                                                                                                     Rank: Saybolt Inspector
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                        Date: 30 Mar 2021 11:23
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                           Page 15 of 15
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 COQ V4.1.2.2 2021/03/04
+

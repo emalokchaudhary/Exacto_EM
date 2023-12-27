@@ -1,0 +1,7 @@
+Product:                  Aromatic Concentrate                                     Terminal:      ExxonMobil
+Subject:                  Report of    Discharge                                   Port:          Baton Rouge, Louisiana
+EMCC Ref. #: 5054187-20                                                            File Number:   XBR12716
+                                                     VOYAGE ANALYSIS
+OUTTURN COMPARISON                                                   DATE                         NET BARRELS
+Load port Terminal:         EMCC, Beaumont                                 October 5, 2020               ACTIVE
+Discharge Terminal:             ExxonMobil                                 October 11, 2020             51,810.00

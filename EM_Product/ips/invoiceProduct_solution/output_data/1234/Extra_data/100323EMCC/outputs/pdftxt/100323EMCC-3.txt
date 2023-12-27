@@ -1,0 +1,46 @@
+CLEANED !!!
+                                  COASTAL GULF &
+                                INTERNATIONAL, INC.
+                                                "Precision"
+                                          Inspection & Analytical
+                                                  Services
+                                  2104 S Southland, Gonzales, LA 70737
+                                 Phone (225) 231-4990 Fax (225) 231-7875                                      Assuring accuracy through expertise!
+
+Vessel:                   Kirby 10562                                              Date:          January 27, 2021
+Product:                  Heptene                                                  Terminal:      ExxonMobil
+Subject:                  Report of    Discharge                                   Port:          Baton Rouge, Louisiana
+EMCC Ref. #: 5067731                                                               File Number:   100323
+                                                     VOYAGE ANALYSIS
+OUTTURN COMPARISON                                                   DATE                         NET BARRELS
+Load port Terminal:          Vopak, Deer Park                              January 7, 2021                 9,234.98
+Discharge Terminal:             ExxonMobil                                 January 27, 2021                9,188.00
+                                                                    Apparent Difference:                    46.98
+                                                               Adjustment for Bottoms:                       0.00
+                                                                     Adjusted Difference:                   46.98
+
+
+OBQ/ROB RECAPITULATION
+                                                   On Board Quantity at Load Port:                           0.00
+                             Remaining on Board Quantity at Discharge Port:                                  0.00
+                      Adjustment for Bottoms Pumped off or Left on Board:                                    0.00
+
+
+FREE WATER COMPARISON
+                                                 Free Water Quantity at Load Port:                           0.00
+                                         Free Water Quantity at Discharge Port:                              0.00
+                      Adjustment for Bottoms Pumped off or Left on Board:                                    0.00
+
+
+IN-TRANSIT COMPARISON
+                                                         Sailing Figures at Load port:                     9,194.42
+                                                 Arrival Figures at Discharge Port:                        9,196.32
+                                                                   In-Transit Difference:                    1.90
+
+
+
+
+Coastal Gulf & International, Inc.
+Jon Herrington
+Gonzales Communication Center                                                                                         Version 7.1 04-19-20 JMH
+ 

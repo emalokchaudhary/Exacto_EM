@@ -1,0 +1,60 @@
+                                                   Remit to:
+                             Coastal Gulf & International, Inc.
+                                Routing 065402423 acct 3113892                               Date            Inv No
+                               PO Box 429 Kenner, LA 70063-0429
+                                      985-785-0765 ext 213                              4/30/2021          306463
+
+
+
+ BILL TO                                                                       JOB INFORMATION
+
+Exxonmobil Oil Corporation                                   HTCO 3100
+22777 Springwoods Village Parkway                            Raffinate
+Spring, TX 77389                                             Report of Loading
+(Upload to Navarik)                                          at ExxonMobil
+                                                             Baton Rouge, Louisiana
+
+    P.O. No.             USEBARGINT-2104-055                                     Date Worked           File Number
+
+ Scheduler Name              Delores Lewis                                       4/12/2021              102634
+
+                             Description                                 Qty            Rate               Amount
+
+Billing Contract/Service Agreement - A2473671
+Ref.# 5408894-10
+
+Survey of Inland Barge                                                                       505.00            505.00
+
+
+Analysis of Barges (C1 Slate):                                                           1,455.00            1,455.00
+ Reid Vapor Pressure, D5191 = $71.00
+ Corrosion Copper Strip, D130 = $51.00
+ Aromatics, D1319 = $92.00
+ Research Octane Number, D2699 = $189.00
+ Motor Octane Number, D2700 = $189.00
+ Mercaptan Sulfur, D3227 = $66.00
+ Benzene, D3606 = $112.00
+ Gums Existent, D381 = $97.00
+ Appearance, D4176 = $20.00
+ Total Sulfur, D5453 = $110.00
+ Oxygenates, D5599 = $148.00
+ Silver Corrosion, D7671 = $97.00
+ Distillation, D86 = $77.00
+ Silicon, IP377 = $136.00
+
+
+Manpower - Travel Time for HTCO 3100 ($97/Hr) - Sample Delivery to       5.5                   97.00           533.50
+AmSpec, Houston, Texas
+Traveling - 381.882KM Outside of 40KM Base for HTCO 3100 -             381.882                  0.56           213.85
+Samples Delivered to AmSpec, Houston, Texas
+
+
+
+
+  We understand that you have a
+  choice . . . Thanks for choosing               Terms               30 Net
+                 CGI
+
+
+                                                    Page 1
+

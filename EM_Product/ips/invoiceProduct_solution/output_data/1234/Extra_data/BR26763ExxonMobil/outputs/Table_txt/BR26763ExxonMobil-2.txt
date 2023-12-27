@@ -1,0 +1,14 @@
+Product:                  CSO/MCB                                                Terminal:      Apex
+Subject:                  Report of     Discharge                                Port:          Port Allen, Louisiana
+ExxonMobil Ref. #: 4971503                                                       File Number:   BR26763
+                                                      VOYAGE ANALYSIS
+OUTTURN COMPARISON                                                    DATE                      NET BARRELS
+Load port Terminal:                P.F.T.                                 August 18, 2020               Active
+Discharge Terminal:                   Apex                                August 21, 2020              39,959.96
+                                                                      Apparent Difference:                N/A
+                                                                Adjustment for Bottoms:                 21.16
+                                                                      Adjusted Difference:                N/A
+
+
+OBQ/ROB RECAPITULATION
+                                                    On Board Quantity at Load Port:                     558.20

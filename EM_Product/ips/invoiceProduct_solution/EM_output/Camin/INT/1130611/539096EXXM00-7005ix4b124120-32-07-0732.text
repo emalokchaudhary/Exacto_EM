@@ -1,0 +1,635 @@
+ExxonMobil Sales & Supply LLC
+22777 Springwoods Village Parkway
+Spring, TX 77389
+
+Attention                  : Zachary Schaser
+                                                                        Contents
+MOVEMENT                   : Load                                        Voyage Analysis Report
+                                                                         Shore Tank Quantity
+VESSEL                     : Solviken                                    Vessel Quantity Report
+LOCATION                   : Enterprise - Houston, TX                    Line Displacement
+                                                                         Timelog
+File N°                    : DPA-54731                                   Vessel Experience Factor
+DATE                       : 08/23/2020 - 09/07/2020                     Analytical Report
+REFERENCE N°               : INTV004CRU-2009-0035
+
+
+Dear Client,
+
+Please find attached our Inspection Report No. DPA-54731 corresponding to the Load operation of the
+captioned vessel, at place and date(s) shown above. The complete report is composed of individual field
+reports, which we believe are self-explanatory.
+
+
+We trust that this report supplies the proper input needed so that we comply with your requirements. Should
+there be any points that need further clarification, please do not hesitate to contact us.
+
+Gauges, temperatures and volumes were obtained in accordance to the latest procedures in applicable API
+MPMS Chapters and Sections 3.x,4.x,5.x,7,8.x,10.x,11.x,12.x & 17.x
+
+All Camin Cargo Control measurement devices and methods used for quantity and quality determination meet
+the pertinent requirements of 40 CFR 98.3 et. seq. (Greenhouse Gas Mandatory Reporting Rule)
+
+
+
+
+                                                                     Yours Sincerely,
+
+                                                                     Camin Cargo Control
+                                                                     1001 Shaw Avenue Pasadena, TX 77506
+                                                                     Phone: 713-910-4688
+                                                                     OpsDeerPark@camincargo.com
+ EXXM00-70 / 539096                                                  www.camincargo.com
+
+
+
+
+                                                   Page 1 of 11
+                                             VOYAGE ANALYSIS REPORT N° DPA-54731
+VESSEL                 : Solviken                                                                                         MOVEMENT               : Load
+LOCATION               : Enterprise - Houston, TX                                                                         JOB COMPLETED          : 03-SEP-2020
+PRODUCT                : WTI CRUDE                                                                                        REFERENCE N°           : INTV004CRU-2009-0035
+
+                          Port                                                                                     VCF    Voyage#                  Gauge Date
+LOAD                     : Enterprise - Houston, TX                                                                6A     24                       01-SEP-2020
+DISCHARGE
+Barrels @ 60 °F                          API @ 60 °F              TCV                      FW                  GSV                  S&W                  NSV          Reference
+I. SHORE/SHORE COMPARISON-NOT AVAILABLE
+1.   Loading Quantity                          43.8        719,561.52                     0.00            719,561.52                 359.90         719,201.62
+2.   Outturn
+3.   Difference                                                                                                                                                       (2-1)
+4.   Difference %                                                                                                                                                     (3/1*100)
+     Adjusted TCV Difference                                                                                                                                          (3-b+l)
+
+
+II. VESSEL/SHORE COMPARISON AT LOADPORT
+a.   After Loading                                         719,635.98                   258.01            719,377.97                   Liquid            Non-Liquid
+b.   OBQ                                                          0.00                    0.00                     0.00
+
+c.   Vessel Received                                       719,635.98                   258.01            719,377.97                                                  (a-b)
+d.   Difference                                                 74.46                   258.01               -183.55                                                  (c-1)
+e.   Difference %                                                 0.01                                         -0.03                                                  (d/1*100)
+f.   Load Ratio                                                   1.00010
+                                                                                                                                                                      (c/1)
+g.   VEF                                                          0.9997
+
+h.   Theoretical Shore                                     719,851.94                                                                                                 (c/g)
+i.   Theoretical Shore Diff.                                   290.42
+                                                                                                                                                                      (h-1)
+j.   Theoretical Shore Diff. %                                    0.04                                                                                                (i/1*100)
+III. VESSEL/SHORE COMPARISON AT DISPORT-NOT AVAILABLE
+k.   Before Discharge                                                                                                                  Liquid            Non-Liquid
+l.   ROB
+m. Vessel Delivered                                                                                                                                                   (k-l)
+n.   Difference                                                                                                                                                       (2-m)
+o.   Difference %                                                                                                                                                     (n/2*100)
+p.   Discharge Ratio                                                                                                                                                  (m/2)
+q.   VEF
+r.   Theoretical Shore                                                                                                                                                (m/q)
+s.   Theoretical Shore Diff.                                                                                                                                          (2-r)
+t.   Theoretical Shore Diff. %                                                                                                                                        (s/2*100)
+IV. VESSEL IN TRANSIT COMPARISON-NOT AVAILABLE
+u.   In-Transit Diff.                                                                                                                                                 (k-a)
+v.   In-Transit Diff. %                                                                                                                Liquid            Non-Liquid (u/a*100)
+w. OBQ/ROB Difference                                                                                                                                                 (b-l)
+                          Adjusted TCV Difference                                                S&W at Loadport     0.050 %        S&W at Disport ---
+
+
+
+
+Calculated as per Chapter 17.5
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+1001 Shaw Avenue
+Pasadena, TX 77506
+Office Phone: 713-910-4688
+Email: OpsDeerPark@camincargo.com
+
+EXXM00-70 / 539096 / September 7, 2020
+                                                                                     Page 2 of 11
+                                              QUANTITY CERTIFICATE N° DPA- 54731
+                                                                     Based on Shore Measurements
+VESSEL                 : Solviken                                                                                         MOVEMENT      : Load
+LOCATION               : Enterprise - Houston, TX                                                                         JOB COMPLETED : 03-SEP-2020
+PRODUCT                : WTI CRUDE                                                                                        REFERENCE N° : INTV004CRU-2009-0035
+
+
+            Reading               TOV         Meter      Temp.      API       VCF        Pressure       Pressure Corr. Comp. Corr.          GSV            S&W      S&W Vol.       NSV
+
+Meter: Meter                                                        Gauge Date Open: 01-Sep 20:29                                              Gauge Date Close: 02-Sep 08:45
+            M (Inn.)              Bbls        Factor      °F       @ 60°F      6A                          Factor        Factor         Bbls @ 60°F        %         @ 60°F     Bbls @ 60°F
+ O                12470361
+                                 178,161.00     1.0028      98.6   43.8 (T)   0.97963           57.00        1.000380       0.9827         175,078.81       0.050       87.54     174,991.27
+ C                12648522
+                                                                                        Line:                                     Vessel FW Bbls -258.01
+                                                                                        Adjustment:                                                  ---
+
+Meter: Meter                                                        Gauge Date Open: 01-Sep 20:29                                              Gauge Date Close: 02-Sep 08:45
+            M (Inn.)              Bbls        Factor      °F       @ 60°F      6A                          Factor        Factor         Bbls @ 60°F        %         @ 60°F     Bbls @ 60°F
+ O                13000770
+                                 182,520.00     1.0026      99.0   43.8 (T)   0.97942           56.20        1.000370       0.9823         179,289.40       0.050       89.64     179,199.76
+ C                13183290
+                                                                                        Line:                                                        ---
+                                                                                        Adjustment:                                                  ---
+
+Meter: Meter                                                        Gauge Date Open: 02-Sep 08:58                                              Gauge Date Close: 02-Sep 17:40
+            M (Inn.)              Bbls        Factor      °F       @ 60°F      6A                          Factor        Factor         Bbls @ 60°F        %         @ 60°F     Bbls @ 60°F
+ O                12648522
+                                 119,374.00     1.0028     100.4   43.8 (T)   0.97867           50.50        1.000340       0.9817          117,189.46      0.050       58.59     117,130.87
+ C                12767896
+                                                                                        Line:                                                        ---
+                                                                                        Adjustment:                                                  ---
+
+Meter: Meter                                                        Gauge Date Open: 02-Sep 08:58                                              Gauge Date Close: 02-Sep 17:40
+            M (Inn.)              Bbls        Factor      °F       @ 60°F      6A                          Factor        Factor         Bbls @ 60°F        %         @ 60°F     Bbls @ 60°F
+ O                13183290
+                                 124,827.00     1.0026     100.8   43.8 (T)   0.97846           48.90        1.000330       0.9813         122,492.74       0.050       61.25     122,431.49
+ C                13308117
+                                                                                        Line:                                                        ---
+                                                                                        Adjustment:                                                  ---
+
+Meter: Meter                                                        Gauge Date Open: 02-Sep 17:58                                              Gauge Date Close: 02-Sep 22:04
+            M (Inn.)              Bbls        Factor      °F       @ 60°F      6A                          Factor        Factor         Bbls @ 60°F        %         @ 60°F     Bbls @ 60°F
+ O                12767896
+                                  62,406.00     1.0020      98.5   43.8 (T)   0.97968           60.30        1.000400       0.9820           61,282.69      0.050       30.64      61,252.05
+ C                12830302
+                                                                                        Line:                                                        ---
+                                                                                        Adjustment:                                                  ---
+
+Meter: Meter                                                        Gauge Date Open: 02-Sep 17:58                                              Gauge Date Close: 02-Sep 22:04
+            M (Inn.)              Bbls        Factor      °F       @ 60°F      6A                          Factor        Factor         Bbls @ 60°F        %         @ 60°F     Bbls @ 60°F
+ O                13308117
+                                  65,722.00     1.0014      98.9   43.8 (T)   0.97947           58.50        1.000390       0.9812           64,486.43      0.050       32.24      64,454.19
+ C                13373839
+                                                                                        Line:                                                        ---
+                                                                                        Adjustment:                                                  ---
+S=Submitted / C=Calculated / T=Tested by CCC / W=Tested by Terminal/Refinery & Witnessed by CCC
+Totals computed using appropriate tables corresponding to Delivered API.
+
+
+
+
+ 1001 Shaw Avenue
+ Pasadena, TX 77506
+ Office Phone: 713-910-4688
+ Email: OpsDeerPark@camincargo.com
+
+ EXXM00-70 / 539096 / September 7, 2020                                             Page 3 of 11
+                                                QUANTITY CERTIFICATE N° DPA- 54731
+                                                                     Based on Shore Measurements
+VESSEL                : Solviken                                                                            MOVEMENT      : Load
+LOCATION              : Enterprise - Houston, TX                                                            JOB COMPLETED : 03-SEP-2020
+PRODUCT               : WTI CRUDE                                                                           REFERENCE N° : INTV004CRU-2009-0035
+                                                            WTI CRUDE - TOTAL QUANTITIES - DELIVERED
+TCV, Barrels @ 60 °F                         719,561.52
+Free Water Barrels                                 0.00
+                                               GSV                  NSV                                                GSW               NSW
+Barrels @ 60 °F                               719,561.52          719,201.62            Long Tons - Air               90,673.906        90,628.554
+Gallons @ 60 °F                            30,221,583.84      30,206,468.04             Metric Tons - Air             92,128.942        92,082.862
+Cubic Meters @ 60 °F                          114,401.117         114,343.898           Short Tons - Air             101,554.775       101,503.981
+Cubic Meters @ 15 °C                          114,341.682         114,284.492           Kilograms - Air           92,128,942.0      92,082,862.0
+Liters @ 60 °F                            114,401,117.0      114,343,898.0              Pounds - Air             203,109,550.0     203,007,961.0
+Liters @ 15 °C                            114,341,682.0      114,284,492.0
+API Gravity @ 60 °F (T)                           43.8
+Lb/Gal @ 60 °F                                6.720678530
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 1001 Shaw Avenue
+ Pasadena, TX 77506
+ Office Phone: 713-910-4688
+ Email: OpsDeerPark@camincargo.com
+
+ EXXM00-70 / 539096 / September 7, 2020                                             Page 4 of 11
+                                           VESSEL QUANTITY REPORT N° DPA-54731
+VESSEL                 : Solviken                                                                       MOVEMENT      : Load
+LOCATION               : Enterprise - Houston, TX                                                       JOB COMPLETED : 03-SEP-2020
+PRODUCT                : WTI CRUDE                                                                      REFERENCE N° : INTV004CRU-2009-0035
+Comp. Chart RH                 Phy GH       Gauge        TOV         Water             Water          Temp.      VCF      GSV @ 60 °F    GSV @ 60 °F
+No     Meters                   Meters      Meters        M3         Gauge              M3              °C        6A       M3-Liquid     M3-NonLiquid
+01P         19.9950                19.99     0.00              Nil   0.00               Nil
+01P-NL      19.9950                                            Nil                      Nil
+01S         20.0060                20.00     0.00              Nil   0.00               Nil
+01S-NL      20.0060                                            Nil                      Nil
+02P         19.9450                19.95     0.00              Nil   0.00               Nil
+02P-NL      19.9450                                            Nil                      Nil
+02S         19.9000                19.90     0.00              Nil   0.00               Nil
+02S-NL      19.9000                                            Nil                      Nil
+03P         19.9620                19.96     0.00              Nil   0.00               Nil
+03P-NL      19.9620                                            Nil                      Nil
+03S         19.9900                19.99     0.00              Nil   0.00               Nil
+03S-NL      19.9900                                            Nil                      Nil
+04P         19.9500                19.95     0.00              Nil   0.00               Nil
+04P-NL      19.9500                                            Nil                      Nil
+04S         19.9500                19.95     0.00              Nil   0.00               Nil
+04S-NL      19.9500                                            Nil                      Nil
+05P         19.9350                19.35     0.00              Nil   0.00               Nil
+05P-NL      19.9350                                            Nil                      Nil
+05S         19.9600                19.96     0.00              Nil   0.00               Nil
+05S-NL      19.9600                                            Nil                      Nil
+06P         19.9400                19.94     0.00              Nil   0.00               Nil
+06P-NL      19.9400                                            Nil                      Nil
+06S         19.9400                19.94     0.00              Nil   0.00               Nil
+06S-NL      19.9400                                            Nil                      Nil
+SP          19.9500                19.95     0.00              Nil   0.00               Nil
+SP-NL       19.9500                                            Nil                      Nil
+SS          19.9500                19.95     0.00              Nil   0.00               Nil
+SS-NL       19.9500                                            Nil                      Nil
+                                                               Nil                       Nil                                     0.000            0.000
+Gauge Date             General Information                                                                                        Sea Valves
+01-SEP-2020            Last Three Cargoes  : crude oil                                                               SN=G15908    O.B. 0204063   S.C.
+                                                                                                                                  0204604
+                      Sea Condition          : Calm                                                                  SN=G15908
+Draft (m)           Fwd (P)                Fwd (S)       Aft (P)        Aft (S)                Trim           List
+Before              5.3                    5.3           8.3            8.3                    3.00           0.00
+
+
+
+
+ 1001 Shaw Avenue
+ Pasadena, TX 77506
+ Office Phone: 713-910-4688
+ Email: OpsDeerPark@camincargo.com
+
+ EXXM00-70 / 539096 / September 7, 2020
+                                                                        Page 5 of 11
+                                          VESSEL QUANTITY REPORT N° DPA-54731
+VESSEL                 : Solviken                                           MOVEMENT      : Load
+LOCATION               : Enterprise - Houston, TX                           JOB COMPLETED : 03-SEP-2020
+PRODUCT                : WTI CRUDE                                          REFERENCE N° : INTV004CRU-2009-0035
+Note:
+No Trim Correction was applied.
+Vessel was gauged/sampled using a Closed/Restricted System
+
+
+VESSEL QUANTITIES                            OBQ
+TCV, Barrels @ 60 °F                         0.00
+Free Water Barrels                           0.00
+                                             GSV
+Barrels @ 60 °F                              0.00
+Gallons @ 60 °F                               0.00
+Cubic Meters @ 60 °F                          0.000
+Cubic Meters @ 15 °C                          0.000
+Liters @ 60 °F                                0.0
+Liters @ 15 °C                                0.0
+API Gravity @ 60 °F
+Lb/Gal @ 60 °F
+
+
+
+
+ 1001 Shaw Avenue
+ Pasadena, TX 77506
+ Office Phone: 713-910-4688
+ Email: OpsDeerPark@camincargo.com
+
+ EXXM00-70 / 539096 / September 7, 2020
+                                                             Page 6 of 11
+                                             VESSEL QUANTITY REPORT N° DPA-54731
+VESSEL                 : Solviken                                                                                          MOVEMENT      : Load
+LOCATION               : Enterprise - Houston, TX                                                                          JOB COMPLETED : 03-SEP-2020
+PRODUCT                : WTI CRUDE                                                                                         REFERENCE N° : INTV004CRU-2009-0035
+Comp. Chart RH                 Phy GH         Gauge              TOV            Water                   Water           Temp.          VCF       GSV @ 60 °F
+No     Meters                   Meters        Meters              M3            Gauge                    M3               °C            6A            M3
+01P         19.9950                19.99       4.78            6,600.190             0                     Nil            36.2      0.98037         6,470.628
+01P-NL      19.9950                                                 Nil                                    Nil
+01S         20.0060                20.00       4.83            6,604.680        Traces             Unquantifiable         36.2      0.98037         6,475.030
+01S-NL      20.0060                                                 Nil                                    Nil
+02P         19.9450                19.95       2.19           10,236.750             0                     Nil            37.3      0.97936        10,025.463
+02P-NL      19.9450                                                 Nil                                    Nil
+02S         19.9000                19.90       2.94            9,800.060             0                     Nil            37.1      0.97952         9,599.355
+02S-NL      19.9000                                                 Nil                                    Nil
+03P         19.9620                19.96       1.68           10,550.420             0                     Nil            36.8      0.97984        10,337.724
+03P-NL      19.9620                                                 Nil                                    Nil
+03S         19.9900                19.99       1.68           10,518.820        Traces             Unquantifiable         36.7      0.97989        10,307.287
+03S-NL      19.9900                                                 Nil                                   Nil
+04P         19.9500                19.95       1.78           10,479.520         0.01                    5.860            36.9      0.97974        10,261.464
+04P-NL      19.9500                                                 Nil                                   Nil
+04S         19.9500                19.95       1.77           10,486.580         0.01                    5.860            37.0      0.97963        10,267.228
+04S-NL      19.9500                                                 Nil                                   Nil
+05P         19.9350                19.35       1.68           10,532.820        Traces             Unquantifiable         36.5      0.98011        10,323.322
+05P-NL      19.9350                                                 Nil                                   Nil
+05S         19.9600                19.96       1.67           10,545.180             0                    Nil             36.6      0.98000        10,334.276
+05S-NL      19.9600                                                 Nil                                   Nil
+06P         19.9400                19.94       1.68           10,205.170         0.02                   11.720            36.8      0.97984         9,987.950
+06P-NL      19.9400                                                 Nil                                   Nil
+06S         19.9400                19.94       1.68           10,205.170         0.03                   17.580            36.8      0.97984         9,982.208
+06S-NL      19.9400                                                 Nil                                   Nil
+                                                             116,765.360                                 41.020           36.8                    114,371.935
+Gauge Date            General Information                                                                                                                 Sea Valves
+01-SEP-2020           Last Three Cargoes   : crude oil                                                                                      SN=G19205     N/A
+                      Sea Condition        : Calm                                                                                           SN=G19205
+Draft (m)           Fwd (P)              Fwd (S)                Aft (P)                  Aft (S)                 Trim              List
+Before              5.3                      5.3                8.3                      8.3                     3.00              0.00
+After               13.35                    13.35              13.35                    13.35                   0.00              0.00
+Note:
+No Trim Correction was applied.
+Vessel was gauged/sampled using a Closed/Restricted System
+
+
+
+VESSEL QUANTITIES                          DEPARTURE                 RECEIVED
+TCV, Barrels @ 60 °F                       719,635.98               719,635.98              S&W          0.050%
+Free Water Barrels                             258.01                   258.01                           359.69
+                                                 GSV                      GSV                            NSV                                          GSW                 NSW
+Barrels @ 60 °F                            719,377.97               719,377.97                        719,018.28        Long Tons - Air             90,650.777          90,605.451
+Gallons @ 60 °F                       30,213,874.74             30,213,874.74                      30,198,767.76        Metric Tons - Air           92,105.441          92,059.388
+Cubic Meters @ 60 °F                       114,371.935              114,371.935                       114,314.749 Short Tons - Air                 101,528.870         101,478.105
+Cubic Meters @ 15 °C                       114,312.515              114,312.515                       114,255.359 Kilograms - Air               92,105,441.0       92,059,388.0
+Liters @ 60 °F                      114,371,935.0              114,371,935.0                     114,314,749.0          Pounds - Air           203,057,739.0      202,956,210.0
+Liters @ 15 °C                      114,312,515.0              114,312,515.0                     114,255,359.0
+API Gravity @ 60 °F                             43.8(T)                    43.8(T)
+Lb/Gal @ 60 °F                                 6.720678530                6.720678530
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 1001 Shaw Avenue
+ Pasadena, TX 77506
+ Office Phone: 713-910-4688
+ Email: OpsDeerPark@camincargo.com
+
+ EXXM00-70 / 539096 / September 7, 2020
+                                                                                         Page 7 of 11
+                                              LINE DISPLACEMENT REPORT N° DPA-54731
+VESSEL               : Solviken                                                                                          MOVEMENT      : Load
+LOCATION             : Enterprise - Houston, TX                                                                          JOB COMPLETED : 03-SEP-2020
+PRODUCT              : WTI CRUDE                                                                                         REFERENCE N° : INTV004CRU-2009-0035
+
+
+                   Shore Tank                  Observed Gauges              TOV             Temp.            API                  VCF                  TCV
+
+            Gauge Date: 02-SEP-2020              Ft-In (Inn.)               Bbls              °F           @ 60 °F                6A              Bbls @ 60 °F
+                                          O     55-09 01/08            357,439.26
+                   390-134                                                                   99.9            0.0              1.00000              15,409.18
+                                          C     53-04 07/08            342,030.08
+                                                                        15,409.18
+
+                                                    Total               15,409.18                                                                  15,409.18
+
+
+
+                      Vessel                   Observed Gauges              TOV             Temp.            API                  VCF                  TCV
+
+                     Solviken                    Meter (Ull.)               Bbls              °F           @ 60 °F                6A              Bbls @ 60 °F
+                                          O         0.000                   0.00
+                      04P                                                                    0.0             43.5              1.00000              7,740.24
+                                          C         17.59                7,740.24
+                                                                         7,740.24
+
+                                          O         0.000                   0.00
+                      04S                                                                    0.0             43.5              1.00000              7,606.58
+                                          C         17.63                7,606.58
+                                                                         7,606.58
+
+                                                    Total               15,346.82                                                                  15,346.82
+
+
+
+
+                                                                                     TCV
+                                                            Barrels @ 60 °F                                    Gallons @ 60 °F
+          Total Tank                                            15,409.18                                           647,185.56
+
+          Total Vessel                                          15,346.82                                           644,566.44
+
+          Volume Difference                                        -62.36                                            -2,619.12
+
+          % Difference                                               0.40                                                  0.40
+
+
+As per API Ch. 17.6 TOV of the product displaced was at least 120% of the combined capacity of all designated vessel and shore transfer lines unless the conditions referred to in
+17.6.8.1.1 applied, then 100 % of line capacity.
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 1001 Shaw Avenue
+ Pasadena, TX 77506
+ Office Phone: 713-910-4688
+ Email: OpsDeerPark@camincargo.com
+
+ EXXM00-70 / 539096 / September 7, 2020                                             Page 8 of 11
+                                                       TIME LOG REPORT N° DPA-54731
+VESSEL            : Solviken                                                                              MOVEMENT        : Load
+LOCATION          : Enterprise - Houston, TX                                                              JOB COMPLETED   : 03-SEP-2020
+PRODUCT           : WTI CRUDE                                                                             REFERENCE N°    : INTV004CRU-2009-0035
+
+Date        Time                Description
+23-AUG-2020 13:00               End of Sea Passage
+01-SEP-2020 08:30               Notice of Readiness Tendered
+            10:36               Pilot on Board
+            14:48               First Line Ashore
+            15:24               All Fast
+            15:30               Inspector on Board
+            17:18               Preliminary Inspection Commenced
+            17:24               Cargo Hose(s) Connected
+            17:54               Preliminary Inspection Completed
+            18:18               Key Meeting Held
+            18:18               Notice of Readiness Accepted
+            20:30               Line Verification Commenced
+            21:05               Line Verification Completed
+            21:30               Load Resumed
+02-SEP-2020 22:00               Load Completed
+            22:15               Inspector on Board
+            22:18               Final Sampling Commenced
+            22:30               Final Inspection Commenced
+            23:48               Final Inspection Completed
+            23:55               Final Calculations Commenced
+03-SEP-2020 00:42               Final Calculations Completed
+            00:48               Final Sampling Completed
+            01:00               Cargo Arm Disconnected
+            01:05               Released
+04-SEP-2020 12:41               Sent for/Awaiting Confirmation
+07-SEP-2020 14:00               Received confirmation from the terminal
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+1001 Shaw Avenue
+Pasadena, TX 77506
+Office Phone: 713-910-4688
+Email: OpsDeerPark@camincargo.com
+
+EXXM00-70 / 539096 / September 7, 2020                                            Page 9 of 11
+                                         VESSEL EXPERIENCE FACTOR REPORT N°
+VESSEL             : Solviken                                                                           MOVEMENT      : Load
+LOCATION           : Enterprise - Houston, TX                                                           JOB COMPLETED : 03-SEP-2020
+PRODUCT            : WTI CRUDE                                                                          REFERENCE N°  : INTV004CRU-2009-0035
+
+             Date             Voyage      Location                Cargo                   Vessel        Shore       Ratio Qual. Rejection Reason
+                              Number                                                        Bbls         Bbls
+  Last       03-SEP-2020 24               Enterprise - Houston,   WTI CRUDE               719,636     719,562     1.00010    Y
+                                          TX
+   2nd       30-JUL-2019      14          UST Luga                FUEL OIL                539,404     539,620     0.99960    Y
+   3rd       04-JUL-2019      13          Sidi Kerir              CRUDE OIL               763,969     764,618     0.99915    Y
+   4th       29-JUN-2019      12          Ceyhan                  CRUDE OIL               679,465     480,055     1.41539        Gross Error
+   5th       23-MAY-2019      11          Houston                 CRUDE OIL               700,056     701,486     0.99796    Y
+   6th       26-APR-2019      10          Houston                 CRUDE OIL               734,210     733,950     1.00035    Y
+   7th       31-MAR-2019      9           Whiffen Head            CRUDE OIL               642,242     642,917     0.99895    Y
+   8th       10-MAR-2019      8           Houston                 WTI MIDLAND CRUDE       735,372     734,224     1.00156    Y
+   9th       30-DEC-2018      7           Taman                   MULTIGRADE              207,211     209,000     0.99144    N
+  10th       10-NOV-2018      6           PTP - Chiriqui          VASCONIA CRUDE OIL      761,685     761,670     1.00002    Y
+                                          Grande,PAN
+  11th       20-SEP-2018      5           Corpus Christi          WTI MIDLAND CRUDE       617,256     617,878     0.99899    Y
+  12th       06-SEP-2018      4           Houston                 WTI MIDLAND CRUDE       698,800     699,989     0.99830    Y
+  13th       14-JUL-2018      2           Tallin/Malmo            VGO + HSVGO             662,180     661,921     1.00039    Y
+  14th       16-JUN-2018      1           Novorssiysk             REBCO                   574,968     574,966     1.00000    Y
+  15th       21-MAY-2018      294         Rotterdam               FUEL OIL                634,694     634,366     1.00052    Y
+  16th       08-MAY-2018      293         Primorsk                REBCO                   718,021     717,931     1.00013    Y
+  17th       02-MAY-2018      292         Primorsk                REBCO                   719,122     719,267     0.99980    Y
+  18th       07-APR-2018      291         Primorsk                REBCO                   720,466     720,762     0.99959    Y
+  19th       20-MAR-2018      290         Primorsk                REBCO                   719,571     719,603     0.99996    Y
+  20th       05-MAR-2018      289         Primorsk                REBCO                   718,989     719,061     0.99990    Y
+
+
+
+
+Totals:           20 considered voyages (TCV Bbls)                                                        12,587,852     12,592,791
+
+                  18 qualifying voyages (TCV Bbls)                                                        12,380,641     12,383,791
+
+
+                                                                                                            All voyages Ratio:        0.99961
+                                                                                                    Qualifying Range (*1.003):        1.00261
+                                                                                                                     (*0.997):        0.99661
+N: Excluded (not in qualifying range)                                                     Vessel Experience Factor (LOAD) :           0.9997
+
+Calculated as per API Ch. 17.9 3rd Edition, 2019. Method: Primary
+Some figures were obtained from vessels records. We cannot certify their accuracy.
+
+
+1001 Shaw Avenue
+Pasadena, TX 77506
+Office Phone: 713-910-4688
+Email: OpsDeerPark@camincargo.com
+
+EXXM00-70 / 539096 / September 7, 2020
+                                                                          Page 10 of 11
+                                                 CERTIFICATE OF ANALYSIS N° DPA-54731
+      VESSEL                     : Solviken
+      LOCATION                   : Enterprise - Houston, TX                                                                             MOVEMENT                  : Load
+      PRODUCT                    : WTI CRUDE                                                                                            REF. NO.                  : INTV004CRU-
+                                                                                                                                                                    2009-0035
+                                                                                                                                        JOB COMPLETED             : 03-SEP-2020
+
+005   TK :                       390-127              UML Comp                             Before Load                        Sample N° :        5                     Sampled 01-
+                                                                                                                                                                       SEP-2020
+                                                                                                                                                                       15:20
+                                                                                                                                                                   0
+
+
+
+
+      D 5002                     API Gravity @ 60°F                                             43.4 °API
+                                                                                                                                                                   0
+
+
+
+
+      D 4928                     Water by Karl Fischer in Crude Oils                            0.02 Vol. %
+                                 (Coulometric)
+                                                                                                                                                                   0
+
+
+
+
+      D 473                      Sediment by Extraction                                        0.00 Vol. %
+001   TK :                       390-134              UML Comp                             Before Load                        Sample N° :        10                    Sampled 01-
+  0                                                                                                                                                                    SEP-2020
+                                                                                                                                                                       18:50
+                                                                                                                                                                   0
+
+
+
+
+      D 5002                     API Gravity @ 60°F                                             44.3 °API
+                                                                                                                                                                   0
+
+
+
+
+      D 4928                     Water by Karl Fischer in Crude Oils                            0.05 Vol. %
+                                 (Coulometric)
+                                                                                                                                                                   0
+
+
+
+
+      D 473                      Sediment by Extraction                                        0.00 Vol. %
+001   TK :                       390-126              UML Comp                             Before Load                        Sample N° :        16                    Sampled 02-
+  6                                                                                                                                                                    SEP-2020
+                                                                                                                                                                       04:10
+                                                                                                                                                                   0
+
+
+
+
+      D 5002                     API Gravity @ 60°F                                             43.3 °API
+                                                                                                                                                                   0
+
+
+
+
+      D 4928                     Water by Karl Fischer in Crude Oils                            0.05 Vol. %
+                                 (Coulometric)
+                                                                                                                                                                   0
+
+
+
+
+      D 473                      Sediment by Extraction                                        0.00 Vol. %
+006                                                   Volumetric                            After Load                   ~    Sample N° :        65                    Sampled 03-
+  5                                                   Composite                                                                                                        SEP-2020
+                                                                                                                                                                       00:48
+                                                                                                                                                                   0
+
+
+
+
+      D 5002                     API Gravity @ 60°F                                             43.8 °API
+                                                                                                                                                                   0
+
+
+
+
+      D 4928                     Water by Karl Fischer in Crude Oils                            0.05 Vol. %
+                                 (Coulometric)
+                                                                                                                                                                   0
+
+
+
+
+      D 473                      Sediment by Extraction                                         0.00 Vol. %
+REPORT HEADER
+
+
+
+
+The results apply to the samples as received and specifically to the items listed on this certificate.
+This report may not be reproduced except in full without the written consent of the Camin Cargo Control. Data contained in this report is confidential to the addressee and
+shall not be disclosed to any other party without their approval
+All testing is performed on premises by Camin Cargo Control and in accordance to the latest referenced test method unless specifically stated.
+
+
+
+
+                                                                                                                                                 Kieran McFadden / Laboratory Shift Lead
+
+
+
+ 1001 Shaw Avenue
+ Pasadena, TX 77506
+ Office Phone: 713-910-4688
+ Email: OpsDeerPark@camincargo.com
+
+ EXXM00-70 / 539096 / OK / R2 / 7032008 / Generated: September 7, 2020
+                                                                                        Page 11 of 11
+

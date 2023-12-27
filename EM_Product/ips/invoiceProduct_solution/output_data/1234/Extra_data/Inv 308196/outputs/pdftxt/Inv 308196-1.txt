@@ -1,0 +1,55 @@
+CLEANED !!!
+                                                   Remit to:
+                            Coastal Gulf & International, Inc.
+                               Routing 065402423 acct 3113892                           Date         Inv No
+                              PO Box 429 Kenner, LA 70063-0429
+                                     985-785-0765 ext 213                         6/23/2021        308196
+
+
+
+ BILL TO                                                                   JOB INFORMATION
+
+ExxonMobil Oil Corporation                                 GM 1006 & 1019
+Attn: Accounts Payable                                     Resid-V
+22777 Springwoods Village Parkway                          Report of Loading
+Spring, TX 77389                                           at ExxonMobil
+(Upload to Navarik)                                        Baton Rouge, Louisiana
+
+    P.O. No.            USEBARGINT-2106-007                                Date Worked         File Number
+
+ Scheduler Name             Allison Hellwig                                  6/7/2021           103951
+
+                            Description                              Qty          Rate             Amount
+
+Enabling Service Agreement - A2473671
+Ref.# 5495746-10
+
+Survey of Inland Barges (2 @ $505/Barge) (6,598.916MT)               0.5            1,010.00           505.00
+
+
+Analysis of Barges:                                                  0.5            1,351.00           675.50
+ H2S in Vapor, D5705M = 2 @ $71.00
+ API Gravity, D4052M = $31.00
+ Sulfur Content, D4294M = $107.00
+ Viscosity - Kinematic @ 275*F, D445 = $66.00
+ Flash Point by COC, D92 = $56.00
+ Conradson Carbon Residue, D189 = $66.00
+ Penetration, D5 = $128.00
+ Aluminum, IP501M = $609.00
+ Silicon, IP501M = Included
+ Sodium, IP501M = Included
+ Vanadium, IP501M = Included
+ Asphaltenes, D6560 = $146.00
+
+
+Subtotal of Invoice Before Discount                                                                  1,180.50
+Navarik E-Enablement Discount (2%)                                                  -2.00%             -23.61
+
+
+
+
+                                                                     INVOICE TOTAL:                $1,156.89
+  We understand that you have a
+  choice . . . Thanks for choosing              Terms            30 Net
+                 CGI
+ 

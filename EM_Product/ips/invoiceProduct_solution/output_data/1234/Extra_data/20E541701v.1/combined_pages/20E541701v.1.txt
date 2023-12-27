@@ -1,0 +1,90 @@
+TRIP: INTV005FIN-2009-0015                                                                      20E541701 VER 1 (ISSUED)
+
+ Region:    Americas                                                           Other Reference:
+Operator:   LEONARDO ACEDO (leonardo.g.acedo1@exxonmobil.com)                   Business Group: S/R AMERICAS PRODUCTS
+  Phone:    +18326243959                                                                  Desk: International Products
+ Mobile:    +12818256165                                                       Nomination Type: Marine
+
+Documentary Instructions:
+
+EMSS IS EXPORTER OF RECORD. DOCUMENTATION INSTRUCTIONS WILL BE SENT UNDER SEPARATE COVER.
+
+
+
+
+ DISCHARGE: YASA SEAGULL (9619543) - BALBOA, PANAMA (PANAMA)
+                                       Inspector: Camin Cargo Control Inc.          Inspection Status:     Accepted
+                                             Hub: Camin Cargo Control - Head Office       Created On:      06 Oct 2020 by Leonardo
+                                                  - U.S.                                                   Acedo
+                                    Coordinator: Ari Camin                              Last Modified:     06 Oct 2020 by Dioniris
+                                                  (acamin@camincargo.com)                                  Gonzalez
+                                    Local Office: Panama (opspana-
+                                                  ma@camincargo.com)
+                                     INSPECTION REQUIREMENTS: QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5028753-30
+                                           Grade: AUTODIESEL, S15                    Contract Number:
+                                             ETA: 06 Oct 2020                              Parcel Ref:
+                                             ETD:                                         Destination:
+                  Supply Contract Window Start: 06 Oct 2020                          Source Location:
+                   Supply Contract Window End: 08 Oct 2020                                   Supplier:
+                      Total Nominated Quantity: 60,000 Barrels                               Receiver:
+Transport / Voyage Number / Quantity / Tolerance: YASA SEAGULL (9619543) /            Delivery Terms:      DES (Delivered Ex Ship)
+                                                  60,000 Barrels
+                                                                                       Mother Vessel:
+
+Load / Discharge Instructions:
+Inspection Contract - Activities provided by the Inspection Company under this nomination shall be per-
+formed
+in accordance
+with the ExxonMobil Global Inspection Contract (GIC), effective July 2019 to June 2026.” Please ensure
+all quality testing is completed at ExxonMobil Approved lab unless specified not to.”. Inspection ser-
+vices
+to be performed
+per the GIC and latest standards defined by API (ie Chapter 17.1) or other equivalent industry standards
+(ie EI/JIG 1530). Measurement
+to be taken for both ship and shore (this includes the use of a shore meter )
+
+Agent Details:
+ISS
+
+Parcel Comments:
+TERMINAL:                          MELONES
+RECEIVER:                        TRAFIGURA
+AGENTS:                            ISS
+
+Invoice Instructions:
+  Bill Invoice To                                                                         Item to Bill   Split   Contact / Comment
+ 4058 - EMSUS Exxon Mobil Sales And Supply LLC (Legal Entity: ExxonMobil Sales & Supply   Quantity       50%
+ LLC (EMSS) (4058))                                                                       only
+ TRAFIGURA PTE LTD                                                                        Quantity       50%
+                                                                                          only
+
+
+NOMINATION COMMENTS
+Inspection Appointment:
+
+
+
+                                                           Page 1 of 2
+TRIP: INTV005FIN-2009-0015                                                            20E541701 VER 1 (ISSUED)
+
+Quality based on ship composite at load. Quantity basis shore tank figures at discharge port unless ac-
+tive shore tanks in which case vessel figures with VEF applied at discharge
+Inspection split 50/50
+
+Additional Comments:
+If anything is off spec please inform scheduler immediately
+If a slate is attached in document form to this nomination, inspector agrees to certify per attached
+slate and not Navarik accounting slate.
+
+Recipient List:
+navarik_coordinator@camincargo.com; opspanama@camincargo.com; acamin@camincargo.com
+MATS.MTO@exxonmobil.com;DS-RS-DISTILLATESCHEDULING@exxonmobil.com;
+David.Camejo@trafigura.com;MvdCentamOps@trafigura.com;marine.backup@exxonmobil.com
+                                                                                               REPORT GENERATED 06 OCT 2020
+
+
+
+
+                                                      Page 2 of 2
+

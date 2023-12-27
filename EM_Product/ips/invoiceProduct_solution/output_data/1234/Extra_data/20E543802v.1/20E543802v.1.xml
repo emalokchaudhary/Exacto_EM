@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="20.11.0">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="12" family="PXAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="1" size="12" family="PXAAAB+Arial" color="#000000"/>
+	<fontspec id="2" size="12" family="PXAAAA+Arial,Bold" color="#ffffff"/>
+	<fontspec id="3" size="12" family="PXAAAC+CourierNew" color="#000000"/>
+	<fontspec id="4" size="12" family="PXAAAC+CourierNew" color="#1f497d"/>
+	<fontspec id="5" size="15" family="PXAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="6" size="15" family="PXAAAB+Arial" color="#999999"/>
+<image top="15" left="89" width="290" height="60" src="./../output_data/1234/560/20E543802v.1/20E543802v.1-1_1.png"/>
+<text top="128" left="100" width="46" height="14" font="0"><b>Region:</b></text>
+<text top="128" left="153" width="52" height="14" font="1">Americas</text>
+<text top="128" left="551" width="100" height="14" font="0"><b>Other Reference:</b></text>
+<text top="143" left="89" width="56" height="14" font="0"><b>Operator:</b></text>
+<text top="143" left="153" width="347" height="14" font="1">VERONICA MORALES (veronica.e.morales@exxonmobil.com)</text>
+<text top="143" left="552" width="100" height="14" font="0"><b>Business Group:</b></text>
+<text top="143" left="659" width="166" height="14" font="1">CHEMICAL: AM AROMATICS</text>
+<text top="158" left="104" width="42" height="14" font="0"><b>Phone:</b></text>
+<text top="158" left="618" width="34" height="14" font="0"><b>Desk:</b></text>
+<text top="158" left="659" width="173" height="14" font="1">CHEM AM S&amp;OP AROMATICS</text>
+<text top="173" left="102" width="43" height="14" font="0"><b>Mobile:</b></text>
+<text top="173" left="547" width="104" height="14" font="0"><b>Nomination Type:</b></text>
+<text top="173" left="659" width="38" height="14" font="1">Marine</text>
+<text top="204" left="95" width="153" height="13" font="0"><b>Documentary Instructions:</b></text>
+<text top="204" left="251" width="17" height="13" font="1">n/a</text>
+<text top="251" left="97" width="483" height="14" font="2"><b>LOAD: CHEM3245 (VS00050354) - BATON ROUGE, LA - ERGON (UNITED STATES)</b></text>
+<text top="267" left="325" width="60" height="14" font="0"><b>Inspector:</b></text>
+<text top="267" left="392" width="94" height="14" font="1">COASTAL GULF</text>
+<text top="267" left="612" width="107" height="14" font="0"><b>Inspection Status:</b></text>
+<text top="267" left="727" width="52" height="14" font="1">Accepted</text>
+<text top="282" left="357" width="28" height="14" font="0"><b>Hub:</b></text>
+<text top="282" left="392" width="151" height="14" font="1">Coastal Gulf - Baton Rouge</text>
+<text top="282" left="648" width="71" height="14" font="0"><b>Created On:</b></text>
+<text top="282" left="727" width="127" height="14" font="1">21 Oct 2020 by Veroni-</text>
+<text top="297" left="727" width="61" height="14" font="1">ca Morales</text>
+<text top="312" left="310" width="75" height="14" font="0"><b>Coordinator:</b></text>
+<text top="312" left="392" width="179" height="14" font="1">Baton Rouge Operations (baton-</text>
+<text top="327" left="392" width="134" height="14" font="1">rouge@coastalgulf.com)</text>
+<text top="312" left="635" width="84" height="14" font="0"><b>Last Modified:</b></text>
+<text top="312" left="727" width="126" height="14" font="1">21 Oct 2020 by Steven</text>
+<text top="327" left="727" width="45" height="14" font="1">Moulard</text>
+<text top="341" left="310" width="75" height="14" font="0"><b>Local Office:</b></text>
+<text top="357" left="283" width="384" height="14" font="0"><b>INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG</b></text>
+<text top="373" left="130" width="254" height="14" font="0"><b>Voyage Parcel External Reference Number:</b></text>
+<text top="373" left="392" width="66" height="14" font="1">5074792-10</text>
+<text top="388" left="345" width="40" height="14" font="0"><b>Grade:</b></text>
+<text top="388" left="392" width="113" height="14" font="1">BENZENE VL BULK</text>
+<text top="388" left="614" width="105" height="14" font="0"><b>Contract Number:</b></text>
+<text top="403" left="356" width="29" height="14" font="0"><b>ETA:</b></text>
+<text top="403" left="392" width="67" height="14" font="1">24 Oct 2020</text>
+<text top="403" left="655" width="65" height="14" font="0"><b>Parcel Ref:</b></text>
+<text top="418" left="356" width="29" height="14" font="0"><b>ETD:</b></text>
+<text top="418" left="648" width="71" height="14" font="0"><b>Destination:</b></text>
+<text top="433" left="203" width="182" height="14" font="0"><b>Supply Contract Window Start:</b></text>
+<text top="433" left="392" width="17" height="14" font="1">n/a</text>
+<text top="433" left="618" width="101" height="14" font="0"><b>Source Location:</b></text>
+<text top="448" left="208" width="177" height="14" font="0"><b>Supply Contract Window End:</b></text>
+<text top="448" left="392" width="17" height="14" font="1">n/a</text>
+<text top="448" left="666" width="54" height="14" font="0"><b>Supplier:</b></text>
+<text top="462" left="230" width="155" height="14" font="0"><b>Total Nominated Quantity:</b></text>
+<text top="462" left="392" width="84" height="14" font="1">20,000 Barrels</text>
+<text top="462" left="663" width="56" height="14" font="0"><b>Receiver:</b></text>
+<text top="477" left="89" width="295" height="14" font="0"><b>Transport / Voyage Number / Quantity / Tolerance:</b></text>
+<text top="477" left="392" width="195" height="14" font="1">CHEM3245 (VS00050354) / 20,000</text>
+<text top="492" left="392" width="88" height="14" font="1">Barrels +/- 5 pct</text>
+<text top="477" left="626" width="93" height="14" font="0"><b>Delivery Terms:</b></text>
+<text top="477" left="727" width="115" height="14" font="1">DDP (Delivered Duty</text>
+<text top="492" left="727" width="29" height="14" font="1">Paid)</text>
+<text top="507" left="631" width="88" height="14" font="0"><b>Mother Vessel:</b></text>
+<text top="537" left="89" width="153" height="13" font="0"><b>Email Quantity Results To:</b></text>
+<text top="556" left="95" width="245" height="14" font="3">veronica.e.morales@exxonmobil.com;</text>
+<text top="571" left="95" width="216" height="14" font="3">pmichem.babsc3@exxonmobil.com;</text>
+<text top="585" left="95" width="230" height="14" font="3">carolina.enright@exxonmobil.com;</text>
+<text top="600" left="95" width="230" height="14" font="3">mats.mto-fairfax@exxonmobil.com;</text>
+<text top="614" left="95" width="274" height="14" font="3">emcc.oa.survey.reports@exxonmobil.com;</text>
+<text top="628" left="95" width="346" height="14" font="3">ds-srm-inspection-reports-mailbox@exxonmobil.com</text>
+<text top="663" left="89" width="145" height="13" font="0"><b>Email Quality Results To:</b></text>
+<text top="683" left="95" width="245" height="14" font="3">veronica.e.morales@exxonmobil.com;</text>
+<text top="697" left="95" width="180" height="14" font="3">William.Hutton@ergon.com;</text>
+<text top="712" left="95" width="166" height="14" font="3">colin.rougee@ergon.com;</text>
+<text top="726" left="95" width="158" height="14" font="3">dale.fryoux@ergon.com;</text>
+<text top="741" left="95" width="173" height="14" font="3">wyane.tureaud@ergon.com;</text>
+<text top="755" left="95" width="216" height="14" font="3">batonrouge.operator@ergon.com;</text>
+<text top="790" left="89" width="173" height="13" font="0"><b>Load / Discharge Instructions:</b></text>
+<text top="809" left="95" width="94" height="14" font="3">CUSTOMER: ICC</text>
+<text top="824" left="95" width="7" height="14" font="3">?</text>
+<text top="838" left="95" width="511" height="14" font="3">Measurement for invoicing: Static shore tank at DISCHARGE if available.</text>
+<text top="853" left="95" width="7" height="14" font="3">?</text>
+<text top="867" left="95" width="122" height="14" font="3">*This is a sale**</text>
+<text top="881" left="95" width="79" height="14" font="3">Plant: USJK</text>
+<text top="896" left="95" width="166" height="14" font="3">Cost Center: C021243029</text>
+<text top="910" left="95" width="122" height="14" font="3">Material: 5006387</text>
+<text top="925" left="95" width="7" height="14" font="3">?</text>
+<text top="939" left="95" width="130" height="14" font="3">Lay time: 12 hours</text>
+<text top="953" left="95" width="151" height="14" font="3">Demurrage: $1600 pdpr</text>
+<text top="968" left="95" width="7" height="14" font="3">?</text>
+<text top="982" left="95" width="749" height="14" font="3">EMCC will not accept marine provisions outside of the contract terms such as the Public Terminal Clause.</text>
+<text top="1011" left="95" width="115" height="14" font="3">Bill Invoice to:</text>
+<text top="1025" left="95" width="504" height="14" font="3">Quality based on final barge comp will be completed by BATON ROUGE LAB</text>
+<text top="1040" left="95" width="749" height="14" font="4">CGI will only run the appearance test (D-4176), a printed copy of results (COA) with sample to be deliv-</text>
+<text top="1054" left="95" width="475" height="14" font="4">ered to the BRCP lab. Please let me know if any questions. Thanks!</text>
+<text top="1083" left="95" width="238" height="14" font="3">Quantity at Load: Split 100% EMCC</text>
+<text top="92" left="89" width="231" height="18" font="5"><b>TRIP: USEBARGARO-2010-051</b></text>
+<text top="92" left="650" width="204" height="18" font="5"><b>20E543802 VER 1 (ISSUED)</b></text>
+<text top="1129" left="433" width="77" height="17" font="6">Page 1 of 3</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="7" size="12" family="PXAAAD+CourierNew,Bold" color="#000000"/>
+	<fontspec id="8" size="13" family="PXAAAA+Arial,Bold" color="#ffffff"/>
+	<fontspec id="9" size="9" family="PXAAAA+Arial,Bold" color="#999999"/>
+<image top="15" left="89" width="290" height="60" src="./../output_data/1234/560/20E543802v.1/20E543802v.1-2_1.png"/>
+<text top="148" left="95" width="727" height="14" font="3">&#34;Pre-loading inspections are required and shall be performed by the inspection companies per API 17.8</text>
+<text top="162" left="95" width="302" height="14" font="3">Manual of Petroleum Measurement Standards&#34;</text>
+<text top="191" left="95" width="590" height="14" font="3">Inspections must utilize Global Inspection Contract Rates (July 2019 - June 2026).</text>
+<text top="220" left="95" width="734" height="14" font="3">Inspection invoices are to be submitted into Navarik if nomination received via Navarik or by email to</text>
+<text top="234" left="95" width="742" height="14" font="3">PMI.Chemicals.Inspection.Invoices@exxonmobil.com if nomination received via Outlook. Invoices submitted</text>
+<text top="249" left="95" width="396" height="14" font="3">via Outlook must reference a valid EMCC Nomination Key.</text>
+<text top="277" left="95" width="749" height="14" font="3">Acceptance of inspection invoices submitted via Ariba, Basware, and the below mentioned shared mailboxes</text>
+<text top="292" left="95" width="677" height="14" font="3">will be discontinued as of 22nd of July 2019. Please do not use these channels for submission:</text>
+<text top="306" left="95" width="223" height="14" font="3">emcc.oa.invoices@exxonmobil.com</text>
+<text top="321" left="95" width="338" height="14" font="3">emcc.int&amp;syn.inspection.invoices@exxonmobil.com</text>
+<text top="335" left="95" width="230" height="14" font="3">intermed.invoices@exxonmobil.com</text>
+<text top="364" left="95" width="734" height="14" font="3">Show ExxonMobil Nomination Key and customer purchase order number on all paperwork and subject line of</text>
+<text top="378" left="95" width="50" height="14" font="3">emails.</text>
+<text top="407" left="95" width="180" height="14" font="3">*************************</text>
+<text top="421" left="95" width="749" height="14" font="3">Please send a copy of the load report to the respective barge company email below that was used for this</text>
+<text top="436" left="95" width="79" height="14" font="3">nomination:</text>
+<text top="465" left="95" width="79" height="14" font="7"><b>Canal Barge</b></text>
+<text top="465" left="174" width="194" height="14" font="3">: Afterhours@canalbarge.com</text>
+<text top="479" left="95" width="29" height="14" font="7"><b>ACBL</b></text>
+<text top="479" left="123" width="245" height="14" font="3">: acblloadingreports@bargeacbl.com</text>
+<text top="493" left="95" width="22" height="14" font="7"><b>FMT</b></text>
+<text top="493" left="116" width="526" height="14" font="3">: chris.develle@flmarine.com; dispatch@flmarine.com; billing@flmarine.com</text>
+<text top="508" left="95" width="36" height="14" font="7"><b>Kirby</b></text>
+<text top="508" left="131" width="194" height="14" font="3">: Barrel.Temp@kirbycorp.com</text>
+<text top="557" left="89" width="105" height="13" font="0"><b>Parcel Comments:</b></text>
+<text top="577" left="95" width="43" height="14" font="7"><b>Notes:</b></text>
+<text top="591" left="95" width="482" height="14" font="3">1. All samples to be kept for 90 days only unless otherwise stated.</text>
+<text top="605" left="95" width="511" height="14" font="3">2. Refer to &#34;Docks Chemicals Sample Sheet&#34; for additional instructions.</text>
+<text top="640" left="89" width="180" height="13" font="0"><b>Quality Inspection Instructions:</b></text>
+<text top="656" left="90" width="37" height="15" font="8"><b>SET 1</b></text>
+<text top="673" left="159" width="72" height="14" font="0"><b>Description:</b></text>
+<text top="673" left="239" width="125" height="13" font="1">SHORE LINE SAMPLE</text>
+<text top="688" left="128" width="103" height="14" font="0"><b>Sample Location:</b></text>
+<text top="688" left="239" width="132" height="13" font="1">Shore Line Grab Sample</text>
+<text top="703" left="89" width="142" height="14" font="0"><b>Quality Test Comments:</b></text>
+<text top="723" left="95" width="706" height="14" font="3">Refer to &#34;Docks Chemicals Sample Sheet&#34; to determine how many samples need to be sent to site lab.</text>
+<text top="780" left="95" width="749" height="14" font="3">Refer to &#34;Docks Chemicals Sample Sheet&#34; to determine how many samples need to be retained in inspector's</text>
+<text top="795" left="95" width="209" height="14" font="3">lab. Seal all retain samples.</text>
+<text top="862" left="669" width="75" height="10" font="9"><b>RO = Report Only</b></text>
+<text top="862" left="778" width="69" height="10" font="9"><b>Req. = Required</b></text>
+<text top="877" left="97" width="25" height="13" font="0"><b>Test</b></text>
+<text top="877" left="294" width="49" height="13" font="0"><b>Methods</b></text>
+<text top="877" left="411" width="21" height="13" font="0"><b>Min</b></text>
+<text top="877" left="461" width="23" height="13" font="0"><b>Max</b></text>
+<text top="877" left="514" width="28" height="13" font="0"><b>UOM</b></text>
+<text top="877" left="574" width="41" height="13" font="0"><b>Typical</b></text>
+<text top="877" left="652" width="25" height="13" font="0"><b>R.O.</b></text>
+<text top="877" left="707" width="26" height="13" font="0"><b>Req.</b></text>
+<text top="877" left="764" width="55" height="13" font="0"><b>Comment</b></text>
+<text top="898" left="97" width="126" height="13" font="1">Retain sample -90 days</text>
+<text top="898" left="294" width="69" height="13" font="1">[OTHER] n/a</text>
+<text top="898" left="652" width="15" height="13" font="1">No</text>
+<text top="898" left="707" width="21" height="13" font="1">Yes</text>
+<text top="932" left="90" width="37" height="15" font="8"><b>SET 2</b></text>
+<text top="950" left="159" width="72" height="14" font="0"><b>Description:</b></text>
+<text top="950" left="239" width="161" height="13" font="1">FINAL COMPOSITE SAMPLE</text>
+<text top="965" left="128" width="103" height="14" font="0"><b>Sample Location:</b></text>
+<text top="964" left="239" width="132" height="13" font="1">Vessel/Barge Composite</text>
+<text top="979" left="89" width="142" height="14" font="0"><b>Quality Test Comments:</b></text>
+<text top="999" left="95" width="101" height="14" font="3">For all tanks:</text>
+<text top="1043" left="95" width="706" height="14" font="3">Refer to &#34;Docks Chemicals Sample Sheet&#34; to determine how many samples need to be sent to site lab.</text>
+<text top="92" left="89" width="231" height="18" font="5"><b>TRIP: USEBARGARO-2010-051</b></text>
+<text top="92" left="650" width="204" height="18" font="5"><b>20E543802 VER 1 (ISSUED)</b></text>
+<text top="1129" left="433" width="77" height="17" font="6">Page 2 of 3</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="10" size="7" family="PXAAAB+Arial" color="#999999"/>
+<image top="15" left="89" width="290" height="60" src="./../output_data/1234/560/20E543802v.1/20E543802v.1-3_1.png"/>
+<text top="133" left="95" width="749" height="14" font="3">Refer to &#34;Docks Chemicals Sample Sheet&#34; to determine how many samples need to be retained in inspector's</text>
+<text top="148" left="95" width="209" height="14" font="3">lab. Seal all retain samples.</text>
+<text top="215" left="669" width="75" height="10" font="9"><b>RO = Report Only</b></text>
+<text top="215" left="778" width="69" height="10" font="9"><b>Req. = Required</b></text>
+<text top="229" left="97" width="25" height="13" font="0"><b>Test</b></text>
+<text top="229" left="177" width="49" height="13" font="0"><b>Methods</b></text>
+<text top="229" left="258" width="21" height="13" font="0"><b>Min</b></text>
+<text top="229" left="294" width="23" height="13" font="0"><b>Max</b></text>
+<text top="229" left="332" width="28" height="13" font="0"><b>UOM</b></text>
+<text top="229" left="375" width="41" height="13" font="0"><b>Typical</b></text>
+<text top="229" left="432" width="25" height="13" font="0"><b>R.O.</b></text>
+<text top="229" left="471" width="26" height="13" font="0"><b>Req.</b></text>
+<text top="229" left="512" width="55" height="13" font="0"><b>Comment</b></text>
+<text top="251" left="97" width="65" height="13" font="1">Retain sam-</text>
+<text top="265" left="97" width="37" height="13" font="1">ple -90</text>
+<text top="280" left="97" width="25" height="13" font="1">days</text>
+<text top="251" left="178" width="62" height="13" font="1">[OTHER] n/</text>
+<text top="265" left="178" width="7" height="13" font="1">a</text>
+<text top="251" left="432" width="15" height="13" font="1">No</text>
+<text top="251" left="472" width="21" height="13" font="1">Yes</text>
+<text top="301" left="97" width="93" height="13" font="0"><b>Additional Tests</b></text>
+<text top="322" left="97" width="65" height="13" font="1">Appearance</text>
+<text top="322" left="178" width="40" height="13" font="1">[ASTM]</text>
+<text top="337" left="178" width="63" height="13" font="1">ASTM 4176</text>
+<text top="351" left="178" width="31" height="13" font="1">(mod)</text>
+<text top="322" left="432" width="15" height="13" font="1">No</text>
+<text top="322" left="472" width="21" height="13" font="1">Yes</text>
+<text top="322" left="513" width="329" height="13" font="1">CGI will only run the appearance test (D-4176), a printed copy</text>
+<text top="337" left="513" width="327" height="13" font="1">of results (COA) with sample to be delivered to the BRCP lab.</text>
+<text top="384" left="89" width="117" height="13" font="0"><b>Invoice Instructions:</b></text>
+<text top="402" left="97" width="81" height="13" font="0"><b>Bill Invoice To</b></text>
+<text top="402" left="527" width="61" height="13" font="0"><b>Item to Bill</b></text>
+<text top="402" left="690" width="26" height="13" font="0"><b>Split</b></text>
+<text top="402" left="737" width="110" height="13" font="0"><b>Contact / Comment</b></text>
+<text top="423" left="97" width="400" height="13" font="1">0102 ExxonMobil Chemical Company - U.S. (Div ExxonMobil Chemical Co)</text>
+<text top="437" left="97" width="264" height="13" font="1">(Legal Entity: 0102 EM Chemical America (0102))</text>
+<text top="423" left="528" width="70" height="13" font="1">Quantity only</text>
+<text top="423" left="691" width="31" height="13" font="1">100%</text>
+<text top="458" left="528" width="146" height="13" font="1">Slate: CHEM-AM-ARO-BR-</text>
+<text top="473" left="528" width="97" height="13" font="1">BARGEShoreLine</text>
+<text top="458" left="691" width="31" height="13" font="1">100%</text>
+<text top="494" left="528" width="146" height="13" font="1">Slate: CHEM-AM-ARO-BR-</text>
+<text top="508" left="528" width="90" height="13" font="1">BargeFinalComp</text>
+<text top="494" left="691" width="31" height="13" font="1">100%</text>
+<text top="529" left="528" width="95" height="13" font="1">Test: Appearance</text>
+<text top="529" left="691" width="31" height="13" font="1">100%</text>
+<text top="563" left="89" width="83" height="13" font="0"><b>Recipient List:</b></text>
+<text top="577" left="89" width="156" height="13" font="1">batonrouge@coastalgulf.com</text>
+<text top="591" left="89" width="193" height="13" font="1">pmichem.babsc3@exxonmobil.com;</text>
+<text top="606" left="89" width="184" height="13" font="1">carolina.enright@exxonmobil.com;</text>
+<text top="620" left="89" width="149" height="13" font="1">William.Hutton@ergon.com;</text>
+<text top="635" left="89" width="138" height="13" font="1">colin.rougee@ergon.com;</text>
+<text top="649" left="89" width="131" height="13" font="1">dale.fryoux@ergon.com;</text>
+<text top="663" left="89" width="151" height="13" font="1">wyane.tureaud@ergon.com;</text>
+<text top="678" left="89" width="181" height="13" font="1">batonrouge.operator@ergon.com;</text>
+<text top="692" left="89" width="173" height="13" font="1">Fernando.lee@exxonmobil.com;</text>
+<text top="707" left="89" width="199" height="13" font="1">joseph.c.mcdonald@exxonmobil.com</text>
+<text top="728" left="727" width="127" height="8" font="10">REPORT GENERATED 21 OCT 2020</text>
+<text top="92" left="89" width="231" height="18" font="5"><b>TRIP: USEBARGARO-2010-051</b></text>
+<text top="92" left="650" width="204" height="18" font="5"><b>20E543802 VER 1 (ISSUED)</b></text>
+<text top="1129" left="433" width="77" height="17" font="6">Page 3 of 3</text>
+</page>
+</pdf2xml>

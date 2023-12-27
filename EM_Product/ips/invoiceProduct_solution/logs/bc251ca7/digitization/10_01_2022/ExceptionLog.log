@@ -1,0 +1,42 @@
+
+2022-01-10 12:56:02,045:__main__:
+Filename: test.jpg. Error occured in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 295, in digitize_main
+    os.mkdir(company_path)
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/invoiceProduct/exacto/static/eips_data/digitized_pdf/bc251ca7'
+
+2022-01-10 12:58:53,165:__main__:
+Filename: test.jpg. Error occured in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 295, in digitize_main
+    os.mkdir(company_path)
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/invoiceProduct/exacto/static/eips_data/digitized_pdf/bc251ca7'
+
+2022-01-10 12:58:53,165:__main__:
+Filename: test.jpg. Error occured in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 295, in digitize_main
+    os.mkdir(company_path)
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/invoiceProduct/exacto/static/eips_data/digitized_pdf/bc251ca7'
+
+2022-01-10 12:58:53,165:__main__:
+Filename: test.jpg. Error occured in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 295, in digitize_main
+    os.mkdir(company_path)
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/invoiceProduct/exacto/static/eips_data/digitized_pdf/bc251ca7'
+
+2022-01-10 13:06:49,374:__main__:
+Filename: test.jpg. Error occured in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 295, in digitize_main
+    os.mkdir(company_path)
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/invoiceProduct/exacto/static/eips_data/digitized_pdf/bc251ca7'
+
+2022-01-10 13:06:49,374:__main__:
+Filename: test.jpg. Error occured in Digitization.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/image_segmentation.py", line 295, in digitize_main
+    os.mkdir(company_path)
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/invoiceProduct/exacto/static/eips_data/digitized_pdf/bc251ca7'

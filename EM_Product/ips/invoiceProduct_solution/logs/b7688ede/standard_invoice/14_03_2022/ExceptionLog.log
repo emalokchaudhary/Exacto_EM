@@ -1,0 +1,76 @@
+
+2022-03-14 12:51:22,413:__main__:
+Filename: Baltic 2022-03-13 (Revised).pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2022-03-14 13:32:46,489:__main__:
+Filename: ABC invoice 0R7642.png. Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 568, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/b7688ede/standard_invoice/ABC invoice 0R7642.png/outputs/Table_txt'
+
+2022-03-14 13:32:46,489:__main__:
+Filename: ABC invoice 0R7642.png. Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 568, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/b7688ede/standard_invoice/ABC invoice 0R7642.png/outputs/Table_txt'
+
+2022-03-14 13:32:46,489:__main__:
+Filename: ABC invoice 0R7642.png. Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 568, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/b7688ede/standard_invoice/ABC invoice 0R7642.png/outputs/Table_txt'
+
+2022-03-14 13:32:46,490:__main__:
+Filename: Baltic 2022-01-14.jpg. Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 568, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/b7688ede/standard_invoice/Baltic 2022-01-14.jpg/outputs/Table_txt'
+
+2022-03-14 13:32:46,489:__main__:
+Filename: ABC invoice 0R7642.png. Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 568, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/b7688ede/standard_invoice/ABC invoice 0R7642.png/outputs/Table_txt'
+
+2022-03-14 13:32:46,490:__main__:
+Filename: Baltic 2022-01-14.jpg. Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 568, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/b7688ede/standard_invoice/Baltic 2022-01-14.jpg/outputs/Table_txt'
+
+2022-03-14 13:32:46,490:__main__:
+Filename: Baltic 2022-01-14.jpg. Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 568, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/b7688ede/standard_invoice/Baltic 2022-01-14.jpg/outputs/Table_txt'
+
+2022-03-14 13:32:46,490:__main__:
+Filename: Baltic 2022-01-14.jpg. Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 568, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/b7688ede/standard_invoice/Baltic 2022-01-14.jpg/outputs/Table_txt'
+
+2022-03-14 15:13:28,848:__main__:
+Filename: ABC invoice 0R7642.png. Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 568, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/b7688ede/standard_invoice/ABC invoice 0R7642.png/outputs/Table_txt'

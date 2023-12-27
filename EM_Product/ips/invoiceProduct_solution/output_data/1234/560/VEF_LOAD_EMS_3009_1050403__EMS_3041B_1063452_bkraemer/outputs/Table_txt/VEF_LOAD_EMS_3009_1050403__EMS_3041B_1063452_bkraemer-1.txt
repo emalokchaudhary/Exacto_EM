@@ -1,0 +1,43 @@
+        Voyage            Grade              Location            Date       Vessel Sail-    OBQ            Load        B/L TCV      Vessel    Step 1     Step 2    Vessel TCV       Shore TCV     Current
+                                                                             ing TCV                       TCV                       Load      Has     Qualified                                  Port Call
+                                                                                                                                     Ratio    Gross     Voyage
+                                                                                                    Bbls                                       Error   (> 0.30%)
+                                                                                                                                              (> 2%)
+ Last            Clarified Slurry Oil   Garyville (United     06 Jun 2020      40,338.25     2,228.92      38,109.33    37,940.04   1.00446              YES          38,109.33       37,940.04     YES
+                                        States)
+ 2nd             Residual Fuel Oil      Galveston (United     26 Feb 2020       40,460.5         2,427      38,033.5    38,043.98   0.99972              YES           38,033.5       38,043.98     YES
+                                        States)
+  3rd            Clarified Slurry Oil   Garyville (United     13 Jan 2020       32,978.5     2,233.25      30,745.25    30,544.44   1.00657              NO                                         YES
+                                        States)
+  4th            Heavy Aromatics Fu-    Baton Rouge (United   26 Nov 2019      42,980.16     2,227.48      40,752.68    40,757.06   0.99989              YES          40,752.68       40,757.06     YES
+                 el Oil                 States)
+  5th            Slurry                 Marrero (United       20 Oct 2019      42,301.49     2,264.95      40,036.54    40,006.19   1.00076              YES          40,036.54       40,006.19     YES
+                                        States)
+  6th            Slurry                 St Rose (United       08 Oct 2019      38,179.09     2,297.27      35,881.82    35,676.11   1.00577              NO                                         YES
+                                        States)
+  7th            Heavy Aromatics Fu-    Baton Rouge (United   22 Aug 2019      42,643.03     2,266.71      40,376.32    40,282.96   1.00232              YES          40,376.32       40,282.96     YES
+                 el Oil                 States)
+  8th            Slurry                 St Rose (United       07 Jul 2019      37,239.32     2,303.12       34,936.2    35,028.82   0.99736              NO                                         YES
+                                        States)
+  9th            Slurry                 St Rose (United       30 Jun 2019      35,841.76     2,342.33      33,499.43    33,209.43   1.00873              NO                                         YES
+                                        States)
+ 10th            Slurry                 St Rose (United       29 Apr 2019      37,196.03     2,115.04      35,080.99    34,947.38   1.00382              YES          35,080.99       34,947.38     YES
+                                        States)
+ 11th            Slurry                 St Rose (United       26 Mar 2019      35,727.88      2,265.3      33,462.58    33,135.99   1.00986              NO                                         YES
+                                        States)
+ 12th            Heavy Aromatics Fu-    Baton Rouge (United   07 Feb 2019      35,003.78     2,268.68       32,735.1     32,760.2   0.99923              YES           32,735.1        32,760.2     YES
+                 el Oil                 States)
+ 13th            Heavy Aromatics Fu-    Baton Rouge (United   29 Sep 2018      38,039.99     2,145.04      35,894.95    36,120.92   0.99374              NO                                         YES
+                 el Oil                 States)
+ 14th            Heavy Aromatics Fu-    Baton Rouge (United   17 Sep 2018      34,802.28     2,184.46      32,617.82     32,707.2   0.99727              NO                                         YES
+                 el Oil                 States)
+ 15th            Heavy Aromatics Fu-    Baton Rouge (United   18 Jun 2018      38,198.66     2,185.79      36,012.87    35,990.85   1.00061              YES          36,012.87       35,990.85     YES
+                 el Oil                 States)
+ 16th            Heavy Aromatics Fu-    Baton Rouge (United   26 Apr 2018      39,638.13     2,269.69      37,368.44    37,646.59   0.99261              NO                                         YES
+                 el Oil                 States)
+ 17th            Heavy Aromatics Fu-    Baton Rouge (United   16 Dec 2017      38,204.51     1,976.29      36,228.22    35,907.54   1.00893              NO                                         YES
+                 el Oil                 States)
+ 18th            Clarified Slurry Oil   Beaumont (United      30 Oct 2017      43,165.93     1,672.81      41,493.12    41,248.07   1.00594              NO                                         YES
+                                        States)
+ 19th            Heavy Aromatics Fu-    Baton Rouge (United   19 Sep 2017      33,374.44     1,707.62      31,666.82    31,779.65   0.99645              NO                                         YES
+                 el Oil                 States)

@@ -1,0 +1,14 @@
+Product: CSO/MCB                                                                            Terminal:              Apex
+Subject: Report of Discharge                                                                Port:                  Port Allen, Louisiana
+ExxonMobil Ref. #: 4971503                                                                  File Number:           BR26763
+
+                                                       VESSEL MEASUREMENT REPORT
+                                                                      CBC 7035 UPON ARRIVAL                               Ambient Temp  F: 79.0
+               Obs. Gauge      Gauge (Ft.)       Temp.               T.O.V.                      Water               API                            G.S.V
+   Tank          Height          Ullage           ( F)              Gallons           Gauge              Gallons    @ 60  F      V.C. F            Gallons
+    1P         14' 00 1/4''    04' 03 1/2"       114.9             154,585.00         00' 00"             0.00       -2.6       0.98164           151,746.82
+    1S         14' 00 1/4''      04' 04"         115.6             153,928.00         00' 00"             0.00       -2.6       0.98140           151,064.94
+    2P           14' 00''        05' 00"         115.2             139,227.00         00' 00"             0.00       -2.6       0.98154           136,656.87
+    2S         14' 00 1/2''    05' 01 3/4"       116.5             137,624.00         00' 00"             0.00       -2.6       0.98110           135,022.91
+    3P         14' 01 1/2''      06' 01"         117.2             125,864.00         00' 00"             0.00       -2.6       0.98086           123,454.96
+    3S         14' 01 3/4''      06' 00"         116.7             127,491.00         00' 00"             0.00       -2.6       0.98103           125,072.50

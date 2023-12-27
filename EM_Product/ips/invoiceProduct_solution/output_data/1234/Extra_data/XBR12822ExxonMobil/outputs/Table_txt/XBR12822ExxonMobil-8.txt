@@ -1,0 +1,30 @@
+Product:                 Exxal 13                                                 Terminal:               ExxonMobil
+Subject:                 Report of Loading                                        Port:                   Baton Rouge, Louisiana
+ExxonMobil Ref. #: 4970977                                                        File Number:            XBR12822
+
+
+                                                   LETTER OF PROTEST
+   On Behalf of our principals, we herby notify you that on the above date, the following occurred:
+           Shore Tank was active/metered during movement.
+           Terminal would not allow a Line Displacement to take place
+           Terminal didn t allow adequate settling time after movement.
+           In transit Difference:                       GSV at Loadport Departure:
+                                                           GSV at Disport Arrival:
+                                                                        Difference
+           OBQ / ROB Difference:                                          OBQ at Loadport:
+                                                                           ROB at Disport:
+                                                                                 Difference
+           Shore to Meter Difference:                                     GSV at Loadport:
+                                                                           GSV on Disport:
+                                                                                 Difference
+           Vessel to Meter Difference:                                     Vessel Del./Rec.             14,970.79
+                                                                            Meter Del./Rec:             14,989.00
+                                                                                 Difference                 18.21      0.1%
+           Free Water:                                                        Opening Bbls.
+                                                                              Closing Bbls.
+                                                                                Difference
+           CGI unable to validate all information found on Navarik VEF
+           Towing company did not provide sequential port log for the subject tow
+           NOR Tendered to Barge Docked - 67.5 hrs
+           Barge Docked to Hose Connected - 1.8 hrs
+           Load Completed to Hose Disconnected - 3.2 hrs

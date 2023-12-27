@@ -1,0 +1,69 @@
+CLEANED !!!
+TRIP: USEBARGCHE-2011-006                                                                   20E550932 VER 1 (ISSUED)
+
+ Region: Americas                                                            Other Reference:   4911645704
+Operator: BRUNA KUKIELA (bruna.kukiela@exxonmobil.com)                        Business Group:   CHEMICAL: AM OXO
+  Phone:                                                                                Desk:   CHEM AM S&OP - OXO
+ Mobile:                                                                     Nomination Type:   Marine
+
+Documentary Instructions: n/a
+
+
+ LOAD: CBC183 (VS00026247) - BATON ROUGE REFINERY, LA (UNITED STATES)
+                                  Inspector: COASTAL GULF                                Inspection Status: Accepted
+                                       Hub: Coastal Gulf - Baton Rouge                         Created On: 09 Dec 2020 by
+                                                                                                            Bruna Kukiela
+                                    Coordinator: Baton Rouge Operations (baton-              Last Modified: 22 Dec 2020 by
+                                                  rouge@coastalgulf.com)                                    Marla Fortner
+                                    Local Office:
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 4970977-10
+                                           Grade: EXXAL 13 BR VL                  Contract Number: 4911645704
+                                             ETA: 10 Dec 2020                           Parcel Ref:
+                                             ETD:                                      Destination:
+                  Supply Contract Window Start: n/a                               Source Location:
+                   Supply Contract Window End: n/a                                        Supplier:
+                      Total Nominated Quantity: 1,850,000 Kilograms                       Receiver:
+Transport / Voyage Number / Quantity / Tolerance: CBC183 (VS00026247) / 4970977 /  Delivery Terms: DAT (Delivered at
+                                                  1,850,000 Kilograms +/- 2 pct                     Terminal)
+                                                                                    Mother Vessel:
+
+Parcel Comments:
+- All samples to be kept for 90 days only unless otherwise stated.
+- Customer-specific agreements may require additional sampling/testing.
+- Please refer to "Dock Chemicals Sample Sheet" available in the dock office for additional, product-
+specific sampling requirement. However, please make sure that all sample points included in this tem-
+plate are tested or retained as well as per the template instructions
+
+Quality Inspection Instructions:
+SET 1
+            Description: Dock line sample
+       Sample Location: Shore Line Grab Sample
+Quality Test Comments:
+Take one sample and send to inspector's lab for retention.
+
+
+
+                                                                                                 RO = Report Only    Req. = Required
+ Test                               Methods        Min      Max        UOM     Typical      R.O.         Req.       Comment
+ Additional Tests
+ Retain sample -90 days             [OTHER] n/a                                             No           No
+
+SET 2
+            Description: Barge first foot sample
+       Sample Location: Vessel First Foot
+Quality Test Comments:
+Take two samples. Send one sample to site lab for testing, and the other sample to inspector's lab for
+retention.
+
+
+
+                                                                                                 RO = Report Only    Req. = Required
+ Test                               Methods        Min      Max        UOM     Typical      R.O.         Req.       Comment
+ Additional Tests
+ Retain sample -90 days             [OTHER] n/a                                             No           No
+
+
+
+                                                         Page 2 of 4
+ 

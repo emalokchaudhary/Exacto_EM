@@ -1,0 +1,43 @@
+                           COASTAL GULF &
+                         INTERNATIONAL, INC.
+                                         "Precision"
+                                   Inspection & Analytical
+                                           Services
+                           2104 S Southland, Gonzales, LA 70737
+                          Phone (225) 231-4990 Fax (225) 231-7875
+
+Vessel:        Ionic Artemis                                                    Date:                June 2, 2021
+Product:       HSVGO                                                            Terminal:            ExxonMobil
+Subject: Report of Discharge                                                    Port:                Baton Rouge, Louisiana
+ExxonMobil Ref. #: 5497396                                                      File Number:         103812
+
+
+                                                      VESSEL MEASURMENT REPORT
+
+              Ullage                              Ionic Artemis                    UPON ARRIVAL                         Ambient Temp °F: 74.7
+              Gauge      Temp.          T.O.V.                       T.O.V.                 Water              API                               G.S.V.
+   Tank        (M)        (°F)        Cubic Meters                   Barrels        Gauge           Barrels   @ 60° F       V.C. F               Barrels
+    2P        2.320      116.4         9966.900                     62,689.91       0.000            0.00      21.6         0.97647             61,214.82
+    2S        2.300      118.6         9979.000                     62,766.01       0.000            0.00      21.6         0.97554             61,230.75
+    5P        1.930      120.1         10235.700                    64,380.61       0.000            0.00      21.6         0.97491             62,765.30
+    5S        1.890      122.4         10262.100                    64,546.66       0.000            0.00      21.6         0.97395             62,865.22
+  Slop P      1.980      128.1         1889.000                     11,881.45       0.000            0.00      21.6         0.97155             11,543.42
+  Slop S      2.020      121.3         1886.400                     11,865.10       0.000            0.00      21.6         0.97441             11,561.47
+
+
+
+
+MMC Serial #: 6144                                                                                   0.00               Total:                     271,180.98
+                           121.2
+           Arrival Drafts:                                                                                    TOTAL QUANTITY
+               FWD: 8.9                           AFT: 8.9                                      Barrels @ 60 °F                271,180.98
+                                                                                                Gallons @ 60 °F             11,389,601.16
+               TRIM:         0.0                                                                Pounds                      87,665,760.00
+                                                                                                Metric Tons                    39,764.567
+               Trim or List Correction Applied:                        No                       Short Tons                     43,832.880
+                                                                                                Long Tons                      39,136.500
+Coastal Gulf & International, Inc.                                                              Lbs / Gallon                        7.697
+                                                                                                API Gravity @ 60°F                  21.60
+Jon Herrington
+Gonzales Communication Center                                                                                                              Version 7.1 04-19-20 JMH
+

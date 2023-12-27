@@ -1,0 +1,52 @@
+                                 COASTAL GULF &
+                               INTERNATIONAL, INC.
+                                               "Precision"
+                                         Inspection & Analytical
+                                                 Services
+                                   13615 River Road, Luling, LA. 70070
+                                 Phone (985)785-0765 Fax (985)785-1328                   Assuring accuracy through expertise!
+
+Vessel:                  EMS 3001 & 3004B                                Date:           November 7, 2020
+Product:                 CSO/MCB                                         Terminal:       P.F.T.
+Subject:                 Report of Loading                               Port:           Mt Airy, Louisiana
+ExxonMobil Ref. #: 5107066-10                                            File Number:    99093
+Cabot Ref. #: 108282-118106
+                                                  TIME LOG OF EVENTS
+
+November 6, 2020            1550         hrs.     Barge(s) Tendered
+November 6, 2020            1550         hrs.     Barge(s) Called In
+November 6, 2020            1745         hrs.     Surveyor notified of barge arrival
+November 6, 2020            1950         hrs.     Surveyor arrived
+November 6, 2020            2050         hrs.     Barge(s) arrived
+November 6, 2020            2110         hrs.     Barge(s) docked
+November 6, 2020            2035         hrs.     Shore Tank gauged open
+November 6, 2020            2115         hrs.     Commenced arrival barge inspection
+November 6, 2020            2155         hrs.     Completed arrival barge inspection
+November 6, 2020            2310         hrs.     Completed arrival barge paperwork
+November 6, 2020            2310         hrs.     Barge approved to commence with Logistics
+November 6, 2020            2200         hrs.     Cargo hose connected
+November 6, 2020            2315         hrs.     Commenced transfer
+November 6, 2020            2330         hrs.     Suspended transfer for Line Displacement
+November 6, 2020            2330         hrs.     Commenced LD Inspection
+November 6, 2020            2335         hrs.     Completed LD Inspection
+November 6, 2020            2350         hrs.     Completed line displacement paperwork
+November 7, 2020            0000         hrs.     Barge approved to resume with Logistics
+November 7, 2020            0015         hrs.     Resumed transfer
+November 7, 2020            0705         hrs.     Surveyor notified for barge completion
+November 7, 2020            0830         hrs.     Surveyor arrived
+November 7, 2020            0525         hrs.     Completed transfer
+November 7, 2020            0625         hrs.     Cargo hose disconnected
+November 7, 2020            0845         hrs.     Commenced departure barge inspection
+November 7, 2020            1035         hrs.     Completed departure barge inspection
+November 7, 2020            1140         hrs.     Completed departure barge paperwork
+November 7, 2020            1145         hrs.     Barge approved to released with Logistics
+November 7, 2020            1110         hrs.     Barge sailed
+November 7, 2020            1135         hrs.     Shore Tank gauged close
+
+
+
+
+Coastal Gulf & International, Inc.
+Bentley Kraemer
+Central Communication Center                                                                                    Version 7.0 06-05-13 NLE
+

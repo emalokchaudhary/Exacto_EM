@@ -1,0 +1,36 @@
+Product:                             Aromatic Concentrate                                     Terminal:       ExxonMobil
+Subject:                             Report of Discharge                                      Port:           Baton Rouge, Louisiana
+EMCC Ref. #: 5054187-20                                                                       File Number:    XBR12716
+Yes
+
+                                                  INSPECTION REPORT SUMMARY
+Job Conditions:
+
+      Special Shore Conditions: None
+
+
+
+      Special Vessel Conditions: None
+
+
+General Information:
+Type of Water Paste Used:            Kolor Kut
+Vessel:
+Gauge Location:                      2" Standpipe
+Stand Pipes:                                    None
+Measurement Type:                              Ullage
+Temperature Type:                         Per Compartment
+Measurement Equipment:                 UTI / Hermetic / MMC
+Temperature Equipment:                 UTI / Hermetic / MMC
+Equipment Owner:                           Field Surveyor
+Equipment Operator:                        Field Surveyor
+Shore:
+Gauge Location:                      Metered
+Stand Pipes:                                   Metered
+Measurement Type:                              Metered
+Temperature Type:                              Metered
+Measurement Equipment:                         Metered
+Temperature Equipment:                         Metered
+Equipment Owner:                               Metered
+Equipment Operator:                            Metered
+Comments:

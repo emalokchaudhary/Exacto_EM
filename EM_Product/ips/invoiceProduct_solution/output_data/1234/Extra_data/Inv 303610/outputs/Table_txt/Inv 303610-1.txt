@@ -1,0 +1,38 @@
+                            Description                              Qty          Rate             Amount
+
+Enabling Service Agreement - A2473671
+Ref.# 5196493-10
+
+Survey of Inland Barge                                                               675.00            675.00
+
+
+Analysis of Barge (TAB VGO Slate):                                                  2,989.00         2,989.00
+ H2S in Vapor, D5705 = $118.00
+ H2S in Liquid, UOP163 = $161.00
+ Bromine Number, D1159 = $124.00
+ Distillation, D1160 = $328.00
+ API Gravity, D4052 = $56.00
+ Sulfur Content, D4294 = $153.00
+ Water Content, D4377M = $109.00
+ MCRT, D4530 = $110.00
+ Calcium, D5708A-M = $197.00
+ Magnesium, D5708A-M = $197.00
+ Copper, D5708A-M = $197.00
+ Iron, D5708A = $347.00
+ Sodium, D5708A-M = $197.00
+ Nickel, D5708A = Included
+ Vanadium, D5708A = Included
+ Nitrogen, D5762 = $146.00
+ Aniline Point, D611 = $112.00
+ Total Acid Number, D664A = $97.00
+ Total Chlorides, D7536 = $161.00
+ Flash Point, D93B = $79.00
+ Pour Point, D97 = $100.00
+
+
+  We understand that you have a
+  choice . . . Thanks for choosing             Terms             30 Net
+                 CGI
+
+
+                                                 Page 1

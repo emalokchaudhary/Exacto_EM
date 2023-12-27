@@ -1,0 +1,10 @@
+Transport       Location          Activity    Grade   Quantity    ETA    Supply Contract Window   Inspector   Inspection Requirements
+ CBC183         BATON             Load        EXXAL   1,850,000   10     n/a                      COASTAL     Quality / Quantity / Time
+ (VS00026247)   ROUGE RE-                     13 BR   Kilograms   Dec                             GULF        log
+                FINERY, LA                    VL                  2020
+                (United States)
+ CBC183         BRAITHWAITE,      Discharge   EXXAL   1,850,000   15     n/a                      SGS Oil,    Quality / Quantity / Time
+ (VS00026247)   LA -                          13 BR   Kilograms   Dec                             Gas &       log
+                STOLTHAVEN                    VL                  2020                            Chemicals
+                N ORLE (Unit-
+                ed States)

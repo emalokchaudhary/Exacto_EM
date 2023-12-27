@@ -1,0 +1,42 @@
+CLEANED !!!
+                             COASTAL GULF &
+                           INTERNATIONAL, INC.                                   VESSEL EXPERIENCE FACTOR SEQUENTIAL
+                                           "Precision"
+                                     Inspection & Analytical
+                                            Services
+                               P.O. Box 429 Kenner, LA. 70063-429
+                             Phone (985)785-0765 Fax (985)785-1328                                                                                                             Assuring accuracy through expertise!
+
+Vessel:          Chem 3712                                                                                                                Date:     March 5, 2021
+
+Type of Movement:            Load
+                                                                                                    Enter all units as Barrels                                        Step 2
+                                                                                                                                                            Step 1     Qual       Qualifying Voyages
+                                                                                     Vessel                          Vessel
+                                                                                                                                                            Gross      Voy
+             Voyage        Cargo                 Terminal or                         Sailing          Vessel          Load          Outturn                 Error > (+0.30%      Vessel              Shore
+ Cargo       Number      Description                Port               Date           TCV             OBQ             TCV            TCV          Ratio      2%?     ) Y/N ?     TCV                 TCV
+      Last              Benzene           Baton Rouge (United        11-Oct-20         24,867.32               0      24,867.32       24,823.57   1.00176             YES          24,867.32           24,823.57
+                                          States)
+      2nd               Benzene           Baton Rouge (United        28-Sep-20         23,960.57               0      23,960.57       23,879.90   1.00338             YES          23,960.57           23,879.90
+                                          States)
+       3rd              Renewable         Norco (United States)      13-Feb-18         24,835.67               0      24,835.67       24,943.80   0.99567             NO
+                        Diesel
+       4th              Marine Gasoil     St Rose (United States)    7-Feb-18          26,512.12               0      26,512.12       26,423.53   1.00335             YES          26,512.12           26,423.53
+       5th              Benzene           Alliance (United States)   22-Feb-17         20,043.30               0      20,043.30       20,059.95   0.99917             YES          20,043.30           20,059.95
+       6th              Cyclohexane       Port Arthur (United        24-Aug-16         28,237.77               0      28,237.77       28,093.25   1.00514             NO
+                                          States)
+       7th              Cyclohexane       Port Arthur (United        17-Aug-16         28,956.32               0      28,956.32       28,848.78   1.00373             YES          28,956.32           28,848.78
+                                          States)
+       8th              Cyclohexane       Port Arthur (United        17-Jul-16         23,582.99               0      23,582.99       23,515.14   1.00289             YES          23,582.99           23,515.14
+                                          States)
+  9th
+  10th
+  11th
+  12th
+  13th
+  14th
+  15th
+  16th
+  17th
+  18th

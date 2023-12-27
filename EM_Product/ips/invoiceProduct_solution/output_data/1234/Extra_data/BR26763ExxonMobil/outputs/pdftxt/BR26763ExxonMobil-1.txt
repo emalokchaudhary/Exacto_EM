@@ -1,0 +1,55 @@
+CLEANED !!!
+                                  COASTAL GULF &
+                                INTERNATIONAL, INC.
+                                                 "Precision"
+                                           Inspection & Analytical
+                                                   Services
+                                2104 South Southland Ave. Gonzales, LA 70737
+                                  Phone (225) 231-4990 Fax (225) 231-7875                         Assuring accuracy through expertise!
+
+Vessel:                 CBC 333 & 7035                                         Date:              August 21, 2020
+Product:                CSO/MCB                                                Terminal:          Apex
+Subject:                Report of Discharge                                    Port:              Port Allen, Louisiana
+ExxonMobil Ref. #: 4971503                                                     File Number:       BR26763
+
+                                                         RECAPITULATION
+                OFFICIAL QUANTITY                                                          FOR REFERENCE ONLY
+
+SHORE FIGURES                                QUANTITY                           BARGE FIGURES                           QUANTITY
+Barrels                                           39,959.96                    Barrels                                       40,561.22
+Gallons                                        1,678,318.32                    Gallons                                    1,703,571.10
+Pounds                                        15,346,543.00                    Pounds                                    15,577,454.00
+Metric Tons                                       6,961.083                    Metric Tons                                   7,065.823
+Short Tons                                        7,673.272                    Short Tons                                    7,788.728
+Long Tons                                         6,851.135                    Long Tons                                     6,954.220
+
+
+                                                       No Qualifying VEF Available
+                              VEF:               1.00000                         Barge With VEF Applied:          40,561.22
+
+BARGE FIGURES In Barrels
+BARGE                                         ARRIVAL                             DEPARTURE                           DIFFERENCE
+CBC 333                                       21,544.88                              274.48                             21,270.41
+CBC 7035                                      19,595.69                              304.88                             19,290.81
+                                              41,140.57                              579.36                             40,561.22
+
+
+
+
+TOV BARRELS                                    41,920.17                               579.36                              41,340.81
+
+                                  Survey was peformed by CGI Surveyor Todd Mcgrew
+                                     Table 6B used for Volume Correction purposes
+                            Surveyor equipment verified daily using Certified Thermometer
+                          Conditions during the inspection were Calm; between 00' and 01' Seas
+
+           Survey performed as per and strictly adhering to methods set forth by API Chapters 3, 7, 8, 12, & 17
+
+     "All CGI measurement devices and methods used for quantity and quality determination meet the pertinent
+               requirements of 40 CFR 98.3 et. Seq. (Greenhouse Gas Mandatory Reporting Rule)"
+
+
+Coastal Gulf & International, Inc.
+Zachary Ural
+Gonzales Communication Center                                                                                          Version 7.0 06-05-13 NLE
+ 

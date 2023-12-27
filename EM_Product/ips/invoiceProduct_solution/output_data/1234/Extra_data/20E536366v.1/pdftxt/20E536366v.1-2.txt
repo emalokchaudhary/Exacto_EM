@@ -1,0 +1,70 @@
+TRIP: USEBARGARO-2009-043                                                               20E536366 VER 1 (ISSUED)
+
+ Region: Americas                                                     Other Reference:
+Operator: WENDY LAUWONG (wendy.m.lauwong@exxonmobil.com)               Business Group: CHEMICAL: AM AROMATICS
+  Phone:                                                                         Desk: CHEM AM S&OP AROMATICS
+ Mobile:                                                              Nomination Type: Marine
+
+Documentary Instructions: n/a
+
+
+ LOAD: CHEM3213 (VS00031049) - BATON ROUGE, LA - PLACID (UNITED STATES)
+                                  Inspector: COASTAL GULF                           Inspection Status: Accepted
+                                       Hub: Coastal Gulf - Baton Rouge                    Created On: 31 Aug 2020 by
+                                                                                                       Wendy Lauwong
+                                    Coordinator: Rusty Mitchell                         Last Modified: 31 Aug 2020 by
+                                                  (rmitchell@coastalgulf.com)                          Rusty Mitchell
+                                    Local Office:
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 4997409-10
+                                           Grade: AROM CONCENTRATE VL BULK            Contract Number:
+                                             ETA: 01 Sep 2020                               Parcel Ref:
+                                             ETD:                                          Destination:
+                  Supply Contract Window Start: n/a                                   Source Location:
+                   Supply Contract Window End: n/a                                            Supplier:
+                      Total Nominated Quantity: 15,000 Barrels                                Receiver:
+Transport / Voyage Number / Quantity / Tolerance: CHEM3213 (VS00031049) / 15,000 Bar-  Delivery Terms: FOB (Free On
+                                                  rels load to max safe draft                           Board)
+                                                                                        Mother Vessel:
+
+Email Quantity Results To:
+brrf.marine.super@exxonmobil.com;
+Barrel.Temp@kirbycorp.com;
+pmichem.babsc3@exxonmobil.com;
+brcp.pmi.chem.is@exxonmobil.com;
+maria.j.blanco@exxonmobil.com;
+emcc.oa.survey.reports@exxonmobil.com;
+wendy.m.lauwong@exxonmobil.com;
+pmi.cc.chemicalslubes@exxonmobil.com;
+ds-drm-inspection-reports-mailbox@exxonmobil.com;
+mats.mto-fairfax@exxonmobil.com;
+pottkotterg@triconenergy.com;
+
+Email Quality Results To:
+brrf.marine.super@exxonmobil.com;
+pmichem.babsc3@exxonmobil.com;
+brcp.pmi.chem.is@exxonmobil.com;
+maria.j.blanco@exxonmobil.com;
+emcc.oa.survey.reports@exxonmobil.com;
+wendy.m.lauwong@exxonmobil.com;
+pmi.cc.chemicalslubes@exxonmobil.com;
+ds-drm-inspection-reports-mailbox@exxonmobil.com;
+mats.mto-fairfax@exxonmobil.com;
+joseph.c.mcdonald@exxonmobil.com;
+anthony.bender@exxonmobil.com;
+pottkotterg@triconenergy.com;
+
+Load / Discharge Instructions:
+Load laycan: 9/1-3
+
+Please pull retain samples at LOAD.
+Please load as much as tank allows.
+
+Please include ExxonMobil nomination key (listed in Navarik as "Voyage Parcel External Reference Num-
+ber") in all vendor invoices related to this product purchase.
+
+Demurrage Approximation
+
+
+                                                      Page 2 of 5
+

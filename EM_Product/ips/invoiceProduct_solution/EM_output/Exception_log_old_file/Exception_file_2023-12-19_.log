@@ -1,0 +1,791 @@
+2023-12-19 07:04:28,493 - ExtractCustomFields.EM_logging - INFO - -----------------------------------------------------------------------------------------------------------------------------------------
+2023-12-19 07:06:47,061 - ExtractCustomFields.EM_logging - INFO - -----------------------------------------------------------------------------------------------------------------------------------------
+2023-12-19 07:06:47,145 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT PROCESSING START...
+2023-12-19 07:06:47,404 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is baf5f95a VENDOR_NAME CGI INVOICE_NUMBER 309560 FILE_NAME 105417EMCC.pdf
+2023-12-19 07:06:47,406 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:06:47,409 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:06:47,490 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:06:47,518 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 0bce75d3 VENDOR_NAME CGI INVOICE_NUMBER 309560 FILE_NAME 21E588433v.1.pdf
+2023-12-19 07:06:47,518 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:06:47,629 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:06:47,735 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:06:47,758 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is cb8e7e34 VENDOR_NAME CGI INVOICE_NUMBER 309560 FILE_NAME Inv309560.pdf
+2023-12-19 07:06:47,758 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:06:47,763 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:06:47,834 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:06:47,835 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:06:47,886 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,0bce75d3
+2023-12-19 07:06:47,899 - ExtractCustomFields.EM_logging - ERROR - ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/ExtractCustomFields/CGI_Insertion.py", line 445, in api_procedure_byuuid_main_2
+    cursor.execute("{call "+procedure_name+"('"+arg+"')}")
+pyodbc.ProgrammingError: ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+2023-12-19 07:06:47,974 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:06:47,977 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT PROCESSING START...
+2023-12-19 07:06:48,017 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is a8d6798c VENDOR_NAME CGI INVOICE_NUMBER 300784 FILE_NAME 20E536366v.1.pdf
+2023-12-19 07:06:48,018 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:06:48,383 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:06:48,477 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:06:48,501 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is cc8af233 VENDOR_NAME CGI INVOICE_NUMBER 300784 FILE_NAME 300784.pdf
+2023-12-19 07:06:48,501 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:06:48,503 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:06:48,571 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:06:48,635 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is f2d4b2a1 VENDOR_NAME CGI INVOICE_NUMBER 300784 FILE_NAME BR26799EMCC.pdf
+2023-12-19 07:06:48,637 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:06:48,638 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:06:48,697 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:06:48,789 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is c2a2bd04 VENDOR_NAME CGI INVOICE_NUMBER 300784 FILE_NAME BR26799_Chem3213_AromaticConcentrate_EMCC_Final.pdf
+2023-12-19 07:06:48,790 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quality
+2023-12-19 07:06:49,148 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUALITY IS SUCCESSFULL 
+2023-12-19 07:06:49,433 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUALITY DATA SUCCESSFULL
+2023-12-19 07:06:49,433 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:06:49,476 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,a8d6798c
+2023-12-19 07:06:49,487 - ExtractCustomFields.EM_logging - ERROR - ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/ExtractCustomFields/CGI_Insertion.py", line 445, in api_procedure_byuuid_main_2
+    cursor.execute("{call "+procedure_name+"('"+arg+"')}")
+pyodbc.ProgrammingError: ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+2023-12-19 07:06:49,543 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:06:49,550 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT PROCESSING START...
+2023-12-19 07:06:49,586 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is b7ebad6c VENDOR_NAME CGI INVOICE_NUMBER 300801 FILE_NAME 20E534649v.1.pdf
+2023-12-19 07:06:49,586 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:06:49,913 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:06:50,002 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:06:50,023 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is f557c5eb VENDOR_NAME CGI INVOICE_NUMBER 300801 FILE_NAME 300801.pdf
+2023-12-19 07:06:50,023 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:06:50,025 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:06:50,100 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:06:50,159 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is b5293284 VENDOR_NAME CGI INVOICE_NUMBER 300801 FILE_NAME BT11076_EMCC.pdf
+2023-12-19 07:06:50,161 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:06:50,163 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:06:50,226 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:06:50,227 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:06:50,276 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,b7ebad6c
+2023-12-19 07:06:50,290 - ExtractCustomFields.EM_logging - ERROR - ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/ExtractCustomFields/CGI_Insertion.py", line 445, in api_procedure_byuuid_main_2
+    cursor.execute("{call "+procedure_name+"('"+arg+"')}")
+pyodbc.ProgrammingError: ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+2023-12-19 07:06:50,346 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:06:50,350 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT PROCESSING START...
+2023-12-19 07:06:50,388 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is f9bd9eb8 VENDOR_NAME CGI INVOICE_NUMBER 301664 FILE_NAME 20E541259v.1.pdf
+2023-12-19 07:06:50,388 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:06:50,715 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:06:50,790 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:06:50,812 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 6eafee8e VENDOR_NAME CGI INVOICE_NUMBER 301664 FILE_NAME Inv301664.pdf
+2023-12-19 07:06:50,813 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:06:50,814 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:06:50,906 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:06:50,980 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is b1aa77c0 VENDOR_NAME CGI INVOICE_NUMBER 301664 FILE_NAME XBR12716EMCC.pdf
+2023-12-19 07:06:50,983 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:06:50,985 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:06:51,049 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:06:51,050 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:06:51,098 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,f9bd9eb8
+2023-12-19 07:06:51,110 - ExtractCustomFields.EM_logging - ERROR - ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/ExtractCustomFields/CGI_Insertion.py", line 445, in api_procedure_byuuid_main_2
+    cursor.execute("{call "+procedure_name+"('"+arg+"')}")
+pyodbc.ProgrammingError: ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+2023-12-19 07:06:51,165 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:06:51,173 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT PROCESSING START...
+2023-12-19 07:06:51,208 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is f6d15fbf VENDOR_NAME CGI INVOICE_NUMBER 302267 FILE_NAME 20E543802v.1.pdf
+2023-12-19 07:06:51,208 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:06:51,390 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:06:51,460 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:06:51,517 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 867b154c VENDOR_NAME CGI INVOICE_NUMBER 302267 FILE_NAME BR26970EMCC.pdf
+2023-12-19 07:06:51,520 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:06:51,521 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:06:51,586 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:06:51,628 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 59f56e7e VENDOR_NAME CGI INVOICE_NUMBER 302267 FILE_NAME BR26970_Chem3245_Benzene_B20201024002_EMCC_Final.pdf
+2023-12-19 07:06:51,628 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quality
+2023-12-19 07:06:51,631 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUALITY IS SUCCESSFULL 
+2023-12-19 07:06:51,726 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUALITY DATA SUCCESSFULL
+2023-12-19 07:06:51,750 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 637a7433 VENDOR_NAME CGI INVOICE_NUMBER 302267 FILE_NAME Inv302267.pdf
+2023-12-19 07:06:51,750 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:06:51,753 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:06:51,831 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:06:51,832 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:06:51,880 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,f6d15fbf
+2023-12-19 07:06:51,898 - ExtractCustomFields.EM_logging - ERROR - ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/ExtractCustomFields/CGI_Insertion.py", line 445, in api_procedure_byuuid_main_2
+    cursor.execute("{call "+procedure_name+"('"+arg+"')}")
+pyodbc.ProgrammingError: ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+2023-12-19 07:06:51,958 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:06:51,963 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT PROCESSING START...
+2023-12-19 07:06:52,003 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is fe6ab367 VENDOR_NAME CGI INVOICE_NUMBER 302369 FILE_NAME 20E545381v.2.pdf
+2023-12-19 07:06:52,003 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:06:52,307 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:06:52,378 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:06:52,406 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 2f14cac5 VENDOR_NAME CGI INVOICE_NUMBER 302369 FILE_NAME Inv302369.pdf
+2023-12-19 07:06:52,406 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:06:52,409 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:06:52,509 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:06:52,586 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 1b36ab9a VENDOR_NAME CGI INVOICE_NUMBER 302369 FILE_NAME XBR12766EMCC.pdf
+2023-12-19 07:06:52,589 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:06:52,590 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:06:52,655 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:06:52,656 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:06:52,702 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,fe6ab367
+2023-12-19 07:06:52,714 - ExtractCustomFields.EM_logging - ERROR - ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/ExtractCustomFields/CGI_Insertion.py", line 445, in api_procedure_byuuid_main_2
+    cursor.execute("{call "+procedure_name+"('"+arg+"')}")
+pyodbc.ProgrammingError: ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+2023-12-19 07:06:52,769 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:06:52,777 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT PROCESSING START...
+2023-12-19 07:06:52,810 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is c9efc666 VENDOR_NAME CGI INVOICE_NUMBER 303315 FILE_NAME 20E550932v.1.pdf
+2023-12-19 07:06:52,811 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:06:53,150 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:06:53,242 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:06:53,266 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 1f707ccd VENDOR_NAME CGI INVOICE_NUMBER 303315 FILE_NAME Inv303315.pdf
+2023-12-19 07:06:53,267 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:06:53,269 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:06:53,362 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:06:53,430 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 89da6553 VENDOR_NAME CGI INVOICE_NUMBER 303315 FILE_NAME XBR12822ExxonMobil.pdf
+2023-12-19 07:06:53,432 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:06:53,434 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:06:53,501 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:06:53,501 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:06:53,549 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,c9efc666
+2023-12-19 07:06:53,561 - ExtractCustomFields.EM_logging - ERROR - ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/ExtractCustomFields/CGI_Insertion.py", line 445, in api_procedure_byuuid_main_2
+    cursor.execute("{call "+procedure_name+"('"+arg+"')}")
+pyodbc.ProgrammingError: ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+2023-12-19 07:06:53,613 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:06:53,618 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT PROCESSING START...
+2023-12-19 07:06:53,684 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is bd7beb30 VENDOR_NAME CGI INVOICE_NUMBER 303776 FILE_NAME 100139EMCC.pdf
+2023-12-19 07:06:53,686 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:06:53,687 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:06:53,752 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:06:53,787 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is c384f614 VENDOR_NAME CGI INVOICE_NUMBER 303776 FILE_NAME 20E552683v.1.pdf
+2023-12-19 07:06:53,788 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:06:54,249 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:06:54,449 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:06:54,477 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 75e4d1e8 VENDOR_NAME CGI INVOICE_NUMBER 303776 FILE_NAME Inv303776.pdf
+2023-12-19 07:06:54,477 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:06:54,479 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:06:54,560 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:06:54,561 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:06:54,606 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,c384f614
+2023-12-19 07:06:54,619 - ExtractCustomFields.EM_logging - ERROR - ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/ExtractCustomFields/CGI_Insertion.py", line 445, in api_procedure_byuuid_main_2
+    cursor.execute("{call "+procedure_name+"('"+arg+"')}")
+pyodbc.ProgrammingError: ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+2023-12-19 07:06:54,677 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:06:54,683 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT PROCESSING START...
+2023-12-19 07:06:54,752 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 36381473 VENDOR_NAME CGI INVOICE_NUMBER 304546 FILE_NAME 100323EMCC.pdf
+2023-12-19 07:06:54,754 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:06:54,755 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:06:54,821 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:06:54,854 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is b462c4c8 VENDOR_NAME CGI INVOICE_NUMBER 304546 FILE_NAME 20E553681v.1.pdf
+2023-12-19 07:06:54,854 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:06:55,132 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:06:55,204 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:06:55,227 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 1b755656 VENDOR_NAME CGI INVOICE_NUMBER 304546 FILE_NAME Inv304546.pdf
+2023-12-19 07:06:55,228 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:06:55,229 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:06:55,300 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:06:55,301 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:06:55,342 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,b462c4c8
+2023-12-19 07:06:55,355 - ExtractCustomFields.EM_logging - ERROR - ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/ExtractCustomFields/CGI_Insertion.py", line 445, in api_procedure_byuuid_main_2
+    cursor.execute("{call "+procedure_name+"('"+arg+"')}")
+pyodbc.ProgrammingError: ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+2023-12-19 07:06:55,423 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:06:55,427 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT PROCESSING START...
+2023-12-19 07:06:55,502 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is c2039060 VENDOR_NAME CGI INVOICE_NUMBER 305468 FILE_NAME 101794EMCC.pdf
+2023-12-19 07:06:55,504 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:06:55,506 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:06:55,569 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:06:55,599 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 4f0c3eec VENDOR_NAME CGI INVOICE_NUMBER 305468 FILE_NAME 101794_Chem3712_Benzene_B20210305003_EMCC_Final.pdf
+2023-12-19 07:06:55,599 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quality
+2023-12-19 07:06:55,602 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUALITY IS SUCCESSFULL 
+2023-12-19 07:06:55,698 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUALITY DATA SUCCESSFULL
+2023-12-19 07:06:55,731 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is adaa02cd VENDOR_NAME CGI INVOICE_NUMBER 305468 FILE_NAME 21E562874v.1.pdf
+2023-12-19 07:06:55,732 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:06:56,031 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:06:56,110 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:06:56,134 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 5f52fa59 VENDOR_NAME CGI INVOICE_NUMBER 305468 FILE_NAME Inv305468.pdf
+2023-12-19 07:06:56,134 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:06:56,136 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:06:56,219 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:06:56,219 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:06:56,269 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,adaa02cd
+2023-12-19 07:06:56,282 - ExtractCustomFields.EM_logging - ERROR - ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/ExtractCustomFields/CGI_Insertion.py", line 445, in api_procedure_byuuid_main_2
+    cursor.execute("{call "+procedure_name+"('"+arg+"')}")
+pyodbc.ProgrammingError: ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+2023-12-19 07:06:56,340 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:06:56,345 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT PROCESSING START...
+2023-12-19 07:06:56,423 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 058c2a7e VENDOR_NAME CGI INVOICE_NUMBER 306327 FILE_NAME 102333EMCC.pdf
+2023-12-19 07:06:56,426 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:06:56,427 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:06:56,496 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:06:56,533 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 2bbba818 VENDOR_NAME CGI INVOICE_NUMBER 306327 FILE_NAME 21E566434v.1.pdf
+2023-12-19 07:06:56,534 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:06:56,839 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:06:56,907 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:06:56,941 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 936245b6 VENDOR_NAME CGI INVOICE_NUMBER 306327 FILE_NAME Inv306327.pdf
+2023-12-19 07:06:56,942 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:06:56,943 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:06:57,021 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:06:57,022 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:06:57,079 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,2bbba818
+2023-12-19 07:06:57,092 - ExtractCustomFields.EM_logging - ERROR - ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/ExtractCustomFields/CGI_Insertion.py", line 445, in api_procedure_byuuid_main_2
+    cursor.execute("{call "+procedure_name+"('"+arg+"')}")
+pyodbc.ProgrammingError: ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+2023-12-19 07:06:57,150 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:06:57,155 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT PROCESSING START...
+2023-12-19 07:06:57,226 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 5c3cf558 VENDOR_NAME CGI INVOICE_NUMBER 306449 FILE_NAME 102738EMCC.pdf
+2023-12-19 07:06:57,228 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:06:57,229 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:06:57,304 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:06:57,327 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 91e9ba6a VENDOR_NAME CGI INVOICE_NUMBER 306449 FILE_NAME 102738_Chem3248_Benzene_B20210415002_EMCC_Final.pdf
+2023-12-19 07:06:57,328 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quality
+2023-12-19 07:06:57,331 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUALITY IS SUCCESSFULL 
+2023-12-19 07:06:57,442 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUALITY DATA SUCCESSFULL
+2023-12-19 07:06:57,480 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 1431fea8 VENDOR_NAME CGI INVOICE_NUMBER 306449 FILE_NAME 21E569049v.1.pdf
+2023-12-19 07:06:57,480 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:06:57,780 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:06:57,859 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:06:57,882 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 2087450c VENDOR_NAME CGI INVOICE_NUMBER 306449 FILE_NAME Inv306449.pdf
+2023-12-19 07:06:57,882 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:06:57,884 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:06:57,966 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:06:57,967 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:06:58,017 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,1431fea8
+2023-12-19 07:06:58,031 - ExtractCustomFields.EM_logging - ERROR - ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/ExtractCustomFields/CGI_Insertion.py", line 445, in api_procedure_byuuid_main_2
+    cursor.execute("{call "+procedure_name+"('"+arg+"')}")
+pyodbc.ProgrammingError: ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+2023-12-19 07:06:58,094 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:06:58,098 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT PROCESSING START...
+2023-12-19 07:06:58,170 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 0653fffc VENDOR_NAME CGI INVOICE_NUMBER 308022 FILE_NAME 104110_EMCCReport.pdf
+2023-12-19 07:06:58,172 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:06:58,174 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:06:58,240 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:06:58,264 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 52e34b59 VENDOR_NAME CGI INVOICE_NUMBER 308022 FILE_NAME 21E578293v.1.pdf
+2023-12-19 07:06:58,264 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:06:58,385 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:06:58,452 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:06:58,474 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 571bf459 VENDOR_NAME CGI INVOICE_NUMBER 308022 FILE_NAME Inv308022.pdf
+2023-12-19 07:06:58,475 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:06:58,476 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:06:58,550 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:06:58,550 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:06:58,592 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,52e34b59
+2023-12-19 07:06:58,606 - ExtractCustomFields.EM_logging - ERROR - ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/ExtractCustomFields/CGI_Insertion.py", line 445, in api_procedure_byuuid_main_2
+    cursor.execute("{call "+procedure_name+"('"+arg+"')}")
+pyodbc.ProgrammingError: ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+2023-12-19 07:06:58,658 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:06:58,662 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT PROCESSING START...
+2023-12-19 07:06:58,734 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 5dabb6fc VENDOR_NAME CGI INVOICE_NUMBER 308779 FILE_NAME 104885EMCC.pdf
+2023-12-19 07:06:58,736 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:06:58,738 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:06:58,802 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:06:58,830 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is 80e173aa VENDOR_NAME CGI INVOICE_NUMBER 308779 FILE_NAME 21E581966v.1.pdf
+2023-12-19 07:06:58,830 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:06:59,115 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:06:59,234 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:06:59,259 - ExtractCustomFields.EM_logging - INFO - CGI DOCUMENT UUID is cd9c1411 VENDOR_NAME CGI INVOICE_NUMBER 308779 FILE_NAME Inv308779.pdf
+2023-12-19 07:06:59,260 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:06:59,262 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:06:59,340 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:06:59,340 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:06:59,385 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,80e173aa
+2023-12-19 07:06:59,472 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Nomination_Data_Trans is successfully executed
+2023-12-19 07:06:59,575 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Invoice_Data_Trans,cd9c1411
+2023-12-19 07:07:09,866 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans  is Not successfully executed
+2023-12-19 07:07:09,867 - ExtractCustomFields.EM_logging - INFO - [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Success 35
+2023-12-19 07:07:09,867 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans is successfully executed
+2023-12-19 07:07:09,965 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Insepection_Data_Trans,5dabb6fc
+2023-12-19 07:07:10,192 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Insepection_Data_Trans is successfully executed
+2023-12-19 07:07:10,245 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : 35
+2023-12-19 07:12:35,518 - ExtractCustomFields.EM_logging - INFO - -----------------------------------------------------------------------------------------------------------------------------------------
+2023-12-19 07:12:35,604 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT PROCESSING START...
+2023-12-19 07:12:35,605 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT PROCESSING START...
+2023-12-19 07:12:35,642 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is d069448f VENDOR_NAME Camin INVOICE_NUMBER 1125467 FILE_NAME 20E533277v.1.pdf
+2023-12-19 07:12:35,643 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:12:35,674 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 4d2c280d VENDOR_NAME Camin INVOICE_NUMBER 1131233 FILE_NAME 20E537236v.1.pdf
+2023-12-19 07:12:35,745 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:12:35,788 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL
+2023-12-19 07:12:35,978 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL
+2023-12-19 07:12:35,988 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:12:36,049 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:12:36,089 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is adef6a06 VENDOR_NAME Camin INVOICE_NUMBER 1125467 FILE_NAME 535078EXXM00-14bh31xj53120-59-10-0459.pdf
+2023-12-19 07:12:36,092 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:12:36,100 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:12:36,201 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is abc18865 VENDOR_NAME Camin INVOICE_NUMBER 1131233 FILE_NAME 540146EXXO06-02mch2ee919120-30-14-0330.pdf
+2023-12-19 07:12:36,203 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:12:36,209 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:12:36,220 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:12:36,255 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 7890cd7b VENDOR_NAME Camin INVOICE_NUMBER 1125467 FILE_NAME 535078EXXM00-14ld2xgw177120-14-12-0814.pdf
+2023-12-19 07:12:36,255 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Not classified
+2023-12-19 07:12:36,257 - ExtractCustomFields.EM_logging - INFO - NON-CATEGORIZED DOCUMENT
+2023-12-19 07:12:36,339 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:12:36,341 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 3e91a0f1 VENDOR_NAME Camin INVOICE_NUMBER 1125467 FILE_NAME Invoice112546708-18-2020.PDF
+2023-12-19 07:12:36,341 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:12:36,347 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:12:36,362 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is bb11e0ae VENDOR_NAME Camin INVOICE_NUMBER 1131233 FILE_NAME Invoice113123309-22-2020.PDF
+2023-12-19 07:12:36,362 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:12:36,363 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:12:36,417 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:12:36,428 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:12:36,460 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is b0249131 VENDOR_NAME Camin INVOICE_NUMBER 1131233 FILE_NAME VEF_LOAD_FMT_6010_1255705.pdf
+2023-12-19 07:12:36,461 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Not classified
+2023-12-19 07:12:36,461 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 147addb0 VENDOR_NAME Camin INVOICE_NUMBER 1125467 FILE_NAME PEV73185EXXM00-14-PEV73185MARA04-22VEF20-47-10-114703692-20-54-10-0454.pdf
+2023-12-19 07:12:36,461 - ExtractCustomFields.EM_logging - INFO - NON-CATEGORIZED DOCUMENT
+2023-12-19 07:12:36,461 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Not classified
+2023-12-19 07:12:36,462 - ExtractCustomFields.EM_logging - INFO - NON-CATEGORIZED DOCUMENT
+2023-12-19 07:12:36,517 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:12:36,518 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:12:36,555 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,4d2c280d
+2023-12-19 07:12:36,561 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,d069448f
+2023-12-19 07:12:36,571 - ExtractCustomFields.EM_logging - ERROR - ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/ExtractCustomFields/CGI_Insertion.py", line 445, in api_procedure_byuuid_main_2
+    cursor.execute("{call "+procedure_name+"('"+arg+"')}")
+pyodbc.ProgrammingError: ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+2023-12-19 07:12:36,594 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Nomination_Data_Trans is successfully executed
+2023-12-19 07:12:36,623 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:12:36,624 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT PROCESSING START...
+2023-12-19 07:12:36,652 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is ab7f6c53 VENDOR_NAME Camin INVOICE_NUMBER 1138244 FILE_NAME 1138244.pdf
+2023-12-19 07:12:36,653 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:12:36,655 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:12:36,691 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Invoice_Data_Trans,3e91a0f1
+2023-12-19 07:12:37,141 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:12:37,178 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 16381a86 VENDOR_NAME Camin INVOICE_NUMBER 1138244 FILE_NAME 20E540489v.1.pdf
+2023-12-19 07:12:37,178 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:12:37,565 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL
+2023-12-19 07:12:38,095 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:12:38,161 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is f4e0f03b VENDOR_NAME Camin INVOICE_NUMBER 1138244 FILE_NAME 543767EXXO06-04tmx5ma318120-54-22-0454.pdf
+2023-12-19 07:12:38,163 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:12:38,167 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:12:38,908 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans  is Not successfully executed
+2023-12-19 07:12:38,908 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans  is Not successfully executed
+2023-12-19 07:12:38,937 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:12:38,961 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is b9b9c2a1 VENDOR_NAME Camin INVOICE_NUMBER 1138244 FILE_NAME BAY1851EXXO06-04-KIRBY10128-HM50-20-56-01-0356.pdf
+2023-12-19 07:12:38,961 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Not classified
+2023-12-19 07:12:38,961 - ExtractCustomFields.EM_logging - INFO - NON-CATEGORIZED DOCUMENT
+2023-12-19 07:12:38,965 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:12:38,966 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT PROCESSING START...
+2023-12-19 07:12:38,989 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is ab2c6bb6 VENDOR_NAME Camin INVOICE_NUMBER 1128336 FILE_NAME 20E534652v.1.pdf
+2023-12-19 07:12:38,989 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:12:39,100 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL
+2023-12-19 07:12:39,112 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:12:39,165 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,16381a86
+2023-12-19 07:12:39,176 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:12:39,179 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Nomination_Data_Trans is successfully executed
+2023-12-19 07:12:39,227 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is f076dc47 VENDOR_NAME Camin INVOICE_NUMBER 1128336 FILE_NAME 537596EXXM01-060bfngi399120-59-27-0459.pdf
+2023-12-19 07:12:39,228 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:12:39,234 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:12:39,269 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Invoice_Data_Trans,ab7f6c53
+2023-12-19 07:12:39,298 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans  is Not successfully executed
+2023-12-19 07:12:39,298 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans  is Not successfully executed
+2023-12-19 07:12:39,347 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:12:39,348 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT PROCESSING START...
+2023-12-19 07:12:39,376 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is a55ddfb3 VENDOR_NAME Camin INVOICE_NUMBER 1151054 FILE_NAME 1151054.pdf
+2023-12-19 07:12:39,377 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:12:39,379 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:12:39,390 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:12:39,413 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is b413cc7f VENDOR_NAME Camin INVOICE_NUMBER 1128336 FILE_NAME Invoice112833609-01-2020.PDF
+2023-12-19 07:12:39,413 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:12:39,415 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:12:39,458 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:12:39,483 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:12:39,483 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:12:39,494 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 77a7eecd VENDOR_NAME Camin INVOICE_NUMBER 1151054 FILE_NAME 20E551166v.1.pdf
+2023-12-19 07:12:39,494 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:12:39,557 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,ab2c6bb6
+2023-12-19 07:12:39,608 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Nomination_Data_Trans is successfully executed
+2023-12-19 07:12:39,821 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Invoice_Data_Trans,b413cc7f
+2023-12-19 07:12:39,858 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL
+2023-12-19 07:12:39,946 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans  is Not successfully executed
+2023-12-19 07:12:39,946 - ExtractCustomFields.EM_logging - INFO - [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Success 36
+2023-12-19 07:12:39,946 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans is successfully executed
+2023-12-19 07:12:39,966 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:12:40,040 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Insepection_Data_Trans,f076dc47
+2023-12-19 07:12:40,084 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 55718454 VENDOR_NAME Camin INVOICE_NUMBER 1151054 FILE_NAME 553677EXXO06-04hbndwl885121-56-05-0156.pdf
+2023-12-19 07:12:40,085 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:12:40,091 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:12:40,164 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Insepection_Data_Trans is successfully executed
+2023-12-19 07:12:40,215 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : 36
+2023-12-19 07:12:40,239 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:12:40,264 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is e795ffd2 VENDOR_NAME Camin INVOICE_NUMBER 1151054 FILE_NAME BAY2001EXXO06-04-MarineDocCHEM732NK5076851EXXSOLD80BTVL-20-14-15-0214.PDF
+2023-12-19 07:12:40,265 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Not classified
+2023-12-19 07:12:40,265 - ExtractCustomFields.EM_logging - INFO - NON-CATEGORIZED DOCUMENT
+2023-12-19 07:12:40,321 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:12:40,381 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,77a7eecd
+2023-12-19 07:12:40,391 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Nomination_Data_Trans is successfully executed
+2023-12-19 07:12:40,482 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Invoice_Data_Trans,a55ddfb3
+2023-12-19 07:12:40,503 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans  is Not successfully executed
+2023-12-19 07:12:40,503 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans  is Not successfully executed
+2023-12-19 07:12:40,559 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:12:40,560 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT PROCESSING START...
+2023-12-19 07:12:40,593 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is b66a85e3 VENDOR_NAME Camin INVOICE_NUMBER 1164501 FILE_NAME 21E563476v.1.pdf
+2023-12-19 07:12:40,593 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:12:40,883 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL
+2023-12-19 07:12:40,955 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:12:41,064 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 821405d1 VENDOR_NAME Camin INVOICE_NUMBER 1164501 FILE_NAME 565635EXXO06-02cogksp831121-58-12-0458.pdf
+2023-12-19 07:12:41,066 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:12:41,071 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:12:41,193 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:12:41,215 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is ce087baa VENDOR_NAME Camin INVOICE_NUMBER 1164501 FILE_NAME Invoice116450103-23-2021.PDF
+2023-12-19 07:12:41,216 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:12:41,217 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:12:41,286 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:12:41,311 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is fe479380 VENDOR_NAME Camin INVOICE_NUMBER 1164501 FILE_NAME PAR77476EXXO06-02-VEFLOADFMT60011257198-21-57-12-0457.pdf
+2023-12-19 07:12:41,312 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Not classified
+2023-12-19 07:12:41,312 - ExtractCustomFields.EM_logging - INFO - NON-CATEGORIZED DOCUMENT
+2023-12-19 07:12:41,365 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:12:41,408 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,b66a85e3
+2023-12-19 07:12:41,420 - ExtractCustomFields.EM_logging - ERROR - ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/ExtractCustomFields/CGI_Insertion.py", line 445, in api_procedure_byuuid_main_2
+    cursor.execute("{call "+procedure_name+"('"+arg+"')}")
+pyodbc.ProgrammingError: ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+2023-12-19 07:12:41,472 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:12:41,473 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT PROCESSING START...
+2023-12-19 07:12:41,509 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 06aa4761 VENDOR_NAME Camin INVOICE_NUMBER 1171367 FILE_NAME 21E567961v.1.pdf
+2023-12-19 07:12:41,510 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:12:41,683 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL
+2023-12-19 07:12:41,764 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:12:41,902 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 49c9d31c VENDOR_NAME Camin INVOICE_NUMBER 1171367 FILE_NAME 570157EXXO06-02mczfiy690121-02-20-1102.pdf
+2023-12-19 07:12:41,904 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:12:41,908 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:12:42,031 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:12:42,059 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 22c8475d VENDOR_NAME Camin INVOICE_NUMBER 1171367 FILE_NAME Invoice117136704-27-2021.PDF
+2023-12-19 07:12:42,059 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:12:42,061 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:12:42,130 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:12:42,161 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 20372fcf VENDOR_NAME Camin INVOICE_NUMBER 1171367 FILE_NAME PAR77711EXXO06-02-VEFLOADFMT6002-21-44-19-0544.pdf
+2023-12-19 07:12:42,162 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Not classified
+2023-12-19 07:12:42,162 - ExtractCustomFields.EM_logging - INFO - NON-CATEGORIZED DOCUMENT
+2023-12-19 07:12:42,216 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:12:42,256 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,06aa4761
+2023-12-19 07:12:42,272 - ExtractCustomFields.EM_logging - ERROR - ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/ExtractCustomFields/CGI_Insertion.py", line 445, in api_procedure_byuuid_main_2
+    cursor.execute("{call "+procedure_name+"('"+arg+"')}")
+pyodbc.ProgrammingError: ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+2023-12-19 07:12:42,323 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:12:42,327 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT PROCESSING START...
+2023-12-19 07:12:42,351 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 4f3c25c0 VENDOR_NAME Camin INVOICE_NUMBER 1178895 FILE_NAME 1178895.pdf
+2023-12-19 07:12:42,352 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:12:42,354 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:12:42,436 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:12:42,468 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 9c3a9040 VENDOR_NAME Camin INVOICE_NUMBER 1178895 FILE_NAME 21E573641v.1.pdf
+2023-12-19 07:12:42,469 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:12:42,834 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL
+2023-12-19 07:12:42,835 - ExtractCustomFields.EM_logging - INFO - ERRROR DURING EXTRACTION OF NOMINATION !!!
+2023-12-19 07:12:42,979 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 13ba26de VENDOR_NAME Camin INVOICE_NUMBER 1178895 FILE_NAME 575790EXXO06-090r1de3287121-40-26-0140.pdf
+2023-12-19 07:12:42,981 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:12:42,986 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:12:43,115 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:12:43,138 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 580ab5a2 VENDOR_NAME Camin INVOICE_NUMBER 1178895 FILE_NAME BAY2312EXXO06-09-CBC1363-HM50-21-48-17-0248.pdf
+2023-12-19 07:12:43,138 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Not classified
+2023-12-19 07:12:43,138 - ExtractCustomFields.EM_logging - INFO - NON-CATEGORIZED DOCUMENT
+2023-12-19 07:12:43,193 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:12:43,194 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:12:43,195 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT PROCESSING START...
+2023-12-19 07:12:43,229 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 21cb6f2a VENDOR_NAME Camin INVOICE_NUMBER 1185748 FILE_NAME 1185748.pdf
+2023-12-19 07:12:43,230 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:12:43,233 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:12:43,308 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:12:43,342 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 92900a11 VENDOR_NAME Camin INVOICE_NUMBER 1185748 FILE_NAME 21E579674v.1.pdf
+2023-12-19 07:12:43,342 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:12:43,647 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL
+2023-12-19 07:12:43,720 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:12:43,859 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 1cdde12c VENDOR_NAME Camin INVOICE_NUMBER 1185748 FILE_NAME 582073EXXO06-091q1kcn656221-06-01-1106.pdf
+2023-12-19 07:12:43,861 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:12:43,866 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:12:43,993 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:12:44,035 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 2907df92 VENDOR_NAME Camin INVOICE_NUMBER 1185748 FILE_NAME BAY2405EXXO06-09-MPX208-HM50-APPROVED-21-33-22-0333.pdf
+2023-12-19 07:12:44,035 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Not classified
+2023-12-19 07:12:44,035 - ExtractCustomFields.EM_logging - INFO - NON-CATEGORIZED DOCUMENT
+2023-12-19 07:12:44,093 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:12:44,136 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,92900a11
+2023-12-19 07:12:44,150 - ExtractCustomFields.EM_logging - ERROR - ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/ExtractCustomFields/CGI_Insertion.py", line 445, in api_procedure_byuuid_main_2
+    cursor.execute("{call "+procedure_name+"('"+arg+"')}")
+pyodbc.ProgrammingError: ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+2023-12-19 07:12:44,203 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:12:44,204 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT PROCESSING START...
+2023-12-19 07:12:44,242 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is a57ea71f VENDOR_NAME Camin INVOICE_NUMBER 1192429 FILE_NAME 21E585416v.1.pdf
+2023-12-19 07:12:44,243 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:12:44,528 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL
+2023-12-19 07:12:44,602 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:12:44,675 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 15b1f7f0 VENDOR_NAME Camin INVOICE_NUMBER 1192429 FILE_NAME 586966EXXO06-065mtpty590121-13-02-0213.pdf
+2023-12-19 07:12:44,676 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:12:44,686 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:12:44,810 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:12:44,837 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is c26b77bc VENDOR_NAME Camin INVOICE_NUMBER 1192429 FILE_NAME Invoice119242908-06-2021.PDF
+2023-12-19 07:12:44,837 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:12:44,839 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL
+2023-12-19 07:12:44,928 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:12:44,928 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:12:44,968 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,a57ea71f
+2023-12-19 07:12:45,021 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Nomination_Data_Trans is successfully executed
+2023-12-19 07:12:45,112 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Invoice_Data_Trans,c26b77bc
+2023-12-19 07:12:47,206 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans  is Not successfully executed
+2023-12-19 07:12:47,206 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans  is Not successfully executed
+2023-12-19 07:12:47,257 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:15:18,278 - ExtractCustomFields.EM_logging - INFO - -----------------------------------------------------------------------------------------------------------------------------------------
+2023-12-19 07:15:18,373 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT PROCESSING START...
+2023-12-19 07:15:18,409 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 81d90eec VENDOR_NAME Saybolt INVOICE_NUMBER 1300395497 FILE_NAME 1300395497.pdf
+2023-12-19 07:15:18,410 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:15:18,420 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL 
+2023-12-19 07:15:18,640 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:15:18,669 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is b77b11af VENDOR_NAME Saybolt INVOICE_NUMBER 1300395497 FILE_NAME 20E536848v.1.pdf
+2023-12-19 07:15:18,669 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:15:18,979 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:15:19,059 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:15:19,241 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is dc754d86 VENDOR_NAME Saybolt INVOICE_NUMBER 1300395497 FILE_NAME COA_Kirby_13022B_USEBARGCHE-2009-015_4976830_13074_00001144_20200917115938_Diogo_N_Nakata.pdf
+2023-12-19 07:15:19,245 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quality
+2023-12-19 07:15:19,256 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUALITY IS SUCCESSFULL 
+2023-12-19 07:15:20,375 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUALITY DATA SUCCESSFULL
+2023-12-19 07:15:20,955 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 0a7269a3 VENDOR_NAME Saybolt INVOICE_NUMBER 1300395497 FILE_NAME FullReport1307400001144-KIRBY13022B-USEBARGCHE-2009-015-4976830-EXXONMOBILCHEMICALCOD.N.Nakata.pdf
+2023-12-19 07:15:20,956 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:15:21,191 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:15:21,317 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:15:21,317 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:15:21,363 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,b77b11af
+2023-12-19 07:15:21,376 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Nomination_Data_Trans is successfully executed
+2023-12-19 07:15:21,464 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Invoice_Data_Trans,81d90eec
+2023-12-19 07:15:21,491 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans  is Not successfully executed
+2023-12-19 07:15:21,492 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans  is Not successfully executed
+2023-12-19 07:15:21,545 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:15:21,547 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT PROCESSING START...
+2023-12-19 07:15:21,577 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is eb650ec9 VENDOR_NAME Saybolt INVOICE_NUMBER 1300395101 FILE_NAME 1300395101.pdf
+2023-12-19 07:15:21,577 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:15:21,580 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL 
+2023-12-19 07:15:21,661 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:15:21,694 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 97230153 VENDOR_NAME Saybolt INVOICE_NUMBER 1300395101 FILE_NAME 20E537128v.1.pdf
+2023-12-19 07:15:21,695 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:15:22,025 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:15:22,089 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:15:22,462 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 1c0fe5a5 VENDOR_NAME Saybolt INVOICE_NUMBER 1300395101 FILE_NAME 5003856-10HTCO3118LoadTolueneExxonMobilBaytownFinalReport.pdf
+2023-12-19 07:15:22,463 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:15:22,698 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:15:22,823 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:15:22,823 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:15:22,873 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,97230153
+2023-12-19 07:15:22,886 - ExtractCustomFields.EM_logging - ERROR - ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/ExtractCustomFields/CGI_Insertion.py", line 445, in api_procedure_byuuid_main_2
+    cursor.execute("{call "+procedure_name+"('"+arg+"')}")
+pyodbc.ProgrammingError: ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+2023-12-19 07:15:22,934 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:15:22,936 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT PROCESSING START...
+2023-12-19 07:15:22,974 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is c52fba56 VENDOR_NAME Saybolt INVOICE_NUMBER 1300396439 FILE_NAME 1300396439.pdf
+2023-12-19 07:15:22,975 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:15:22,982 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL 
+2023-12-19 07:15:23,282 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:15:23,332 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is d7de4872 VENDOR_NAME Saybolt INVOICE_NUMBER 1300396439 FILE_NAME 20E541051v.1.pdf
+2023-12-19 07:15:23,332 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:15:24,469 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:15:24,684 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:15:24,790 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 0c37dcc3 VENDOR_NAME Saybolt INVOICE_NUMBER 1300396439 FILE_NAME COA_STOLT_QUETZAL_5014563_13074_00001350_20201013130527_Mariana_Quadrado_Rossi.pdf
+2023-12-19 07:15:24,791 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quality
+2023-12-19 07:15:24,795 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUALITY IS SUCCESSFULL 
+2023-12-19 07:15:25,073 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUALITY DATA SUCCESSFULL
+2023-12-19 07:15:25,768 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 4a4aba3f VENDOR_NAME Saybolt INVOICE_NUMBER 1300396439 FILE_NAME FullReport1307400001350-STOLTQUETZAL-USEVESSCHE-2009-064-5014563-EXXONMOBILCHEMICALCOM.QuadradoRossi.pdf
+2023-12-19 07:15:25,770 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:15:26,194 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:15:26,314 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:15:26,315 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:15:26,355 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,d7de4872
+2023-12-19 07:15:26,370 - ExtractCustomFields.EM_logging - ERROR - ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/ExtractCustomFields/CGI_Insertion.py", line 445, in api_procedure_byuuid_main_2
+    cursor.execute("{call "+procedure_name+"('"+arg+"')}")
+pyodbc.ProgrammingError: ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+2023-12-19 07:15:26,421 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:15:26,422 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT PROCESSING START...
+2023-12-19 07:15:26,456 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 7c18d908 VENDOR_NAME Saybolt INVOICE_NUMBER 1300397415 FILE_NAME 1300397415.pdf
+2023-12-19 07:15:26,456 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:15:26,461 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL 
+2023-12-19 07:15:26,648 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:15:26,676 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is fe42a31d VENDOR_NAME Saybolt INVOICE_NUMBER 1300397415 FILE_NAME 20E546579v.1.pdf
+2023-12-19 07:15:26,676 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:15:27,009 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:15:27,096 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:15:27,143 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 0d8bc436 VENDOR_NAME Saybolt INVOICE_NUMBER 1300397415 FILE_NAME 5122010-KIRBY29108-SCN-BAYTOWN-DISCHARGE-FINALREPORT-Copy.pdf
+2023-12-19 07:15:27,144 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Not classified
+2023-12-19 07:15:27,144 - ExtractCustomFields.EM_logging - INFO - NON-CATEGORIZED DOCUMENT
+2023-12-19 07:15:27,196 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:15:27,236 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,fe42a31d
+2023-12-19 07:15:27,247 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Nomination_Data_Trans is successfully executed
+2023-12-19 07:15:27,340 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Invoice_Data_Trans,7c18d908
+2023-12-19 07:15:27,363 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans  is Not successfully executed
+2023-12-19 07:15:27,363 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans  is Not successfully executed
+2023-12-19 07:15:27,413 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:15:27,415 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT PROCESSING START...
+2023-12-19 07:15:27,470 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 5b36046d VENDOR_NAME Saybolt INVOICE_NUMBER 1300399295 FILE_NAME 1300399295.pdf
+2023-12-19 07:15:27,471 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:15:27,474 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL 
+2023-12-19 07:15:27,588 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:15:27,617 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 27d40f0a VENDOR_NAME Saybolt INVOICE_NUMBER 1300399295 FILE_NAME 20E553681v.1.pdf
+2023-12-19 07:15:27,618 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:15:27,930 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:15:27,999 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:15:28,116 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 6d003baf VENDOR_NAME Saybolt INVOICE_NUMBER 1300399295 FILE_NAME COA_KIRBY_10562_USEBARGCHE-2011-045___5067731_13074_00001807_20210107164810_Bruna_Kukiela.pdf
+2023-12-19 07:15:28,118 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quality
+2023-12-19 07:15:28,121 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUALITY IS SUCCESSFULL 
+2023-12-19 07:15:28,245 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUALITY DATA SUCCESSFULL
+2023-12-19 07:15:28,804 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 263252cf VENDOR_NAME Saybolt INVOICE_NUMBER 1300399295 FILE_NAME FullReport1307400001807-KIRBY10562-USEBARGCHE-2011-045-5067731-EXXONMOBILCHEMICALCOB.Kukiela.pdf
+2023-12-19 07:15:28,806 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:15:29,046 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:15:29,180 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:15:29,181 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:15:29,220 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,27d40f0a
+2023-12-19 07:15:29,234 - ExtractCustomFields.EM_logging - ERROR - ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/ExtractCustomFields/CGI_Insertion.py", line 445, in api_procedure_byuuid_main_2
+    cursor.execute("{call "+procedure_name+"('"+arg+"')}")
+pyodbc.ProgrammingError: ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+2023-12-19 07:15:29,285 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:15:29,288 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT PROCESSING START...
+2023-12-19 07:15:29,328 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is e68a9f38 VENDOR_NAME Saybolt INVOICE_NUMBER 1300399570 FILE_NAME 21E556352v.1.pdf
+2023-12-19 07:15:29,330 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:15:29,646 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:15:29,715 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:15:29,760 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is d3acdafb VENDOR_NAME Saybolt INVOICE_NUMBER 1300399570 FILE_NAME Invoice_1300399570_EXXONMOBILCHEMICALCO.pdf
+2023-12-19 07:15:29,760 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:15:29,762 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL 
+2023-12-19 07:15:29,837 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:15:30,206 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is dc44289a VENDOR_NAME Saybolt INVOICE_NUMBER 1300399570 FILE_NAME MergedReport_EXXONMOBILCHEMICALCO_USEBARGARO-2102-0355242968_1305500046900_General_Inspection.pdf
+2023-12-19 07:15:30,214 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:15:30,466 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:15:30,584 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:15:30,585 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:15:30,632 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,e68a9f38
+2023-12-19 07:15:30,644 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Nomination_Data_Trans is successfully executed
+2023-12-19 07:15:30,742 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Invoice_Data_Trans,d3acdafb
+2023-12-19 07:15:30,785 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans  is Not successfully executed
+2023-12-19 07:15:30,786 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans  is Not successfully executed
+2023-12-19 07:15:30,839 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:15:30,840 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT PROCESSING START...
+2023-12-19 07:15:30,876 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is f869afd3 VENDOR_NAME Saybolt INVOICE_NUMBER 1300399575 FILE_NAME 1300399575.pdf
+2023-12-19 07:15:30,877 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:15:30,883 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL 
+2023-12-19 07:15:31,120 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:15:31,159 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 800a1f70 VENDOR_NAME Saybolt INVOICE_NUMBER 1300399575 FILE_NAME 20E553492v.1.pdf
+2023-12-19 07:15:31,160 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:15:31,636 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:15:31,716 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:15:31,833 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is ed511fc3 VENDOR_NAME Saybolt INVOICE_NUMBER 1300399575 FILE_NAME COA_FMT_1068_USEBARGCHE-2102-006___5132330_13074_00001759_20210119124230_Diogo_N_Nakata.pdf
+2023-12-19 07:15:31,835 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quality
+2023-12-19 07:15:31,839 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUALITY IS SUCCESSFULL 
+2023-12-19 07:15:32,273 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUALITY DATA SUCCESSFULL
+2023-12-19 07:15:32,710 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 5f6f65aa VENDOR_NAME Saybolt INVOICE_NUMBER 1300399575 FILE_NAME FullReport1307400001759-FMT1068-USEBARGCHE-2102-006-5132330-EXXONMOBILCHEMICALCOD.N.Nakata.pdf
+2023-12-19 07:15:32,712 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:15:32,871 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:15:32,991 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:15:32,992 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:15:33,032 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,800a1f70
+2023-12-19 07:15:33,043 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Nomination_Data_Trans is successfully executed
+2023-12-19 07:15:33,136 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Invoice_Data_Trans,f869afd3
+2023-12-19 07:15:33,166 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans  is Not successfully executed
+2023-12-19 07:15:33,166 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans  is Not successfully executed
+2023-12-19 07:15:33,222 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:15:33,224 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT PROCESSING START...
+2023-12-19 07:15:33,260 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 36a065eb VENDOR_NAME Saybolt INVOICE_NUMBER 1300402284 FILE_NAME 1300402284.pdf
+2023-12-19 07:15:33,260 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:15:33,267 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL 
+2023-12-19 07:15:33,478 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:15:33,517 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 9a23130b VENDOR_NAME Saybolt INVOICE_NUMBER 1300402284 FILE_NAME 21E567044v.1.pdf
+2023-12-19 07:15:33,518 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:15:33,997 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:15:34,076 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:15:34,462 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 544cde1d VENDOR_NAME Saybolt INVOICE_NUMBER 1300402284 FILE_NAME FullReport13074000002226.0000EXXONMOBILCHEMICALCOMPANY.pdf
+2023-12-19 07:15:34,464 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:15:34,698 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:15:34,833 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:15:34,834 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:15:34,878 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,9a23130b
+2023-12-19 07:15:34,889 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Nomination_Data_Trans is successfully executed
+2023-12-19 07:15:34,979 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Invoice_Data_Trans,36a065eb
+2023-12-19 07:15:35,016 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans  is Not successfully executed
+2023-12-19 07:15:35,016 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans  is Not successfully executed
+2023-12-19 07:15:35,072 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:15:35,074 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT PROCESSING START...
+2023-12-19 07:15:35,172 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 77842a28 VENDOR_NAME Saybolt INVOICE_NUMBER 1300403272 FILE_NAME 1300403272.pdf
+2023-12-19 07:15:35,173 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:15:35,178 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL 
+2023-12-19 07:15:35,394 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:15:35,444 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 2a95f470 VENDOR_NAME Saybolt INVOICE_NUMBER 1300403272 FILE_NAME 21E569356v.1.pdf
+2023-12-19 07:15:35,445 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:15:36,786 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:15:37,066 - ExtractCustomFields.EM_logging - INFO - ERROR IN NOMINATION LINE ITEM DICT INSERTION
+2023-12-19 07:15:37,066 - ExtractCustomFields.EM_logging - ERROR - ('22001', '[22001] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]String or binary data would be truncated. (8152) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/ExtractCustomFields/CGI_Insertion.py", line 85, in Nomination_Insertion
+    cursor.execute(insert_statement_3, values_3)
+pyodbc.DataError: ('22001', '[22001] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]String or binary data would be truncated. (8152) (SQLExecDirectW)')
+2023-12-19 07:15:37,076 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:15:37,211 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 5b41e488 VENDOR_NAME Saybolt INVOICE_NUMBER 1300403272 FILE_NAME COA_STOLT_AGUILA_USEVESSCHE-2104-113__5380105_13074_00002273_20210507115620_Mateus_Przysiada_Zem.pdf
+2023-12-19 07:15:37,214 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quality
+2023-12-19 07:15:37,220 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUALITY IS SUCCESSFULL 
+2023-12-19 07:15:37,527 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUALITY DATA SUCCESSFULL
+2023-12-19 07:15:37,865 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 3e536dac VENDOR_NAME Saybolt INVOICE_NUMBER 1300403272 FILE_NAME FullReport1307400002273-STOLTAGUILA-USEVESSCHE-2104-113-5380105-EXXONMOBILCHEMICALCO,Mr.M.PrzysiadaZem.pdf
+2023-12-19 07:15:37,867 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:15:38,041 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:15:38,175 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:15:38,176 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:15:38,218 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,2a95f470
+2023-12-19 07:15:38,234 - ExtractCustomFields.EM_logging - ERROR - ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/ExtractCustomFields/CGI_Insertion.py", line 445, in api_procedure_byuuid_main_2
+    cursor.execute("{call "+procedure_name+"('"+arg+"')}")
+pyodbc.ProgrammingError: ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+2023-12-19 07:15:38,285 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:15:38,287 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT PROCESSING START...
+2023-12-19 07:15:38,325 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 631fc876 VENDOR_NAME Saybolt INVOICE_NUMBER 1300405578 FILE_NAME 21E581516v.1.pdf
+2023-12-19 07:15:38,325 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:15:38,646 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL 
+2023-12-19 07:15:38,715 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:15:38,770 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 321d995b VENDOR_NAME Saybolt INVOICE_NUMBER 1300405578 FILE_NAME Invoice_1300405578_EXXONMOBILCHEMICALCO.pdf
+2023-12-19 07:15:38,771 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Invoice
+2023-12-19 07:15:38,773 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF INVOICE IS SUCCESSFULL 
+2023-12-19 07:15:38,843 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : INVOICE DATA SUCCESSFULL
+2023-12-19 07:15:39,240 - ExtractCustomFields.EM_logging - INFO - SAYBOLT DOCUMENT UUID is 56fc740a VENDOR_NAME Saybolt INVOICE_NUMBER 1300405578 FILE_NAME MergedReport_EXXONMOBILCHEMICALCO_USEBARGARO-2106-0855555525_1305500047854_General_Inspection.pdf
+2023-12-19 07:15:39,248 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Quantity
+2023-12-19 07:15:39,536 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF QUANTITY IS SUCCESSFULL
+2023-12-19 07:15:39,658 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : QUANTITY DATA SUCCESSFULL
+2023-12-19 07:15:39,659 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:15:39,703 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,631fc876
+2023-12-19 07:15:39,713 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Nomination_Data_Trans is successfully executed
+2023-12-19 07:15:39,808 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Invoice_Data_Trans,321d995b
+2023-12-19 07:15:44,683 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans  is Not successfully executed
+2023-12-19 07:15:44,683 - ExtractCustomFields.EM_logging - INFO - seems like HCL_Invoice_Data_Trans  is Not successfully executed
+2023-12-19 07:15:44,736 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-19 07:55:29,963 - ExtractCustomFields.EM_logging - INFO - -----------------------------------------------------------------------------------------------------------------------------------------
+2023-12-19 07:55:30,145 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT PROCESSING START...
+2023-12-19 07:55:30,193 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 48b3afb1 VENDOR_NAME Camin INVOICE_NUMBER 1131233 FILE_NAME 20E537236v.1.pdf
+2023-12-19 07:55:30,194 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-19 07:55:30,195 - ExtractCustomFields.EM_logging - INFO - Header Data Nomination - {'TripNumber': 'USEBARGARO-2009-047', 'NominationNumber': '20E537236', 'Region': 'Americas', 'doc_uuid': '48b3afb1'}
+2023-12-19 07:55:30,198 - ExtractCustomFields.EM_logging - INFO - Parcel data extraction (pracel summary not available) - [[{'ActivityType': 'LOAD', 'VesselName': 'FMT6010', 'JobLocation': 'BEAUMONT REFINERY, TX (UNITED STATES)', 'VendorName': 'Camin Cargo Control Inc.', 'NominationKey': '5003154-10', 'ProductName': 'BENZENE VL BULK', 'JobDate': '07 Sep 2020', 'NominatedQuantity': '20000', 'UnitOfMeasure': 'Barrels', 'TypeofInspection': 'QUALITY & QUANTITY', 'EmAffiliates': '0102 ExxonMobil Chemical Company - U.S. (Div ExxonMobil Chemical Co) (Le- gal Entity: 0102 EM Chemical America (0102))'}]]
+2023-12-19 07:55:30,381 - ExtractCustomFields.EM_logging - INFO - Quality line data Nomination - [[{'TestName': 'Retain sample -90 days', 'TestCode': '[OTHER] n/a', 'Comments': '', 'SetNo': '1', 'SetDescription': '2 FOOT SAMPLE', 'SampleLocation': 'Vessel First Foot', 'VendorName': 'Camin Cargo Control Inc.', 'VesselName': 'FMT6010 (VS00060825)', 'JobLocation': 'BEAUMONT REFINERY, TX (UNITED STATES)'}], [{'TestName': 'Retain sample -90 days', 'TestCode': '[OTHER] n/a', 'Comments': '', 'SetNo': '2', 'SetDescription': 'FINAL BARGE COMPOSITE', 'SampleLocation': 'Vessel/Barge Composite', 'VendorName': 'Camin Cargo Control Inc.', 'VesselName': 'FMT6010 (VS00060825)', 'JobLocation': 'BEAUMONT REFINERY, TX (UNITED STATES)'}]]
+2023-12-19 07:55:30,381 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL
+2023-12-19 07:55:30,482 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-19 07:55:30,482 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-19 07:55:30,535 - ExtractCustomFields.EM_logging - INFO - Toscana data insert query move to exacto --HCL_Nomination_Data_Trans,48b3afb1
+2023-12-19 07:55:30,548 - ExtractCustomFields.EM_logging - ERROR - ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/ExtractCustomFields/CGI_Insertion.py", line 445, in api_procedure_byuuid_main_2
+    cursor.execute("{call "+procedure_name+"('"+arg+"')}")
+pyodbc.ProgrammingError: ('25000', '[25000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0. (266) (SQLExecDirectW)')
+2023-12-19 07:55:30,600 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA

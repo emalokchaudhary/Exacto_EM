@@ -1,0 +1,128 @@
+TRIP: 5248844                                                                                21E556912 VER 1 (ISSUED)
+
+ Region: Americas                                                  Other Reference:
+Operator: DIANA LOPEZ (diana.lopez@exxonmobil.com)                  Business Group: 3862 - ExxonMobil Oil Corporation
+  Phone:                                                                      Desk:
+ Mobile:                                                           Nomination Type: Marine
+
+Documentary Instructions: n/a
+
+
+ LOAD: EMS365 (VS00031204) / EMS321 (VS00021663) - PASADENA, TX - KM BLENDING HUB TP (UNITED STATES)
+                                       Inspector: Camin Cargo Control Inc.            Inspection Status: Accepted
+                                             Hub: Camin Cargo Control - Head Office -       Created On: 20 Jan 2021 by Diana
+                                                  U.S.                                                   Lopez
+                                    Coordinator: Ari Camin (acamin@camincargo.com)        Last Modified: 20 Jan 2021 by Josias
+                                                                                                         Rivero
+                                    Local Office: Pasadena, TX (opspasade-
+                                                  na@camincargo.com)
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5248844-10
+                                           Grade: AUTODIESEL, S15                      Contract Number:
+                                             ETA: 22 Jan 2021                                Parcel Ref:
+                                             ETD:                                           Destination:
+                  Supply Contract Window Start: 22 Jan 2021                            Source Location:
+                   Supply Contract Window End: 24 Jan 2021                                     Supplier:
+                      Total Nominated Quantity: 46,000 Barrels                                 Receiver:
+Transport / Voyage Number / Quantity / Tolerance: EMS365 (VS00031204) / 23,000 Bar-     Delivery Terms: FOB (Free On Board)
+                                                  rels +/- 5 pct
+                                                  EMS321 (VS00021663) / 23,000 Bar-      Mother Vessel:
+                                                  rels +/- 5 pct
+
+Email Quantity Results To:
+ffx_oilloss@exxonmobil.com; gmto-vins-products-others@exxonmobil.com; marine.backup@exxonmobil.com;
+mats.mto@exxonmobil.com; ds-srm-inspection-reports-mailbox@exxonmobil.com;
+miscellaneous.charges@exxonmobil.com;intl-insp-invoices@exxonmobil.com; diana.lopez@exxonmobil.com;
+Agustin.gaudiano@exxonmobil.com; tomas.o.giglio@exxonmobil.com
+
+Email Quality Results To:
+marine.backup@exxonmobil.com; mats.mto@exxonmobil.com; ds-srm-inspection-eportsmailbox@exxonmobil.com;
+diana.lopez@exxonmobil.com
+
+Load / Discharge Instructions:
+Terminals and inspectors are to confirm cargo orders and verify that nominated equipment, cargo and ter-
+minal match towing company's orders.
+
+Quality based on barge composite after load.
+
+Camin Additive - Barges will require conductivity and lubricity treatment while loading.
+Shore line sample and Shore Tank Sample for retain only.
+--------------------------------------------------------------------------------------------------------
+In the event of any ULSD related discrepancies, please contact Diana Lopez at 346-328-2316.
+
+All discrepancies must be resolved prior to the transfer of Cargo.
+Tug: M/V URSULA
+Prior Cargo: TBD
+Upload final paperwork into Navarik within 48hrs of completion of load/discharge.
+
+Quality Inspection Instructions:
+SET 1
+            Description: Barges will require conductivity and lubricity treatment while loading
+       Sample Location: Shore Tank (U-M-L) Composite · Vessel/Barge Composite · Barge or Vessel Line Composite Sample
+Quality Test Comments:
+Please perform full slate attached - Grade: Diesel Mexican Spec, as per attached spec (Automotive)
+
+
+
+
+                                                         Page 1 of 2
+TRIP: 5248844                                                                                          21E556912 VER 1 (ISSUED)
+
+Instructions:
+#1 If a test does not have space for multiple values/entries, please enter them in the comments section
+(e.g. Distillation).
+
+
+
+
+                                                                                                          RO = Report Only       Req. = Required
+ Test                   Methods                   Min    Max    UOM          Typical   R.O.     Req.   Comment
+ Ash Content            [ASTM] ASTM D482                        %wt                    No       Yes    D4176 & D2274 NOT required. See
+                                                                                                       attached slate
+ Water & Sediment       [ASTM] ASTM D2709                       %vol                   No       Yes
+ (H2S)
+ Carbon Residue         [ASTM] ASTM D524                        %wt                    No       Yes
+ Copper Corrosion       [ASTM] ASTM D130                        rating                 No       Yes
+ Conductivity           [ASTM] ASTM D2624                       pS/m                   No       Yes
+ Color, ASTM            [ASTM] ASTM D1500                                              No       Yes
+ Cloud Point            [ASTM] ASTM D2500                       °F                     No       Yes
+ Oxidation Stability    [ASTM] ASTM D2274                       mg/100ml               No       No
+ Corrosion, NACE        [OTHER] TM 0172                                                No       Yes
+ Haze Rating @ 25       [ASTM] ASTM D4176                                              No       No
+ deg C                  Procedure 2
+ API Gravity at 60°F    [ASTM] ASTM D287                        API@60°F               No       Yes
+ Cetane Index           [ASTM] ASTM D976-80                                            No       Yes
+ Cetane Number          [ASTM] ASTM D613                                               No       Yes
+ Distillation           [ASTM] ASTM D86                         °C                     No       Yes
+ Flash Point            [ASTM] ASTM D93                         °F                     No       Yes
+ Pour Point             [ASTM] ASTM D97                         °F                     No       Yes
+ Sulfur                 [ASTM] ASTM D5453                       ppm                    No       Yes
+ Kinematic Viscosity    [ASTM] ASTM D445                        cSt                    No       Yes
+ at 40°C
+ Additional Tests
+ Aromatics              [ASTM] ASTM D1319                       %m/m                   No       No
+ Lubricity              [ASTM] ASTM D6079                       μm                     No       No
+
+Invoice Instructions:
+  Bill Invoice To                                                             Item to Bill                     Split    Contact / Comment
+ 3862 - ExxonMobil Oil Corporation (Legal Entity: ExxonMobil Oil Corp.        Quantity only                    50%
+ (EMOC) - Mktg & Ref U.S. Gen Ledger (3862))
+                                                                              Slate: S15 MV No.2 Dsl CPL       50%
+                                                                              61/62 Winter R0
+                                                                              Test: Aromatics                  50%
+                                                                              Test: Lubricity                  50%
+ Other                                                                        Quantity only                    50%      STONE X
+                                                                              Slate: S15 MV No.2 Dsl CPL       50%      STONE X
+                                                                              61/62 Winter R0
+                                                                              Test: Aromatics                  50%      STONE X
+                                                                              Test: Lubricity                  50%      STONE X
+
+Recipient List:
+navarik_coordinator@camincargo.com; opspasadena@camincargo.com; acamin@camincargo.com
+HQAdditives@camincargo.com
+                                                                                                                       REPORT GENERATED 20 JAN 2021
+
+
+
+                                                               Page 2 of 2
+

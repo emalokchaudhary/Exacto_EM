@@ -1,0 +1,18 @@
+
+2022-02-03 07:19:14,621:__main__:
+Field Name: To. Error occured in Active Learning field_variation.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 666, in Active_Learning_Main
+    New_Field_Activation(keys_dict,User_ID,Config_ID)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 591, in New_Field_Activation
+    json.dump(custom_key_map, fp)
+NameError: name 'custom_key_map' is not defined
+
+2022-02-03 07:41:40,141:__main__:
+Field Name: abc. Error occured in Active Learning field_variation.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 666, in Active_Learning_Main
+    New_Field_Activation(keys_dict,User_ID,Config_ID)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 591, in New_Field_Activation
+    json.dump(custom_key_map, fp)
+NameError: name 'custom_key_map' is not defined

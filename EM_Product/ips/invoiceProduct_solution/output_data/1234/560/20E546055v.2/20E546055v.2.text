@@ -1,0 +1,128 @@
+TRIP: USEBARGFIN-2011-006                                                                20E546055 VER 2 (ISSUED)
+
+ Region: Americas                                                           Other Reference:
+Operator: SCOTT FRIEDMAN (scott.m.friedman@exxonmobil.com)                   Business Group: S/R INLAND BARGING
+  Phone: 281-838-2976                                                                  Desk: Feedstocks
+ Mobile:                                                                    Nomination Type: Marine
+
+Revision Comment: NOW LOADING 18KB, not 40KB
+
+
+Documentary Instructions: n/a
+
+
+ LOAD: EMS3001 (VS00021573) / EMS3004 (VS00021268) - MOUNT AIRY, LA - APEX FS TP (UNITED STATES)
+                                       Inspector: COASTAL GULF                 Inspection Status: Accepted
+                                             Hub: Coastal Gulf - Luling              Created On: 06 Nov 2020 by ExxonMobil
+                                                                                                  Webservice
+                                    Coordinator: Bentley Kraemer (bkrae-           Last Modified: 06 Nov 2020 by Bentley
+                                                  mer@coastalgulf.com)                            Kraemer
+                                    Local Office:
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5107066-10
+                                           Grade: CSO / MCB                     Contract Number: 213194
+                                             ETA: 06 Nov 2020                         Parcel Ref:
+                                             ETD:                                    Destination:
+                  Supply Contract Window Start: 06 Nov 2020                     Source Location:
+                   Supply Contract Window End: 07 Nov 2020                              Supplier:
+                      Total Nominated Quantity: 18,000 Barrels                          Receiver:
+Transport / Voyage Number / Quantity / Tolerance: EMS3001 (VS00021573) / 9,000   Delivery Terms: FOB (Free On Board)
+                                                  Barrels +/- 5 pct
+                                                  EMS3004 (VS00021268) / 9,000    Mother Vessel:
+                                                  Barrels +/- 5 pct
+
+Email Quantity Results To:
+mats.mto-fairfax@exxonmobil.com;ffx_oilloss@exxonmobil.com; marine.backup@exxonmobil.com; ds-srm-
+inspection-reports-mailbox@exxonmobil.com; miscellaneous.charges@exxonmobil.com;
+jeff.m.norton@exxonmobil.com; michael.t.koehn@exxonmobil.com; jonathan.w.martin@exxonmobil.com;
+
+Load / Discharge Instructions:
+TANK: 217
+CUSTOMER: Cabot
+TUG: Nolan Rhodes
+VETTING ID: smfried-621002
+INCOTERMS: DAP
+
+
+
+Terminal and Inspector must confirm equipment and orders match those of the towing company during the
+pre-transfer conference. If there are any discrepancies, please contact the scheduler. No transfers
+shall begin until discrepancies have been cleared via issuing of new orders.
+
+Overtime: Not Approved
+
+===========================================
+INSPECTION INSTRUCTIONS
+===========================================
+GLOBAL INSPECTION CONTRACT effective from July 2019 to June 2026 is to be used.
+
+IF FOB:
+-QUALITY IS BASED ON SHORE TANK PRIOR TO LOAD OR BARGE COMP IF LOAD IS ACTIVE.
+-QUANTITY IS BASED ON STATIC SHORE TANK DOWNGAUGE AT LOAD OR STATIC UPGAUGE ADJUSTED FOR ROB/OBQ IF LOAD
+IS ACTIVE.
+
+IF DES:
+-QUALITY IS BASED ON BARGE COMP ANALYSIS.
+-QUANTITY IS BASED ON STATIC SHORE TANK UPGAUGE AT DISCHARGE OR STATIC UPGAUGE ADJUSTED FOR ROB/OBQ IF
+LOAD IS ACTIVE.
+
+
+                                                      Page 1 of 2
+TRIP: USEBARGFIN-2011-006                                                                          20E546055 VER 2 (ISSUED)
+
+Quality Inspection Instructions:
+SET 1
+            Description:
+       Sample Location: Shore Tank Composite (Running)
+Quality Test Comments:
+PLEASE REPORT ZINC ON SEPARATE COA
+
+PLEASE TEST FLASH FOR BOTH PROCEDURE A AND B
+
+
+
+
+                                                                                                     RO = Report Only            Req. = Required
+ Test                        Methods                                       Min    Max   UOM        Typical     R.O.       Req.     Comment
+ Aluminium                   [IP] IP 377, [IP] IP 501                                   mg/kg                  No         Yes
+ API Gravity at 60°F         [ASTM] ASTM D1298, [ASTM] ASTM D4052                       API@60°F               No         Yes
+ Ash Content                 [ASTM] ASTM D482                                           %m/m                   No         Yes
+ Asphaltenes                 [IP] IP 143                                                %m/m                   No         Yes
+ Conradson Carbon            [ASTM] ASTM D189, [ASTM] ASTM D4530                        %m/m                   No         Yes
+ Residue
+ Flash Point (PMCC)          [ASTM] ASTM D93, [ASTM] ASTM D93 Pro-                      °F                     No         Yes
+                             cedure B
+ Potassium                   [IP] IP 501                                                mg/kg                  No         Yes
+ Pour Point                  [ASTM] ASTM D97                                            °F                     No         Yes
+ Silicon                     [IP] IP 501, [IP] IP 377                                   mg/kg                  No         Yes
+ Sodium                      [IP] IP 501                                                mg/kg                  No         Yes
+ Sulfur                      [ASTM] ASTM D4294                                          g/kg                   No         Yes
+ Vanadium                    [IP] IP 501                                                mg/kg                  No         Yes
+ Viscosity @ 50 C (122 F),   [ASTM] ASTM D445                                                                  No         Yes
+ CST
+ H2S in Vapor                [ASTM] ASTM D5705                                          ppm v/v                No         Yes
+ Water by Distillaton        [ASTM] ASTM D95                                            Vol %                  No         Yes
+ Sediment by Extraction      [ASTM] ASTM D473                                           %m                     No         Yes
+ Zinc                        [IP] IP 501                                                mg/kg                  No         Yes
+ Flash Point                 [ASTM] ASTM D93 Procedure A                                °F                     No         Yes
+
+Invoice Instructions:
+  Bill Invoice To                                                                 Item to Bill               Split     Contact / Comment
+ 3862 - ExxonMobil Oil Corporation (Legal Entity: ExxonMobil Oil Corp. (EMOC) -   Quantity only              50%
+ Mktg & Ref U.S. Gen Ledger (3862))
+                                                                                  Slate: US BLKO HAFO        50%
+                                                                                  SLATE 2020
+ CABOT CORPORATION                                                                Quantity only              50%
+                                                                                  Slate: US BLKO HAFO        50%
+                                                                                  SLATE 2020
+
+Recipient List:
+cgi@coastalgulf.com; bkraemer@coastalgulf.com
+eplaisance@apexoil.com; beilers@apexoil.com; pft4084@apexoil.com; jjackson@apexoil.com
+                                                                                                                     REPORT GENERATED 06 NOV 2020
+
+
+
+
+                                                              Page 2 of 2
+

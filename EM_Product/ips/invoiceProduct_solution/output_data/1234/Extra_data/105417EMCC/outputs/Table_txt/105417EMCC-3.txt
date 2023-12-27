@@ -1,0 +1,22 @@
+Product:                    Benzene                                                         Terminal:                     Total
+Subject:                    Report of Discharge                                             Port:                         Carville, Louisiana
+EMCC Ref. #: 5618157-20                                                                     File Number:                  105417
+
+
+                                         SHORE TANK MEASUREMENT REPORT
+              SHORE                                             TEMP.                  T.O.V.                                     G.S.V,
+              TANK                  INNAGE                      DEG. F                GALLONS              FACTOR                GALLONS
+                303A
+
+             8/10/2021           07' 10 3/4"           80.3                           794,410.00
+                0420            Water Volume        00' 03 1/8''                      28,212.00                API
+              Ambient                Shell Correction                                  1.00026                 28.0
+               Temp.                 Roof Correction                                     0.00
+                88.0                                                                  766,397.21            0.98658              756,112.16
+             8/10/2021           18' 01 7/8''          86.7                           1,877,893.00
+                2015            Water Volume        00' 03 1/8''                        28,212.00              API
+             Ambient                 Shell Correction                                    1.00033               28.0
+              Temp.                  Roof Correction                                       0.00
+               88.0                                                                   1,850,291.39          0.98230             1,817,541.23
+            Tank API                            28.0
+            Diff:                               0.00                                       Line Quantity

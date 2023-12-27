@@ -1,0 +1,137 @@
+TRIP: INTB009FIN-2010-0435                                                                         20E545168 VER 1 (ISSUED)
+
+ Region: EAME                                                                  Other Reference:
+Operator: RICK ARENDS (rick.arends@exxonmobil.com)                              Business Group: 0530 Esso Nederland BV
+  Phone:                                                                                  Desk:
+ Mobile:                                                                       Nomination Type: Marine
+
+Documentary Instructions: n/a
+
+
+ LOAD: SOMTRANS LNG (VS00059536) - ROTTERDAM REFINERY, NETHERLANDS (NETHERLANDS)
+                                 Inspector: Saybolt                                    Inspection Status:                Accepted
+                                      Hub: Europe/Africa/Russia/ME (International Desk       Created On:                 30 Oct 2020 by
+                                            Rotterdam)                                                                   Rick Arends
+                              Coordinator: Cora Ligt (intdesk.saynl@corelab.com)           Last Modified:                30 Oct 2020 by
+                                                                                                                         Cora Ligt
+                                    Local Office: Saybolt Netherlands Rotterdam (Say-
+                                                  bolt.Rotterdam.Mineral@corelab.com)
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5100075-10
+                                           Grade: NAPHTHA LIGHT VIRGIN                Contract Number:
+                                             ETA: 31 Oct 2020                               Parcel Ref:
+                                             ETD:                                          Destination:
+                  Supply Contract Window Start: n/a                                   Source Location:
+                   Supply Contract Window End: n/a                                            Supplier:
+                      Total Nominated Quantity: 8,500 Metric tonnes                           Receiver:
+Transport / Voyage Number / Quantity / Tolerance: SOMTRANS LNG (VS00059536) / 8,500    Delivery Terms: FOB (Free On
+                                                  Metric tonnes                                         Board)
+                                                                                        Mother Vessel:
+
+Email Quantity Results To:
+supplybnl.lpgscheduler@exxonmobil.com; esup.inspection@exxonmobil.com; MTOBargingLights@exxonmobil.com;
+ivan.svekus@exxonmobil.com; gaultier.spriet@exxonmobil.com; Rotterdam.pc.offsite@exxonmobil.com;
+soir@exxonmobil.com
+
+Email Quality Results To:
+supplybnl.lpgscheduler@exxonmobil.com; esup.inspection@exxonmobil.com; MTOBargingLights@exxonmobil.com;
+ivan.svekus@exxonmobil.com; gaultier.spriet@exxonmobil.com; Rotterdam.pc.offsite@exxonmobil.com;
+soir@exxonmobil.com
+
+Quality Inspection Instructions:
+SET 1
+    Description:
+Sample Location: Ship – As Per Standard Terminal Practice
+
+                                                                                                     RO = Report Only          Req. = Required
+ Test               Methods                                                    Min   Max    UOM    Typical   R.O.       Req.     Comment
+ Appearance         [OTHER] Visual                                                                           No         Yes
+ Saybolt Colour     [ASTM] ASTM D156                                                                         No         Yes
+ Density at 15C     [ASTM] ASTM D4052, [ISO] ISO 12185                         650   690    kg/              No         Yes
+                                                                                            m³
+ Aromatics          [OTHER] GC, [OTHER] PIANO                                        100    %vol             No         Yes
+ C4 & LIGHTER       [OTHER] GAS CHROMATOGRAPHY                                       0.05   wt%              No         Yes
+ Naphthenes         [OTHER] GC, [IP] IP 408, [IP] IP 466, [ISO] EN ISO 22854                mg/              No         Yes
+                                                                                            kg
+ Paraffins, Total   [OTHER] GC                                                              wt %             No         Yes
+ I-Paraffins        [OTHER] GC, [OTHER] PIANO, [OTHER] GC (Lowox Col-                       %vol             No         Yes
+                    umn)
+ N-Paraffins        [OTHER] GC, [OTHER] PIANO, [OTHER] GC (Lowox Col-                       %vol             No         Yes
+                    umn)
+ Unsaturates        [OTHER] GC                                                       17     g/kg             No         Yes
+
+
+                                                              Page 1 of 3
+TRIP: INTB009FIN-2010-0435                                                                         20E545168 VER 1 (ISSUED)
+
+                                                                                                     RO = Report Only          Req. = Required
+ Test              Methods                                                      Min   Max   UOM    Typical   R.O.       Req.     Comment
+ Olefins           [ASTM] ASTM D1319, [ASTM] ASTM D4815, [ASTM] ASTM                        %vol             No         Yes
+                   D6730, [ISO] ISO 22854
+ Benzene           [ASTM] ASTM D3606-99, [EN] EN 238, [ISO] ISO 22854                       %vol             No         Yes
+ Distillation      [ASTM] ASTM D86, [ISO] ISO 3405                                          °C               No         Yes
+ Initial Boiling   [ASTM] ASTM D86                                              35          C                No         Yes
+ Point
+ Distillation at   [ASTM] ASTM D86                                                          °C               No         Yes
+ 50%
+ Final Boiling     [ASTM] ASTM D86                                                    110   °C               No         Yes
+ Point
+ 5% - 90%          [ASTM] ASTM D86                                                    60    °C               No         Yes
+ Evaporated
+ Distillation      [ASTM] ASTM D86, [BSI] BS 7392, [EN] EN ISO 3405, [IP]             1.5   %vol             No         Yes
+ Residue           IP 123
+ RVP               [ASTM] ASTM D5191 (ASTM)                                           80    kPa              No         Yes
+ Dry Vapor         [ASTM] ASTM D5191 (ASTM)                                                 kPa              No         Yes
+ Pressure
+ Equivalent
+ Gum - Existent    [ASTM] ASTM D381                                                   20    g/M3             No         Yes
+ Hydrogen Sul-     [ASTM] AMS 60.13                                                   10    ppm              No         Yes
+ phide ( H2S)
+ Lead Content      [IP] IP 224                                                        50    μg/              No         Yes
+                                                                                            kg
+ Mercaptan Sul-    [UOP] UOP 163                                                      300   mg/              No         Yes
+ fur                                                                                        kg
+ Mercury           [UOP] UOP 938, [OTHER] AAS / ICP, [OTHER] AAS                      50    μg/              No         Yes
+                                                                                            kg
+ Methanol Con-     [ASTM] ASTM D5501, [ASTM] ASTM D5599, [ASTM] ASTM                        %vol             No         Yes
+ tent              D6729, [ASTM] ASTM D6730, [EN] EN 14110, [EN] EN 2870
+ Ethanol Con-      [ASTM] ASTM D5501, [ASTM] ASTM D5599, [ASTM] ASTM                        %vol             No         Yes
+ tent              D6839, [EN] EN 15721, [EN] EN 2870
+ Methanol          [OTHER] GC                                                               ppm              No         Yes
+ ETBE              [EN] EN 13132, [OTHER] GC (Lowox Column)                                 mg/              No         Yes
+                                                                                            kg
+ MTBE              [EN] EN 13132, [OTHER] GC (Lowox Column)                           50    mg/              No         Yes
+                                                                                            kg
+ Chlorides, Or-    [UOP] UOP 588                                                      3     mg/              No         Yes
+ ganic                                                                                      kg
+ Motor Octane      [ASTM] ASTM D2700                                                                         No         Yes
+ Number (MON)
+ Research Oc-      [ASTM] ASTM D2699                                                                         No         Yes
+ tane Number
+ (RON)
+ Sulfur            [ASTM] ASTM D2622, [ASTM] ASTM D4294, [ASTM] ASTM                  500   mg/              No         Yes
+                   D5453                                                                    kg
+ Free Water        [OTHER] Visual                                                                            No         Yes
+ Content
+
+Invoice Instructions:
+  Bill Invoice To                                                Item to Bill                            Split      Contact / Comment
+ 0530 Esso Nederland BV (Legal Entity: Esso Nederland BV         Quantity only                           100%
+ (0530))
+
+
+                                                           Page 2 of 3
+TRIP: INTB009FIN-2010-0435                                                                         20E545168 VER 1 (ISSUED)
+
+                                                                   Slate: BNL Light Scheduler LVN Ex-   100%
+                                                                   port
+
+Recipient List:
+intdesk.saynl@corelab.com; Saybolt.Rotterdam.Mineral@corelab.com
+                                                                                                               REPORT GENERATED 30 OCT 2020
+
+
+
+
+                                                           Page 3 of 3
+

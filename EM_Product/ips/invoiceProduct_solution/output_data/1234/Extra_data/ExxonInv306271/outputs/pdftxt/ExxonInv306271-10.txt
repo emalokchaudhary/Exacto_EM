@@ -1,0 +1,45 @@
+                                 COASTAL GULF &
+                               INTERNATIONAL, INC.
+                                               "Precision"
+                                         Inspection & Analytical
+                                                 Services
+                                  105 Rustic Drive, Pasadena, TX 77503
+                                 Phone (713)740-9800 Fax (713)740-9292                      Assuring accuracy through expertise!
+
+Vessel:                  CBC 55                                          Date:              April 4, 2021
+Product:                 EHC 65 & EHC 45                                 Terminal:          ITC
+Subject:                 Report of Loading                               Port:              Deer Park, Texas
+ExxonMobil Ref. #: 5343656 / 5343657 / 4800908520                        File Number:       102471
+
+                                                  TIME LOG OF EVENTS
+
+April 3, 2021               2000         hrs.     Barge arrived
+April 3, 2021               2130         hrs.     Barge docked
+April 3, 2021               2145         hrs.     Commenced arrival barge inspection
+April 3, 2021               2155         hrs.     Completed arrival barge inspection
+April 3, 2021               2245         hrs.     Cargo hose connected
+April 4, 2021               0010         hrs.     Commenced transfer
+April 4, 2021               0025         hrs.     Suspened transfer for line displacement
+April 4, 2021               0135         hrs.     Line displacement approved
+April 4, 2021               0150         hrs.     Resumed transfer
+April 4, 2021               0420         hrs.     Completed transfer from 100-26
+April 4, 2021               0445         hrs.     Cargo hose disconnected
+April 4, 2021               0510         hrs.     Waiting for barge to line shift
+April 4, 2021               0630         hrs.     Cargo hose connected
+April 4, 2021               0715         hrs.     Commenced transfer
+April 4, 2021               0745         hrs.     Suspened transfer for line displacement
+April 4, 2021               0755         hrs.     Resumed transfer
+April 4, 2021               0755         hrs.     Line displacement approved
+April 4, 2021               0840         hrs.     Completed transfer
+April 4, 2021               0905         hrs.     Cargo hose disconnected
+April 4, 2021               0920         hrs.     Commenced departure barge inspection
+April 4, 2021               0955         hrs.     Completed departure barge inspection
+April 4, 2021               0955         hrs.     Barge released to terminal
+
+
+
+
+Coastal Gulf & International, Inc.
+Astin Hamilton
+Houston Communication Center                                                                                        Version 7.0 01-8-13 NLE
+

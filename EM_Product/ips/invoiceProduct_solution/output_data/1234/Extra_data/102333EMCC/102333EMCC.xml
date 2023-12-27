@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="20.11.0">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="18" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="1" size="18" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="2" size="18" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="3" size="16" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="4" size="16" family="TimesNewRomanPS" color="#ffffff"/>
+	<fontspec id="5" size="16" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="6" size="10" family="ArialMT" color="#000000"/>
+	<fontspec id="7" size="18" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="8" size="27" family="BCDEEE+MonotypeCorsiva" color="#000000"/>
+	<fontspec id="9" size="21" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="10" size="16" family="TimesNewRomanPS" color="#ff0000"/>
+	<fontspec id="11" size="10" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="12" size="10" family="TimesNewRomanPS" color="#000000"/>
+<image top="27" left="45" width="156" height="115" src="./../output_data/1234/560/102333EMCC/102333EMCC-1_1.png"/>
+<text top="158" left="31" width="52" height="16" font="0"><i>Vessel:</i></text>
+<text top="165" left="354" width="5" height="16" font="1"><i><b> </b></i></text>
+<text top="188" left="31" width="64" height="16" font="0"><i>Product:</i></text>
+<text top="218" left="31" width="59" height="16" font="0"><i>Subject:</i></text>
+<text top="218" left="193" width="69" height="16" font="1"><i><b>Report of</b></i></text>
+<text top="272" left="505" width="5" height="16" font="2"> </text>
+<text top="413" left="278" width="54" height="16" font="0"><i>Barrels</i></text>
+<text top="436" left="278" width="57" height="16" font="0"><i>Gallons</i></text>
+<text top="459" left="278" width="54" height="16" font="0"><i>Pounds</i></text>
+<text top="482" left="278" width="87" height="16" font="0"><i>Metric Tons</i></text>
+<text top="505" left="278" width="79" height="16" font="0"><i>Short Tons</i></text>
+<text top="527" left="278" width="77" height="16" font="0"><i>Long Tons</i></text>
+<text top="631" left="31" width="213" height="15" font="3"><b>BARGE FIGURES In Barrels</b></text>
+<text top="661" left="31" width="59" height="15" font="3"><b>BARGE</b></text>
+<text top="682" left="31" width="92" height="15" font="3"><b>Kirby  28065</b></text>
+<text top="704" left="31" width="88" height="15" font="3"><b>Kirby 28059</b></text>
+<text top="813" left="31" width="118" height="15" font="4"><b>TOV BARRELS</b></text>
+<text top="1069" left="31" width="223" height="15" font="5">Coastal Gulf &amp; International, Inc.</text>
+<text top="1129" left="31" width="220" height="15" font="5">Gonzales Communication Center</text>
+<text top="1133" left="762" width="121" height="10" font="6">Version 7.1 04-19-20 JMH</text>
+<text top="946" left="98" width="718" height="16" font="2">&#34;Survey performed as per and strictly adhering to methods set forth by API Chapters 3,7,8,17 &amp; 12&#34;</text>
+<text top="854" left="233" width="447" height="16" font="2">Survey was peformed by CGI Surveyor A,B,C,and D TEAMS</text>
+<text top="877" left="286" width="341" height="16" font="2">Table 6B used for Volume Correction purposes</text>
+<text top="813" left="318" width="66" height="15" font="4"><b>51,522.83</b></text>
+<text top="813" left="569" width="29" height="15" font="4"><b>0.00</b></text>
+<text top="813" left="779" width="66" height="15" font="4"><b>51,522.83</b></text>
+<text top="704" left="318" width="66" height="15" font="5">25,568.51</text>
+<text top="704" left="569" width="29" height="15" font="5">0.00</text>
+<text top="704" left="779" width="66" height="15" font="5">25,568.51</text>
+<text top="436" left="566" width="95" height="16" font="2">2,145,583.02</text>
+<text top="459" left="557" width="104" height="16" font="2">13,156,715.00</text>
+<text top="482" left="588" width="72" height="16" font="2">5,967.793</text>
+<text top="413" left="588" width="72" height="16" font="7"><b>51,085.31</b></text>
+<text top="390" left="395" width="148" height="16" font="7"><b>BARGE FIGURES</b></text>
+<text top="505" left="588" width="72" height="16" font="2">6,578.358</text>
+<text top="682" left="318" width="66" height="15" font="5">25,516.80</text>
+<text top="682" left="569" width="29" height="15" font="5">0.00</text>
+<text top="682" left="779" width="66" height="15" font="5">25,516.80</text>
+<text top="1091" left="32" width="145" height="28" font="8">Jon Herrington</text>
+<text top="661" left="313" width="77" height="15" font="3"><b>ARRIVAL</b></text>
+<text top="661" left="532" width="103" height="15" font="3"><b>DEPARTURE</b></text>
+<text top="661" left="759" width="107" height="15" font="3"><b>DIFFERENCE</b></text>
+<text top="923" left="204" width="506" height="16" font="2">Conditions during the inspection were Calm; between 00' and 01' Seas</text>
+<text top="991" left="153" width="608" height="16" font="2">requirements of 40 CFR 98.3 et. Seq. (Greenhouse Gas Mandatory Reporting Rule)&#34;</text>
+<text top="726" left="318" width="66" height="15" font="5">51,085.31</text>
+<text top="726" left="569" width="29" height="15" font="5">0.00</text>
+<text top="968" left="70" width="773" height="16" font="2">&#34;All CGI measurement devices and methods used for quantity and quality determination meet the pertinent </text>
+<text top="900" left="227" width="460" height="16" font="2">Surveyor equipment verified daily using Certified Thermometer</text>
+<text top="726" left="779" width="66" height="15" font="5">51,085.31</text>
+<text top="301" left="361" width="193" height="19" font="9"><b>RECAPITULATION</b></text>
+<text top="272" left="31" width="14" height="16" font="1"><i><b>   </b></i></text>
+<text top="527" left="588" width="72" height="16" font="2">5,873.533</text>
+<text top="569" left="352" width="209" height="15" font="10"><b>No Qualifying VEF Available</b></text>
+<text top="249" left="31" width="178" height="16" font="1"><i><b>EMCC  Ref. #: 5380303</b></i></text>
+<text top="249" left="505" width="97" height="16" font="0"><i>File Number:</i></text>
+<text top="249" left="666" width="54" height="16" font="1"><i><b>102333</b></i></text>
+<text top="188" left="666" width="93" height="16" font="1"><i><b>ExxonMobil</b></i></text>
+<text top="218" left="278" width="76" height="16" font="1"><i><b>Discharge</b></i></text>
+<text top="218" left="505" width="38" height="16" font="0"><i>Port:</i></text>
+<text top="218" left="666" width="182" height="16" font="1"><i><b>Baton Rouge, Louisiana</b></i></text>
+<text top="188" left="193" width="165" height="16" font="1"><i><b>Aromatic Concentrate</b></i></text>
+<text top="188" left="505" width="72" height="16" font="0"><i>Terminal:</i></text>
+<text top="33" left="266" width="161" height="16" font="7"><b>COASTAL GULF &amp;</b></text>
+<text top="56" left="246" width="200" height="16" font="7"><b>INTERNATIONAL, INC.</b></text>
+<text top="76" left="323" width="47" height="9" font="11">&#34;Precision&#34;</text>
+<text top="91" left="297" width="99" height="9" font="11">Inspection &amp; Analytical</text>
+<text top="105" left="329" width="35" height="9" font="11">Services</text>
+<text top="120" left="264" width="165" height="9" font="11">2104 S Southland, Gonzales, LA 70737</text>
+<text top="134" left="257" width="179" height="9" font="11">Phone (225) 231-4990 Fax (225) 231-7875</text>
+<text top="134" left="665" width="158" height="9" font="12"><i>Assuring accuracy through expertise!</i></text>
+<text top="158" left="193" width="159" height="16" font="1"><i><b>Kirby 28065 &amp; 28059</b></i></text>
+<text top="158" left="505" width="41" height="16" font="0"><i>Date:</i></text>
+<text top="158" left="666" width="97" height="16" font="1"><i><b>April 9, 2021</b></i></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="13" size="14" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="14" size="19" family="TimesNewRomanPS" color="#000000"/>
+<image top="32" left="53" width="116" height="97" src="./../output_data/1234/560/102333EMCC/102333EMCC-2_1.jpg"/>
+<text top="117" left="185" width="11" height="13" font="13">®</text>
+<text top="165" left="386" width="5" height="16" font="1"><i><b> </b></i></text>
+<text top="218" left="202" width="69" height="16" font="1"><i><b>Report of</b></i></text>
+<text top="256" left="509" width="5" height="16" font="0"><i> </i></text>
+<text top="314" left="431" width="48" height="16" font="2">DATE</text>
+<text top="314" left="637" width="120" height="16" font="2">NET BARRELS</text>
+<text top="346" left="38" width="145" height="16" font="2">Load port Terminal:</text>
+<text top="375" left="38" width="148" height="16" font="2">Discharge Terminal:</text>
+<text top="520" left="39" width="274" height="17" font="14"><b>OBQ/ROB RECAPITULATION</b></text>
+<text top="672" left="39" width="270" height="17" font="14"><b>FREE WATER COMPARISON</b></text>
+<text top="824" left="39" width="254" height="17" font="14"><b>IN-TRANSIT COMPARISON</b></text>
+<text top="1043" left="38" width="242" height="16" font="2">Coastal Gulf &amp; International, Inc.</text>
+<text top="1099" left="38" width="198" height="13" font="13">Gonzales Communication Center</text>
+<text top="1102" left="758" width="121" height="10" font="6">Version 7.1 04-19-20 JMH</text>
+<text top="886" left="690" width="72" height="16" font="2">51,085.31</text>
+<text top="1064" left="39" width="145" height="28" font="8">Jon Herrington</text>
+<text top="914" left="706" width="41" height="16" font="2">38.30</text>
+<text top="886" left="337" width="244" height="16" font="2">Arrival Figures at Discharge Port:</text>
+<text top="914" left="424" width="157" height="16" font="2">In-Transit Difference:</text>
+<text top="857" left="690" width="72" height="16" font="2">51,047.01</text>
+<text top="734" left="300" width="281" height="16" font="2">Free Water Quantity at Discharge Port:</text>
+<text top="734" left="711" width="32" height="16" font="2">0.00</text>
+<text top="857" left="375" width="206" height="16" font="2">Sailing Figures at Load port:</text>
+<text top="762" left="188" width="393" height="16" font="2">Adjustment for Bottoms Pumped off or Left on Board:</text>
+<text top="762" left="711" width="32" height="16" font="2">0.00</text>
+<text top="403" left="711" width="32" height="16" font="2">0.00</text>
+<text top="555" left="346" width="235" height="16" font="2">On Board Quantity at Load Port:</text>
+<text top="583" left="231" width="351" height="16" font="2">Remaining on Board Quantity at Discharge Port:</text>
+<text top="611" left="188" width="393" height="16" font="2">Adjustment for Bottoms Pumped off or Left on Board:</text>
+<text top="706" left="336" width="245" height="16" font="2">Free Water Quantity at Load Port:</text>
+<text top="403" left="428" width="153" height="16" font="2">Apparent Difference:</text>
+<text top="432" left="401" width="180" height="16" font="2">Adjustment for Bottoms:</text>
+<text top="460" left="430" width="151" height="16" font="2">Adjusted Difference:</text>
+<text top="706" left="711" width="32" height="16" font="2">0.00</text>
+<text top="432" left="711" width="32" height="16" font="2">0.00</text>
+<text top="460" left="711" width="32" height="16" font="2">0.00</text>
+<text top="555" left="711" width="32" height="16" font="2">0.00</text>
+<text top="583" left="711" width="32" height="16" font="2">0.00</text>
+<text top="611" left="711" width="32" height="16" font="2">0.00</text>
+<text top="282" left="357" width="204" height="19" font="9"><b>VOYAGE ANALYSIS</b></text>
+<text top="249" left="38" width="178" height="16" font="1"><i><b>EMCC  Ref. #: 5380303</b></i></text>
+<text top="249" left="509" width="97" height="16" font="0"><i>File Number:</i></text>
+<text top="249" left="637" width="54" height="16" font="1"><i><b>102333</b></i></text>
+<text top="313" left="39" width="237" height="17" font="14"><b>OUTTURN COMPARISON</b></text>
+<text top="346" left="207" width="170" height="16" font="2">ExxonMobil Beaumont</text>
+<text top="375" left="246" width="91" height="16" font="2">ExxonMobil</text>
+<text top="346" left="459" width="96" height="16" font="2">April 1, 2021</text>
+<text top="346" left="703" width="48" height="16" font="2">Active</text>
+<text top="375" left="459" width="96" height="16" font="2">April 9, 2021</text>
+<text top="375" left="703" width="48" height="16" font="2">Active</text>
+<text top="218" left="38" width="59" height="16" font="0"><i>Subject:</i></text>
+<text top="218" left="291" width="76" height="16" font="1"><i><b>Discharge</b></i></text>
+<text top="218" left="509" width="38" height="16" font="0"><i>Port:</i></text>
+<text top="218" left="637" width="182" height="16" font="1"><i><b>Baton Rouge, Louisiana</b></i></text>
+<text top="188" left="38" width="64" height="16" font="0"><i>Product:</i></text>
+<text top="188" left="202" width="165" height="16" font="1"><i><b>Aromatic Concentrate</b></i></text>
+<text top="188" left="509" width="72" height="16" font="0"><i>Terminal:</i></text>
+<text top="188" left="637" width="93" height="16" font="1"><i><b>ExxonMobil</b></i></text>
+<text top="134" left="262" width="180" height="9" font="12"><i>Phone (225) 231-4990 Fax (225) 231-7875</i></text>
+<text top="134" left="719" width="158" height="9" font="12"><i>Assuring accuracy through expertise!</i></text>
+<text top="158" left="38" width="52" height="16" font="0"><i>Vessel:</i></text>
+<text top="158" left="202" width="159" height="16" font="1"><i><b>Kirby 28065 &amp; 28059</b></i></text>
+<text top="158" left="509" width="41" height="16" font="0"><i>Date:</i></text>
+<text top="158" left="637" width="97" height="16" font="1"><i><b>April 9, 2021</b></i></text>
+<text top="120" left="270" width="165" height="9" font="11">2104 S Southland, Gonzales, LA 70737</text>
+<text top="33" left="273" width="161" height="16" font="7"><b>COASTAL GULF &amp;</b></text>
+<text top="56" left="253" width="200" height="16" font="7"><b>INTERNATIONAL, INC.</b></text>
+<text top="76" left="330" width="47" height="9" font="11">&#34;Precision&#34;</text>
+<text top="91" left="304" width="99" height="9" font="11">Inspection &amp; Analytical</text>
+<text top="105" left="336" width="35" height="9" font="11">Services</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="27" left="45" width="156" height="115" src="./../output_data/1234/560/102333EMCC/102333EMCC-3_1.png"/>
+<text top="158" left="31" width="52" height="16" font="0"><i>Vessel:</i></text>
+<text top="165" left="334" width="5" height="16" font="1"><i><b> </b></i></text>
+<text top="188" left="31" width="64" height="16" font="0"><i>Product:</i></text>
+<text top="218" left="31" width="59" height="16" font="0"><i>Subject:</i></text>
+<text top="218" left="195" width="69" height="16" font="1"><i><b>Report of</b></i></text>
+<text top="272" left="485" width="5" height="16" font="0"><i> </i></text>
+<text top="346" left="31" width="96" height="16" font="2">April 5, 2021</text>
+<text top="346" left="216" width="36" height="16" font="2">1305</text>
+<text top="346" left="290" width="26" height="16" font="2">hrs.</text>
+<text top="346" left="334" width="176" height="16" font="2">Barge(s) NOR Tendered</text>
+<text top="369" left="31" width="96" height="16" font="2">April 8, 2021</text>
+<text top="369" left="216" width="36" height="16" font="2">1507</text>
+<text top="369" left="290" width="26" height="16" font="2">hrs.</text>
+<text top="369" left="334" width="127" height="16" font="2">Barge(s) called in</text>
+<text top="392" left="31" width="96" height="16" font="2">April 8, 2021</text>
+<text top="392" left="216" width="36" height="16" font="2">1508</text>
+<text top="392" left="290" width="26" height="16" font="2">hrs.</text>
+<text top="392" left="334" width="126" height="16" font="2">Surveyor notified</text>
+<text top="415" left="31" width="96" height="16" font="2">April 8, 2021</text>
+<text top="415" left="216" width="36" height="16" font="2">1720</text>
+<text top="415" left="290" width="26" height="16" font="2">hrs.</text>
+<text top="415" left="334" width="117" height="16" font="2">Barge(s) arrived</text>
+<text top="438" left="31" width="96" height="16" font="2">April 8, 2021</text>
+<text top="438" left="216" width="36" height="16" font="2">1820</text>
+<text top="438" left="290" width="26" height="16" font="2">hrs.</text>
+<text top="438" left="334" width="118" height="16" font="2">Barge(s) docked</text>
+<text top="461" left="31" width="96" height="16" font="2">April 8, 2021</text>
+<text top="461" left="216" width="36" height="16" font="2">1820</text>
+<text top="461" left="290" width="26" height="16" font="2">hrs.</text>
+<text top="461" left="334" width="265" height="16" font="2">Commenced arrival barge inspection</text>
+<text top="484" left="31" width="96" height="16" font="2">April 8, 2021</text>
+<text top="484" left="216" width="36" height="16" font="2">1920</text>
+<text top="484" left="290" width="26" height="16" font="2">hrs.</text>
+<text top="484" left="334" width="253" height="16" font="2">Completed arrival barge inspection</text>
+<text top="507" left="31" width="96" height="16" font="2">April 8, 2021</text>
+<text top="507" left="216" width="36" height="16" font="2">2035</text>
+<text top="507" left="290" width="26" height="16" font="2">hrs.</text>
+<text top="507" left="334" width="177" height="16" font="2">Cargo hose(s) connected</text>
+<text top="529" left="31" width="96" height="16" font="2">April 8, 2021</text>
+<text top="529" left="216" width="36" height="16" font="2">2145</text>
+<text top="529" left="290" width="26" height="16" font="2">hrs.</text>
+<text top="529" left="334" width="162" height="16" font="7"><b>Commenced transfer</b></text>
+<text top="552" left="31" width="96" height="16" font="2">April 9, 2021</text>
+<text top="552" left="216" width="36" height="16" font="2">1730</text>
+<text top="552" left="290" width="26" height="16" font="2">hrs.</text>
+<text top="552" left="334" width="126" height="16" font="2">Surveyor notified</text>
+<text top="575" left="31" width="96" height="16" font="2">April 9, 2021</text>
+<text top="575" left="216" width="36" height="16" font="2">1830</text>
+<text top="575" left="290" width="26" height="16" font="2">hrs.</text>
+<text top="575" left="334" width="150" height="16" font="7"><b>Completed transfer</b></text>
+<text top="598" left="31" width="96" height="16" font="2">April 9, 2021</text>
+<text top="598" left="216" width="36" height="16" font="2">1850</text>
+<text top="598" left="290" width="26" height="16" font="2">hrs.</text>
+<text top="598" left="334" width="286" height="16" font="2">Commenced departure barge inspection</text>
+<text top="621" left="31" width="96" height="16" font="2">April 9, 2021</text>
+<text top="621" left="216" width="36" height="16" font="2">1900</text>
+<text top="621" left="290" width="26" height="16" font="2">hrs.</text>
+<text top="621" left="334" width="198" height="16" font="2">Cargo hose(s) disconnected</text>
+<text top="644" left="31" width="96" height="16" font="2">April 9, 2021</text>
+<text top="644" left="216" width="36" height="16" font="2">1905</text>
+<text top="644" left="290" width="26" height="16" font="2">hrs.</text>
+<text top="644" left="334" width="274" height="16" font="2">Completed departure barge inspection</text>
+<text top="667" left="31" width="96" height="16" font="2">April 9, 2021</text>
+<text top="667" left="216" width="36" height="16" font="2">1930</text>
+<text top="667" left="290" width="26" height="16" font="2">hrs.</text>
+<text top="667" left="334" width="131" height="16" font="2">Barge(s) Released</text>
+<text top="689" left="31" width="96" height="16" font="2">April 9, 2021</text>
+<text top="689" left="216" width="36" height="16" font="2">2000</text>
+<text top="689" left="290" width="26" height="16" font="2">hrs.</text>
+<text top="689" left="334" width="111" height="16" font="2">Barge(s) Sailed</text>
+<text top="1079" left="31" width="223" height="15" font="5">Coastal Gulf &amp; International, Inc.</text>
+<text top="1139" left="31" width="220" height="15" font="5">Gonzales Communication Center</text>
+<text top="1143" left="747" width="121" height="10" font="6">Version 7.1 04-19-20 JMH</text>
+<text top="120" left="255" width="165" height="9" font="11">2104 S Southland, Gonzales, LA 70737</text>
+<text top="33" left="257" width="161" height="16" font="7"><b>COASTAL GULF &amp;</b></text>
+<text top="56" left="237" width="200" height="16" font="7"><b>INTERNATIONAL, INC.</b></text>
+<text top="76" left="314" width="47" height="9" font="11">&#34;Precision&#34;</text>
+<text top="1101" left="32" width="145" height="28" font="8">Jon Herrington</text>
+<text top="301" left="334" width="232" height="19" font="9"><b>TIME LOG OF EVENTS</b></text>
+<text top="249" left="485" width="97" height="16" font="0"><i>File Number:</i></text>
+<text top="249" left="646" width="54" height="16" font="1"><i><b>102333</b></i></text>
+<text top="249" left="31" width="178" height="16" font="1"><i><b>EMCC  Ref. #: 5380303</b></i></text>
+<text top="272" left="31" width="14" height="16" font="1"><i><b>   </b></i></text>
+<text top="218" left="278" width="76" height="16" font="1"><i><b>Discharge</b></i></text>
+<text top="218" left="485" width="38" height="16" font="0"><i>Port:</i></text>
+<text top="218" left="646" width="182" height="16" font="1"><i><b>Baton Rouge, Louisiana</b></i></text>
+<text top="91" left="288" width="99" height="9" font="11">Inspection &amp; Analytical</text>
+<text top="105" left="320" width="35" height="9" font="11">Services</text>
+<text top="188" left="485" width="72" height="16" font="0"><i>Terminal:</i></text>
+<text top="188" left="646" width="93" height="16" font="1"><i><b>ExxonMobil</b></i></text>
+<text top="134" left="248" width="179" height="9" font="11">Phone (225) 231-4990 Fax (225) 231-7875</text>
+<text top="134" left="645" width="158" height="9" font="12"><i>Assuring accuracy through expertise!</i></text>
+<text top="158" left="195" width="159" height="16" font="1"><i><b>Kirby 28065 &amp; 28059</b></i></text>
+<text top="158" left="485" width="41" height="16" font="0"><i>Date:</i></text>
+<text top="158" left="646" width="97" height="16" font="1"><i><b>April 9, 2021</b></i></text>
+<text top="188" left="195" width="165" height="16" font="1"><i><b>Aromatic Concentrate</b></i></text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="15" size="16" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="16" size="16" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="17" size="13" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="18" size="13" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="19" size="13" family="ArialMT" color="#000000"/>
+	<fontspec id="20" size="9" family="ArialMT" color="#000000"/>
+	<fontspec id="21" size="24" family="BCDEEE+MonotypeCorsiva" color="#000000"/>
+	<fontspec id="22" size="9" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="23" size="13" family="TimesNewRomanPS" color="#000000"/>
+<image top="31" left="45" width="125" height="97" src="./../output_data/1234/560/102333EMCC/102333EMCC-4_1.png"/>
+<text top="142" left="31" width="47" height="15" font="15"><i>Vessel:</i></text>
+<text top="170" left="31" width="58" height="15" font="15"><i>Product:</i></text>
+<text top="197" left="31" width="130" height="15" font="15"><i>Subject: <b>Report of</b></i></text>
+<text top="298" left="432" width="121" height="15" font="16"><i><b>UPON ARRIVAL</b></i></text>
+<text top="302" left="737" width="19" height="10" font="12"><i>75.0</i></text>
+<text top="318" left="60" width="4" height="13" font="13"> </text>
+<text top="318" left="100" width="65" height="12" font="17">Obs. Gauge</text>
+<text top="318" left="179" width="66" height="13" font="13">Gauge (Ft.)</text>
+<text top="318" left="265" width="37" height="13" font="13">Temp.</text>
+<text top="318" left="351" width="41" height="13" font="13">T.O.V.</text>
+<text top="318" left="629" width="23" height="13" font="13">API</text>
+<text top="318" left="776" width="36" height="13" font="13">G.S.V</text>
+<text top="335" left="47" width="30" height="13" font="13">Tank</text>
+<text top="335" left="113" width="39" height="13" font="13">Height</text>
+<text top="335" left="193" width="38" height="13" font="13">Ullage</text>
+<text top="335" left="272" width="23" height="13" font="13">(°F)</text>
+<text top="335" left="351" width="42" height="13" font="13">Barrels</text>
+<text top="335" left="461" width="38" height="13" font="13">Gauge</text>
+<text top="335" left="547" width="42" height="13" font="13">Barrels</text>
+<text top="335" left="616" width="49" height="13" font="13">@ 60° F</text>
+<text top="335" left="686" width="39" height="13" font="13">V.C. F</text>
+<text top="335" left="773" width="42" height="13" font="13">Barrels</text>
+<text top="355" left="54" width="15" height="13" font="13">1P</text>
+<text top="355" left="102" width="62" height="13" font="13">16' 07 3/4''</text>
+<text top="355" left="181" width="62" height="13" font="13">04' 05 1/4''</text>
+<text top="355" left="271" width="25" height="13" font="13">70.7</text>
+<text top="355" left="346" width="50" height="13" font="13">4,378.07</text>
+<text top="355" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="355" left="555" width="25" height="13" font="13">0.00</text>
+<text top="355" left="628" width="25" height="13" font="13">60.6</text>
+<text top="356" left="683" width="44" height="12" font="17">0.99263</text>
+<text top="355" left="769" width="50" height="13" font="13">4,345.80</text>
+<text top="374" left="54" width="15" height="13" font="13">1S</text>
+<text top="374" left="102" width="62" height="13" font="13">16' 07 1/2''</text>
+<text top="374" left="192" width="40" height="13" font="13">04' 05''</text>
+<text top="374" left="271" width="25" height="13" font="13">70.4</text>
+<text top="374" left="346" width="50" height="13" font="13">4,378.94</text>
+<text top="374" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="374" left="555" width="25" height="13" font="13">0.00</text>
+<text top="374" left="628" width="25" height="13" font="13">60.6</text>
+<text top="374" left="683" width="44" height="12" font="17">0.99284</text>
+<text top="374" left="769" width="50" height="13" font="13">4,347.59</text>
+<text top="392" left="54" width="15" height="13" font="13">2P</text>
+<text top="392" left="102" width="62" height="13" font="13">16' 07 1/2''</text>
+<text top="392" left="192" width="40" height="13" font="13">04' 04''</text>
+<text top="392" left="271" width="25" height="13" font="13">70.4</text>
+<text top="392" left="346" width="50" height="13" font="13">4,417.10</text>
+<text top="392" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="392" left="555" width="25" height="13" font="13">0.00</text>
+<text top="392" left="628" width="25" height="13" font="13">60.6</text>
+<text top="393" left="683" width="44" height="12" font="17">0.99284</text>
+<text top="392" left="769" width="50" height="13" font="13">4,385.47</text>
+<text top="411" left="54" width="15" height="13" font="13">2S</text>
+<text top="411" left="102" width="62" height="13" font="13">16' 07 3/4''</text>
+<text top="411" left="181" width="62" height="13" font="13">04' 03 3/4''</text>
+<text top="411" left="271" width="25" height="13" font="13">70.1</text>
+<text top="411" left="346" width="50" height="13" font="13">4,454.65</text>
+<text top="411" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="411" left="555" width="25" height="13" font="13">0.00</text>
+<text top="411" left="628" width="25" height="13" font="13">60.6</text>
+<text top="411" left="683" width="44" height="12" font="17">0.99305</text>
+<text top="411" left="769" width="50" height="13" font="13">4,423.69</text>
+<text top="429" left="54" width="15" height="13" font="13">3P</text>
+<text top="429" left="113" width="40" height="13" font="13">16' 06''</text>
+<text top="429" left="181" width="62" height="13" font="13">04' 09 3/4''</text>
+<text top="429" left="271" width="25" height="13" font="13">70.4</text>
+<text top="429" left="346" width="50" height="13" font="13">4,005.52</text>
+<text top="429" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="429" left="555" width="25" height="13" font="13">0.00</text>
+<text top="429" left="628" width="25" height="13" font="13">60.6</text>
+<text top="430" left="683" width="44" height="12" font="17">0.99284</text>
+<text top="429" left="769" width="50" height="13" font="13">3,976.84</text>
+<text top="448" left="54" width="15" height="13" font="13">3S</text>
+<text top="448" left="113" width="40" height="13" font="13">16' 06''</text>
+<text top="448" left="192" width="40" height="13" font="13">04' 08''</text>
+<text top="448" left="271" width="25" height="13" font="13">70.2</text>
+<text top="448" left="346" width="50" height="13" font="13">4,065.95</text>
+<text top="448" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="448" left="555" width="25" height="13" font="13">0.00</text>
+<text top="448" left="628" width="25" height="13" font="13">60.6</text>
+<text top="448" left="683" width="44" height="12" font="17">0.99298</text>
+<text top="448" left="769" width="50" height="13" font="13">4,037.41</text>
+<text top="579" left="30" width="206" height="10" font="12"><i>Tape Serial #: 25977     Probe Serial #: 25977</i></text>
+<text top="577" left="555" width="25" height="13" font="13">0.00</text>
+<text top="577" left="677" width="34" height="13" font="13">Total:</text>
+<text top="577" left="792" width="58" height="13" font="13">25,516.80</text>
+<text top="595" left="186" width="90" height="10" font="12"><i>Avg. Temp °F: 70.4</i></text>
+<text top="595" left="325" width="102" height="12" font="18"><b>T.O.V. bbls Total</b></text>
+<text top="595" left="465" width="61" height="13" font="19">25,700.23</text>
+<text top="614" left="432" width="148" height="15" font="16"><i><b>UPON DEPARTURE</b></i></text>
+<text top="618" left="737" width="19" height="10" font="12"><i>78.0</i></text>
+<text top="635" left="100" width="65" height="12" font="17">Obs. Gauge</text>
+<text top="634" left="179" width="66" height="13" font="13">Gauge (Ft.)</text>
+<text top="634" left="265" width="37" height="13" font="13">Temp.</text>
+<text top="634" left="351" width="41" height="13" font="13">T.O.V.</text>
+<text top="634" left="629" width="23" height="13" font="13">API</text>
+<text top="634" left="776" width="36" height="13" font="13">G.S.V</text>
+<text top="653" left="47" width="30" height="13" font="13">Tank</text>
+<text top="653" left="113" width="39" height="13" font="13">Height</text>
+<text top="653" left="193" width="38" height="13" font="13">Ullage</text>
+<text top="653" left="272" width="23" height="13" font="13">(°F)</text>
+<text top="653" left="351" width="42" height="13" font="13">Barrels</text>
+<text top="653" left="461" width="38" height="13" font="13">Gauge</text>
+<text top="653" left="547" width="42" height="13" font="13">Barrels</text>
+<text top="653" left="616" width="49" height="13" font="13">@ 60° F</text>
+<text top="653" left="686" width="39" height="13" font="13">V.C. F</text>
+<text top="653" left="773" width="42" height="13" font="13">Barrels</text>
+<text top="671" left="54" width="15" height="13" font="13">1P</text>
+<text top="671" left="102" width="62" height="13" font="13">16' 07 3/4''</text>
+<text top="671" left="181" width="62" height="13" font="13">16' 07 3/4''</text>
+<text top="671" left="271" width="25" height="13" font="13">60.0</text>
+<text top="671" left="359" width="25" height="13" font="13">0.00</text>
+<text top="671" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="671" left="555" width="25" height="13" font="13">0.00</text>
+<text top="671" left="628" width="25" height="13" font="13">60.6</text>
+<text top="672" left="683" width="44" height="12" font="17">1.00000</text>
+<text top="671" left="781" width="25" height="13" font="13">0.00</text>
+<text top="690" left="54" width="15" height="13" font="13">1S</text>
+<text top="690" left="102" width="62" height="13" font="13">16' 07 1/2''</text>
+<text top="690" left="181" width="62" height="13" font="13">16' 07 1/2''</text>
+<text top="690" left="271" width="25" height="13" font="13">60.0</text>
+<text top="690" left="359" width="25" height="13" font="13">0.00</text>
+<text top="690" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="690" left="555" width="25" height="13" font="13">0.00</text>
+<text top="690" left="628" width="25" height="13" font="13">60.6</text>
+<text top="690" left="683" width="44" height="12" font="17">1.00000</text>
+<text top="690" left="781" width="25" height="13" font="13">0.00</text>
+<text top="708" left="54" width="15" height="13" font="13">2P</text>
+<text top="708" left="102" width="62" height="13" font="13">16' 07 1/2''</text>
+<text top="708" left="181" width="62" height="13" font="13">16' 07 1/2''</text>
+<text top="708" left="271" width="25" height="13" font="13">60.0</text>
+<text top="708" left="359" width="25" height="13" font="13">0.00</text>
+<text top="708" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="708" left="555" width="25" height="13" font="13">0.00</text>
+<text top="708" left="628" width="25" height="13" font="13">60.6</text>
+<text top="709" left="683" width="44" height="12" font="17">1.00000</text>
+<text top="708" left="781" width="25" height="13" font="13">0.00</text>
+<text top="727" left="54" width="15" height="13" font="13">2S</text>
+<text top="727" left="102" width="62" height="13" font="13">16' 07 3/4''</text>
+<text top="727" left="181" width="62" height="13" font="13">16' 07 3/4''</text>
+<text top="727" left="271" width="25" height="13" font="13">60.0</text>
+<text top="727" left="359" width="25" height="13" font="13">0.00</text>
+<text top="727" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="727" left="555" width="25" height="13" font="13">0.00</text>
+<text top="727" left="628" width="25" height="13" font="13">60.6</text>
+<text top="727" left="683" width="44" height="12" font="17">1.00000</text>
+<text top="727" left="781" width="25" height="13" font="13">0.00</text>
+<text top="745" left="54" width="15" height="13" font="13">3P</text>
+<text top="745" left="113" width="40" height="13" font="13">16' 06''</text>
+<text top="745" left="192" width="40" height="13" font="13">16' 06''</text>
+<text top="745" left="271" width="25" height="13" font="13">60.0</text>
+<text top="745" left="359" width="25" height="13" font="13">0.00</text>
+<text top="745" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="745" left="555" width="25" height="13" font="13">0.00</text>
+<text top="745" left="628" width="25" height="13" font="13">60.6</text>
+<text top="746" left="683" width="44" height="12" font="17">1.00000</text>
+<text top="745" left="781" width="25" height="13" font="13">0.00</text>
+<text top="764" left="54" width="15" height="13" font="13">3S</text>
+<text top="764" left="113" width="40" height="13" font="13">16' 06''</text>
+<text top="764" left="192" width="40" height="13" font="13">16' 06''</text>
+<text top="764" left="271" width="25" height="13" font="13">60.0</text>
+<text top="764" left="359" width="25" height="13" font="13">0.00</text>
+<text top="764" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="764" left="555" width="25" height="13" font="13">0.00</text>
+<text top="764" left="628" width="25" height="13" font="13">60.6</text>
+<text top="764" left="683" width="44" height="12" font="17">1.00000</text>
+<text top="764" left="781" width="25" height="13" font="13">0.00</text>
+<text top="896" left="30" width="206" height="10" font="12"><i>Tape Serial #: 25977     Probe Serial #: 25977</i></text>
+<text top="894" left="555" width="25" height="13" font="13">0.00</text>
+<text top="894" left="677" width="34" height="13" font="13">Total:</text>
+<text top="894" left="824" width="25" height="13" font="13">0.00</text>
+<text top="915" left="30" width="43" height="12" font="17">Arrival:</text>
+<text top="912" left="186" width="90" height="10" font="12"><i>Avg. Temp °F: 60.0</i></text>
+<text top="915" left="325" width="102" height="12" font="18"><b>T.O.V. bbls Total</b></text>
+<text top="915" left="499" width="27" height="13" font="19">0.00</text>
+<text top="935" left="35" width="57" height="13" font="13">Fwd Port:</text>
+<text top="935" left="113" width="40" height="13" font="13">09' 00''</text>
+<text top="935" left="192" width="111" height="13" font="13">Fwd Stbd: 09' 00''</text>
+<text top="934" left="531" width="106" height="15" font="5">Barrels @ 60 °F</text>
+<text top="956" left="41" width="51" height="13" font="13">Aft Port:</text>
+<text top="956" left="113" width="40" height="13" font="13">08' 09''</text>
+<text top="956" left="195" width="109" height="13" font="13">Aft Stbd.: 08' 09''</text>
+<text top="955" left="531" width="110" height="15" font="5">Gallons @ 60 °F</text>
+<text top="978" left="30" width="58" height="12" font="17">Departure:</text>
+<text top="976" left="531" width="84" height="15" font="5">TCV Barrels</text>
+<text top="998" left="35" width="57" height="13" font="13">Fwd Port:</text>
+<text top="998" left="112" width="41" height="13" font="13">02' 00&#34;</text>
+<text top="998" left="192" width="112" height="13" font="13">Fwd Stbd: 02' 00&#34;</text>
+<text top="997" left="531" width="48" height="15" font="5">Pounds</text>
+<text top="1019" left="41" width="51" height="13" font="13">Aft Port:</text>
+<text top="1019" left="112" width="41" height="13" font="13">02' 00&#34;</text>
+<text top="1019" left="195" width="109" height="13" font="13">Aft Stbd.: 02' 00&#34;</text>
+<text top="1018" left="531" width="80" height="15" font="5">Metric Tons</text>
+<text top="1040" left="275" width="17" height="12" font="18"><b>No</b></text>
+<text top="1039" left="531" width="72" height="15" font="5">Short Tons</text>
+<text top="1059" left="531" width="71" height="15" font="5">Long Tons</text>
+<text top="1084" left="31" width="220" height="15" font="5">Coastal Gulf &amp; International, Inc.</text>
+<text top="1084" left="531" width="82" height="15" font="5">Lbs / Gallon</text>
+<text top="1109" left="812" width="37" height="15" font="5">60.60</text>
+<text top="1138" left="30" width="182" height="12" font="17">Gonzales Communication Center</text>
+<text top="1141" left="739" width="110" height="9" font="20">Version 7.1 04-19-20 JMH</text>
+<text top="1040" left="44" width="194" height="12" font="18"><b>Trim or List Correction Applied:</b></text>
+<text top="1104" left="31" width="133" height="26" font="21">Jon Herrington</text>
+<text top="270" left="282" width="316" height="17" font="14"><b>VESSEL MEASUREMENT REPORT</b></text>
+<text top="634" left="500" width="35" height="13" font="13">Water</text>
+<text top="318" left="500" width="35" height="13" font="13">Water</text>
+<text top="913" left="616" width="150" height="15" font="3"><b>TOTAL QUANTITY</b></text>
+<text top="614" left="337" width="87" height="15" font="16"><i><b>Kirby  28065</b></i></text>
+<text top="1109" left="531" width="135" height="15" font="5">API Gravity @ 60°F</text>
+<text top="298" left="337" width="87" height="15" font="16"><i><b>Kirby  28065</b></i></text>
+<text top="934" left="783" width="66" height="15" font="5">25,516.80</text>
+<text top="1059" left="783" width="66" height="15" font="5">2,933.794</text>
+<text top="1084" left="812" width="37" height="15" font="5">6.132</text>
+<text top="955" left="762" width="87" height="15" font="5">1,071,705.60</text>
+<text top="997" left="762" width="87" height="15" font="5">6,571,699.00</text>
+<text top="1018" left="783" width="66" height="15" font="5">2,980.876</text>
+<text top="1039" left="783" width="66" height="15" font="5">3,285.850</text>
+<text top="29" left="239" width="147" height="15" font="3"><b>COASTAL GULF &amp;</b></text>
+<text top="49" left="221" width="183" height="15" font="3"><b>INTERNATIONAL, INC.</b></text>
+<text top="68" left="290" width="44" height="9" font="22">&#34;Precision&#34;</text>
+<text top="81" left="266" width="92" height="9" font="22">Inspection &amp; Analytical</text>
+<text top="170" left="432" width="124" height="15" font="15"><i>              Terminal:</i></text>
+<text top="170" left="97" width="150" height="15" font="16"><i><b>Aromatic Concentrate</b></i></text>
+<text top="95" left="296" width="32" height="9" font="22">Services</text>
+<text top="107" left="236" width="152" height="9" font="22">2104 S Southland, Gonzales, LA 70737</text>
+<text top="123" left="229" width="166" height="9" font="22">Phone (225) 231-4990 Fax (225) 231-7875</text>
+<text top="120" left="640" width="207" height="12" font="23"><i>Assuring accuracy through expertise!</i></text>
+<text top="142" left="97" width="145" height="15" font="16"><i><b>Kirby 28065 &amp; 28059</b></i></text>
+<text top="142" left="432" width="99" height="15" font="15"><i>               Date:</i></text>
+<text top="142" left="608" width="88" height="15" font="16"><i><b>April 9, 2021</b></i></text>
+<text top="170" left="608" width="85" height="15" font="16"><i><b>ExxonMobil</b></i></text>
+<text top="197" left="173" width="69" height="15" font="16"><i><b>Discharge</b></i></text>
+<text top="197" left="432" width="93" height="15" font="15"><i>              Port:</i></text>
+<text top="222" left="432" width="147" height="15" font="15"><i>              File Number:</i></text>
+<text top="245" left="31" width="12" height="15" font="16"><i><b>   </b></i></text>
+<text top="302" left="649" width="81" height="10" font="12"><i>Ambient Temp °F:</i></text>
+<text top="222" left="31" width="163" height="15" font="16"><i><b>EMCC  Ref. #: 5380303</b></i></text>
+<text top="197" left="608" width="166" height="15" font="16"><i><b>Baton Rouge, Louisiana</b></i></text>
+<text top="222" left="608" width="50" height="15" font="16"><i><b>102333</b></i></text>
+<text top="618" left="649" width="81" height="10" font="12"><i>Ambient Temp °F:</i></text>
+<text top="976" left="783" width="66" height="15" font="5">25,516.80</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="24" size="17" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="25" size="17" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="26" size="25" family="BCDEEE+MonotypeCorsiva" color="#000000"/>
+	<fontspec id="27" size="15" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="28" size="20" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="29" size="14" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="30" size="17" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="31" size="17" family="TimesNewRomanPS" color="#000000"/>
+<image top="35" left="45" width="111" height="92" src="./../output_data/1234/560/102333EMCC/102333EMCC-5_1.jpg"/>
+<text top="127" left="149" width="11" height="13" font="13">®</text>
+<text top="160" left="320" width="4" height="16" font="24"><i><b> </b></i></text>
+<text top="211" left="166" width="67" height="16" font="24"><i><b>Report of</b></i></text>
+<text top="1077" left="31" width="233" height="16" font="25">Coastal Gulf &amp; International, Inc.</text>
+<text top="1137" left="30" width="191" height="13" font="13">Gonzales Communication Center</text>
+<text top="1139" left="706" width="118" height="9" font="6">Version 7.1 04-19-20 JMH</text>
+<text top="1099" left="31" width="140" height="27" font="26">Jon Herrington</text>
+<text top="459" left="87" width="17" height="14" font="27">3P</text>
+<text top="459" left="256" width="44" height="14" font="27">16' 06''</text>
+<text top="459" left="466" width="68" height="14" font="27">16' 06 1/4''</text>
+<text top="459" left="697" width="44" height="14" font="27">16' 06''</text>
+<text top="480" left="88" width="17" height="14" font="27">3S</text>
+<text top="480" left="256" width="44" height="14" font="27">16' 06''</text>
+<text top="480" left="466" width="68" height="14" font="27">16' 06 1/4''</text>
+<text top="480" left="697" width="44" height="14" font="27">16' 06''</text>
+<text top="683" left="246" width="363" height="18" font="28"><b>ANCILLARY TANK MEASUREMENTS</b></text>
+<text top="721" left="174" width="67" height="16" font="24"><i><b>Tank No.</b></i></text>
+<text top="743" left="192" width="35" height="14" font="27">FWD</text>
+<text top="764" left="195" width="30" height="14" font="27">AFT</text>
+<text top="785" left="189" width="41" height="14" font="27">PORT</text>
+<text top="806" left="195" width="29" height="14" font="27">STB</text>
+<text top="764" left="405" width="45" height="14" font="27">00' 00&#34;</text>
+<text top="764" left="623" width="45" height="14" font="27">00' 00&#34;</text>
+<text top="785" left="405" width="45" height="14" font="27">00' 00&#34;</text>
+<text top="785" left="623" width="45" height="14" font="27">00' 00&#34;</text>
+<text top="723" left="333" width="187" height="13" font="29"><i><b>Observed Arrival Measurement</b></i></text>
+<text top="723" left="542" width="205" height="13" font="29"><i><b>Observed Departure Measurement</b></i></text>
+<text top="743" left="405" width="45" height="14" font="27">00' 00&#34;</text>
+<text top="743" left="623" width="45" height="14" font="27">00' 00&#34;</text>
+<text top="806" left="405" width="45" height="14" font="27">00' 00&#34;</text>
+<text top="806" left="623" width="45" height="14" font="27">00' 00&#34;</text>
+<text top="417" left="244" width="68" height="14" font="27">16' 07 1/2''</text>
+<text top="417" left="466" width="68" height="14" font="27">16' 07 1/2''</text>
+<text top="417" left="685" width="68" height="14" font="27">16' 07 1/2''</text>
+<text top="438" left="88" width="17" height="14" font="27">2S</text>
+<text top="438" left="244" width="68" height="14" font="27">16' 07 3/4''</text>
+<text top="438" left="478" width="44" height="14" font="27">16' 08''</text>
+<text top="438" left="685" width="68" height="14" font="27">16' 07 3/4''</text>
+<text top="351" left="61" width="67" height="16" font="24"><i><b>Tank No.</b></i></text>
+<text top="353" left="187" width="178" height="13" font="29"><i><b>Observed Gauge Height Open</b></i></text>
+<text top="353" left="425" width="147" height="13" font="29"><i><b>Reference Gauge Height</b></i></text>
+<text top="353" left="627" width="179" height="13" font="29"><i><b>Observed Gauge Height Close</b></i></text>
+<text top="374" left="87" width="17" height="14" font="27">1P</text>
+<text top="374" left="244" width="68" height="14" font="27">16' 07 3/4''</text>
+<text top="374" left="478" width="44" height="14" font="27">16' 08''</text>
+<text top="374" left="685" width="68" height="14" font="27">16' 07 3/4''</text>
+<text top="395" left="88" width="17" height="14" font="27">1S</text>
+<text top="395" left="244" width="68" height="14" font="27">16' 07 1/2''</text>
+<text top="395" left="466" width="68" height="14" font="27">16' 07 3/4''</text>
+<text top="395" left="685" width="68" height="14" font="27">16' 07 1/2''</text>
+<text top="417" left="87" width="17" height="14" font="27">2P</text>
+<text top="289" left="303" width="250" height="18" font="28"><b>GAUGE HEIGHT REPORT</b></text>
+<text top="322" left="286" width="102" height="16" font="30"><b>Barge Name: </b></text>
+<text top="322" left="452" width="96" height="16" font="30"><b>Kirby  28065</b></text>
+<text top="240" left="31" width="171" height="16" font="24"><i><b>EMCC  Ref. #: 5380303</b></i></text>
+<text top="240" left="466" width="94" height="16" font="31"><i>File Number:</i></text>
+<text top="240" left="611" width="52" height="16" font="24"><i><b>102333</b></i></text>
+<text top="262" left="31" width="13" height="16" font="24"><i><b>   </b></i></text>
+<text top="211" left="31" width="57" height="16" font="31"><i>Subject:</i></text>
+<text top="211" left="248" width="73" height="16" font="24"><i><b>Discharge</b></i></text>
+<text top="211" left="466" width="36" height="16" font="31"><i>Port:</i></text>
+<text top="211" left="611" width="174" height="16" font="24"><i><b>Baton Rouge, Louisiana</b></i></text>
+<text top="182" left="31" width="61" height="16" font="31"><i>Product:</i></text>
+<text top="182" left="166" width="158" height="16" font="24"><i><b>Aromatic Concentrate</b></i></text>
+<text top="182" left="466" width="69" height="16" font="31"><i>Terminal:</i></text>
+<text top="182" left="611" width="89" height="16" font="24"><i><b>ExxonMobil</b></i></text>
+<text top="130" left="227" width="174" height="9" font="11">Phone (225) 231-4990 Fax (225) 231-7875</text>
+<text top="130" left="670" width="153" height="9" font="12"><i>Assuring accuracy through expertise!</i></text>
+<text top="153" left="31" width="50" height="16" font="31"><i>Vessel:</i></text>
+<text top="153" left="166" width="152" height="16" font="24"><i><b>Kirby 28065 &amp; 28059</b></i></text>
+<text top="153" left="466" width="39" height="16" font="31"><i>Date:</i></text>
+<text top="153" left="611" width="93" height="16" font="24"><i><b>April 9, 2021</b></i></text>
+<text top="33" left="236" width="154" height="16" font="30"><b>COASTAL GULF &amp;</b></text>
+<text top="55" left="218" width="192" height="16" font="30"><b>INTERNATIONAL, INC.</b></text>
+<text top="74" left="291" width="46" height="9" font="11">&#34;Precision&#34;</text>
+<text top="88" left="265" width="97" height="9" font="11">Inspection &amp; Analytical</text>
+<text top="102" left="297" width="34" height="9" font="11">Services</text>
+<text top="116" left="234" width="159" height="9" font="11">2104 S Southland, Gonzales, LA 70737</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="31" left="45" width="125" height="97" src="./../output_data/1234/560/102333EMCC/102333EMCC-6_1.png"/>
+<text top="142" left="31" width="47" height="15" font="15"><i>Vessel:</i></text>
+<text top="170" left="31" width="58" height="15" font="15"><i>Product:</i></text>
+<text top="197" left="31" width="130" height="15" font="15"><i>Subject: <b>Report of</b></i></text>
+<text top="298" left="432" width="121" height="15" font="16"><i><b>UPON ARRIVAL</b></i></text>
+<text top="302" left="737" width="19" height="10" font="12"><i>75.0</i></text>
+<text top="318" left="60" width="4" height="13" font="13"> </text>
+<text top="318" left="100" width="65" height="12" font="17">Obs. Gauge</text>
+<text top="318" left="179" width="66" height="13" font="13">Gauge (Ft.)</text>
+<text top="318" left="265" width="37" height="13" font="13">Temp.</text>
+<text top="318" left="351" width="41" height="13" font="13">T.O.V.</text>
+<text top="318" left="629" width="23" height="13" font="13">API</text>
+<text top="318" left="776" width="36" height="13" font="13">G.S.V</text>
+<text top="337" left="47" width="30" height="13" font="13">Tank</text>
+<text top="337" left="113" width="39" height="13" font="13">Height</text>
+<text top="337" left="193" width="38" height="13" font="13">Ullage</text>
+<text top="337" left="272" width="23" height="13" font="13">(°F)</text>
+<text top="337" left="351" width="42" height="13" font="13">Barrels</text>
+<text top="337" left="461" width="38" height="13" font="13">Gauge</text>
+<text top="337" left="547" width="42" height="13" font="13">Barrels</text>
+<text top="337" left="616" width="49" height="13" font="13">@ 60° F</text>
+<text top="337" left="686" width="39" height="13" font="13">V.C. F</text>
+<text top="337" left="773" width="42" height="13" font="13">Barrels</text>
+<text top="355" left="54" width="15" height="13" font="13">1P</text>
+<text top="355" left="102" width="62" height="13" font="13">16' 05 1/4''</text>
+<text top="355" left="181" width="62" height="13" font="13">03' 11 1/4''</text>
+<text top="355" left="271" width="25" height="13" font="13">74.2</text>
+<text top="355" left="346" width="50" height="13" font="13">3,954.38</text>
+<text top="355" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="355" left="555" width="25" height="13" font="13">0.00</text>
+<text top="355" left="628" width="25" height="13" font="13">60.6</text>
+<text top="356" left="683" width="44" height="12" font="17">0.99022</text>
+<text top="355" left="769" width="50" height="13" font="13">3,915.71</text>
+<text top="374" left="54" width="15" height="13" font="13">1S</text>
+<text top="374" left="113" width="40" height="13" font="13">16' 05''</text>
+<text top="374" left="181" width="62" height="13" font="13">03' 10 3/4''</text>
+<text top="374" left="271" width="25" height="13" font="13">74.1</text>
+<text top="374" left="346" width="50" height="13" font="13">3,959.76</text>
+<text top="374" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="374" left="555" width="25" height="13" font="13">0.00</text>
+<text top="374" left="628" width="25" height="13" font="13">60.6</text>
+<text top="374" left="683" width="44" height="12" font="17">0.99029</text>
+<text top="374" left="769" width="50" height="13" font="13">3,921.31</text>
+<text top="392" left="54" width="15" height="13" font="13">2P</text>
+<text top="392" left="113" width="40" height="13" font="13">16' 05''</text>
+<text top="392" left="181" width="62" height="13" font="13">03' 10 1/2''</text>
+<text top="392" left="271" width="25" height="13" font="13">74.2</text>
+<text top="392" left="346" width="50" height="13" font="13">4,810.57</text>
+<text top="392" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="392" left="555" width="25" height="13" font="13">0.00</text>
+<text top="392" left="628" width="25" height="13" font="13">60.6</text>
+<text top="393" left="683" width="44" height="12" font="17">0.99022</text>
+<text top="392" left="769" width="50" height="13" font="13">4,763.52</text>
+<text top="411" left="54" width="15" height="13" font="13">2S</text>
+<text top="411" left="113" width="40" height="13" font="13">16' 05''</text>
+<text top="411" left="181" width="62" height="13" font="13">03' 10 3/8''</text>
+<text top="411" left="271" width="25" height="13" font="13">74.4</text>
+<text top="411" left="346" width="50" height="13" font="13">4,803.33</text>
+<text top="411" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="411" left="555" width="25" height="13" font="13">0.00</text>
+<text top="411" left="628" width="25" height="13" font="13">60.6</text>
+<text top="411" left="683" width="44" height="12" font="17">0.99008</text>
+<text top="411" left="769" width="50" height="13" font="13">4,755.68</text>
+<text top="429" left="54" width="15" height="13" font="13">3P</text>
+<text top="429" left="102" width="62" height="13" font="13">16' 04 3/4''</text>
+<text top="429" left="181" width="62" height="13" font="13">04' 02 3/4''</text>
+<text top="429" left="271" width="25" height="13" font="13">74.3</text>
+<text top="429" left="346" width="50" height="13" font="13">4,185.20</text>
+<text top="429" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="429" left="555" width="25" height="13" font="13">0.00</text>
+<text top="429" left="628" width="25" height="13" font="13">60.6</text>
+<text top="430" left="683" width="44" height="12" font="17">0.99015</text>
+<text top="429" left="769" width="50" height="13" font="13">4,143.98</text>
+<text top="448" left="54" width="15" height="13" font="13">3S</text>
+<text top="448" left="113" width="40" height="13" font="13">16' 05''</text>
+<text top="448" left="181" width="62" height="13" font="13">04' 05 1/4''</text>
+<text top="448" left="271" width="25" height="13" font="13">74.5</text>
+<text top="448" left="346" width="50" height="13" font="13">4,109.36</text>
+<text top="448" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="448" left="555" width="25" height="13" font="13">0.00</text>
+<text top="448" left="628" width="25" height="13" font="13">60.6</text>
+<text top="448" left="683" width="44" height="12" font="17">0.99001</text>
+<text top="448" left="769" width="50" height="13" font="13">4,068.31</text>
+<text top="580" left="30" width="206" height="10" font="12"><i>Tape Serial #: 25977     Probe Serial #: 25977</i></text>
+<text top="578" left="555" width="25" height="13" font="13">0.00</text>
+<text top="578" left="677" width="34" height="13" font="13">Total:</text>
+<text top="578" left="792" width="58" height="13" font="13">25,568.51</text>
+<text top="596" left="186" width="90" height="10" font="12"><i>Avg. Temp °F: 74.3</i></text>
+<text top="596" left="325" width="102" height="12" font="18"><b>T.O.V. bbls Total</b></text>
+<text top="595" left="465" width="61" height="13" font="19">25,822.60</text>
+<text top="615" left="432" width="148" height="15" font="16"><i><b>UPON DEPARTURE</b></i></text>
+<text top="619" left="737" width="19" height="10" font="12"><i>78.0</i></text>
+<text top="635" left="100" width="65" height="12" font="17">Obs. Gauge</text>
+<text top="635" left="179" width="66" height="13" font="13">Gauge (Ft.)</text>
+<text top="635" left="265" width="37" height="13" font="13">Temp.</text>
+<text top="635" left="351" width="41" height="13" font="13">T.O.V.</text>
+<text top="635" left="629" width="23" height="13" font="13">API</text>
+<text top="635" left="776" width="36" height="13" font="13">G.S.V</text>
+<text top="653" left="47" width="30" height="13" font="13">Tank</text>
+<text top="653" left="113" width="39" height="13" font="13">Height</text>
+<text top="653" left="193" width="38" height="13" font="13">Ullage</text>
+<text top="653" left="272" width="23" height="13" font="13">(°F)</text>
+<text top="653" left="351" width="42" height="13" font="13">Barrels</text>
+<text top="653" left="461" width="38" height="13" font="13">Gauge</text>
+<text top="653" left="547" width="42" height="13" font="13">Barrels</text>
+<text top="653" left="616" width="49" height="13" font="13">@ 60° F</text>
+<text top="653" left="686" width="39" height="13" font="13">V.C. F</text>
+<text top="653" left="773" width="42" height="13" font="13">Barrels</text>
+<text top="672" left="54" width="15" height="13" font="13">1P</text>
+<text top="672" left="102" width="62" height="13" font="13">16' 05 1/4''</text>
+<text top="672" left="181" width="62" height="13" font="13">16' 05 1/4''</text>
+<text top="672" left="271" width="25" height="13" font="13">60.0</text>
+<text top="672" left="359" width="25" height="13" font="13">0.00</text>
+<text top="672" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="672" left="555" width="25" height="13" font="13">0.00</text>
+<text top="672" left="628" width="25" height="13" font="13">60.6</text>
+<text top="672" left="683" width="44" height="12" font="17">1.00000</text>
+<text top="672" left="781" width="25" height="13" font="13">0.00</text>
+<text top="690" left="54" width="15" height="13" font="13">1S</text>
+<text top="690" left="113" width="40" height="13" font="13">16' 05''</text>
+<text top="690" left="192" width="40" height="13" font="13">16' 05''</text>
+<text top="690" left="271" width="25" height="13" font="13">60.0</text>
+<text top="690" left="359" width="25" height="13" font="13">0.00</text>
+<text top="690" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="690" left="555" width="25" height="13" font="13">0.00</text>
+<text top="690" left="628" width="25" height="13" font="13">60.6</text>
+<text top="691" left="683" width="44" height="12" font="17">1.00000</text>
+<text top="690" left="781" width="25" height="13" font="13">0.00</text>
+<text top="709" left="54" width="15" height="13" font="13">2P</text>
+<text top="709" left="113" width="40" height="13" font="13">16' 05''</text>
+<text top="709" left="192" width="40" height="13" font="13">16' 05''</text>
+<text top="709" left="271" width="25" height="13" font="13">60.0</text>
+<text top="709" left="359" width="25" height="13" font="13">0.00</text>
+<text top="709" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="709" left="555" width="25" height="13" font="13">0.00</text>
+<text top="709" left="628" width="25" height="13" font="13">60.6</text>
+<text top="710" left="683" width="44" height="12" font="17">1.00000</text>
+<text top="709" left="781" width="25" height="13" font="13">0.00</text>
+<text top="728" left="54" width="15" height="13" font="13">2S</text>
+<text top="728" left="113" width="40" height="13" font="13">16' 05''</text>
+<text top="728" left="192" width="40" height="13" font="13">16' 05''</text>
+<text top="728" left="271" width="25" height="13" font="13">60.0</text>
+<text top="728" left="359" width="25" height="13" font="13">0.00</text>
+<text top="728" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="728" left="555" width="25" height="13" font="13">0.00</text>
+<text top="728" left="628" width="25" height="13" font="13">60.6</text>
+<text top="728" left="683" width="44" height="12" font="17">1.00000</text>
+<text top="728" left="781" width="25" height="13" font="13">0.00</text>
+<text top="746" left="54" width="15" height="13" font="13">3P</text>
+<text top="746" left="102" width="62" height="13" font="13">16' 04 3/4''</text>
+<text top="746" left="181" width="62" height="13" font="13">16' 04 3/4''</text>
+<text top="746" left="271" width="25" height="13" font="13">60.0</text>
+<text top="746" left="359" width="25" height="13" font="13">0.00</text>
+<text top="746" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="746" left="555" width="25" height="13" font="13">0.00</text>
+<text top="746" left="628" width="25" height="13" font="13">60.6</text>
+<text top="747" left="683" width="44" height="12" font="17">1.00000</text>
+<text top="746" left="781" width="25" height="13" font="13">0.00</text>
+<text top="765" left="54" width="15" height="13" font="13">3S</text>
+<text top="765" left="113" width="40" height="13" font="13">16' 05''</text>
+<text top="765" left="192" width="40" height="13" font="13">16' 05''</text>
+<text top="765" left="271" width="25" height="13" font="13">60.0</text>
+<text top="765" left="359" width="25" height="13" font="13">0.00</text>
+<text top="765" left="460" width="40" height="13" font="13">00' 00''</text>
+<text top="765" left="555" width="25" height="13" font="13">0.00</text>
+<text top="765" left="628" width="25" height="13" font="13">60.6</text>
+<text top="765" left="683" width="44" height="12" font="17">1.00000</text>
+<text top="765" left="781" width="25" height="13" font="13">0.00</text>
+<text top="897" left="30" width="206" height="10" font="12"><i>Tape Serial #: 25977     Probe Serial #: 25977</i></text>
+<text top="894" left="555" width="25" height="13" font="13">0.00</text>
+<text top="894" left="677" width="34" height="13" font="13">Total:</text>
+<text top="894" left="824" width="25" height="13" font="13">0.00</text>
+<text top="916" left="30" width="43" height="12" font="17">Arrival:</text>
+<text top="913" left="186" width="90" height="10" font="12"><i>Avg. Temp °F: 60.0</i></text>
+<text top="916" left="325" width="102" height="12" font="18"><b>T.O.V. bbls Total</b></text>
+<text top="915" left="499" width="27" height="13" font="19">0.00</text>
+<text top="936" left="35" width="57" height="13" font="13">Fwd Port:</text>
+<text top="936" left="113" width="40" height="13" font="13">09' 00''</text>
+<text top="936" left="192" width="111" height="13" font="13">Fwd Stbd: 09' 00''</text>
+<text top="935" left="531" width="106" height="15" font="5">Barrels @ 60 °F</text>
+<text top="957" left="41" width="51" height="13" font="13">Aft Port:</text>
+<text top="957" left="113" width="40" height="13" font="13">08' 09''</text>
+<text top="957" left="195" width="109" height="13" font="13">Aft Stbd.: 08' 09''</text>
+<text top="956" left="531" width="110" height="15" font="5">Gallons @ 60 °F</text>
+<text top="978" left="30" width="58" height="12" font="17">Departure:</text>
+<text top="977" left="531" width="84" height="15" font="5">TCV Barrels</text>
+<text top="999" left="35" width="57" height="13" font="13">Fwd Port:</text>
+<text top="999" left="112" width="41" height="13" font="13">02' 00&#34;</text>
+<text top="999" left="192" width="112" height="13" font="13">Fwd Stbd: 02' 00&#34;</text>
+<text top="998" left="531" width="48" height="15" font="5">Pounds</text>
+<text top="1020" left="41" width="51" height="13" font="13">Aft Port:</text>
+<text top="1020" left="112" width="41" height="13" font="13">02' 00&#34;</text>
+<text top="1020" left="195" width="109" height="13" font="13">Aft Stbd.: 02' 00&#34;</text>
+<text top="1018" left="531" width="80" height="15" font="5">Metric Tons</text>
+<text top="1041" left="275" width="17" height="12" font="18"><b>No</b></text>
+<text top="1039" left="531" width="72" height="15" font="5">Short Tons</text>
+<text top="1060" left="531" width="71" height="15" font="5">Long Tons</text>
+<text top="1085" left="31" width="220" height="15" font="5">Coastal Gulf &amp; International, Inc.</text>
+<text top="1085" left="531" width="82" height="15" font="5">Lbs / Gallon</text>
+<text top="1109" left="812" width="37" height="15" font="5">60.60</text>
+<text top="1139" left="30" width="182" height="12" font="17">Gonzales Communication Center</text>
+<text top="1142" left="739" width="110" height="9" font="20">Version 7.1 04-19-20 JMH</text>
+<text top="1085" left="812" width="37" height="15" font="5">6.132</text>
+<text top="1104" left="31" width="133" height="26" font="21">Jon Herrington</text>
+<text top="615" left="341" width="83" height="15" font="16"><i><b>Kirby 28059</b></i></text>
+<text top="1109" left="531" width="135" height="15" font="5">API Gravity @ 60°F</text>
+<text top="635" left="500" width="35" height="13" font="13">Water</text>
+<text top="956" left="762" width="87" height="15" font="5">1,073,877.42</text>
+<text top="977" left="783" width="66" height="15" font="5">25,568.51</text>
+<text top="998" left="762" width="87" height="15" font="5">6,585,016.00</text>
+<text top="1018" left="783" width="66" height="15" font="5">2,986.917</text>
+<text top="1039" left="783" width="66" height="15" font="5">3,292.508</text>
+<text top="1060" left="783" width="66" height="15" font="5">2,939.739</text>
+<text top="914" left="616" width="150" height="15" font="3"><b>TOTAL QUANTITY</b></text>
+<text top="935" left="783" width="66" height="15" font="5">25,568.51</text>
+<text top="619" left="649" width="81" height="10" font="12"><i>Ambient Temp °F:</i></text>
+<text top="1041" left="44" width="194" height="12" font="18"><b>Trim or List Correction Applied:</b></text>
+<text top="29" left="239" width="147" height="15" font="3"><b>COASTAL GULF &amp;</b></text>
+<text top="49" left="221" width="183" height="15" font="3"><b>INTERNATIONAL, INC.</b></text>
+<text top="68" left="290" width="44" height="9" font="22">&#34;Precision&#34;</text>
+<text top="81" left="266" width="92" height="9" font="22">Inspection &amp; Analytical</text>
+<text top="95" left="296" width="32" height="9" font="22">Services</text>
+<text top="270" left="282" width="316" height="17" font="14"><b>VESSEL MEASUREMENT REPORT</b></text>
+<text top="318" left="500" width="35" height="13" font="13">Water</text>
+<text top="298" left="341" width="83" height="15" font="16"><i><b>Kirby 28059</b></i></text>
+<text top="197" left="173" width="69" height="15" font="16"><i><b>Discharge</b></i></text>
+<text top="197" left="432" width="93" height="15" font="15"><i>              Port:</i></text>
+<text top="245" left="31" width="12" height="15" font="16"><i><b>   </b></i></text>
+<text top="107" left="236" width="152" height="9" font="22">2104 S Southland, Gonzales, LA 70737</text>
+<text top="224" left="31" width="163" height="15" font="16"><i><b>EMCC  Ref. #: 5380303</b></i></text>
+<text top="142" left="608" width="88" height="15" font="16"><i><b>April 9, 2021</b></i></text>
+<text top="170" left="608" width="85" height="15" font="16"><i><b>ExxonMobil</b></i></text>
+<text top="197" left="608" width="166" height="15" font="16"><i><b>Baton Rouge, Louisiana</b></i></text>
+<text top="224" left="608" width="50" height="15" font="16"><i><b>102333</b></i></text>
+<text top="123" left="229" width="166" height="9" font="22">Phone (225) 231-4990 Fax (225) 231-7875</text>
+<text top="120" left="640" width="207" height="12" font="23"><i>Assuring accuracy through expertise!</i></text>
+<text top="142" left="97" width="145" height="15" font="16"><i><b>Kirby 28065 &amp; 28059</b></i></text>
+<text top="142" left="432" width="99" height="15" font="15"><i>               Date:</i></text>
+<text top="170" left="97" width="150" height="15" font="16"><i><b>Aromatic Concentrate</b></i></text>
+<text top="170" left="432" width="124" height="15" font="15"><i>              Terminal:</i></text>
+<text top="224" left="432" width="147" height="15" font="15"><i>              File Number:</i></text>
+<text top="302" left="649" width="81" height="10" font="12"><i>Ambient Temp °F:</i></text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="35" left="45" width="111" height="92" src="./../output_data/1234/560/102333EMCC/102333EMCC-7_1.jpg"/>
+<text top="127" left="149" width="11" height="13" font="13">®</text>
+<text top="160" left="320" width="4" height="16" font="24"><i><b> </b></i></text>
+<text top="211" left="166" width="67" height="16" font="24"><i><b>Report of</b></i></text>
+<text top="1077" left="31" width="233" height="16" font="25">Coastal Gulf &amp; International, Inc.</text>
+<text top="1137" left="30" width="191" height="13" font="13">Gonzales Communication Center</text>
+<text top="1139" left="706" width="118" height="9" font="6">Version 7.1 04-19-20 JMH</text>
+<text top="1099" left="31" width="140" height="27" font="26">Jon Herrington</text>
+<text top="806" left="195" width="29" height="14" font="27">STB</text>
+<text top="806" left="405" width="45" height="14" font="27">00' 00&#34;</text>
+<text top="806" left="623" width="45" height="14" font="27">00' 00&#34;</text>
+<text top="764" left="195" width="30" height="14" font="27">AFT</text>
+<text top="764" left="405" width="45" height="14" font="27">00' 00&#34;</text>
+<text top="764" left="623" width="45" height="14" font="27">00' 00&#34;</text>
+<text top="785" left="189" width="41" height="14" font="27">PORT</text>
+<text top="785" left="405" width="45" height="14" font="27">00' 00&#34;</text>
+<text top="785" left="623" width="45" height="14" font="27">00' 00&#34;</text>
+<text top="683" left="246" width="363" height="18" font="28"><b>ANCILLARY TANK MEASUREMENTS</b></text>
+<text top="721" left="174" width="67" height="16" font="24"><i><b>Tank No.</b></i></text>
+<text top="723" left="333" width="187" height="13" font="29"><i><b>Observed Arrival Measurement</b></i></text>
+<text top="723" left="542" width="205" height="13" font="29"><i><b>Observed Departure Measurement</b></i></text>
+<text top="743" left="192" width="35" height="14" font="27">FWD</text>
+<text top="743" left="405" width="45" height="14" font="27">00' 00&#34;</text>
+<text top="743" left="623" width="45" height="14" font="27">00' 00&#34;</text>
+<text top="438" left="256" width="44" height="14" font="27">16' 05''</text>
+<text top="438" left="466" width="68" height="14" font="27">16' 05 1/4''</text>
+<text top="438" left="697" width="44" height="14" font="27">16' 05''</text>
+<text top="351" left="61" width="67" height="16" font="24"><i><b>Tank No.</b></i></text>
+<text top="353" left="187" width="178" height="13" font="29"><i><b>Observed Gauge Height Open</b></i></text>
+<text top="353" left="425" width="147" height="13" font="29"><i><b>Reference Gauge Height</b></i></text>
+<text top="353" left="627" width="179" height="13" font="29"><i><b>Observed Gauge Height Close</b></i></text>
+<text top="240" left="31" width="171" height="16" font="24"><i><b>EMCC  Ref. #: 5380303</b></i></text>
+<text top="240" left="466" width="94" height="16" font="31"><i>File Number:</i></text>
+<text top="240" left="611" width="52" height="16" font="24"><i><b>102333</b></i></text>
+<text top="289" left="303" width="250" height="18" font="28"><b>GAUGE HEIGHT REPORT</b></text>
+<text top="322" left="286" width="102" height="16" font="30"><b>Barge Name: </b></text>
+<text top="322" left="454" width="92" height="16" font="30"><b>Kirby 28059</b></text>
+<text top="262" left="31" width="13" height="16" font="24"><i><b>   </b></i></text>
+<text top="33" left="236" width="154" height="16" font="30"><b>COASTAL GULF &amp;</b></text>
+<text top="55" left="218" width="192" height="16" font="30"><b>INTERNATIONAL, INC.</b></text>
+<text top="74" left="291" width="46" height="9" font="11">&#34;Precision&#34;</text>
+<text top="88" left="265" width="97" height="9" font="11">Inspection &amp; Analytical</text>
+<text top="102" left="297" width="34" height="9" font="11">Services</text>
+<text top="116" left="234" width="159" height="9" font="11">2104 S Southland, Gonzales, LA 70737</text>
+<text top="182" left="31" width="61" height="16" font="31"><i>Product:</i></text>
+<text top="182" left="166" width="158" height="16" font="24"><i><b>Aromatic Concentrate</b></i></text>
+<text top="182" left="466" width="69" height="16" font="31"><i>Terminal:</i></text>
+<text top="130" left="227" width="174" height="9" font="11">Phone (225) 231-4990 Fax (225) 231-7875</text>
+<text top="130" left="670" width="153" height="9" font="12"><i>Assuring accuracy through expertise!</i></text>
+<text top="153" left="31" width="50" height="16" font="31"><i>Vessel:</i></text>
+<text top="153" left="166" width="152" height="16" font="24"><i><b>Kirby 28065 &amp; 28059</b></i></text>
+<text top="153" left="466" width="39" height="16" font="31"><i>Date:</i></text>
+<text top="153" left="611" width="93" height="16" font="24"><i><b>April 9, 2021</b></i></text>
+<text top="211" left="31" width="57" height="16" font="31"><i>Subject:</i></text>
+<text top="211" left="248" width="73" height="16" font="24"><i><b>Discharge</b></i></text>
+<text top="211" left="466" width="36" height="16" font="31"><i>Port:</i></text>
+<text top="211" left="611" width="174" height="16" font="24"><i><b>Baton Rouge, Louisiana</b></i></text>
+<text top="182" left="611" width="89" height="16" font="24"><i><b>ExxonMobil</b></i></text>
+<text top="374" left="87" width="17" height="14" font="27">1P</text>
+<text top="374" left="244" width="68" height="14" font="27">16' 05 1/4''</text>
+<text top="374" left="466" width="68" height="14" font="27">16' 05 1/2''</text>
+<text top="374" left="685" width="68" height="14" font="27">16' 05 1/4''</text>
+<text top="395" left="88" width="17" height="14" font="27">1S</text>
+<text top="395" left="256" width="44" height="14" font="27">16' 05''</text>
+<text top="395" left="466" width="68" height="14" font="27">16' 05 1/4''</text>
+<text top="395" left="697" width="44" height="14" font="27">16' 05''</text>
+<text top="459" left="87" width="17" height="14" font="27">3P</text>
+<text top="459" left="244" width="68" height="14" font="27">16' 04 3/4''</text>
+<text top="459" left="478" width="44" height="14" font="27">16' 05''</text>
+<text top="459" left="685" width="68" height="14" font="27">16' 04 3/4''</text>
+<text top="480" left="88" width="17" height="14" font="27">3S</text>
+<text top="480" left="256" width="44" height="14" font="27">16' 05''</text>
+<text top="480" left="466" width="68" height="14" font="27">16' 05 1/4''</text>
+<text top="480" left="697" width="44" height="14" font="27">16' 05''</text>
+<text top="417" left="87" width="17" height="14" font="27">2P</text>
+<text top="417" left="256" width="44" height="14" font="27">16' 05''</text>
+<text top="417" left="466" width="68" height="14" font="27">16' 05 1/4''</text>
+<text top="417" left="697" width="44" height="14" font="27">16' 05''</text>
+<text top="438" left="88" width="17" height="14" font="27">2S</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="32" size="15" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="33" size="15" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="34" size="15" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="35" size="12" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="36" size="12" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="37" size="8" family="ArialMT" color="#000000"/>
+	<fontspec id="38" size="25" family="Arial" color="#000000"/>
+	<fontspec id="39" size="25" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="40" size="8" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="41" size="8" family="TimesNewRomanPS" color="#000000"/>
+<image top="31" left="40" width="113" height="95" src="./../output_data/1234/560/102333EMCC/102333EMCC-8_1.png"/>
+<text top="138" left="525" width="34" height="14" font="32"><i>Date:</i></text>
+<text top="144" left="224" width="4" height="14" font="33"><b> </b></text>
+<text top="163" left="525" width="60" height="14" font="32"><i>Terminal:</i></text>
+<text top="189" left="146" width="58" height="14" font="34"><i><b>Report of</b></i></text>
+<text top="189" left="525" width="32" height="14" font="32"><i>Port:</i></text>
+<text top="214" left="525" width="82" height="14" font="32"><i>File Number:</i></text>
+<text top="233" left="374" width="4" height="14" font="27"> </text>
+<text top="338" left="30" width="137" height="11" font="35"><b>DOT SHIPPING NAME:</b></text>
+<text top="338" left="374" width="103" height="11" font="35"><b>HAZARD CLASS:</b></text>
+<text top="338" left="567" width="25" height="11" font="35"><b>UN#</b></text>
+<text top="338" left="668" width="80" height="11" font="35"><b>PKG GROUP:</b></text>
+<text top="894" left="30" width="768" height="11" font="36">SIGNATURE BELOW IS TO CERTIFY THAT THE ABOVE NAMED MATERIALS ARE PROPERLY CLASSIFIED, DESCRIBED, PACKAGED,</text>
+<text top="910" left="30" width="800" height="11" font="36">MARKED, AND LABELED, AND ARE IN PROPER CONDITION FOR TRANSPORTATION ACCORDING TO THE APPLICATION, REGULATIONS</text>
+<text top="926" left="30" width="269" height="11" font="36">OF THE DEPARTMENT OF TRANSPORTATION.</text>
+<text top="957" left="30" width="578" height="11" font="36">THIS DOCUMENT IS TO BE RETAINED BY THE SHIPPER / RECIEVER FOR NO LESS THAN 365 DAYS.</text>
+<text top="988" left="707" width="45" height="11" font="36">4/8/2021</text>
+<text top="1006" left="697" width="27" height="9" font="11">DATE</text>
+<text top="1086" left="713" width="103" height="8" font="37">Version 7.1 04-19-20 JMH</text>
+<text top="513" left="240" width="63" height="11" font="36">Kirby 28059</text>
+<text top="513" left="421" width="54" height="11" font="36">Composite</text>
+<text top="513" left="562" width="22" height="11" font="36">N/A</text>
+<text top="513" left="705" width="33" height="11" font="36">Retain</text>
+<text top="439" left="705" width="32" height="11" font="36">BRCP</text>
+<text top="488" left="80" width="40" height="11" font="36">1x1 Gal</text>
+<text top="488" left="240" width="63" height="11" font="36">Kirby 28065</text>
+<text top="488" left="421" width="54" height="11" font="36">Composite</text>
+<text top="488" left="562" width="22" height="11" font="36">N/A</text>
+<text top="488" left="705" width="33" height="11" font="36">Retain</text>
+<text top="214" left="30" width="150" height="14" font="34"><i><b>EMCC  Ref. #: 5380303</b></i></text>
+<text top="214" left="626" width="45" height="14" font="34"><i><b>102333</b></i></text>
+<text top="254" left="250" width="346" height="17" font="7"><b>NON COMMERCIAL BILL OF LADING</b></text>
+<text top="275" left="88" width="669" height="11" font="36">THE FOLLOWING FORM APPLIES TO THE TRANSPORTATION OF SAMPLES THAT HAVE NO COMMERCIAL VALUE.</text>
+<text top="299" left="81" width="165" height="17" font="33"><b>CHAIN OF CUSTODY □</b></text>
+<text top="294" left="247" width="35" height="23" font="38"><b>     </b></text>
+<text top="302" left="282" width="283" height="14" font="33"><b>SAMPLE TRANSPORTATION RECORD </b></text>
+<text top="290" left="565" width="47" height="28" font="39"><b>□     </b></text>
+<text top="302" left="612" width="138" height="14" font="33"><b>SAMPLE RECIEPT </b></text>
+<text top="290" left="750" width="15" height="28" font="39"><b>□</b></text>
+<text top="337" left="217" width="111" height="11" font="36">Aromatic Concentrate</text>
+<text top="233" left="30" width="11" height="14" font="34"><i><b>   </b></i></text>
+<text top="32" left="190" width="135" height="14" font="33"><b>COASTAL GULF &amp;</b></text>
+<text top="51" left="174" width="169" height="14" font="33"><b>INTERNATIONAL, INC.</b></text>
+<text top="68" left="238" width="40" height="8" font="40">&#34;Precision&#34;</text>
+<text top="80" left="216" width="84" height="8" font="40">Inspection &amp; Analytical</text>
+<text top="92" left="243" width="30" height="8" font="40">Services</text>
+<text top="104" left="188" width="141" height="8" font="40">2104 S Southland, Gonzales, LA 70737</text>
+<text top="189" left="30" width="49" height="14" font="32"><i>Subject:</i></text>
+<text top="189" left="224" width="64" height="14" font="34"><i><b>Discharge</b></i></text>
+<text top="189" left="626" width="152" height="14" font="34"><i><b>Baton Rouge, Louisiana</b></i></text>
+<text top="163" left="30" width="54" height="14" font="32"><i>Product:</i></text>
+<text top="163" left="146" width="138" height="14" font="34"><i><b>Aromatic Concentrate</b></i></text>
+<text top="163" left="626" width="78" height="14" font="34"><i><b>ExxonMobil</b></i></text>
+<text top="118" left="181" width="153" height="8" font="40">Phone (225) 231-4990 Fax (225) 231-7875</text>
+<text top="118" left="679" width="134" height="8" font="41"><i>Assuring accuracy through expertise!</i></text>
+<text top="138" left="30" width="44" height="14" font="32"><i>Vessel:</i></text>
+<text top="138" left="146" width="133" height="14" font="34"><i><b>Kirby 28065 &amp; 28059</b></i></text>
+<text top="138" left="626" width="81" height="14" font="34"><i><b>April 9, 2021</b></i></text>
+<text top="368" left="553" width="40" height="14" font="33"><b>SEAL</b></text>
+<text top="388" left="58" width="84" height="14" font="33"><b>&amp; NUMBER</b></text>
+<text top="392" left="206" width="132" height="8" font="40">(BARGE, VESSEL, SHORE TANK)</text>
+<text top="392" left="386" width="124" height="8" font="40">(TOP, MIDDLE, BOTTOM,AVG)</text>
+<text top="388" left="540" width="67" height="14" font="33"><b>NUMBER</b></text>
+<text top="388" left="665" width="112" height="14" font="33"><b>DISTRIBUTION</b></text>
+<text top="368" left="48" width="105" height="14" font="33"><b>SAMPLE SIZE </b></text>
+<text top="368" left="207" width="130" height="14" font="33"><b>SAMPLE SOURCE</b></text>
+<text top="368" left="382" width="132" height="14" font="33"><b>TYPE OF SAMPLE</b></text>
+<text top="415" left="64" width="73" height="11" font="36">1x1 Qt Amber</text>
+<text top="415" left="232" width="80" height="11" font="36">Kirby 28065 3P</text>
+<text top="415" left="425" width="44" height="11" font="36">Peroxide</text>
+<text top="415" left="562" width="22" height="11" font="36">N/A</text>
+<text top="415" left="705" width="32" height="11" font="36">BRCP</text>
+<text top="439" left="64" width="73" height="11" font="36">1x1 Qt Amber</text>
+<text top="439" left="232" width="80" height="11" font="36">Kirby 28059 3P</text>
+<text top="439" left="425" width="44" height="11" font="36">Peroxide</text>
+<text top="439" left="562" width="22" height="11" font="36">N/A</text>
+<text top="513" left="80" width="40" height="11" font="36">1x1 Gal</text>
+<text top="1063" left="60" width="723" height="14" font="34"><i><b>TOLL FREE 24 HOUR EMERGENCY CONTACT  (Fire, Accident, Exposure, Spill) CHEMTREC 1-800-424-9300</b></i></text>
+<text top="988" left="117" width="74" height="11" font="36">William Borne</text>
+<text top="1006" left="134" width="39" height="9" font="11">FOR CGI</text>
+<text top="1006" left="423" width="149" height="9" font="12"><i>SIGNATURE IS TO VERIFY ABOVE</i></text>
+<text top="1021" left="427" width="141" height="9" font="12"><i>MENTIONED SAMPLES WHERE </i></text>
+<text top="1037" left="429" width="137" height="9" font="12"><i>RECEIVED BY YOUR FACILITY.</i></text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="42" size="16" family="TimesNewRomanPSMT" color="#ffffff"/>
+	<fontspec id="43" size="23" family="TimesNewRomanPS" color="#000000"/>
+<image top="32" left="46" width="118" height="97" src="./../output_data/1234/560/102333EMCC/102333EMCC-9_1.jpg"/>
+<image top="360" left="65" width="41" height="25" src="./../output_data/1234/560/102333EMCC/102333EMCC-9_2.png"/>
+<image top="390" left="65" width="41" height="25" src="./../output_data/1234/560/102333EMCC/102333EMCC-9_3.png"/>
+<image top="421" left="65" width="41" height="25" src="./../output_data/1234/560/102333EMCC/102333EMCC-9_4.png"/>
+<image top="451" left="65" width="41" height="25" src="./../output_data/1234/560/102333EMCC/102333EMCC-9_5.png"/>
+<image top="527" left="65" width="41" height="25" src="./../output_data/1234/560/102333EMCC/102333EMCC-9_6.png"/>
+<image top="603" left="65" width="41" height="25" src="./../output_data/1234/560/102333EMCC/102333EMCC-9_7.png"/>
+<image top="679" left="65" width="41" height="25" src="./../output_data/1234/560/102333EMCC/102333EMCC-9_8.png"/>
+<image top="755" left="65" width="41" height="25" src="./../output_data/1234/560/102333EMCC/102333EMCC-9_9.png"/>
+<image top="831" left="65" width="41" height="25" src="./../output_data/1234/560/102333EMCC/102333EMCC-9_10.png"/>
+<text top="131" left="170" width="11" height="13" font="13">®</text>
+<text top="165" left="343" width="5" height="16" font="1"><i><b> </b></i></text>
+<text top="218" left="187" width="69" height="16" font="1"><i><b>Report of</b></i></text>
+<text top="367" left="106" width="275" height="15" font="5">Shore Tank was active during movement.</text>
+<text top="458" left="106" width="139" height="15" font="5">In transit Difference:</text>
+<text top="504" left="734" width="37" height="15" font="4"><b>0.1%</b></text>
+<text top="534" left="106" width="161" height="15" font="5">OBQ / ROB Difference:</text>
+<text top="1105" left="726" width="53" height="13" font="13">4/9/2021</text>
+<text top="1123" left="739" width="28" height="13" font="13">Date</text>
+<text top="762" left="455" width="96" height="15" font="5">Opening Bbls.</text>
+<text top="272" left="31" width="14" height="16" font="1"><i><b>   </b></i></text>
+<text top="858" left="106" width="477" height="15" font="5">Towing company did not provide sequential port log for the subject tow</text>
+<text top="924" left="106" width="396" height="15" font="5">Delay - Hose Connected to Commence Transfer 1.15 Hours</text>
+<text top="397" left="106" width="402" height="15" font="5">Terminal would not allow a Line Displacement to take place</text>
+<text top="458" left="353" width="198" height="15" font="5">GSV at Loadport Departure:  </text>
+<text top="458" left="620" width="66" height="15" font="42">51,047.01</text>
+<text top="302" left="330" width="254" height="22" font="43"><b>LETTER OF PROTEST</b></text>
+<text top="504" left="649" width="37" height="15" font="4"><b>38.30</b></text>
+<text top="336" left="55" width="638" height="15" font="5">On Behalf of our principals, we herby notify you that on the above date, the following occurred:</text>
+<text top="424" left="106" width="408" height="18" font="5">Terminal didn’t allow adequate settling time after movement.</text>
+<text top="504" left="475" width="73" height="15" font="16"><i><b>Difference</b></i></text>
+<text top="481" left="382" width="168" height="15" font="5">GSV at Disport Arrival:  </text>
+<text top="481" left="620" width="66" height="15" font="42">51,085.31</text>
+<text top="534" left="422" width="129" height="15" font="5">OBQ at Loadport:  </text>
+<text top="534" left="658" width="29" height="15" font="42">0.00</text>
+<text top="557" left="434" width="117" height="15" font="5">ROB at Disport:  </text>
+<text top="580" left="658" width="29" height="15" font="4"><b>0.00</b></text>
+<text top="610" left="423" width="127" height="15" font="5">GSV at Loadport:  </text>
+<text top="610" left="643" width="44" height="15" font="42">Active</text>
+<text top="656" left="475" width="73" height="15" font="16"><i><b>Difference</b></i></text>
+<text top="656" left="641" width="45" height="15" font="4"><b>Active</b></text>
+<text top="785" left="460" width="90" height="15" font="5">Closing Bbls.</text>
+<text top="1105" left="187" width="71" height="13" font="13">Chad Smith</text>
+<text top="1123" left="180" width="85" height="13" font="13">CGI Inspector</text>
+<text top="1123" left="459" width="138" height="13" font="13">Vessel / Terminal Rep.</text>
+<text top="1011" left="55" width="790" height="15" font="5">Accordingly, we are holding your terminal, Operators, and other interested parties responsible for the loss and damage </text>
+<text top="1032" left="55" width="822" height="15" font="5">thereby sustained, as well as any consequential loss and damage arising therefrom. Will you kindly acknowledge receipt on </text>
+<text top="1053" left="55" width="224" height="15" font="5">the copy thereof and return to us. </text>
+<text top="1053" left="280" width="530" height="15" font="16"><i><b>The signatures thus obtained are for receipt only and in no way acknowledge </b></i></text>
+<text top="1074" left="55" width="205" height="15" font="16"><i><b>responsibility for the incident.</b></i></text>
+<text top="807" left="475" width="73" height="15" font="16"><i><b>Difference</b></i></text>
+<text top="880" left="106" width="341" height="15" font="5">Delay - Barge Tendered to Barge Docked 76 Hours</text>
+<text top="902" left="106" width="335" height="15" font="5">Delay - Barge Docked to Hose Connected 2 Hours</text>
+<text top="837" left="106" width="195" height="15" font="5">No Qualifying VEF available</text>
+<text top="709" left="440" width="110" height="15" font="5">Shore Del./Rec.:</text>
+<text top="188" left="187" width="165" height="16" font="1"><i><b>Aromatic Concentrate</b></i></text>
+<text top="762" left="106" width="79" height="15" font="5">Free Water:</text>
+<text top="249" left="31" width="178" height="16" font="1"><i><b>EMCC  Ref. #: 5380303</b></i></text>
+<text top="249" left="481" width="97" height="16" font="0"><i>File Number:</i></text>
+<text top="249" left="642" width="54" height="16" font="1"><i><b>102333</b></i></text>
+<text top="218" left="31" width="59" height="16" font="0"><i>Subject:</i></text>
+<text top="218" left="481" width="38" height="16" font="0"><i>Port:</i></text>
+<text top="218" left="642" width="182" height="16" font="1"><i><b>Baton Rouge, Louisiana</b></i></text>
+<text top="218" left="268" width="76" height="16" font="1"><i><b>Discharge</b></i></text>
+<text top="633" left="430" width="121" height="15" font="5">GSV on Disport:  </text>
+<text top="633" left="658" width="29" height="15" font="42">0.00</text>
+<text top="731" left="475" width="73" height="15" font="16"><i><b>Difference</b></i></text>
+<text top="610" left="106" width="178" height="15" font="5">Shore to Shore Difference:</text>
+<text top="686" left="106" width="184" height="15" font="5">Vessel to Shore Difference:</text>
+<text top="686" left="431" width="119" height="15" font="5">Vessel   Del./Rec.</text>
+<text top="557" left="658" width="29" height="15" font="42">0.00</text>
+<text top="580" left="475" width="73" height="15" font="16"><i><b>Difference</b></i></text>
+<text top="188" left="31" width="64" height="16" font="0"><i>Product:</i></text>
+<text top="188" left="481" width="72" height="16" font="0"><i>Terminal:</i></text>
+<text top="188" left="642" width="93" height="16" font="1"><i><b>ExxonMobil</b></i></text>
+<text top="33" left="251" width="161" height="16" font="7"><b>COASTAL GULF &amp;</b></text>
+<text top="56" left="231" width="200" height="16" font="7"><b>INTERNATIONAL, INC.</b></text>
+<text top="76" left="308" width="47" height="9" font="11">&#34;Precision&#34;</text>
+<text top="91" left="282" width="99" height="9" font="11">Inspection &amp; Analytical</text>
+<text top="105" left="314" width="35" height="9" font="11">Services</text>
+<text top="120" left="249" width="165" height="9" font="11">2104 S Southland, Gonzales, LA 70737</text>
+<text top="134" left="242" width="179" height="9" font="11">Phone (225) 231-4990 Fax (225) 231-7875</text>
+<text top="134" left="723" width="158" height="9" font="12"><i>Assuring accuracy through expertise!</i></text>
+<text top="158" left="31" width="52" height="16" font="0"><i>Vessel:</i></text>
+<text top="158" left="481" width="41" height="16" font="0"><i>Date:</i></text>
+<text top="158" left="642" width="97" height="16" font="1"><i><b>April 9, 2021</b></i></text>
+<text top="158" left="187" width="159" height="16" font="1"><i><b>Kirby 28065 &amp; 28059</b></i></text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="44" size="12" family="BCDFEE+Cambria" color="#ffffff"/>
+	<fontspec id="45" size="19" family="BCDGEE+MonotypeCorsiva" color="#000000"/>
+	<fontspec id="46" size="14" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="47" size="14" family="TimesNewRomanPS" color="#000000"/>
+<image top="31" left="43" width="98" height="80" src="./../output_data/1234/560/102333EMCC/102333EMCC-10_1.jpg"/>
+<text top="113" left="204" width="9" height="11" font="36">®</text>
+<text top="142" left="386" width="4" height="13" font="29"><i><b> </b></i></text>
+<text top="185" left="218" width="58" height="13" font="29"><i><b>Report of</b></i></text>
+<text top="220" left="30" width="18" height="15" font="44">Yes</text>
+<text top="533" left="30" width="74" height="13" font="13">Stand Pipes:</text>
+<text top="552" left="30" width="120" height="13" font="13">Measurement Type:</text>
+<text top="590" left="30" width="154" height="13" font="13">Measurement Equipment:</text>
+<text top="609" left="30" width="150" height="13" font="13">Temperature Equipment:</text>
+<text top="627" left="30" width="114" height="13" font="13">Equipment Owner:</text>
+<text top="646" left="30" width="127" height="13" font="13">Equipment Operator:</text>
+<text top="856" left="31" width="86" height="16" font="30"><b>Comments:</b></text>
+<text top="1011" left="30" width="184" height="12" font="17">Coastal Gulf &amp; International, Inc.</text>
+<text top="1066" left="30" width="182" height="12" font="17">Gonzales Communication Center</text>
+<text top="775" left="30" width="154" height="13" font="13">Measurement Equipment:</text>
+<text top="571" left="30" width="115" height="13" font="13">Temperature Type:</text>
+<text top="718" left="280" width="40" height="13" font="13">Active</text>
+<text top="737" left="280" width="40" height="13" font="13">Active</text>
+<text top="775" left="280" width="40" height="13" font="13">Active</text>
+<text top="794" left="280" width="40" height="13" font="13">Active</text>
+<text top="813" left="280" width="40" height="13" font="13">Active</text>
+<text top="832" left="280" width="40" height="13" font="13">Active</text>
+<text top="756" left="30" width="115" height="13" font="13">Temperature Type:</text>
+<text top="756" left="280" width="40" height="13" font="13">Active</text>
+<text top="671" left="31" width="50" height="16" font="30"><b>Shore:</b></text>
+<text top="699" left="218" width="40" height="13" font="13">Active</text>
+<text top="646" left="255" width="89" height="13" font="13">Field Surveyor</text>
+<text top="737" left="30" width="120" height="13" font="13">Measurement Type:</text>
+<text top="699" left="30" width="100" height="13" font="13">Gauge Location:</text>
+<text top="718" left="30" width="74" height="13" font="13">Stand Pipes:</text>
+<text top="386" left="218" width="32" height="13" font="13">None</text>
+<text top="514" left="218" width="78" height="13" font="13">2'' Ball-valve</text>
+<text top="484" left="31" width="52" height="16" font="30"><b>Vessel:</b></text>
+<text top="571" left="247" width="106" height="13" font="13">Per Compartment</text>
+<text top="386" left="52" width="165" height="13" font="13">Special Vessel Conditions: </text>
+<text top="430" left="31" width="161" height="16" font="30"><b>General Information:</b></text>
+<text top="321" left="57" width="194" height="13" font="13">Special Shore Conditions: None</text>
+<text top="244" left="297" width="324" height="18" font="14"><b>INSPECTION REPORT SUMMARY</b></text>
+<text top="273" left="31" width="119" height="16" font="30"><b>Job Conditions:</b></text>
+<text top="1034" left="31" width="107" height="21" font="45">Jon Herrington</text>
+<text top="794" left="30" width="150" height="13" font="13">Temperature Equipment:</text>
+<text top="813" left="30" width="114" height="13" font="13">Equipment Owner:</text>
+<text top="460" left="30" width="165" height="13" font="13">Type of Water Paste Used: </text>
+<text top="460" left="218" width="61" height="13" font="13">Kolor Kut</text>
+<text top="533" left="284" width="32" height="13" font="13">None</text>
+<text top="514" left="30" width="100" height="13" font="13">Gauge Location:</text>
+<text top="590" left="230" width="140" height="13" font="13">UTI / Hermetic / MMC</text>
+<text top="609" left="230" width="140" height="13" font="13">UTI / Hermetic / MMC</text>
+<text top="552" left="280" width="40" height="13" font="13">Ullage</text>
+<text top="832" left="30" width="127" height="13" font="13">Equipment Operator:</text>
+<text top="627" left="255" width="89" height="13" font="13">Field Surveyor</text>
+<text top="32" left="322" width="134" height="13" font="46"><b>COASTAL GULF &amp;</b></text>
+<text top="51" left="306" width="166" height="13" font="46"><b>INTERNATIONAL, INC.</b></text>
+<text top="68" left="370" width="38" height="8" font="40">&#34;Precision&#34;</text>
+<text top="80" left="349" width="81" height="8" font="40">Inspection &amp; Analytical</text>
+<text top="92" left="374" width="29" height="8" font="40">Services</text>
+<text top="160" left="218" width="137" height="13" font="29"><i><b>Aromatic Concentrate</b></i></text>
+<text top="160" left="564" width="60" height="13" font="47"><i>Terminal:</i></text>
+<text top="878" left="457" width="4" height="13" font="13">.</text>
+<text top="104" left="321" width="136" height="8" font="40">2104 S Southland, Gonzales, LA 70737</text>
+<text top="116" left="314" width="148" height="8" font="40">Phone (225) 231-4990 Fax (225) 231-7875</text>
+<text top="116" left="757" width="130" height="8" font="41"><i>Assuring accuracy through expertise!</i></text>
+<text top="211" left="30" width="149" height="13" font="29"><i><b>EMCC  Ref. #: 5380303</b></i></text>
+<text top="211" left="564" width="81" height="13" font="47"><i>File Number:</i></text>
+<text top="211" left="697" width="45" height="13" font="29"><i><b>102333</b></i></text>
+<text top="135" left="30" width="43" height="13" font="47"><i>Vessel:</i></text>
+<text top="135" left="218" width="132" height="13" font="29"><i><b>Kirby 28065 &amp; 28059</b></i></text>
+<text top="135" left="564" width="34" height="13" font="47"><i>Date:</i></text>
+<text top="135" left="697" width="80" height="13" font="29"><i><b>April 9, 2021</b></i></text>
+<text top="160" left="30" width="53" height="13" font="47"><i>Product:</i></text>
+<text top="160" left="697" width="78" height="13" font="29"><i><b>ExxonMobil</b></i></text>
+<text top="185" left="30" width="49" height="13" font="47"><i>Subject:</i></text>
+<text top="185" left="285" width="63" height="13" font="29"><i><b>Discharge</b></i></text>
+<text top="185" left="564" width="32" height="13" font="47"><i>Port:</i></text>
+<text top="185" left="697" width="151" height="13" font="29"><i><b>Baton Rouge, Louisiana</b></i></text>
+</page>
+</pdf2xml>

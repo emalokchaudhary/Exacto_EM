@@ -1,0 +1,53 @@
+CLEANED !!!
+                                COASTAL GULF &
+                              INTERNATIONAL, INC.                                   VESSEL EXPERIENCE FACTOR SEQUENTIAL
+                                              "Precision"
+                                        Inspection & Analytical
+                                               Services
+                                  P.O. Box 429 Kenner, LA. 70063-429
+                                Phone (985)785-0765 Fax (985)785-1328                                                                                                                  Assuring accuracy through expertise!
+
+Vessel:             CBC 1388                                                                                                                    Date:      December 31, 2020
+
+Type of Movement:               Loading
+                                                                                                                                                                           Step 2
+                                                                                                    Enter all units as Barrels                                              Qual
+                                                                                                                                                                   Step 1 Voy            Qualifying Voyages
+                                                                                     Vessel                          Vessel                                        Gross (+0.30
+       Voyage  Cargo                               Terminal or                       Sailing          Vessel          Load               Outturn                   Error > %) Y/N       Vessel               Shore
+ Cargo Number Description                             Port               Date         TCV              OBQ            TCV                 TCV           Ratio       2%?      ?           TCV                 TCV
+      Last                 Methyl Ethyl      Deer Park (United          11-Apr-20       10,080.71               0         10,080.71        10,190.55     0.98922                  NO
+                           Ketone            States)
+      2nd                  Nonexempt         Lemont (United States)     30-Mar-19        9,954.26               0          9,954.26         9,998.96     0.99553                  NO
+                           Mineral Spirits
+       3rd
+          4th
+          5th
+          6th
+          7th
+          8th
+          9th
+      10th
+      11th
+      12th
+      13th
+      14th
+      15th
+      16th
+      17th
+      18th
+      19th
+      20th
+
+                                                                                                    Totals:               20,034.97        20,189.51                         Totals:             0.00                 0.00
+Voyages excluded                                                                                     Average TCV Ratio:                      0.99235                        TCV vessel/ TCV shore:
+ A. Voyages where only vessel measurements were available
+ B. Maiden voyage and voyage following dry dock                                                                                                                              VEF = N/A
+ C. Voyages prior to vessels last dry dock, unless verified that:
+                no desludging was performed                                                                                           Qualifying Range (excluding Gross Errors)
+          no significant structural, measurement equipment, tables                                                                        LOW:          0.98937     HIGH:    0.99532
+          or procedural changes were made affecting vessel measurement
+ D. Voyages where the VLR or VDR is less than 0.98000 or greater than 1.02000
+ E. When the VLR or VDR is not within + or - 0.3% of the ratio of the totals of vessels and shore quantities
+ F. Voyages where the vessel's figures are known to be inaccurate
+ 

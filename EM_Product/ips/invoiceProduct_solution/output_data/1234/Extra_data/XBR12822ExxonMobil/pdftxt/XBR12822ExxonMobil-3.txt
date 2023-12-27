@@ -1,0 +1,52 @@
+                                COASTAL GULF &
+                              INTERNATIONAL, INC.
+                                               "Precision"
+                                         Inspection & Analytical
+                                                 Services
+                                 2104 S Southland, Gonzales, LA 70737
+                    ®           Phone (225) 231-4990 Fax (225) 231-7875                                        Assuring accuracy through expertise!
+
+Vessel:                 CBC 183                                      Date:                December 13, 2020
+Product:                Exxal 13                                     Terminal:            ExxonMobil
+Subject:                Report of Loading                            Port:                Baton Rouge, Louisiana
+ExxonMobil Ref. #: 4970977                                           File Number:         XBR12822
+
+
+                                        REPORT OF METER QUANTITY
+
+                                                           Meter No.:               OXO Exxal 13 Dock Line
+
+               Opening Meter Reading                                                          Closing Meter Reading
+                       0.00                                                                         14,989.00
+
+
+                                                   Indicated Volume                                    14,989.00
+                                                 * Meter Factor                                         1.0000
+                                                   Gross Observed Volume                               14,989.00
+                                                   Volume Correction Factor                             1.0000
+                                                   Gross Standard Volume                               14,989.00
+                                                   C.P.L. Factor                                        1.0000
+                                                   Net Standard Volume (Bbls)                          14,989.00
+                                                   Line Temperature                                       57.1
+
+
+                                                       TOTAL NET BARRELS
+
+                                     Net Barrels @ 60 °F                                   14,989.00
+                                     Net Gallons @ 60 °F                                  629,538.00
+                                     Pounds                                             4,458,388.00
+                                     Metric Tons                                           2,022.293
+                                     Short Tons                                            2,229.194
+                                     Long Tons                                             1,990.352
+                                     Pounds per Gallon                                         7.082
+
+
+ *Please note the METER FACTOR above is for reference only and isn’t used for GOV/GSV calculations due to the
+                   factor being precalculated into the Meter figure provided to us by the Terminal*
+
+
+
+Coastal Gulf & International, Inc.
+Jon Herrington
+Gonzales Communication Center                                                                                          Version 7.1 04-19-20 JMH
+

@@ -1,0 +1,48 @@
+                               Certificate of Analysis                                           Report Date: 8/31/2020
+
+Vessel/Equipment:               Web 241 & 248                File Number:                                        98697-216
+Shore Tank:                             216                  Lab Number:                                         083020-004
+Product:                              CSO/MCB                Client:                                             ExxonMobil
+Terminal:                         PFT, Mt. Airy              Client Reference:                                    4986215
+Subject:                              Discharge
+Sample type:                   First Foot                    Sample Location:                                     ST 216
+                                                                                                         Spec
+Method                        Component                      Result                Units          Min        -    Max         Off-Spec
+D5705          Hydrogen Sulfide (Vapor Phase)                <5                     ppm                  -
+D5705                   Temperature                         140                       °F                 -
+Sample type:                  Composite                      Sample Location:                                     ST 216
+                                                                                                         Spec
+Method                        Component                      Result                Units          Min        -    Max         Off-Spec
+D4052                API Gravity at 60°F                    -2.2                                         -       -2.5
+D4294                   Sulfur Content                     2.22                     wt%                  -       3.0
+D2161              Viscosity-SUS at 210°F                  97.21                    SUS                  -       110
+D93B                     Flash Point                        176                       °F           170   -
+D482                     Ash Content                       0.043                  mass%                  -       0.08
+D97                       Pour Point                         15                      °C                  -
+D97                       Pour Point                         59                       °F                 -
+IP143                    Asphaltenes                       1.90                   %(m/m)                 -        8
+D4530            Micro Carbon Residue Test                 8.15                   %(m/m)                 -
+D473                Sediment by Extraction                 0.04                    %m/m
+D95                  Water by Distillation                 <0.05                    vol%                 -       0.20
+D4870          Total Sediment by Hot Filtration            0.10                   mass%                  -
+IP501                     Aluminum                           77                     ppm                  -
+IP501                       Silicon                         102                     ppm                  -
+IP501                     Vanadium                          1.6                     ppm                  -
+IP501                      Sodium                           4.1                     ppm                  -
+IP501M                   Potassium                          0.8                     ppm                  -
+D5291                      Carbon                          89.99                    wt%             89   -
+D5291                     Hydrogen                         7.61                     wt%                  -        8
+PPCO-7317-BH               BMCI                            128.2                                   125   -
+
+
+
+
+   Signed:              Aaron Manguno                                              Reviewed by:               Glenn Hanson
+                      Laboratory Supervisor                                                                  VP of Laboratories
+
+
+
+
+                                                      13615 River Road, Luling, LA 70070
+                                              Phone: (985) 785-0765 Email: cgi@coastalgulf.com
+

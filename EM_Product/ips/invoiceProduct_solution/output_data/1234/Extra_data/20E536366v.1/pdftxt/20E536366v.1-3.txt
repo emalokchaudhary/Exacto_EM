@@ -1,0 +1,65 @@
+TRIP: USEBARGARO-2009-043                                                                 20E536366 VER 1 (ISSUED)
+
+~$1500 pdpr per barge
+~$3500 pdpr per tug
+The above are APPROXIMATIONS; actual demurrage claims will vary.
+ETA date is estimate only and not to be used as laycan for demurrage
+calculations. Laycan stated above will be used for demurrage calculations.
+All demurrage claims to follow contract terms agreed upon.
+
+Plant Code for Inspection service:
+USI5 @ DISCHARGE CC-C02123029
+**THIS IS A PURCHASE **
+Material Codes: GEMS - 5007121     GOM - 90001007
+
+
+Inspections must utilize Global Inspection Contract Rates (July 2019 - June 2026).
+
+Pre-loading inspections are required and shall be performed by the inspection companies per API 17.8
+Manual of Petroleum Measurement Standards
+
+Inspection invoices are to be submitted into Navarik if nomination received via Navarik or by email to
+PMI.Chemicals.Inspection.Invoices@exxonmobil.com if nomination received via Outlook. Invoices submitted
+via Outlook must reference a valid EMCC Nomination Key.
+
+Acceptance of inspection invoices submitted via Ariba, Basware, and the below mentioned shared mailboxes
+will be discontinued as of 22nd of July 2019. Please do not use these channels for submission:
+emcc.oa.invoices@exxonmobil.com
+emcc.int&syn.inspection.invoices@exxonmobil.com
+intermed.invoices@exxonmobil.com
+
+Quality Inspection Instructions:
+SET 1
+            Description:
+       Sample Location: Vessel/Barge Composite
+Quality Test Comments:
+After loading, please take a barge composite sample and run the following slate. Please include Joe Mc-
+Donald on the COA distribution: joseph.c.mcdonald@exxonmobil.com
+
+Peroxides method REQUIRES amber/dark tinted bottle, minimal head space and nitrogen purged. Please re-
+port types of bottle sample(s) were received in COA and inspection report.
+
+
+
+
+                                                                                            RO = Report Only          Req. = Required
+ Test                     Methods                                    Min   Max    UOM     Typical   R.O.       Req.     Comment
+ Detailed Hydrocarbon     [ASTM] ASTM D6730                                                         No         Yes
+ Analysis
+ Benzene                  [ASTM] ASTM D-6730                                      %vol              No         Yes
+ Benzene                  [ASTM] ASTM D-6730                         20           %wt               No         Yes
+ Toluene                  [ASTM] ASTM D6730                                       %vol              No         Yes
+ Toluene                  [ASTM] ASTM D6730                                25     wt%               No         Yes
+ Olefins                  [ASTM] ASTM D6730                                4      wt%               No         Yes
+ Diolefins                [ASTM] ASTM D6730                                0.15   wt%               No         Yes
+ C4 Content               [ASTM] ASTM D6730                                1      wt%               No         Yes
+ C5 Content               [ASTM] ASTM D6730                                7      wt%               No         Yes
+ C8 Aromatics             [ASTM] ASTM D6730                                4      wt %              No         Yes
+ C8 Aromatics             [ASTM] ASTM D6730                                       Vol %             No         Yes
+ C9 and heavier           [ASTM] ASTM D6730                                2.5    wt %              No         Yes
+ Thiophene                [ASTM] ASTM D4735                                0.6    wppm              No         Yes
+ Total Sulfur             [ASTM] ASTM D4045                                1      wppm              No         Yes
+ Total Chlorides          [ASTM] ASTM D5808, [ASTM] ASTM D7536             0.4    wppm              No         Yes
+
+                                                       Page 3 of 5
+

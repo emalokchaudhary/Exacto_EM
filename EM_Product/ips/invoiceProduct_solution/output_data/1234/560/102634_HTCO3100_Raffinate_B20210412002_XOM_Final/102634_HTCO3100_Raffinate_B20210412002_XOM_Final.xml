@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="20.11.0">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="21" family="AAAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="1" size="11" family="AAAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="2" size="13" family="AAAAAB+Arial" color="#000000"/>
+	<fontspec id="3" size="13" family="AAAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="4" size="10" family="AAAAAB+Arial" color="#000000"/>
+	<fontspec id="5" size="13" family="ArialMT" color="#000000"/>
+	<fontspec id="6" size="12" family="AAAAAB+Arial" color="#000000"/>
+<image top="27" left="27" width="91" height="91" src="./../output_data/1234/560/102634_HTCO3100_Raffinate_B20210412002_XOM_Final/102634_HTCO3100_Raffinate_B20210412002_XOM_Final-1_1.png"/>
+<text top="56" left="347" width="224" height="24" font="0"><b>Certificate of Analysis</b></text>
+<text top="102" left="638" width="70" height="13" font="1"><b>Report Date:</b></text>
+<text top="188" left="696" width="52" height="15" font="2">5408894</text>
+<text top="134" left="699" width="45" height="15" font="2">102634</text>
+<text top="134" left="260" width="72" height="15" font="2">HTCO 3100</text>
+<text top="136" left="36" width="117" height="15" font="3"><b>Vessel/Equipment:</b></text>
+<text top="172" left="67" width="54" height="15" font="3"><b>Product:</b></text>
+<text top="190" left="65" width="58" height="15" font="3"><b>Terminal:</b></text>
+<text top="208" left="69" width="52" height="15" font="3"><b>Subject:</b></text>
+<text top="136" left="473" width="80" height="15" font="3"><b>File Number:</b></text>
+<text top="172" left="493" width="41" height="15" font="3"><b>Client:</b></text>
+<text top="190" left="459" width="108" height="15" font="3"><b>Client Reference:</b></text>
+<text top="188" left="206" width="179" height="15" font="2">ExxonMobil, Baton Rouge, LA</text>
+<text top="206" left="245" width="101" height="15" font="2">Barge After Load</text>
+<text top="170" left="269" width="53" height="15" font="2">Raffinate</text>
+<text top="154" left="472" width="81" height="15" font="3"><b>Lab Number:</b></text>
+<text top="152" left="676" width="91" height="15" font="2">B20210412002</text>
+<text top="154" left="59" width="71" height="15" font="3"><b>Shore Tank</b></text>
+<text top="152" left="259" width="73" height="15" font="2">Meter Ticket</text>
+<text top="170" left="687" width="69" height="15" font="2">ExxonMobil</text>
+<text top="233" left="277" width="37" height="15" font="2">98842</text>
+<text top="251" left="257" width="76" height="15" font="2">RVP Sample</text>
+<text top="250" left="706" width="72" height="15" font="2">HTCO 3100</text>
+<text top="289" left="692" width="104" height="15" font="2">Min       -       Max</text>
+<text top="289" left="815" width="53" height="15" font="2">Off-Spec</text>
+<text top="271" left="728" width="31" height="15" font="2">Spec</text>
+<text top="289" left="589" width="31" height="15" font="2">Units</text>
+<text top="289" left="429" width="38" height="15" font="2">Result</text>
+<text top="289" left="153" width="69" height="15" font="2">Component</text>
+<text top="289" left="27" width="45" height="15" font="2">Method</text>
+<text top="235" left="42" width="104" height="15" font="3"><b>Sample Number:</b></text>
+<text top="253" left="458" width="109" height="15" font="3"><b>Sample Location:</b></text>
+<text top="253" left="52" width="84" height="15" font="3"><b>Sample Type:</b></text>
+<text top="314" left="27" width="40" height="15" font="2">D5191</text>
+<text top="314" left="153" width="183" height="15" font="2">Dry Vapor Pressure Equivalent</text>
+<text top="314" left="426" width="26" height="15" font="2">5.57</text>
+<text top="313" left="586" width="17" height="15" font="2">psi</text>
+<text top="316" left="736" width="4" height="15" font="2">-</text>
+<text top="337" left="27" width="40" height="15" font="2">D5191</text>
+<text top="337" left="153" width="88" height="15" font="2">Container Size</text>
+<text top="337" left="426" width="19" height="15" font="2">1 L</text>
+<text top="338" left="736" width="4" height="15" font="2">-</text>
+<text top="358" left="277" width="37" height="15" font="2">98852</text>
+<text top="376" left="264" width="64" height="15" font="2">Composite</text>
+<text top="375" left="706" width="72" height="15" font="2">HTCO 3100</text>
+<text top="414" left="692" width="104" height="15" font="2">Min       -       Max</text>
+<text top="414" left="815" width="53" height="15" font="2">Off-Spec</text>
+<text top="396" left="728" width="31" height="15" font="2">Spec</text>
+<text top="414" left="589" width="31" height="15" font="2">Units</text>
+<text top="414" left="429" width="38" height="15" font="2">Result</text>
+<text top="414" left="153" width="69" height="15" font="2">Component</text>
+<text top="414" left="27" width="45" height="15" font="2">Method</text>
+<text top="360" left="42" width="104" height="15" font="3"><b>Sample Number:</b></text>
+<text top="378" left="458" width="109" height="15" font="3"><b>Sample Location:</b></text>
+<text top="378" left="52" width="84" height="15" font="3"><b>Sample Type:</b></text>
+<text top="441" left="736" width="4" height="15" font="2">-</text>
+<text top="461" left="27" width="32" height="15" font="2">D130</text>
+<text top="461" left="153" width="75" height="15" font="2">Temperature</text>
+<text top="461" left="426" width="15" height="15" font="2">50</text>
+<text top="461" left="586" width="15" height="15" font="2">°C</text>
+<text top="463" left="736" width="4" height="15" font="2">-</text>
+<text top="484" left="27" width="32" height="15" font="2">D130</text>
+<text top="484" left="153" width="29" height="15" font="2">Time</text>
+<text top="484" left="426" width="7" height="15" font="2">3</text>
+<text top="483" left="586" width="36" height="15" font="2">Hours</text>
+<text top="486" left="736" width="4" height="15" font="2">-</text>
+<text top="506" left="27" width="40" height="15" font="2">D1319</text>
+<text top="506" left="153" width="60" height="15" font="2">Aromatics</text>
+<text top="506" left="426" width="27" height="15" font="2">&lt;5.0</text>
+<text top="506" left="586" width="29" height="15" font="2">vol%</text>
+<text top="508" left="736" width="4" height="15" font="2">-</text>
+<text top="529" left="27" width="40" height="15" font="2">D1319</text>
+<text top="529" left="153" width="42" height="15" font="2">Olefins</text>
+<text top="529" left="426" width="19" height="15" font="2">3.8</text>
+<text top="528" left="586" width="29" height="15" font="2">vol%</text>
+<text top="531" left="736" width="4" height="15" font="2">-</text>
+<text top="551" left="27" width="40" height="15" font="2">D2699</text>
+<text top="551" left="153" width="156" height="15" font="2">Research Octane Number</text>
+<text top="551" left="426" width="15" height="15" font="2">65</text>
+<text top="553" left="736" width="4" height="15" font="2">-</text>
+<text top="574" left="27" width="40" height="15" font="2">D2700</text>
+<text top="574" left="153" width="133" height="15" font="2">Motor Octane Number</text>
+<text top="574" left="426" width="15" height="15" font="2">63</text>
+<text top="576" left="736" width="4" height="15" font="2">-</text>
+<text top="596" left="27" width="40" height="15" font="2">D3227</text>
+<text top="596" left="153" width="102" height="15" font="2">Mercaptan Sulfur</text>
+<text top="596" left="426" width="49" height="15" font="2">&lt;0.0003</text>
+<text top="596" left="586" width="25" height="15" font="2">wt%</text>
+<text top="598" left="736" width="4" height="15" font="2">-</text>
+<text top="619" left="27" width="40" height="15" font="2">D3606</text>
+<text top="619" left="153" width="53" height="15" font="2">Benzene</text>
+<text top="619" left="426" width="26" height="15" font="2">0.24</text>
+<text top="618" left="586" width="29" height="15" font="2">vol%</text>
+<text top="688" left="736" width="4" height="15" font="2">-</text>
+<text top="709" left="27" width="40" height="15" font="2">D4176</text>
+<text top="709" left="153" width="67" height="15" font="2">Free Water</text>
+<text top="709" left="426" width="30" height="15" font="2">Pass</text>
+<text top="711" left="736" width="4" height="15" font="2">-</text>
+<text top="731" left="27" width="40" height="15" font="2">D4176</text>
+<text top="731" left="153" width="70" height="15" font="2">Particulates</text>
+<text top="731" left="426" width="30" height="15" font="2">Pass</text>
+<text top="733" left="736" width="4" height="15" font="2">-</text>
+<text top="754" left="27" width="40" height="15" font="2">D4176</text>
+<text top="754" left="153" width="104" height="15" font="2">Test Temperature</text>
+<text top="754" left="426" width="26" height="15" font="2">21.0</text>
+<text top="753" left="586" width="15" height="15" font="2">°C</text>
+<text top="756" left="736" width="4" height="15" font="2">-</text>
+<text top="776" left="27" width="40" height="15" font="2">D5453</text>
+<text top="776" left="153" width="67" height="15" font="2">Total Sulfur</text>
+<text top="776" left="426" width="27" height="15" font="2">&lt;1.0</text>
+<text top="776" left="586" width="26" height="15" font="2">ppm</text>
+<text top="778" left="736" width="4" height="15" font="2">-</text>
+<text top="799" left="27" width="40" height="15" font="2">D5599</text>
+<text top="799" left="153" width="55" height="15" font="2">Methanol</text>
+<text top="799" left="426" width="27" height="15" font="2">&lt;0.1</text>
+<text top="798" left="586" width="25" height="15" font="2">wt%</text>
+<text top="801" left="736" width="4" height="15" font="2">-</text>
+<text top="821" left="27" width="40" height="15" font="2">D5599</text>
+<text top="821" left="153" width="46" height="15" font="2">Ethanol</text>
+<text top="821" left="426" width="27" height="15" font="2">&lt;0.1</text>
+<text top="821" left="586" width="25" height="15" font="2">wt%</text>
+<text top="823" left="736" width="4" height="15" font="2">-</text>
+<text top="844" left="27" width="40" height="15" font="2">D5599</text>
+<text top="844" left="153" width="70" height="15" font="2">Isopropanol</text>
+<text top="844" left="426" width="27" height="15" font="2">&lt;0.1</text>
+<text top="843" left="586" width="25" height="15" font="2">wt%</text>
+<text top="846" left="736" width="4" height="15" font="2">-</text>
+<text top="866" left="27" width="40" height="15" font="2">D5599</text>
+<text top="866" left="153" width="69" height="15" font="2">tert-Butanol</text>
+<text top="866" left="426" width="27" height="15" font="2">&lt;0.1</text>
+<text top="866" left="586" width="25" height="15" font="2">wt%</text>
+<text top="868" left="736" width="4" height="15" font="2">-</text>
+<text top="889" left="27" width="40" height="15" font="2">D5599</text>
+<text top="889" left="153" width="66" height="15" font="2">n-Propanol</text>
+<text top="889" left="426" width="27" height="15" font="2">&lt;0.1</text>
+<text top="888" left="586" width="25" height="15" font="2">wt%</text>
+<text top="891" left="736" width="4" height="15" font="2">-</text>
+<text top="911" left="27" width="40" height="15" font="2">D5599</text>
+<text top="911" left="153" width="37" height="15" font="2">MTBE</text>
+<text top="911" left="426" width="27" height="15" font="2">&lt;0.1</text>
+<text top="911" left="586" width="25" height="15" font="2">wt%</text>
+<text top="913" left="736" width="4" height="15" font="2">-</text>
+<text top="934" left="27" width="40" height="15" font="2">D5599</text>
+<text top="934" left="153" width="71" height="15" font="2">sec-Butanol</text>
+<text top="934" left="426" width="27" height="15" font="2">&lt;0.1</text>
+<text top="933" left="586" width="25" height="15" font="2">wt%</text>
+<text top="936" left="736" width="4" height="15" font="2">-</text>
+<text top="956" left="27" width="40" height="15" font="2">D5599</text>
+<text top="956" left="153" width="31" height="15" font="2">DIPE</text>
+<text top="956" left="426" width="27" height="15" font="2">&lt;0.1</text>
+<text top="956" left="586" width="25" height="15" font="2">wt%</text>
+<text top="958" left="736" width="4" height="15" font="2">-</text>
+<text top="979" left="27" width="40" height="15" font="2">D5599</text>
+<text top="979" left="153" width="62" height="15" font="2">Isobutanol</text>
+<text top="979" left="426" width="27" height="15" font="2">&lt;0.1</text>
+<text top="978" left="586" width="25" height="15" font="2">wt%</text>
+<text top="981" left="736" width="4" height="15" font="2">-</text>
+<text top="1001" left="27" width="40" height="15" font="2">D5599</text>
+<text top="1001" left="153" width="35" height="15" font="2">ETBE</text>
+<text top="1001" left="426" width="27" height="15" font="2">&lt;0.1</text>
+<text top="1001" left="586" width="25" height="15" font="2">wt%</text>
+<text top="1003" left="736" width="4" height="15" font="2">-</text>
+<text top="1024" left="27" width="40" height="15" font="2">D5599</text>
+<text top="1024" left="153" width="77" height="15" font="2">tert-Pentanol</text>
+<text top="1024" left="426" width="27" height="15" font="2">&lt;0.1</text>
+<text top="1023" left="586" width="25" height="15" font="2">wt%</text>
+<text top="1026" left="736" width="4" height="15" font="2">-</text>
+<text top="1046" left="27" width="40" height="15" font="2">D5599</text>
+<text top="1046" left="153" width="57" height="15" font="2">n-Butanol</text>
+<text top="1046" left="426" width="27" height="15" font="2">&lt;0.1</text>
+<text top="1046" left="586" width="25" height="15" font="2">wt%</text>
+<text top="1048" left="736" width="4" height="15" font="2">-</text>
+<text top="1142" left="455" width="7" height="15" font="2">1</text>
+<text top="1097" left="372" width="172" height="12" font="4">13615 River Road, Luling, LA 70070</text>
+<text top="1115" left="333" width="251" height="12" font="4">Phone: (985) 785-0765   Email: cgi@coastalgulf.com</text>
+<text top="439" left="27" width="32" height="15" font="2">D130</text>
+<text top="439" left="153" width="137" height="15" font="2">Corrosion Copper Strip</text>
+<text top="439" left="426" width="16" height="15" font="2">1A</text>
+<text top="621" left="736" width="4" height="15" font="2">-</text>
+<text top="641" left="27" width="32" height="15" font="2">D381</text>
+<text top="641" left="153" width="158" height="15" font="2">Gums Existent, Unwashed</text>
+<text top="641" left="426" width="27" height="15" font="2">&lt;0.5</text>
+<text top="641" left="586" width="67" height="15" font="2">mg/100 mL</text>
+<text top="686" left="27" width="40" height="15" font="2">D4176</text>
+<text top="686" left="153" width="97" height="15" font="2">Clear and Bright</text>
+<text top="686" left="426" width="30" height="15" font="2">Pass</text>
+<text top="662" left="27" width="32" height="15" font="2">D381</text>
+<text top="662" left="153" width="143" height="15" font="2">Gums Existent, Washed</text>
+<text top="665" left="426" width="8" height="12" font="5">&lt;</text>
+<text top="662" left="433" width="19" height="15" font="2">0.5</text>
+<text top="662" left="586" width="67" height="15" font="2">mg/100 mL</text>
+<text top="100" left="722" width="123" height="14" font="6">4/12/2021  9:46:56PM</text>
+<text top="641" left="736" width="4" height="15" font="5">-</text>
+<text top="662" left="736" width="4" height="15" font="5">-</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="699" left="641" width="144" height="37" src="./../output_data/1234/560/102634_HTCO3100_Raffinate_B20210412002_XOM_Final/102634_HTCO3100_Raffinate_B20210412002_XOM_Final-2_1.png"/>
+<image top="684" left="72" width="168" height="45" src="./../output_data/1234/560/102634_HTCO3100_Raffinate_B20210412002_XOM_Final/102634_HTCO3100_Raffinate_B20210412002_XOM_Final-2_2.png"/>
+<text top="91" left="696" width="52" height="15" font="2">5408894</text>
+<text top="37" left="699" width="45" height="15" font="2">102634</text>
+<text top="37" left="260" width="72" height="15" font="2">HTCO 3100</text>
+<text top="39" left="36" width="117" height="15" font="3"><b>Vessel/Equipment:</b></text>
+<text top="75" left="68" width="54" height="15" font="3"><b>Product:</b></text>
+<text top="93" left="65" width="58" height="15" font="3"><b>Terminal:</b></text>
+<text top="111" left="69" width="52" height="15" font="3"><b>Subject:</b></text>
+<text top="39" left="473" width="80" height="15" font="3"><b>File Number:</b></text>
+<text top="75" left="493" width="41" height="15" font="3"><b>Client:</b></text>
+<text top="93" left="459" width="108" height="15" font="3"><b>Client Reference:</b></text>
+<text top="91" left="206" width="179" height="15" font="2">ExxonMobil, Baton Rouge, LA</text>
+<text top="109" left="245" width="101" height="15" font="2">Barge After Load</text>
+<text top="73" left="269" width="53" height="15" font="2">Raffinate</text>
+<text top="57" left="473" width="81" height="15" font="3"><b>Lab Number:</b></text>
+<text top="55" left="676" width="91" height="15" font="2">B20210412002</text>
+<text top="57" left="59" width="71" height="15" font="3"><b>Shore Tank</b></text>
+<text top="55" left="259" width="73" height="15" font="2">Meter Ticket</text>
+<text top="73" left="687" width="69" height="15" font="2">ExxonMobil</text>
+<text top="137" left="27" width="40" height="15" font="2">D5599</text>
+<text top="137" left="153" width="36" height="15" font="2">TAME</text>
+<text top="137" left="426" width="27" height="15" font="2">&lt;0.1</text>
+<text top="136" left="586" width="25" height="15" font="2">wt%</text>
+<text top="139" left="736" width="4" height="15" font="2">-</text>
+<text top="160" left="27" width="40" height="15" font="2">D5599</text>
+<text top="160" left="153" width="78" height="15" font="2">Total Oxygen</text>
+<text top="160" left="426" width="27" height="15" font="2">&lt;0.1</text>
+<text top="159" left="586" width="25" height="15" font="2">wt%</text>
+<text top="161" left="736" width="4" height="15" font="2">-</text>
+<text top="182" left="27" width="40" height="15" font="2">D7671</text>
+<text top="182" left="153" width="95" height="15" font="2">Silver Corrosion</text>
+<text top="182" left="426" width="7" height="15" font="2">0</text>
+<text top="184" left="736" width="4" height="15" font="2">-</text>
+<text top="205" left="27" width="40" height="15" font="2">D7671</text>
+<text top="205" left="153" width="75" height="15" font="2">Temperature</text>
+<text top="205" left="426" width="15" height="15" font="2">50</text>
+<text top="204" left="586" width="15" height="15" font="2">°C</text>
+<text top="206" left="736" width="4" height="15" font="2">-</text>
+<text top="227" left="27" width="40" height="15" font="2">D7671</text>
+<text top="227" left="153" width="51" height="15" font="2">Duration</text>
+<text top="227" left="426" width="7" height="15" font="2">3</text>
+<text top="226" left="586" width="36" height="15" font="2">Hours</text>
+<text top="229" left="736" width="4" height="15" font="2">-</text>
+<text top="250" left="27" width="25" height="15" font="2">D86</text>
+<text top="250" left="153" width="139" height="15" font="2">Distillation Corrected to</text>
+<text top="250" left="426" width="60" height="15" font="2">101.3 kPa</text>
+<text top="251" left="736" width="4" height="15" font="2">-</text>
+<text top="272" left="27" width="25" height="15" font="2">D86</text>
+<text top="272" left="153" width="110" height="15" font="2">Initial Boiling Point</text>
+<text top="272" left="426" width="34" height="15" font="2">143.9</text>
+<text top="271" left="586" width="14" height="15" font="2">°F</text>
+<text top="274" left="736" width="4" height="15" font="2">-</text>
+<text top="295" left="27" width="25" height="15" font="2">D86</text>
+<text top="295" left="153" width="88" height="15" font="2">5% Recovered</text>
+<text top="295" left="426" width="34" height="15" font="2">153.0</text>
+<text top="294" left="586" width="14" height="15" font="2">°F</text>
+<text top="296" left="736" width="4" height="15" font="2">-</text>
+<text top="317" left="27" width="25" height="15" font="2">D86</text>
+<text top="317" left="153" width="96" height="15" font="2">10% Recovered</text>
+<text top="317" left="426" width="34" height="15" font="2">155.1</text>
+<text top="316" left="586" width="14" height="15" font="2">°F</text>
+<text top="319" left="736" width="4" height="15" font="2">-</text>
+<text top="340" left="27" width="25" height="15" font="2">D86</text>
+<text top="340" left="153" width="96" height="15" font="2">20% Recovered</text>
+<text top="340" left="426" width="34" height="15" font="2">157.6</text>
+<text top="339" left="586" width="14" height="15" font="2">°F</text>
+<text top="341" left="736" width="4" height="15" font="2">-</text>
+<text top="362" left="27" width="25" height="15" font="2">D86</text>
+<text top="362" left="153" width="96" height="15" font="2">30% Recovered</text>
+<text top="362" left="426" width="34" height="15" font="2">160.6</text>
+<text top="361" left="586" width="14" height="15" font="2">°F</text>
+<text top="364" left="736" width="4" height="15" font="2">-</text>
+<text top="385" left="27" width="25" height="15" font="2">D86</text>
+<text top="385" left="153" width="96" height="15" font="2">40% Recovered</text>
+<text top="385" left="426" width="34" height="15" font="2">163.0</text>
+<text top="384" left="586" width="14" height="15" font="2">°F</text>
+<text top="386" left="736" width="4" height="15" font="2">-</text>
+<text top="407" left="27" width="25" height="15" font="2">D86</text>
+<text top="407" left="153" width="96" height="15" font="2">50% Recovered</text>
+<text top="407" left="426" width="34" height="15" font="2">166.2</text>
+<text top="406" left="586" width="14" height="15" font="2">°F</text>
+<text top="409" left="736" width="4" height="15" font="2">-</text>
+<text top="430" left="27" width="25" height="15" font="2">D86</text>
+<text top="430" left="153" width="96" height="15" font="2">60% Recovered</text>
+<text top="430" left="426" width="34" height="15" font="2">170.0</text>
+<text top="429" left="586" width="14" height="15" font="2">°F</text>
+<text top="431" left="736" width="4" height="15" font="2">-</text>
+<text top="452" left="27" width="25" height="15" font="2">D86</text>
+<text top="452" left="153" width="96" height="15" font="2">70% Recovered</text>
+<text top="452" left="426" width="34" height="15" font="2">175.2</text>
+<text top="451" left="586" width="14" height="15" font="2">°F</text>
+<text top="454" left="736" width="4" height="15" font="2">-</text>
+<text top="475" left="27" width="25" height="15" font="2">D86</text>
+<text top="475" left="153" width="96" height="15" font="2">80% Recovered</text>
+<text top="475" left="426" width="34" height="15" font="2">183.0</text>
+<text top="474" left="586" width="14" height="15" font="2">°F</text>
+<text top="476" left="736" width="4" height="15" font="2">-</text>
+<text top="497" left="27" width="25" height="15" font="2">D86</text>
+<text top="497" left="153" width="96" height="15" font="2">90% Recovered</text>
+<text top="497" left="426" width="34" height="15" font="2">195.6</text>
+<text top="496" left="586" width="14" height="15" font="2">°F</text>
+<text top="499" left="736" width="4" height="15" font="2">-</text>
+<text top="520" left="27" width="25" height="15" font="2">D86</text>
+<text top="520" left="153" width="96" height="15" font="2">95% Recovered</text>
+<text top="520" left="426" width="34" height="15" font="2">206.6</text>
+<text top="519" left="586" width="14" height="15" font="2">°F</text>
+<text top="521" left="736" width="4" height="15" font="2">-</text>
+<text top="542" left="27" width="25" height="15" font="2">D86</text>
+<text top="542" left="153" width="107" height="15" font="2">Final Boiling Point</text>
+<text top="542" left="426" width="34" height="15" font="2">233.7</text>
+<text top="541" left="586" width="14" height="15" font="2">°F</text>
+<text top="544" left="736" width="4" height="15" font="2">-</text>
+<text top="565" left="27" width="25" height="15" font="2">D86</text>
+<text top="565" left="153" width="99" height="15" font="2">90% Evaporated</text>
+<text top="565" left="426" width="34" height="15" font="2">193.7</text>
+<text top="564" left="586" width="14" height="15" font="2">°F</text>
+<text top="566" left="736" width="4" height="15" font="2">-</text>
+<text top="587" left="27" width="25" height="15" font="2">D86</text>
+<text top="587" left="153" width="57" height="15" font="2">Recovery</text>
+<text top="587" left="426" width="26" height="15" font="2">98.0</text>
+<text top="586" left="586" width="12" height="15" font="2">%</text>
+<text top="589" left="736" width="4" height="15" font="2">-</text>
+<text top="610" left="27" width="25" height="15" font="2">D86</text>
+<text top="610" left="153" width="49" height="15" font="2">Residue</text>
+<text top="610" left="426" width="19" height="15" font="2">1.0</text>
+<text top="609" left="586" width="12" height="15" font="2">%</text>
+<text top="611" left="736" width="4" height="15" font="2">-</text>
+<text top="632" left="27" width="25" height="15" font="2">D86</text>
+<text top="632" left="153" width="28" height="15" font="2">Loss</text>
+<text top="632" left="426" width="19" height="15" font="2">0.9</text>
+<text top="631" left="586" width="12" height="15" font="2">%</text>
+<text top="634" left="736" width="4" height="15" font="2">-</text>
+<text top="655" left="27" width="35" height="15" font="2">IP377</text>
+<text top="655" left="153" width="40" height="15" font="2">Silicon</text>
+<text top="655" left="426" width="23" height="15" font="2">&lt;10</text>
+<text top="654" left="586" width="26" height="15" font="2">ppm</text>
+<text top="656" left="736" width="4" height="15" font="2">-</text>
+<text top="777" left="567" width="81" height="15" font="2">Reviewed by:</text>
+<text top="777" left="675" width="86" height="15" font="2">Glenn Hanson</text>
+<text top="795" left="675" width="111" height="15" font="2">VP of Laboratories</text>
+<text top="777" left="33" width="46" height="15" font="2">Signed:</text>
+<text top="732" left="27" width="13" height="15" font="2">X </text>
+<text top="729" left="568" width="13" height="15" font="2">X </text>
+<text top="776" left="102" width="96" height="15" font="2">Aaron Manguno</text>
+<text top="800" left="102" width="132" height="15" font="2">Laboratory Supervisor</text>
+<text top="1142" left="455" width="7" height="15" font="2">2</text>
+<text top="1097" left="372" width="172" height="12" font="4">13615 River Road, Luling, LA 70070</text>
+<text top="1115" left="333" width="251" height="12" font="4">Phone: (985) 785-0765   Email: cgi@coastalgulf.com</text>
+</page>
+</pdf2xml>

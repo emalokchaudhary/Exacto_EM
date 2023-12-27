@@ -1,0 +1,49 @@
+                                                 Remit to:
+                             Coastal Gulf & International, Inc.
+                                Routing 065402423 acct 3113892                           Date           Inv No
+                               PO Box 429 Kenner, LA 70063-0429
+                                      985-785-0765 ext 213                          4/9/2021          306271
+
+
+
+ BILL TO                                                                    JOB INFORMATION
+
+ExxonMobil Oil Corporation                                "CBC 55"
+Attn: Accounts Payable                                    EHC 45 / 65
+22777 Springwoods Village Parkway                         Report of Loading
+Spring, TX 77389                                          at ITC
+(Upload to Navarik)                                       Deer Park, Texas
+
+    P.O. No.             2021-ITC-BPAL-EHC-09                               Date Worked           File Number
+
+ Scheduler Name             Randall Rodgers                                   4/4/2021             102471
+
+                             Description                              Qty          Rate               Amount
+
+Enabling Service Agreement - A4002567
+Ref.# 5343656-30
+
+Survey of Inland Barge ($505/barge)                                    1                 505.00           505.00
+
+
+Analysis of "CBC 55" EHC 45                                            1                 122.00           122.00
+D156, Saybolt Color- $36.00
+D445, Viscosity – Kinematic at 100°C - $66.00
+Visual, Appearance- $20.00
+Analysis of "CBC 55" EHC 65                                            1                 122.00           122.00
+D156, Saybolt Color- $36.00
+D445, Viscosity – Kinematic at 100°C - $66.00
+Visual, Appearance- $20.00
+
+
+Subtotal of Invoice Before Discount                                                                       749.00
+Navarik E-Enablement Discount (2%)                                                   -2.00%               -14.98
+
+
+
+
+                                                                      INVOICE TOTAL:                    $734.02
+  We understand that you have a
+  choice . . . Thanks for choosing              Terms             30 Net
+                 CGI
+

@@ -1,0 +1,109 @@
+TRIP: INTV007CRU-2102-0080                                                                     21E565179 VER 2 (ISSUED)
+
+ Region: EAME                                                                              Other Reference:
+Operator: PAUL O'HARE (europe.crudeops@exxonmobil.com)                                      Business Group: MTO CRUDE
+  Phone:                                                                                              Desk:
+ Mobile:                                                                                   Nomination Type: Marine
+
+Revision Comment: Added Methanol test, please expedite if possible
+
+
+Documentary Instructions: n/a
+
+
+ DISCHARGE: JASMINE KNUTSEN (9273557) - TEAM TERMINAL ENED (NETHERLANDS)
+                                       Inspector: Saybolt                           Inspection Status:     Accepted
+                                             Hub: Europe/Africa/Russia/ME (Interna-       Created On:      23 Mar 2021 by Exxon-
+                                                  tional Desk Rotterdam)                                   Mobil Webservice
+                                    Coordinator: Chahida Benkoula (int-                 Last Modified:     06 Apr 2021 by Chahida
+                                                  desk.saynl@corelab.com)                                  Benkoula
+                                    Local Office:
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5287432-20
+                                           Grade: WESTERN ISLES                      Contract Number:
+                                             ETA: 26 Mar 2021                              Parcel Ref:
+                                             ETD:                                         Destination:
+                  Supply Contract Window Start: n/a                                  Source Location:
+                   Supply Contract Window End: n/a                                           Supplier:
+                      Total Nominated Quantity: 331,082 Barrels                              Receiver:
+Transport / Voyage Number / Quantity / Tolerance: JASMINE KNUTSEN (9273557) /         Delivery Terms:
+                                                  331,082 Barrels +/- 10 pct
+                                                                                       Mother Vessel:
+
+Quality Inspection Instructions:
+SET 1
+            Description:
+       Sample Location: Vessel/Barge Composite
+Quality Test Comments:
+IP 365/386/14 for Fawley only
+
+
+
+
+                                                                                                 RO = Report Only          Req. = Required
+ Test                  Methods                                         Min   Max   UOM         Typical   R.O.       Req.     Comment
+ API Gravity at        [ASTM] ASTM D1298, [ASTM] ASTM D5002, [IP] IP               API@60°F              No         Yes
+ 60°F                  365
+ Sediment Con-         [ASTM] ASTM D4807, [ASTM] ASTM D473                         %m                    No         Yes
+ tent
+ Water                 [ASTM] ASTM D4006, [ASTM] ASTM D4377,                       mg/kg                 No         Yes
+                       [ASTM] ASTM D4928
+ Water content         [IP] IP 386                                                 mg/kg                 No         No
+ Sediment by Ex-       [IP] IP 14                                                  %m                    No         No
+ traction
+
+SET 2
+    Description:
+Sample Location: Shore In-Line Sample
+
+                                                                                                 RO = Report Only          Req. = Required
+ Test                    Methods                                       Min   Max   UOM         Typical   R.O.       Req.     Comment
+ API Gravity at 60°F     [ASTM] ASTM D5002, [IP] IP 365, [ASTM] ASTM               API@60°F              No         Yes
+                         D1298
+ Sediment Content        [ASTM] ASTM D473, [ASTM] ASTM D4807                       %m                    No         Yes
+
+
+                                                           Page 1 of 2
+TRIP: INTV007CRU-2102-0080                                                                          21E565179 VER 2 (ISSUED)
+
+                                                                                                      RO = Report Only          Req. = Required
+ Test                   Methods                                         Min   Max   UOM             Typical   R.O.       Req.     Comment
+ Water                  [ASTM] ASTM D4006, [ASTM] ASTM D4928,                       mg/kg                     No         Yes
+                        [ASTM] ASTM D4377
+ Water content          [IP] IP 386                                                 mg/kg                     No         No
+ Sediment by Extrac-    [IP] IP 14                                                  %m                        No         No
+ tion
+ Sulfur                 [ASTM] ASTM D2622                                           g/kg                      No         Yes
+ Kinematic Viscosity    [ASTM] ASTM D445                                            mm²/s                     No         Yes
+ at 40°C
+ Additional Tests
+ Methanol Content       [ASTM] ASTM D7059                                           %vol                      No         Yes
+
+Invoice Instructions:
+  Bill Invoice To                                                              Item to Bill               Split      Contact / Comment
+ Esso Nederland BV (Legal Entity: Esso Nederland BV (0530))                    Quantity only              50%
+                                                                               Slate: *CRUDE DIS-         50%
+                                                                               CHARGE
+                                                                               Slate: *CRUDE DIS-         50%
+                                                                               CHARGE
+                                                                               Slate: *Crude dis-         100%
+                                                                               charge sulphur
+ DANA PETROLEUM E&P LTD                                                        Quantity only              50%
+                                                                               Slate: *CRUDE DIS-         50%
+                                                                               CHARGE
+                                                                               Slate: *CRUDE DIS-         50%
+                                                                               CHARGE
+                                                                               Test: Methanol Con-        50%
+                                                                               tent
+ 4058 - EMSUS Exxon Mobil Sales And Supply LLC (Legal Entity: ExxonMobil       Test: Methanol Con-        50%
+ Sales & Supply LLC (EMSS) (4058))                                             tent
+
+Recipient List:
+intdesk.saynl@corelab.com
+                                                                                                                   REPORT GENERATED 06 APR 2021
+
+
+
+
+                                                              Page 2 of 2
+

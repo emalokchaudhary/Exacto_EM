@@ -1,0 +1,195 @@
+
+2022-04-18 11:16:53,314:__main__:
+Filename: Reference-5009013-20210202_045002-7113.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 520, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 131, in drive_nlp_flow
+    custom_field_dict = custom_extractor_obj.extract_custom_fields()
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 119, in extract_custom_fields
+    for base_fname in self.pattern_files_dict:
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 45, in pattern_files_dict
+    for file in os.listdir(self.pattern_folderpath):
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/pradeep/eips/exacto/static/eips_data/user_active_learning_data/82e63ecf/api test'
+
+2022-04-18 11:22:20,770:__main__:
+Filename: Reference-5009013-20210202_045002-7113.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 520, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 131, in drive_nlp_flow
+    custom_field_dict = custom_extractor_obj.extract_custom_fields()
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 119, in extract_custom_fields
+    for base_fname in self.pattern_files_dict:
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 45, in pattern_files_dict
+    for file in os.listdir(self.pattern_folderpath):
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/pradeep/eips/exacto/static/eips_data/user_active_learning_data/82e63ecf/api test'
+
+2022-04-18 11:22:20,770:__main__:
+Filename: Reference-5009013-20210202_045002-7113.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 520, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 131, in drive_nlp_flow
+    custom_field_dict = custom_extractor_obj.extract_custom_fields()
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 119, in extract_custom_fields
+    for base_fname in self.pattern_files_dict:
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 45, in pattern_files_dict
+    for file in os.listdir(self.pattern_folderpath):
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/pradeep/eips/exacto/static/eips_data/user_active_learning_data/82e63ecf/api test'
+
+2022-04-18 11:26:15,299:__main__:
+Filename: ARLINGTON ( Invoice No. 22352089-00 ).pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 520, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 131, in drive_nlp_flow
+    custom_field_dict = custom_extractor_obj.extract_custom_fields()
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 119, in extract_custom_fields
+    for base_fname in self.pattern_files_dict:
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 45, in pattern_files_dict
+    for file in os.listdir(self.pattern_folderpath):
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/pradeep/eips/exacto/static/eips_data/user_active_learning_data/82e63ecf/api test'
+
+2022-04-18 11:26:15,299:__main__:
+Filename: ARLINGTON ( Invoice No. 22352089-00 ).pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 520, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 131, in drive_nlp_flow
+    custom_field_dict = custom_extractor_obj.extract_custom_fields()
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 119, in extract_custom_fields
+    for base_fname in self.pattern_files_dict:
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 45, in pattern_files_dict
+    for file in os.listdir(self.pattern_folderpath):
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/pradeep/eips/exacto/static/eips_data/user_active_learning_data/82e63ecf/api test'
+
+2022-04-18 11:26:15,299:__main__:
+Filename: ARLINGTON ( Invoice No. 22352089-00 ).pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 520, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 131, in drive_nlp_flow
+    custom_field_dict = custom_extractor_obj.extract_custom_fields()
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 119, in extract_custom_fields
+    for base_fname in self.pattern_files_dict:
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 45, in pattern_files_dict
+    for file in os.listdir(self.pattern_folderpath):
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/pradeep/eips/exacto/static/eips_data/user_active_learning_data/82e63ecf/api test'
+
+2022-04-18 11:27:50,148:__main__:
+Filename: ARLINGTON ( Invoice No. 22352089-00 ).pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 520, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 131, in drive_nlp_flow
+    custom_field_dict = custom_extractor_obj.extract_custom_fields()
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 119, in extract_custom_fields
+    for base_fname in self.pattern_files_dict:
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 45, in pattern_files_dict
+    for file in os.listdir(self.pattern_folderpath):
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/pradeep/eips/exacto/static/eips_data/user_active_learning_data/82e63ecf/api test'
+
+2022-04-18 11:27:50,148:__main__:
+Filename: ARLINGTON ( Invoice No. 22352089-00 ).pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 520, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 131, in drive_nlp_flow
+    custom_field_dict = custom_extractor_obj.extract_custom_fields()
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 119, in extract_custom_fields
+    for base_fname in self.pattern_files_dict:
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 45, in pattern_files_dict
+    for file in os.listdir(self.pattern_folderpath):
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/pradeep/eips/exacto/static/eips_data/user_active_learning_data/82e63ecf/api test'
+
+2022-04-18 11:27:50,148:__main__:
+Filename: ARLINGTON ( Invoice No. 22352089-00 ).pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 520, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 131, in drive_nlp_flow
+    custom_field_dict = custom_extractor_obj.extract_custom_fields()
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 119, in extract_custom_fields
+    for base_fname in self.pattern_files_dict:
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 45, in pattern_files_dict
+    for file in os.listdir(self.pattern_folderpath):
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/pradeep/eips/exacto/static/eips_data/user_active_learning_data/82e63ecf/api test'
+
+2022-04-18 11:27:50,148:__main__:
+Filename: ARLINGTON ( Invoice No. 22352089-00 ).pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 520, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 131, in drive_nlp_flow
+    custom_field_dict = custom_extractor_obj.extract_custom_fields()
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 119, in extract_custom_fields
+    for base_fname in self.pattern_files_dict:
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 45, in pattern_files_dict
+    for file in os.listdir(self.pattern_folderpath):
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/pradeep/eips/exacto/static/eips_data/user_active_learning_data/82e63ecf/api test'
+
+2022-04-18 11:31:32,861:__main__:
+Filename: Invoice_INV168613-02-08-2021.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 520, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 131, in drive_nlp_flow
+    custom_field_dict = custom_extractor_obj.extract_custom_fields()
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 119, in extract_custom_fields
+    for base_fname in self.pattern_files_dict:
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 45, in pattern_files_dict
+    for file in os.listdir(self.pattern_folderpath):
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/pradeep/eips/exacto/static/eips_data/user_active_learning_data/82e63ecf/api test'
+
+2022-04-18 11:31:32,861:__main__:
+Filename: Invoice_INV168613-02-08-2021.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 520, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 131, in drive_nlp_flow
+    custom_field_dict = custom_extractor_obj.extract_custom_fields()
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 119, in extract_custom_fields
+    for base_fname in self.pattern_files_dict:
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 45, in pattern_files_dict
+    for file in os.listdir(self.pattern_folderpath):
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/pradeep/eips/exacto/static/eips_data/user_active_learning_data/82e63ecf/api test'
+
+2022-04-18 11:31:32,861:__main__:
+Filename: Invoice_INV168613-02-08-2021.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 520, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 131, in drive_nlp_flow
+    custom_field_dict = custom_extractor_obj.extract_custom_fields()
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 119, in extract_custom_fields
+    for base_fname in self.pattern_files_dict:
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 45, in pattern_files_dict
+    for file in os.listdir(self.pattern_folderpath):
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/pradeep/eips/exacto/static/eips_data/user_active_learning_data/82e63ecf/api test'
+
+2022-04-18 11:31:32,861:__main__:
+Filename: Invoice_INV168613-02-08-2021.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 520, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 131, in drive_nlp_flow
+    custom_field_dict = custom_extractor_obj.extract_custom_fields()
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 119, in extract_custom_fields
+    for base_fname in self.pattern_files_dict:
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 45, in pattern_files_dict
+    for file in os.listdir(self.pattern_folderpath):
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/pradeep/eips/exacto/static/eips_data/user_active_learning_data/82e63ecf/api test'
+
+2022-04-18 11:31:32,861:__main__:
+Filename: Invoice_INV168613-02-08-2021.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 520, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 131, in drive_nlp_flow
+    custom_field_dict = custom_extractor_obj.extract_custom_fields()
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 119, in extract_custom_fields
+    for base_fname in self.pattern_files_dict:
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/ExtractCustomFields/CustomFieldsExtractor.py", line 45, in pattern_files_dict
+    for file in os.listdir(self.pattern_folderpath):
+FileNotFoundError: [Errno 2] No such file or directory: '/drive/mnt/pradeep/eips/exacto/static/eips_data/user_active_learning_data/82e63ecf/api test'

@@ -1,0 +1,59 @@
+CLEANED !!!
+TRIP: USEBARGFIN-2011-006                                                                          20E546055 VER 2 (ISSUED)
+
+Quality Inspection Instructions:
+SET 1
+            Description:
+       Sample Location: Shore Tank Composite (Running)
+Quality Test Comments:
+PLEASE REPORT ZINC ON SEPARATE COA
+
+PLEASE TEST FLASH FOR BOTH PROCEDURE A AND B
+
+
+
+
+                                                                                                     RO = Report Only            Req. = Required
+ Test                        Methods                                       Min    Max   UOM        Typical     R.O.       Req.     Comment
+ Aluminium                   [IP] IP 377, [IP] IP 501                                   mg/kg                  No         Yes
+ API Gravity at 60 F         [ASTM] ASTM D1298, [ASTM] ASTM D4052                       API@60 F               No         Yes
+ Ash Content                 [ASTM] ASTM D482                                           %m/m                   No         Yes
+ Asphaltenes                 [IP] IP 143                                                %m/m                   No         Yes
+ Conradson Carbon            [ASTM] ASTM D189, [ASTM] ASTM D4530                        %m/m                   No         Yes
+ Residue
+ Flash Point (PMCC)          [ASTM] ASTM D93, [ASTM] ASTM D93 Pro-                       F                     No         Yes
+                             cedure B
+ Potassium                   [IP] IP 501                                                mg/kg                  No         Yes
+ Pour Point                  [ASTM] ASTM D97                                             F                     No         Yes
+ Silicon                     [IP] IP 501, [IP] IP 377                                   mg/kg                  No         Yes
+ Sodium                      [IP] IP 501                                                mg/kg                  No         Yes
+ Sulfur                      [ASTM] ASTM D4294                                          g/kg                   No         Yes
+ Vanadium                    [IP] IP 501                                                mg/kg                  No         Yes
+ Viscosity @ 50 C (122 F),   [ASTM] ASTM D445                                                                  No         Yes
+ CST
+ H2S in Vapor                [ASTM] ASTM D5705                                          ppm v/v                No         Yes
+ Water by Distillaton        [ASTM] ASTM D95                                            Vol %                  No         Yes
+ Sediment by Extraction      [ASTM] ASTM D473                                           %m                     No         Yes
+ Zinc                        [IP] IP 501                                                mg/kg                  No         Yes
+ Flash Point                 [ASTM] ASTM D93 Procedure A                                 F                     No         Yes
+
+Invoice Instructions:
+  Bill Invoice To                                                                 Item to Bill               Split     Contact / Comment
+ 3862 - ExxonMobil Oil Corporation (Legal Entity: ExxonMobil Oil Corp. (EMOC) -   Quantity only              50%
+ Mktg & Ref U.S. Gen Ledger (3862))
+                                                                                  Slate: US BLKO HAFO        50%
+                                                                                  SLATE 2020
+ CABOT CORPORATION                                                                Quantity only              50%
+                                                                                  Slate: US BLKO HAFO        50%
+                                                                                  SLATE 2020
+
+Recipient List:
+cgi@coastalgulf.com; bkraemer@coastalgulf.com
+eplaisance@apexoil.com; beilers@apexoil.com; pft4084@apexoil.com; jjackson@apexoil.com
+                                                                                                                     REPORT GENERATED 06 NOV 2020
+
+
+
+
+                                                              Page 2 of 2
+ 

@@ -1,0 +1,15 @@
+Product: Exxal 13                                                                       Terminal:              ExxonMobil
+Subject: Report of Loading                                                              Port:                  Baton Rouge, Louisiana
+ExxonMobil Ref. #: 4970977                                                              File Number:           XBR12822
+
+
+                                                      VESSEL MEASUREMENT REPORT
+                                                                        CBC 183 UPON ARRIVAL                        Ambient Temp  F: 57.0
+               Obs. Gauge      Gauge (Ft.)       Temp.                T.O.V.                 Water               API                        G.S.V
+   Tank          Height          Innage           ( F)                Barrels      Gauge             Barrels    @ 60  F    V.C. F           Barrels
+    1C         16' 07 1/8"      00' 00"           60.0                 0.00        00' 00"            0.00       35.0      1.00000           0.00
+    2P         16' 01 1/2"      00' 00"           60.0                 0.00        00' 00"            0.00       35.0      1.00000           0.00
+    2S         16' 03 1/8"      00' 00"           60.0                 0.00        00' 00"            0.00       35.0      1.00000           0.00
+    3P         16' 02 1/8"      00' 00"           60.0                 0.00        00' 00"            0.00       35.0      1.00000           0.00
+    3S         16' 03 5/8"      00' 00"           60.0                 0.00        00' 00"            0.00       35.0      1.00000           0.00
+    4C         16' 07 1/2"      00' 00"           60.0                 0.00        00' 00"            0.00       35.0      1.00000           0.00

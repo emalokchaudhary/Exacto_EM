@@ -1,0 +1,40 @@
+                              COASTAL GULF &
+                            INTERNATIONAL, INC.
+                                              "Precision"
+                                        Inspection & Analytical
+                                                Services
+                                 2104 S Southland, Gonzales, LA 70737
+                  ®             Phone (225) 231-4990 Fax (225) 231-7875                                                 Assuring accuracy through expertise!
+
+Vessel:               Kirby 28721 & 29112                                            Date:                   October 11, 2020
+Product:              Aromatic Concentrate                                           Terminal:               ExxonMobil
+Subject:              Report of Discharge                                            Port:                   Baton Rouge, Louisiana
+EMCC Ref. #: 5054187-20                                                              File Number:            XBR12716
+
+                                                 GAUGE HEIGHT REPORT
+                                             Barge Name:                            Kirby 28721
+    Tank No.            Observed Gauge Height Open                           Reference Gauge Height            Observed Gauge Height Close
+           1P                      16' 07 3/4''                                      16' 07 3/4"                           16' 07 3/4''
+           1S                      16' 08 3/4''                                      16' 08 3/4"                           16'0 8 3/4''
+           2P                      16' 08 1/2''                                      16' 08 1/2"                           16' 08 1/2''
+           2S                      16' 08 1/4''                                      16' 08 1/4"                           16' 08 1/4''
+           3P                      16' 05 3/4''                                      16' 05 3/4"                           16' 05 3/4''
+           3S                        16' 06''                                          16' 06"                               16' 06''
+
+
+
+
+                                    ANCILLARY TANK MEASUREMENTS
+                       Tank No.                        Observed Arrival Measurement                Observed Departure Measurement
+                        FWD                                               00' 00"                             00' 00"
+                         AFT                                              00' 00"                             00' 00"
+                        PORT                                              00' 00"                             00' 00"
+                         STB                                              00' 00"                             00' 00"
+
+
+
+
+Coastal Gulf & International, Inc.
+Jon Herrington
+Gonzales Communication Center                                                                                                   Version 7.1 04-19-20 JMH
+

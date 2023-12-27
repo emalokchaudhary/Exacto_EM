@@ -1,0 +1,27 @@
+Product:                Benzene                                                Terminal:           Ergon
+Subject:                Report of Loading                                      Port:               Baton Rouge, Louisiana
+EMCC Ref. #: 5323715-10                                                        File Number:        101794
+
+                                                         RECAPITULATION
+                OFFICIAL QUANTITY                                                           FOR REFERENCE ONLY
+
+SHORE FIGURES                                QUANTITY                           BARGE FIGURES                            QUANTITY
+Barrels                                           24,061.24                    Barrels                                        24,099.13
+Gallons                                        1,010,572.08                    Gallons                                     1,012,163.46
+Pounds                                         7,444,076.00                    Pounds                                      7,455,798.00
+Metric Tons                                       3,376.580                    Metric Tons                                    3,381.897
+Short Tons                                        3,722.038                    Short Tons                                     3,727.899
+Long Tons                                         3,323.248                    Long Tons                                      3,328.481
+
+
+                                                             For Comparison only
+                              VEF:               1.00250                         Barge With VEF Applied:           24,039.03
+
+BARGE FIGURES In Barrels
+BARGE                                         ARRIVAL                             DEPARTURE                            DIFFERENCE
+Chem 3712                                      216.82                               24,315.95                            24,099.13
+
+
+
+
+TOV BARRELS                                       216.82                               24,396.19                            24,179.37

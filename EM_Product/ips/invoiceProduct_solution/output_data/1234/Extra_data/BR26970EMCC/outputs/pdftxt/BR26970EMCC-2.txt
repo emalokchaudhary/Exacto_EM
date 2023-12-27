@@ -1,0 +1,42 @@
+CLEANED !!!
+                                 COASTAL GULF &
+                               INTERNATIONAL, INC.
+                                                "Precision"
+                                          Inspection & Analytical
+                                                  Services
+                               2104 South Southland Ave. Gonzales, LA 70737
+                                 Phone (225) 231-4990 Fax (225) 231-7875                     Assuring accuracy through expertise!
+
+Vessel:                  Chem 3245                                            Date:          October 24, 2020
+Product:                 Benzene                                              Terminal:      Ergon
+Subject:                 Report of Loading                                    Port:          Baton Rouge, Louisiana
+EMCC Ref. #: 5074792-10                                                       File Number:   BR26970
+
+
+                                                    TIME LOG OF EVENTS
+
+October 23, 2020            0001          hrs.      Barge(s) NOR Tendered
+October 23, 2020            2035          hrs.      Surveyor notified
+October 24, 2020            0430          hrs.      Barge(s) called in
+October 24, 2020            0734          hrs.      Surveyor arrived at terminal
+October 24, 2020            0810          hrs.      Barge(s) arrived
+October 24, 2020            0830          hrs.      Barge(s) docked
+October 24, 2020            0835          hrs.      Commenced arrival barge inspection
+October 24, 2020            0842          hrs.      Completed arrival barge inspection
+October 24, 2020            0855          hrs.      Cargo hose(s) connected
+October 24, 2020            0930          hrs.      Commenced transfer
+October 24, 2020            1328          hrs.      Surveyor notified
+October 24, 2020            1420          hrs.      Surveyor arrived at terminal
+October 24, 2020            1440          hrs.      Completed transfer
+October 24, 2020            1445          hrs.      Commenced departure barge inspection
+October 24, 2020            1525          hrs.      Cargo hose(s) disconnected
+October 24, 2020            1540          hrs.      Completed departure barge inspection
+October 24, 2020            1600          hrs.      Barge(s) Released
+
+
+
+
+Coastal Gulf & International, Inc.
+Rusty Mitchell
+Gonzales Communication Center                                                                                       Version 7.0 06-05-13 NLE
+ 

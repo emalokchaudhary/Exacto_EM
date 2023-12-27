@@ -1,0 +1,7 @@
+
+2022-01-25 09:46:17,176:__main__:
+Filename: 4681026.pdf. Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 545, in trigger_table
+    table_dict,_,_ = description_from_invoices(info_folder_path,user_id, config_id,'', dump=True)
+NameError: name 'info_folder_path' is not defined

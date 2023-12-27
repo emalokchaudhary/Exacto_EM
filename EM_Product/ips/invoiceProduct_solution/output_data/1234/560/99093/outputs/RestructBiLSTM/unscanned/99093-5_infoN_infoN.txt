@@ -1,0 +1,44 @@
+                                 COASTAL GULF &
+                               INTERNATIONAL, INC.
+                                              "Precision"
+                                        Inspection & Analytical
+                                                Services
+                                 13615 River Road, Luling, LA. 70070
+                  ®             Phone (985)785-0765 Fax (985)785-1328                                                Assuring accuracy through expertise!
+
+Vessel:               EMS 3001 & 3004B                                            Date:                  November 7, 2020
+Product:              CSO/MCB                                                     Terminal:              P.F.T.
+Subject:              Report of Loading                                           Port:                  Mt Airy, Louisiana
+ExxonMobil Ref. #: 5107066-10                                                     File Number:           99093
+Cabot Ref. #: 108282-118106
+                                                GAUGE HEIGHT REPORT
+                                            Barge Name:                           EMS 3004B
+    Tank No.            Observed Gauge Height Open                         Reference Gauge Height           Observed Gauge Height Close
+       1 Port                       14' 02"                                       14' 05 3/4"                             14' 02"
+       1 Stbd                     14' 01 3/4"                                     14' 06 1/4"                           14' 01 3/4"
+       2 Port                       14' 06"                                       14' 06 1/4"                             14' 06"
+       2 Stbd                     14' 05 1/2"                                     14' 06 1/4"                           14' 05 1/2"
+       3 Port                       14' 06"                                       14' 06 1/2"                             14' 06"
+       3 Stbd                       14' 06"                                       14' 06 1/2"                             14' 06"
+
+
+
+
+                                      ANCILLARY TANK MEAURMENTS
+                       Tank No.                        Observed Arrival Measurment              Observed Departure Measurment
+                        BOW                                             00' 00"                            00' 00"
+                        1 Port                                          00' 00"                            00' 00"
+                        1 Stbd                                          00' 00"                            00' 00"
+                        2 Port                                          00' 00"                            00' 00"
+                        2 Stbd                                          00' 00"                            00' 00"
+                        3 Port                                          00' 00"                            00' 00"
+                        3 Stbd                                          00' 00"                            00' 00"
+                         AFT                                            00' 00"                            00' 00"
+
+
+
+
+Coastal Gulf & International, Inc.
+Bentley Kraemer
+Central Communication Center                                                                                                 Version 7.0 06-05-13 NLE
+

@@ -1,0 +1,990 @@
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Nwe Scheduler
+NW20343
+Job No                          12004/00129042.0000/01/I/21
+Report date                     02 Jan 2021
+Installation                    Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                          LS ANNE
+Product                         AP/E Core 150, AP/E CORE 600
+Outturn date: 31 Dec 2020                                                                                                                               Contents page
+Saybolt Nederland BV has performed a survey of the above mentioned object, the findings of the survey are reflected in the following reports:
+
+Title                                                                                                                                       Number of Pages
+Contents page                                                                                                                               one
+Cover Page Discharge                                                                                                                        two
+Time Log                                                                                                                                    two
+Summary Discharge (GSV)                                                                                                                     two
+Shore Tank Report Single                                                                                                                    three
+Ullage Report Arrival                                                                                                                       two
+Ullage Report LoadPort                                                                                                                      two
+After Discharge Report                                                                                                                      two
+Sample Report                                                                                                                               two
+Vessel Experience Report                                                                                                                    one
+
+This report consists of 19 pages.
+A copy of this report and all field documents and related correspondence will be retained for a period of 10 years, unless local law requires
+otherwise
+
+
+
+
+Handled by: Corla Lakerveld
+
+This report reflects only the findings at the time and place of the inspection and testing. This report is not a guarantee or policy of insurance with respect to the goods or
+the contractual performance of any party. Any person relying upon this report should be aware that issuer's activities are carried out under their general terms and
+conditions.
+
+
+
+
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                Date: 02 Jan 2021 04:56
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                    Page 1 of 19
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 CNT V4.1.1.2 2020/05/18
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Nwe Scheduler
+NW20343
+Job No                          12004/00129042.0000/01/I/21
+Report date                     02 Jan 2021
+Installation                    Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                          LS ANNE
+Product                         AP/E Core 150
+                                                                                                                                                                 Cover Page Discharge
+Discharge data
+Quantity data
+Outturn is based on:                                                                              Shore tank measurements
+Outturn figure amounts to GSV                                               Liters 15°C           2,310,589
+Outturn date                                                                                      31 Dec 2020
+Loadport                                                                                          PJG
+B/L Date                                                                                          26 Dec 2020
+Average product temperature onboard                                         °C                    21.02
+Calculation data
+Shore tank Volume conversion table used                                                           54D
+Vessel Volume conversion table used                                                               54D
+Shore data
+Discharge Installation                                                                            Vopak Terminal Vlaardingen
+Shore tank number(s)                                                                              5015
+Shore tank measurements were carried out with                                                     Shore equipment/ATG                                  by Automatic Tank Gauge
+Shore tank temperatures were carried out with                                                     Shore equipment/ATG                                  by Automatic Tank Temperature
+Vessel data
+Cargo stowed in cargo tanks                                                                       P2, S2, P5, S5
+Type of standpipes of vessel tanks                                                                Slotted
+Vessel tank measurement were carried out with                                                     Vessel/barge equipment/ATG                            by UTI
+Vessel tank measurement equipment number                                                          G13775
+Vessel tank temperature equipment number                                                          G13775
+Sea Condition                                                                                     Smooth (wavelets) - 0.1 to 0.5 m (3.9 in to 1 ft 7.7 in)
+Weather condition                                                                                 Rainy
+Operational data
+Ambient outside temperature at discharge                                                          4.00
+
+
+
+
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                                Date: 02 Jan 2021 04:56
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                                    Page 2 of 19
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 CPD V4.0.9.1 2018/10/23
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Nwe Scheduler
+NW20343
+Job No                          12004/00129042.0000/01/I/21
+Report date                     02 Jan 2021
+Installation                    Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                          LS ANNE
+Product                         AP/E CORE 600
+                                                                                                                                                                 Cover Page Discharge
+Discharge data
+Quantity data
+Outturn is based on:                                                                              Shore tank measurements
+Outturn figure amounts to GSV                                               Liters 15°C           3,405,851
+Outturn date                                                                                      31 Dec 2020
+Loadport                                                                                          PJG
+B/L Date                                                                                          27 Dec 2020
+Average product temperature onboard                                         °C                    38.57
+Calculation data
+Shore tank Volume conversion table used                                                           54D
+Vessel Volume conversion table used                                                               54D
+Shore data
+Discharge Installation                                                                            Vopak Terminal Vlaardingen
+Shore tank number(s)                                                                              5032, 5031
+Shore tank measurements were carried out with                                                     Shore equipment/ATG                                  by Automatic Tank Gauge
+Shore tank temperatures were carried out with                                                     Shore equipment/ATG                                  by Automatic Tank Temperature
+Vessel data
+Cargo stowed in cargo tanks                                                                       P1, S1, P3, S3, P4, S4
+Type of standpipes of vessel tanks                                                                Slotted
+Vessel tank measurement were carried out with                                                     Vessel/barge equipment/ATG                            by UTI
+Vessel tank measurement equipment number                                                          G13775
+Vessel tank temperature equipment number                                                          G13775
+Sea Condition                                                                                     Smooth (wavelets) - 0.1 to 0.5 m (3.9 in to 1 ft 7.7 in)
+Weather condition                                                                                 Rainy
+Operational data
+Ambient outside temperature at discharge                                                          4.00
+
+
+
+
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                                Date: 02 Jan 2021 04:56
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                                    Page 3 of 19
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 CPD V4.0.9.1 2018/10/23
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Nwe Scheduler
+NW20343
+Job No                           12004/00129042.0000/01/I/21
+Report date                      02 Jan 2021
+Installation                     Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                           LS ANNE
+Product                          AP/E CORE 600
+Outturn date: 31 Dec 2020                                                                                                                Time Log
+
+28 Dec 2020 (Monday)
+       16:30         End of Sea Passage
+       16:30         Notice of Readiness Tendered
+       17:00         Anchor Down
+30 Dec 2020 (Wednesday)
+       07:00          Anchor Up
+       08:12          Pilot on Board
+       11:18          First Line Ashore
+       11:30          Notice of Readiness Received
+       11:36          Moored Alongside Berth (All Fast)
+       11:45          Saybolt onboard before Operation
+       11:50          Commenced Initial Inspection
+       13:00          Completed Initial Inspection and Calculations, Tank(s) Measured and Sampled
+       13:00          Manifold sample drawn
+       13:40          Manifold sample released
+       13:43          Hose / Arm Connected
+       13:50          Analysis Results Released to Installation
+       14:14          COMMENCED DISCHARGE
+       14:27          Suspended Discharge, line fill completed
+       14:30          Line sample drawn
+       15:20          Line sample released
+       15:37          Resumed Discharge
+31 Dec 2020 (Thursday)
+                 03:53                COMPLETED DISCHARGE
+                 04:30                Commenced emptiness inspection
+                 05:00                Completed emptiness inspection
+                 15:37                Saybolt onboard after Operation
+                 15:38                Commenced Final Inspection
+                 15:55                Completed Final Inspection and Calculations, Tank(s) Inspected on Emptiness
+                 18:30                Object Sailed / Departed
+
+
+
+
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                         Date: 02 Jan 2021 04:56
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                             Page 4 of 19
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 TML2 V4.1.1.6 2020/07/21
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Nwe Scheduler
+NW20343
+Job No                           12004/00129042.0000/01/I/21
+Report date                      02 Jan 2021
+Installation                     Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                           LS ANNE
+Product                          AP/E Core 150
+Outturn date: 31 Dec 2020                                                                                                                Time Log
+
+28 Dec 2020 (Monday)
+       16:30         End of Sea Passage
+       16:30         Notice of Readiness Tendered
+       17:00         Anchor Down
+30 Dec 2020 (Wednesday)
+       07:00          Anchor Up
+       08:12          Pilot on Board
+       11:18          First Line Ashore
+       11:30          Notice of Readiness Received
+       11:36          Moored Alongside Berth (All Fast)
+       11:45          Saybolt onboard before Operation
+       11:50          Commenced Initial Inspection
+       13:00          Completed Initial Inspection and Calculations, Tank(s) Measured and Sampled
+       13:00          Manifold sample drawn
+       13:50          Analysis Results Released to Installation
+31 Dec 2020 (Thursday)
+                 04:36                COMMENCED DISCHARGE
+                 04:48                Suspended Discharge
+                 05:05                Shoreline 25 sample taken
+                 06:15                Shoreline 25 sample released
+                 06:31                Resumed discharging
+                 15:36                COMPLETED DISCHARGE
+                 15:37                Saybolt onboard after Operation
+                 15:38                Commenced Final Inspection
+                 15:55                Completed Final Inspection and Calculations, Tank(s) Inspected on Emptiness
+                 16:00                Hose / Arm Disconnected
+                 18:30                Object Sailed / Departed
+
+
+
+
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                         Date: 02 Jan 2021 04:56
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                             Page 5 of 19
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 TML2 V4.1.1.6 2020/07/21
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Nwe Scheduler
+NW20343
+Job No                             12004/00129042.0000/01/I/21
+Report date                        02 Jan 2021
+Installation                       Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                             LS ANNE
+Product                            AP/E Core 150
+Outturn date: 31 Dec 2020                                                                                                                      Summary Discharge (GSV)
+
+
+Gross Standard Volume Data
+GSV Figures                                                                     Loadport Incl OBQ                      Disport Incl ROB        Δ Quantity                    Δ%
+Liters 15°C                                                                            2,306,510                             2,306,764               254                     0.01
+Barrels 60°F                                                                           14,513.32                             14,514.92              1.60                     0.01
+US Gallons 60°F                                                                           609,559                               609,626               67                     0.01
+Metric Tons Vac                                                                        2,001.587                             2,001.809             0.222                     0.01
+Metric Tons Air                                                                        1,999.121                             1,999.342             0.221                     0.01
+Long Tons Air                                                                             1,967.55                             1,967.77             0.22                     0.01
+GSV Figures                                                                    Loadport Excl OBQ                      Disport Excl ROB         Δ Quantity                    Δ%
+Liters 15°C                                                                             2,306,510                            2,306,764               254                     0.01
+Barrels 60°F                                                                            14,513.32                            14,514.92              1.60                     0.01
+US Gallons 60°F                                                                           609,559                              609,626                67                     0.01
+Metric Tons Vac                                                                         2,001.587                            2,001.809             0.222                     0.01
+Metric Tons Air                                                                         1,999.121                            1,999.342             0.221                     0.01
+Long Tons Air                                                                            1,967.55                              1,967.77             0.22                     0.01
+GSV Figures                                                                             Bill of Lading                     Shore receipt       Δ Quantity                    Δ%
+Liters 15°C                                                                                 2,308,588                         2,310,589            2,001                     0.09
+Barrels 60°F                                                                                14,526.39                         14,538.98            12.59                     0.09
+US Gallons 60°F                                                                               610,108                           610,637              529                     0.09
+Metric Tons Vac                                                                             2,003.321                         2,005.150            1.829                     0.09
+Metric Tons Air                                                                             2,000.853                         2,002.679            1.826                     0.09
+Long Tons Air                                                                                 1,969.25                         1,971.05             1.80                     0.09
+
+
+                                                                  Density 15°C                     Density 20°C                     API 60°F     RD 60/60°F                S&W%
+Vessel Discharged                                                       0.8678                                                        31.46         0.8683
+Bill of Lading                                                          0.8678                              0.8647                    31.46         0.8683
+Shore Receipt                                                           0.8678                              0.8647                    31.46         0.8683
+
+
+
+
+General Data
+Vessel Experience Factor Based on 2nd average                                                                0.9990
+Loadport                                                                                                     PJG
+
+
+
+
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                      Date: 02 Jan 2021 04:56
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                          Page 6 of 19
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 SDGSV V4.1.1.10 2020/08/31
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Nwe Scheduler
+NW20343
+Job No                             12004/00129042.0000/01/I/21
+Report date                        02 Jan 2021
+Installation                       Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                             LS ANNE
+Product                            AP/E CORE 600
+Outturn date: 31 Dec 2020                                                                                                                      Summary Discharge (GSV)
+
+
+Gross Standard Volume Data
+GSV Figures                                                                     Loadport Incl OBQ                      Disport Incl ROB        Δ Quantity                    Δ%
+Liters 15°C                                                                            3,401,034                             3,398,981            -2,053                    -0.06
+Barrels 60°F                                                                           21,400.21                             21,387.29            -12.92                    -0.06
+US Gallons 60°F                                                                           898,809                               898,266              -543                   -0.06
+Metric Tons Vac                                                                        3,003.783                             3,001.970            -1.813                    -0.06
+Metric Tons Air                                                                        3,000.154                             2,998.343             -1.811                   -0.06
+Long Tons Air                                                                             2,952.77                             2,950.99             -1.78                   -0.06
+GSV Figures                                                                    Loadport Excl OBQ                      Disport Excl ROB         Δ Quantity                    Δ%
+Liters 15°C                                                                             3,401,034                            3,398,981            -2,053                    -0.06
+Barrels 60°F                                                                            21,400.21                            21,387.29            -12.92                    -0.06
+US Gallons 60°F                                                                           898,809                              898,266               -543                   -0.06
+Metric Tons Vac                                                                         3,003.783                            3,001.970            -1.813                    -0.06
+Metric Tons Air                                                                         3,000.154                            2,998.343             -1.811                   -0.06
+Long Tons Air                                                                            2,952.77                              2,950.99             -1.78                   -0.06
+GSV Figures                                                                             Bill of Lading                     Shore receipt       Δ Quantity                    Δ%
+Liters 15°C                                                                                 3,401,843                         3,405,851            4,008                     0.12
+Barrels 60°F                                                                                21,405.30                         21,430.52            25.22                     0.12
+US Gallons 60°F                                                                               899,022                           900,081            1,059                     0.12
+Metric Tons Vac                                                                             3,004.396                         3,008.369            3.973                     0.13
+Metric Tons Air                                                                             3,000.766                         3,004.736            3.970                     0.13
+Long Tons Air                                                                                 2,953.37                         2,957.28             3.91                     0.13
+
+
+                                                                  Density 15°C                     Density 20°C                     API 60°F     RD 60/60°F                S&W%
+Vessel Discharged                                                       0.8832                                                        28.62         0.8837
+Bill of Lading                                                          0.8832                              0.8801                    28.62         0.8837
+Shore Receipt                                                           0.8833                              0.8802                    28.60         0.8838
+
+
+
+
+General Data
+Vessel Experience Factor Based on 2nd average                                                                0.9990
+Loadport                                                                                                     PJG
+
+
+
+
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                      Date: 02 Jan 2021 04:56
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                          Page 7 of 19
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 SDGSV V4.1.1.10 2020/08/31
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Nwe Scheduler
+NW20343
+Job No                           12004/00129042.0000/01/I/21
+Report date                      02 Jan 2021
+Installation                     Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                           LS ANNE
+Product                          AP/E Core 150
+Outturn date: 31 Dec 2020                                                                                                                            Shore Tank Report Single
+Shore tank 5015 at Vopak Terminal Vlaardingen
+Shore tank measurement                                                                                                                       Open                          Close
+ Date / Time of measurement                                                                                                      30 Dec 2020 08:30             02 Jan 2021 03:31
+ Average Innage                                                              mm                                                               Vms                           Vms
+ Average temp.                                                               °C                                                              17.60                         19.60
+ T.O.V.                                                                      Liters                                                        77,571                      2,396,033
+ G.O.V.                                                                      Liters                                                        77,571                      2,396,033
+ Dens 15°C                                                                   kg/l                                                          0.8697                         0.8679
+ V.C.F.                                                                      54D                                                          0.99812                        0.99667
+ G.S.V.                                                                      liters 15°C                                                   77,428                      2,388,017
+ Main Table 56                                                               MPMS 11.5.3.4.7                                              0.86860                        0.86680
+ Metric Tons Air                                                                                                                           67.254                      2,069.933
+
+
+Totals                                                                                                                                                GSV                     NSV
+T.O.V.                                  Liters                                         2,318,462         Liters 15°C                             2,310,589
+G.O.V.                                  Liters                                         2,318,462         Barrels 60°F                            14,538.98
+                                                                                                         US Gallons 60°F                           610,637
+Density 15°C                            kg/l                                               0.8678        Metric Tons Vac                         2,005.150
+RD 60/60°F                                                                                 0.8683        Metric Tons Air                         2,002.679
+API 60°F                                                                                    31.46        Long Tons Air                            1,971.05
+
+Average Temp.                           °C                                                   19.67
+
+Tables used:                            54D and W.C.F. MPMS 11.5.3.4.7.
+
+
+
+
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                       Date: 02 Jan 2021 04:56
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                           Page 8 of 19
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 STSi V4.1.1.2 2020/05/18
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Nwe Scheduler
+NW20343
+Job No                           12004/00129042.0000/01/I/21
+Report date                      02 Jan 2021
+Installation                     Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                           LS ANNE
+Product                          AP/E CORE 600
+Outturn date: 31 Dec 2020                                                                                                                            Shore Tank Report Single
+Shore tank 5032 at Vopak Terminal Vlaardingen
+Shore tank measurement                                                                                                                       Open                           Close
+ Date / Time of measurement                                                                                                      30 Dec 2020 08:41              01 Jan 2021 01:03
+ Average Innage                                                              mm                                                               Vms                            Vms
+ Average temp.                                                               °C                                                              27.60                          31.70
+ T.O.V.                                                                      Liters                                                       109,738                        542,134
+ G.O.V.                                                                      Liters                                                       109,738                        542,134
+ Dens 15°C                                                                   kg/l                                                          0.8840                         0.8835
+ V.C.F.                                                                      54D                                                          0.99103                        0.98809
+ G.S.V.                                                                      liters 15°C                                                  108,756                        535,683
+ Main Table 56                                                               MPMS 11.5.3.4.7                                              0.88290                        0.88240
+ Metric Tons Air                                                                                                                           96.021                        472.687
+
+
+Totals                                                                                                                                                   GSV                   NSV
+T.O.V.                                   Liters                                          432,396 Liters 15°C                                         426,927
+G.O.V.                                   Liters                                          432,396 Barrels 60°F                                        2,686.34
+                                                                                                 US Gallons 60°F                                      112,826
+Density 15°C                             kg/l                                             0.8834 Metric Tons Vac                                     377.121
+RD 60/60°F                                                                                0.8839 Metric Tons Air                                     376.666
+API 60°F                                                                                   28.58 Long Tons Air                                         370.72
+
+Average Temp.                            °C                                                  32.74
+
+Tables used:                             54D and W.C.F. MPMS 11.5.3.4.7.
+
+
+
+
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                        Date: 02 Jan 2021 04:56
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                            Page 9 of 19
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 STSi V4.1.1.2 2020/05/18
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Nwe Scheduler
+NW20343
+Job No                           12004/00129042.0000/01/I/21
+Report date                      02 Jan 2021
+Installation                     Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                           LS ANNE
+Product                          AP/E CORE 600
+Outturn date: 31 Dec 2020                                                                                                                            Shore Tank Report Single
+Shore tank 5031 at Vopak Terminal Vlaardingen
+Shore tank measurement                                                                                                                       Open                         Close
+ Date / Time of measurement                                                                                                      30 Dec 2020 08:41            31 Dec 2020 22:59
+ Average Innage                                                              mm                                                               Vms                          Vms
+ Average temp.                                                               °C                                                              26.70                        35.40
+ T.O.V.                                                                      Liters                                                        64,545                     3,088,081
+ G.O.V.                                                                      Liters                                                        64,545                     3,088,081
+ Dens 15°C                                                                   kg/l                                                          0.8823                        0.8833
+ V.C.F.                                                                      54D                                                          0.99165                       0.98544
+ G.S.V.                                                                      liters 15°C                                                   64,002                     3,042,926
+ Main Table 56                                                               MPMS 11.5.3.4.7                                              0.88120                       0.88220
+ Metric Tons Air                                                                                                                           56.399                     2,684.469
+
+
+Totals                                                                                                                                                GSV                     NSV
+T.O.V.                                  Liters                                         3,023,536         Liters 15°C                             2,978,924
+G.O.V.                                  Liters                                         3,023,536         Barrels 60°F                            18,744.18
+                                                                                                         US Gallons 60°F                           787,255
+Density 15°C                            kg/l                                               0.8833        Metric Tons Vac                         2,631.248
+RD 60/60°F                                                                                 0.8838        Metric Tons Air                         2,628.070
+API 60°F                                                                                    28.60        Long Tons Air                            2,586.56
+
+Average Temp.                           °C                                                   35.59
+
+Tables used:                            54D and W.C.F. MPMS 11.5.3.4.7.
+
+
+
+
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                       Date: 02 Jan 2021 04:56
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                          Page 10 of 19
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 STSi V4.1.1.2 2020/05/18
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Nwe Scheduler
+NW20343
+Job No                              12004/00129042.0000/01/I/21
+Report date                         02 Jan 2021
+Installation                        Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                              LS ANNE
+Product                             AP/E Core 150
+Outturn date: 31 Dec 2020                                                                                                                                           Ullage Report Arrival
+Survey Date and Time                           30 Dec 2020 12:28                                                                                  Dens.15°C Vac                  0.8678
+
+Tank                            ullage       ullage corr                  TOV               Free water                                GOV         Temp          VCF table                    GSV
+                                   mm               mm                   Liters            mm          Liters                        Liters          °C              54D              Liters 15°C
+P2                               1959              2015                642,035                                                     642,035        21.40          0.99536                 639,056
+S2                               3335              3391                520,445                                                     520,445        22.60          0.99449                 517,577
+P5                               2220              2275                576,820                                                     576,820        20.10          0.99631                 574,692
+S5                               2165              2220                577,570                                                     577,570        20.10          0.99631                 575,439
+Totals                                                               2,316,870                                                   2,316,870                                             2,306,764
+
+Summary Totals
+On-board figures                                                 ROB Information                                                 Draft                         Correction
+GSV Liters 15°C                                    2,306,764                                                                     FORE         m           5.50 TRIM          m                -0.85
+TCV Liters 15°C                                    2,306,764                                                                     AFT          m           6.35 LIST          °
+
+On-board figures                                                 Discharged figures
+GSV Liters 15°C                                    2,306,764                                                                     Average Product Temp °C                              21.02
+GSV Barrels 60°F                                   14,514.92                                                                     Sea Water temp                                       7.0
+GSV US gallons 60                                    609,626                                                                     Ambient temp                                         4.0
+MT vac                                             2,001.809
+MT air                                             1,999.342
+LT                                                  1,967.77
+
+
+
+
+ Signed by: Ship's representative                                                                                                                 Saybolt representative
+     Name: Vlad Ispas                                                                                                                             L. van den Langenberg
+     Rank: Chief Officer                                                                                                                          Saybolt Inspector
+Measurements in accordance with API standards.
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                                    Date: 02 Jan 2021 04:56
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                                        Page 11 of 19
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 ULL V4.1.1.8 2020/08/03
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Nwe Scheduler
+NW20343
+Job No                              12004/00129042.0000/01/I/21
+Report date                         02 Jan 2021
+Installation                        Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                              LS ANNE
+Product                             AP/E Core 150
+Outturn date: 31 Dec 2020                                                                                                                                   Ullage Report LoadPort
+Survey Date and Time                                                                                                                           Dens.15°C Vac                  0.8678
+
+Tank                            ullage         ullage corr                TOV               Free water                                GOV      Temp          VCF table                   GSV
+                                   mm                 mm                 Liters            mm          Liters                        Liters       °C              54D             Liters 15°C
+P2                               1931                2001              643,178                                                     643,178     23.50          0.99384                639,216
+S2                               3331                3400              519,590                                                     519,590     23.20          0.99406                516,504
+P5                               2182                2249              578,962                                                     578,962     23.20          0.99406                575,523
+S5                               2140                2207              578,623                                                     578,623     23.00          0.99420                575,267
+Totals                                                               2,320,353                                                   2,320,353                                           2,306,510
+
+Summary Totals
+On-board figures                                                 OBQ Information                                                 Draft                     Correction
+GSV Liters 15°C                                      2,306,510                                                                   FORE           m          TRIM                  m
+TCV Liters 15°C                                      2,306,510                                                                   AFT            m          LIST                  °
+
+On-board figures
+GSV Liters 15°C                                      2,306,510                                                                   Average Product Temp °C                             23.23
+GSV Barrels 60°F                                     14,513.32
+GSV US gallons 60                                      609,559
+MT vac                                               2,001.587
+MT air                                               1,999.121
+LT                                                    1,967.55
+
+Remarks
+                                 Ullages and temperatures copied from load port, recalculated by Saybolt.
+
+
+
+
+ Signed by: Ship's representative                                                                                                               Saybolt representative
+     Name: Vlad Ispas
+     Rank: Chief Officer                                                                                                                        Saybolt Inspector
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                                 Date: 02 Jan 2021 04:56
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                                    Page 12 of 19
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 ULL V4.1.1.8 2020/08/03
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Nwe Scheduler
+NW20343
+Job No                              12004/00129042.0000/01/I/21
+Report date                         02 Jan 2021
+Installation                        Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                              LS ANNE
+Product                             AP/E CORE 600
+Outturn date: 31 Dec 2020                                                                                                                                           Ullage Report Arrival
+Survey Date and Time                           30 Dec 2020 12:28                                                                                  Dens.15°C Vac                  0.8832
+
+Tank                            ullage       ullage corr                  TOV               Free water                                GOV         Temp          VCF table                   GSV
+                                   mm               mm                   Liters            mm          Liters                        Liters          °C              54D             Liters 15°C
+P1                               1549              1592                319,096                                                     319,096        35.50          0.98537                314,428
+S1                               1677              1720                315,200                                                     315,200        35.60          0.98529                310,563
+P3                               1625              1681                705,117                                                     705,117        39.10          0.98278                692,975
+S3                               1628              1684                705,698                                                     705,698        39.40          0.98257                693,398
+P4                               1675              1731                701,707                                                     701,707        39.40          0.98257                689,476
+S4                               1580              1636                710,374                                                     710,374        39.10          0.98278                698,141
+Totals                                                               3,457,192                                                   3,457,192                                             3,398,981
+
+Summary Totals
+On-board figures                                                 ROB Information                                                 Draft                         Correction
+GSV Liters 15°C                                    3,398,981                                                                     FORE         m           5.50 TRIM          m                -0.85
+TCV Liters 15°C                                    3,398,981                                                                     AFT          m           6.35 LIST          °
+
+On-board figures                                                 Discharged figures
+GSV Liters 15°C                                    3,398,981                                                                     Average Product Temp °C                              38.57
+GSV Barrels 60°F                                   21,387.29                                                                     Sea Water temp                                       7.0
+GSV US gallons 60                                    898,266                                                                     Ambient temp                                         4.0
+MT vac                                             3,001.970
+MT air                                             2,998.343
+LT                                                  2,950.99
+
+
+
+
+ Signed by: Ship's representative                                                                                                                 Saybolt representative
+     Name: Vlad Ispas                                                                                                                             L. van den Langenberg
+     Rank: Chief Officer                                                                                                                          Saybolt Inspector
+Measurements in accordance with API standards.
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                                    Date: 02 Jan 2021 04:56
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                                       Page 13 of 19
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 ULL V4.1.1.8 2020/08/03
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Nwe Scheduler
+NW20343
+Job No                              12004/00129042.0000/01/I/21
+Report date                         02 Jan 2021
+Installation                        Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                              LS ANNE
+Product                             AP/E CORE 600
+Outturn date: 31 Dec 2020                                                                                                                                   Ullage Report LoadPort
+Survey Date and Time                                                                                                                           Dens.15°C Vac                  0.8832
+
+Tank                            ullage         ullage corr                TOV               Free water                                GOV      Temp          VCF table                   GSV
+                                   mm                 mm                 Liters            mm          Liters                        Liters       °C              54D             Liters 15°C
+P1                               1539                1593              319,054                                                     319,054     34.00          0.98644                314,728
+S1                               1667                1721              315,156                                                     315,156     24.70          0.99309                312,978
+P3                               1614                1663              704,951                                                     704,951     38.90          0.98293                692,917
+S3                               1618                1687              705,449                                                     705,449     39.30          0.98264                693,202
+P4                               1666                1736              701,292                                                     701,292     39.20          0.98271                689,167
+S4                               1566                1636              710,374                                                     710,374     39.30          0.98264                698,042
+Totals                                                               3,456,276                                                   3,456,276                                           3,401,034
+
+Summary Totals
+On-board figures                                                 OBQ Information                                                 Draft                     Correction
+GSV Liters 15°C                                      3,401,034                                                                   FORE           m          TRIM                  m
+TCV Liters 15°C                                      3,401,034                                                                   AFT            m          LIST                  °
+
+On-board figures
+GSV Liters 15°C                                      3,401,034                                                                   Average Product Temp °C                             37.38
+GSV Barrels 60°F                                     21,400.21
+GSV US gallons 60                                      898,809
+MT vac                                               3,003.783
+MT air                                               3,000.154
+LT                                                    2,952.77
+
+Remarks
+                                 Ullages and temperatures copied from load port, recalculated by Saybolt.
+
+
+
+
+ Signed by: Ship's representative                                                                                                               Saybolt representative
+     Name: Vlad Ispas
+     Rank: Chief Officer                                                                                                                        Saybolt Inspector
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                                 Date: 02 Jan 2021 04:56
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                                    Page 14 of 19
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 ULL V4.1.1.8 2020/08/03
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Nwe Scheduler
+NW20343
+Job No                           12004/00129042.0000/01/I/21
+Report date                      02 Jan 2021
+Installation                     Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                           LS ANNE
+Product                          AP/E Core 150
+Outturn date: 31 Dec 2020                                                                                                                   After Discharge Report
+
+
+
+
+    Date of Inspection: 31 Dec 2020
+    Time of Inspection: 15:50
+
+
+    The undersigned, Independent Saybolt Surveyor, has inspected the cargo tanks of the above named object upon completion of discharge.
+    The inspection was carried out by means of visual inspection from deck-level.
+    Said tanks were found to be satisfactorily drained of product.
+    Cargo tanks inspected:
+    P2, S2, P5, S5
+
+
+
+
+ Signed by: Ship's representative                                                                                                Saybolt representative
+     Name: Vlad Ispas                                                                                                            R. Raap
+     Rank: Chief Officer                                                                                                         Saybolt Inspector
+
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                             Date: 02 Jan 2021 04:56
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                Page 15 of 19
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 AFD V4.0.10.0 2018/11/21
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Nwe Scheduler
+NW20343
+Job No                           12004/00129042.0000/01/I/21
+Report date                      02 Jan 2021
+Installation                     Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                           LS ANNE
+Product                          AP/E CORE 600
+Outturn date: 31 Dec 2020                                                                                                                   After Discharge Report
+
+
+
+
+    Date of Inspection: 31 Dec 2020
+    Time of Inspection: 05:00
+
+
+    The undersigned, Independent Saybolt Surveyor, has inspected the cargo tanks of the above named object upon completion of discharge.
+    The inspection was carried out by means of visual inspection from deck-level.
+    Said tanks were found to be satisfactorily drained of product.
+    Cargo tanks inspected:
+    P1, S1, P3, S3, P4, S4
+
+
+
+
+ Signed by: Ship's representative                                                                                                Saybolt representative
+     Name: Vlad Ispas                                                                                                            Y. de Haan
+     Rank: Chief Officer                                                                                                         Saybolt Inspector
+
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                             Date: 02 Jan 2021 04:56
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                Page 16 of 19
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 AFD V4.0.10.0 2018/11/21
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Nwe Scheduler
+NW20343
+Job No                          12004/00129042.0000/01/I/21
+Report date                     02 Jan 2021
+Installation                    Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                          LS ANNE
+Product                         AP/E Core 150
+Outturn date: 31 Dec 2020                                                                                                                                       Sample Report
+
+Grade                                   Description                                                                              Sealed      Distribution   Amount        Volume
+AP/E Core 150                           Shore tank 5015 running before discharge from Vessel LS ANNE                             Open        Retain         1             1 liters
+AP/E Core 150                           Shore tank 5015 dead bottom before discharge from Vessel LS ANNE                         Open        Retain         1             0.25 liters
+AP/E Core 150                           Vessel LS ANNE lower samples before discharge into Shore tank 5015                       Open        Retain         4             1 liters
+AP/E Core 150                           Vessel LS ANNE dead bottom samples before discharge into Shore tank 5015                 Open        Retain         4             0.25 liters
+AP/E Core 150                           Vessel LS ANNE manifold before discharge into Shore tank 5015                            Open        Retain         1             1 liters
+AP/E Core 150                           Vessel LS ANNE deck composite before discharge into Shore tank 5015                      Open        Retain         1             0.25 liters
+                                        Shore line 25 end of shoreline near shoretank 5015 during discharge from Vessel
+AP/E Core 150                                                                                                                    Open        Retain         1             1 liters
+                                        LS ANNE
+AP/E Core 150                           Shore tank 5015 upper, middle, lower after discharge from Vessel LS ANNE                 Open        Retain         3             1 liters
+AP/E Core 150                           Shore tank 5015 dead bottom after discharge from Vessel LS ANNE                          Open        Retain         1             0.25 liters
+AP/E Core 150                           Vessel LS ANNE loadport sample - for retention only                                      Open        Retain         1             2 liters
+                                        Shore tank 5015 single tank composite prepared from upper, middle, lower after
+AP/E Core 150                                                                                                                    Open        Retain         1             1 liters
+                                        discharge from Vessel LS ANNE
+                                                                                                                                 Total Samples              19
+
+
+
+
+Information
+Samples drawn by                                                                     Saybolt Inspector
+Shoretank sampling location                                                          Top of tank
+Type / condition of sampling containers                                              Clean plastic bottles
+Loadport samples delivered by                                                        C/O
+received by                                                                          Surveyor
+Loadport sample seal numbers                                                         -
+
+
+Remarks:
+      Samples retained by Saybolt will be held for 90 days (unless otherwise specified) at the end of which they shall be disposed of.
+
+
+
+
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                        Date: 02 Jan 2021 04:56
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                           Page 17 of 19
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 SMP V4.1.1.2 2020/05/18
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Nwe Scheduler
+NW20343
+Job No                          12004/00129042.0000/01/I/21
+Report date                     02 Jan 2021
+Installation                    Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                          LS ANNE
+Product                         AP/E CORE 600
+Outturn date: 31 Dec 2020                                                                                                                                       Sample Report
+
+Grade                                   Description                                                                              Sealed      Distribution   Amount        Volume
+AP/E CORE 600                           Shore tank 5032 running before discharge from Vessel LS ANNE                             Open        Retain         1             1 liters
+AP/E CORE 600                           Shore tank 5032 dead bottom before discharge from Vessel LS ANNE                         Open        Retain         1             0.25 liters
+AP/E CORE 600                           Shore tank 5031 running before discharge from Vessel LS ANNE                             Open        Retain         1             1 liters
+AP/E CORE 600                           Shore tank 5031 dead bottom before discharge from Vessel LS ANNE                         Open        Retain         1             0.25 liters
+AP/E CORE 600                           Vessel LS ANNE lower before discharge into Shore tank 5032, Shore tank 5031              Open        Retain         6             1 liters
+                                        Vessel LS ANNE dead bottom before discharge into Shore tank 5032, Shore tank
+AP/E CORE 600                                                                                                                    Open        Retain         6             0.25 liters
+                                        5031
+AP/E CORE 600                           Vessel LS ANNE manifold before discharge into Shore tank 5032, Shore tank 5031           Open        Retain         1             1 liters
+                                        Vessel LS ANNE deck composite before discharge into Shore tank 5032, Shore
+AP/E CORE 600                                                                                                                    Open        Retain         1             0.25 liters
+                                        tank 5031
+                                        Shore line 25 end of shoreline near shoretank 5031 during discharge from Vessel
+AP/E CORE 600                                                                                                                    Open        Retain         1             1 liters
+                                        LS ANNE
+AP/E CORE 600                           Shore tank 5032 upper, middle, lower after discharge from Vessel LS ANNE                 Open        Retain         3             1 liters
+AP/E CORE 600                           Shore tank 5032 dead bottom after discharge from Vessel LS ANNE                          Open        Retain         1             0.25 liters
+AP/E CORE 600                           Shore tank 5031 upper, middle, lower after discharge from Vessel LS ANNE                 Open        Retain         3             1 liters
+AP/E CORE 600                           Shore tank 5031 dead bottom after discharge from Vessel LS ANNE                          Open        Retain         1             0.25 liters
+AP/E CORE 600                           Vessel LS ANNE loadport sample - for retention only                                      Open        Retain         1             3 liters
+                                        Shore tank 5031, 5032 single tank composite prepared from upper, middle, lower
+AP/E CORE 600                                                                                                                    Open        Retain         2             1 liters
+                                        after discharge from Vessel LS ANNE
+                                                                                                                                 Total Samples              30
+
+
+
+
+Information
+Samples drawn by                                                                     Saybolt Inspector
+Shoretank sampling location                                                          Top of tank
+Type / condition of sampling containers                                              Clean plastic bottles
+Loadport samples delivered by                                                        C/O
+received by                                                                          Surveyor
+Loadport sample seal numbers                                                         -
+
+
+Remarks:
+      Samples retained by Saybolt will be held for 90 days (unless otherwise specified) at the end of which they shall be disposed of.
+
+
+
+
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                        Date: 02 Jan 2021 04:56
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                           Page 18 of 19
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 SMP V4.1.1.2 2020/05/18
+EXXONMOBIL PETROLEUM & CHEMICAL BV
+RU 2235
+POLDERDIJKWEG 3
+B-2030 ANTWERPEN
+Belgium
+ExxonMobil Nwe Scheduler
+NW20343
+Job No                            12004/00129042.0000/01/I/21
+Report date                       02 Jan 2021
+Installation                      Vlaardingen, Netherlands, Vopak Terminal Vlaardingen
+
+Vessel                            LS ANNE
+Product                           AP/E Core 150, AP/E CORE 600
+Outturn date: 31 Dec 2020                                                                                                                                        Vessel Experience Report
+           Voyage number              Grade                      Port                Date                 Ship's Sailing                OBQ            B/L     Difference   VLR Ship /   Qual. voyage
+                                                                                                            Metric Tons          Metric Tons   Metric Tons    Metric Tons       Shore
+last       044                        Lub Oil                    Rdam/Hamburg 17 Dec 2020                           4,440                           4,433               7     1.00158        yes
+2nd        043                        Lub Oil                    Unknown      07 Dec 2020                           5,033                           5,049             -16     0.99683        yes
+3rd        042                        Lube Oil                   Rotterdam    01 Dec 2020                           4,014                           4,006               8     1.00200        yes
+4th        041                        Lube Oil                   Port Jerome         26 Nov 2020                    4,832                           4,845             -13     0.99732        yes
+5th        040                        Lube Oil                   Rotterdam           16 Nov 2020                    3,352                           3,349               3     1.00090        yes
+6th        039                        Lube Oil                   Rotterdam           10 Nov 2020                    5,029                           5,032              -3     0.99940        yes
+7th        038                        Lube Oil                   Rotterdam           06 Nov 2020                    5,047                           5,039              8      1.00159        yes
+8th        37                         Lube Oil                   Rotterdam           29 Oct 2020                    3,511                           3,494             17      1.00487        no
+9th        036                        Lube Oil                   Rotterdam           15 Oct 2020                    5,176                           5,171              5      1.00097        yes
+10th       035                        Lube Oil                   Port Jerome         11 Oct 2020                    4,597                           4,610             -13     0.99718        yes
+11th       034                        Lube Oil                   Port Jerome         07 Oct 2020                    2,399                           2,403              -4     0.99834        yes
+12th       033                        Lube Oil                   Vlaardingen         02 Oct 2020                    4,997                           5,008             -11     0.99780        yes
+13th       032                        Lube Oil                   Port Jerome         25 Sep 2020                    1,200                           1,202              -2     0.99834        yes
+14th       031                        Lube Oil                   Port Jerome         20 Sep 2020                    1,498                           1,502              -4     0.99734        yes
+15th       030                        Lube Oil                   Hamburg             15 Sep 2020                    6,391                           6,401             -10     0.99844        yes
+16th       029                        Lube Oil                   Port Jerome         31 Aug 2020                    3,059                           3,066             -7      0.99772        yes
+17th       028                        Lube Oil                   Hamburg             26 Aug 2020                    4,933                           4,936             -3      0.99939        yes
+18th       027                        Lube Oil                   Rotterdam           19 Aug 2020                    5,176                           5,163             13      1.00252        no
+19th       026                        Lube Oil                   Port Jerome         14 Aug 2020                    2,946                           2,956             -10     0.99662        yes
+20th       025                        Lube Oil                   Port Jerome         07 Aug 2020                    2,644                           2,650              -6     0.99774        yes
+Totals
+                                                                 Totals                                           80,274                           80,315
+                                                                 Qualifying Totals                                71,587                           71,658
+First average (Total Ship/Total Shore)                                                                                              0.99949
++ 0.3% of first average (excl. gross errors)                                                                                        1.00249         - 0.3% 0.99649
+Second average (Qualifying Total Ship/ Qualifying Total Shore)                                                                      0.99901
++ 0.3% of second average                                                                                                            1.00201         - 0.3% 0.99601
+Vessel Experience Factor based on second average                                                                                   0.9990
+The above mentioned quantities are for the last 20 voyages obtained from ship record and can not be guaranteed as accurate by Saybolt. No liability can be assumed for
+errors resulting from improper information supplied by the vessel.
+The resulting VEF has been calculated in accordance with the latest method published by the Energy Institute and the API as API MPMS 17.9 / Energy Institute HM 49,
+unless as otherwise noted and with the agreement of interested parties.
+
+
+
+
+Voyages excluded:
+              A. Gross error voyages
+              B. Voyages where only vessel tank measurements were available.
+              C. All voyages prior to any changes to measurement equipment, tables, vessel’s structure, or other changes requiring the issuance of new capacity
+                  tables
+
+
+
+
+ Signed by: Ship's representative                                                                                                                    Saybolt representative
+     Name: Vlad Ispas                                                                                                                                L. van den Langenberg
+     Rank: Chief Officer                                                                                                                             Saybolt Inspector
+Saybolt Nederland B.V., P.O. Box 151, 3000 AD Rotterdam, The Netherlands                                                                                                        Date: 02 Jan 2021 04:56
+Tel. +31 (0)10 46 09 911 FAX +31 (0)10 435 3600                                                                                                                                           Page 19 of 19
+Website: www.saybolt.com E-mail:saybolt@corelab.com
+All our activities are carried out under Saybolt’s terms and conditions, available at www.corelab.com/saybolt/terms-conditions
+SAIL4 VEF V4.0.10.11 2019/10/30
+

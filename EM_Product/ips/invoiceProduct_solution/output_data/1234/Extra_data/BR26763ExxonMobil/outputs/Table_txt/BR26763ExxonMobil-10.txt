@@ -1,0 +1,15 @@
+Product:             CSO/MCB                                                     Terminal:               Apex
+Subject:             Report of Discharge                                         Port:                   Port Allen, Louisiana
+ExxonMobil Ref. #: 4971503                                                       File Number:            BR26763
+                                          LINE VERIFICATION REPORT
+
+
+                                             SHORE TANK NO.:                               1906
+
+
+                                                                              Gauge                                Quantity
+
+Shore Tank Measurment prior to blowing shore line:                          21' 08 1/2''                          89,609.58
+
+
+  Shore Tank Measurment after blowing shore line:                             21' 08''                            89,804.91

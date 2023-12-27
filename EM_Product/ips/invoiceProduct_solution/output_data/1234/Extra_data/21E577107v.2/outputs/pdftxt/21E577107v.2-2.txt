@@ -1,0 +1,58 @@
+CLEANED !!!
+TRIP: USEBARGINT-2106-007                                                                               21E577107 VER 2 (ISSUED)
+
+IF DES:
+-QUALITY IS BASED ON BARGE COMP ANALYSIS.
+-QUANTITY IS BASED ON STATIC SHORE TANK UPGAUGE AT DISCHARGE OR STATIC UPGAUGE ADJUSTED FOR ROB/OBQ IF
+LOAD IS ACTIVE.
+
+Quality Inspection Instructions:
+SET 1
+    Description:
+Sample Location: Vessel/Barge Composite
+
+                                                                                                          RO = Report Only          Req. = Required
+ Test                              Methods                                      Min   Max       UOM     Typical     R.O.     Req.     Comment
+ Additional Tests
+ API Gravity @ 60 F                [ASTM] ASTM D4052, [ASTM] ASTM D70                           API                 No       Yes
+ Flash Point (PMCC)                [ASTM] ASTM D93, [ASTM] ASTM D93 Pro-                         C                  No       Yes
+                                   cedure B
+ Penetration                       [ASTM] ASTM D5                                               mm                  No       Yes
+ Aluminium                         [IP] IP 377, [IP] IP 501                                     mg/kg               No       Yes
+ Silicon                           [IP] IP 377, [IP] IP 501                                     mg/kg               No       Yes
+ Vanadium                          [IP] IP 501, [UOP] UOP 391                                   mg/kg               No       Yes
+ Sulfur                            [ASTM] ASTM D4294                                            mg/kg               No       Yes
+ Viscosity, Kinematic @ 275 F,     [ASTM] ASTM D2170                                                                No       Yes
+ CST
+ H2S in Vapor                      [ASTM] ASTM D5705                                            ppm                 No       Yes
+                                                                                                v/v
+ MCR                               [ASTM] ASTM D4530                                            wt%                 No       Yes
+ Asphaltenes                       [ASTM] ASTM D6560                                            %m/m                No       No
+ Sodium                            [IP] IP 501                                                  mg/kg               No       No
+
+Invoice Instructions:
+  Bill Invoice To                                                               Item to Bill                      Split    Contact / Comment
+ 3862 - ExxonMobil Oil Corporation (Legal Entity: ExxonMobil Oil Corp. (EMOC)   Quantity only                     50%
+ - Mktg & Ref U.S. Gen Ledger (3862))
+                                                                                Test: API Gravity @ 60 F          50%
+                                                                                Test: Flash Point (PMCC)          50%
+                                                                                Test: Penetration                 50%
+                                                                                Test: Aluminium                   50%
+                                                                                Test: Silicon                     50%
+                                                                                Test: Vanadium                    50%
+                                                                                Test: Sulfur                      50%
+                                                                                Test: Viscosity, Kinematic        50%
+                                                                                @ 275 F, CST
+                                                                                Test: H2S in Vapor                50%
+                                                                                Test: MCR                         50%
+                                                                                Test: Asphaltenes                 50%
+                                                                                Test: Sodium                      50%
+ CITGO PETROLEUM CORP                                                           Quantity only                     50%
+                                                                                Test: API Gravity @ 60 F          50%
+                                                                                Test: Flash Point (PMCC)          50%
+                                                                                Test: Penetration                 50%
+                                                                                Test: Aluminium                   50%
+
+
+                                                                Page 2 of 3
+ 

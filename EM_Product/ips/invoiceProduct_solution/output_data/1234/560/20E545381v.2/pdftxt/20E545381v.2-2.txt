@@ -1,0 +1,70 @@
+TRIP: USEBARGARO-2012-001                                                                    20E545381 VER 2 (ISSUED)
+
+ Region: Americas                                                             Other Reference:
+Operator: WENDY LAUWONG (wendy.m.lauwong@exxonmobil.com)                       Business Group: CHEMICAL: AM AROMATICS
+  Phone:                                                                                 Desk: CHEM AM S&OP AROMATICS
+ Mobile:                                                                      Nomination Type: Marine
+
+Revision Comment: barge change due to leak. please call/tender in HTCO3084.
+
+
+Documentary Instructions: n/a
+
+
+ LOAD: HTCO3084 (VS00047641) / KIRBY29044 (VS00053864) - BEAUMONT REFINERY, TX (UNITED STATES)
+                                       Inspector: Saybolt                                  Inspection Status: Accepted
+                                             Hub: Americas North and South (International        Created On: 03 Nov 2020 by
+                                                  Desk Houston)                                               ExxonMobil
+                                                                                                              Webservice
+                                    Coordinator: Christopher Baiamonte (saybol-                Last Modified: 03 Nov 2020 by
+                                                  tus.intdesk@corelab.com)                                    Ross Ewart
+                                    Local Office: Saybolt USA Port Neches, TX (Port
+                                                  Arthur,Beaumont,Nederland) (say-
+                                                  bolt.portneches@corelab.com)
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5102685-10
+                                           Grade: AROM CONCENTRATE VL BULK                  Contract Number:
+                                             ETA: 02 Nov 2020                                     Parcel Ref:
+                                             ETD:                                                Destination:
+                  Supply Contract Window Start: n/a                                         Source Location:
+                   Supply Contract Window End: n/a                                                  Supplier:
+                      Total Nominated Quantity: 52,000 Barrels                                      Receiver:
+Transport / Voyage Number / Quantity / Tolerance: HTCO3084 (VS00047641) / 26,000 Barrels     Delivery Terms: FCA (Free Carri-
+                                                                                                              er)
+                                                  KIRBY29044 (VS00053864) / 26,000 Barrels    Mother Vessel:
+                                                  load to max safe draft
+
+Email Quantity Results To:
+aimee.l.duke@exxonmobil.com;
+nicole.e.pfeiffer@exxonmobil.com;
+MATS.MTO@exxonmobil.com;
+Barrel.Temp@kirbycorp.com;
+pmichem.babsc3@exxonmobil.com;
+BMCP.PMI.CHEM.IS@exxonmobil.com;
+DS-SRM-Inspection-reports-mailbox@exxonmobil.com;
+emcc.oa.survey.reports@exxonmobil.com;
+fred.j.turk@exxonmobil.com;
+brcp.pmi.chem.is@exxonmobil.com;
+maria.j.blanco@exxonmobil.com;
+mats.mto-fairfax@exxonmobil.com;
+wendy.m.lauwong@exxonmobil.com;
+
+Email Quality Results To:
+aimee.l.duke@exxonmobil.com;
+nicole.e.pfeiffer@exxonmobil.com;
+MATS.MTO@exxonmobil.com;
+pmichem.babsc3@exxonmobil.com;
+BMCP.PMI.CHEM.IS@exxonmobil.com;
+DS-SRM-Inspection-reports-mailbox@exxonmobil.com;
+emcc.oa.survey.reports@exxonmobil.com;
+fred.j.turk@exxonmobil.com;
+brcp.pmi.chem.is@exxonmobil.com;
+maria.j.blanco@exxonmobil.com;
+mats.mto-fairfax@exxonmobil.com;
+joseph.c.mcdonald@exxonmobil.com;
+anthony.bender@exxonmobil.com;
+wendy.m.lauwong@exxonmobil.com;
+
+
+                                                          Page 2 of 6
+

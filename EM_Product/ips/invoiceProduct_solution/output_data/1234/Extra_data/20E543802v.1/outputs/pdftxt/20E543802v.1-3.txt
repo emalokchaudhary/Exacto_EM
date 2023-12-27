@@ -1,0 +1,47 @@
+CLEANED !!!
+TRIP: USEBARGARO-2010-051                                                                        20E543802 VER 1 (ISSUED)
+
+Refer to "Docks Chemicals Sample Sheet" to determine how many samples need to be retained in inspector's
+lab. Seal all retain samples.
+
+
+
+
+                                                                                                     RO = Report Only       Req. = Required
+ Test          Methods      Min    Max   UOM    Typical   R.O.   Req.   Comment
+ Retain sam-   [OTHER] n/                                 No     Yes
+ ple -90       a
+ days
+ Additional Tests
+ Appearance    [ASTM]                                     No     Yes    CGI will only run the appearance test (D-4176), a printed copy
+               ASTM 4176                                                of results (COA) with sample to be delivered to the BRCP lab.
+               (mod)
+
+Invoice Instructions:
+  Bill Invoice To                                                         Item to Bill                   Split     Contact / Comment
+ 0102 ExxonMobil Chemical Company - U.S. (Div ExxonMobil Chemical Co)     Quantity only                  100%
+ (Legal Entity: 0102 EM Chemical America (0102))
+                                                                          Slate: CHEM-AM-ARO-BR-         100%
+                                                                          BARGEShoreLine
+                                                                          Slate: CHEM-AM-ARO-BR-         100%
+                                                                          BargeFinalComp
+                                                                          Test: Appearance               100%
+
+Recipient List:
+batonrouge@coastalgulf.com
+pmichem.babsc3@exxonmobil.com;
+carolina.enright@exxonmobil.com;
+William.Hutton@ergon.com;
+colin.rougee@ergon.com;
+dale.fryoux@ergon.com;
+wyane.tureaud@ergon.com;
+batonrouge.operator@ergon.com;
+Fernando.lee@exxonmobil.com;
+joseph.c.mcdonald@exxonmobil.com
+                                                                                                                 REPORT GENERATED 21 OCT 2020
+
+
+
+
+                                                          Page 3 of 3
+ 

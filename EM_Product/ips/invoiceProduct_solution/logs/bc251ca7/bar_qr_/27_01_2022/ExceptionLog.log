@@ -1,0 +1,28 @@
+
+2022-01-27 14:03:32,284:__main__:
+Filename: Invoice Sample 2-Masked sample (2).pdf. Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 548, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/bc251ca7/bar_qr_/Invoice Sample 2-Masked sample (2)/outputs/Table_txt'
+
+2022-01-27 14:03:50,264:__main__:
+Filename: Invoice Sample 2-Masked sample (2).pdf. Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 548, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/bc251ca7/bar_qr_/Invoice Sample 2-Masked sample (2)/outputs/Table_txt'
+
+2022-01-27 14:21:27,826:__main__:
+Filename: Invoice Sample 2-Masked sample (2).pdf. Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 548, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/bc251ca7/bar_qr_/Invoice Sample 2-Masked sample (2)/outputs/Table_txt'
+
+2022-01-27 14:31:53,630:__main__:
+Filename: Invoice Sample 2-Masked sample (2).pdf. Error occured in Active Learning table.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 548, in trigger_table
+    All_files=os.listdir(Table_text_path)
+FileNotFoundError: [Errno 2] No such file or directory: './../output_data/bc251ca7/bar_qr_/Invoice Sample 2-Masked sample (2)/outputs/Table_txt'

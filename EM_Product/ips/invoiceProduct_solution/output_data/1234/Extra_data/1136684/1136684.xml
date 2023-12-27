@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="20.11.0">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="17" family="Times" color="#000000"/>
+	<fontspec id="1" size="14" family="Times" color="#000000"/>
+	<fontspec id="2" size="14" family="Times" color="#000000"/>
+	<fontspec id="3" size="26" family="Times" color="#000000"/>
+	<fontspec id="4" size="14" family="ABCDEE+Times New Roman" color="#000000"/>
+	<fontspec id="5" size="1" family="Times" color="#ffffff"/>
+	<fontspec id="6" size="1" family="Times" color="#ffffff"/>
+	<fontspec id="7" size="12" family="Times" color="#000000"/>
+	<fontspec id="8" size="11" family="Times" color="#000000"/>
+	<fontspec id="9" size="11" family="Times" color="#000000"/>
+	<fontspec id="10" size="11" family="Times" color="#000000"/>
+	<fontspec id="11" size="11" family="ABCDEE+Times New Roman" color="#000000"/>
+	<fontspec id="12" size="9" family="Times" color="#000000"/>
+<image top="27" left="362" width="126" height="135" src="./../output_data/1234/560/1136684/1136684-1_1.png"/>
+<text top="34" left="30" width="258" height="16" font="0"><b>ExxonMobil Sales &amp; Supply LLC</b></text>
+<text top="60" left="30" width="225" height="13" font="1">22777 Springwoods Village Parkway</text>
+<text top="80" left="30" width="109" height="13" font="1">Spring, TX 77389</text>
+<text top="99" left="30" width="144" height="13" font="2"><b>Attn: Leonardo Acedo</b></text>
+<text top="34" left="611" width="118" height="24" font="3"><b>INVOICE</b></text>
+<text top="72" left="611" width="207" height="16" font="0"><b>Camin Cargo Control, Inc.</b></text>
+<text top="94" left="611" width="104" height="13" font="1">P.O. Box 731485</text>
+<text top="111" left="611" width="142" height="13" font="1">Dallas, TX 75373-1485</text>
+<text top="137" left="611" width="130" height="13" font="1">Phone: 713-244-5015</text>
+<text top="156" left="611" width="225" height="13" font="1">Email: areceivable@camincargo.com</text>
+<text top="176" left="611" width="115" height="13" font="1">TEIN: 22-2581864</text>
+<text top="196" left="29" width="138" height="13" font="2"><b>IN REFERENCE TO</b></text>
+<text top="196" left="415" width="70" height="14" font="4">Invoice N:°</text>
+<text top="196" left="523" width="52" height="13" font="1">1136684</text>
+<text top="196" left="693" width="32" height="13" font="1">Date:</text>
+<text top="196" left="788" width="85" height="13" font="1">31-OCT-2020</text>
+<text top="215" left="29" width="79" height="13" font="1">Vessel/Tank:</text>
+<text top="215" left="137" width="79" height="13" font="1">Yasa Seagull</text>
+<text top="215" left="415" width="48" height="14" font="4">File N°:</text>
+<text top="215" left="523" width="72" height="13" font="1">PAN-11460</text>
+<text top="215" left="693" width="83" height="14" font="4">Customer N°:</text>
+<text top="215" left="788" width="79" height="13" font="1">EXXM00-95</text>
+<text top="235" left="29" width="69" height="13" font="1">Movement:</text>
+<text top="235" left="137" width="58" height="13" font="1">Sampling</text>
+<text top="235" left="259" width="231" height="13" font="1">Job Date:  09-OCT-2020 Ordered By:</text>
+<text top="235" left="523" width="100" height="13" font="1">Leonardo Acedo</text>
+<text top="255" left="29" width="57" height="13" font="1">Location:</text>
+<text top="255" left="137" width="169" height="13" font="1">Anchorage - Balboa, Panam</text>
+<text top="255" left="415" width="45" height="13" font="1">E-mail:</text>
+<text top="255" left="523" width="225" height="13" font="1">leonardo.g.acedo1@exxonmobil.com</text>
+<text top="274" left="29" width="67" height="13" font="1">Product(s):</text>
+<text top="274" left="137" width="39" height="13" font="1">ULSD</text>
+<text top="274" left="415" width="75" height="14" font="4">Job Ref. N°:</text>
+<text top="274" left="523" width="152" height="13" font="1">INTV005FIN-2009-0015</text>
+<text top="310" left="415" width="76" height="14" font="4">Contract N°:</text>
+<text top="310" left="523" width="63" height="13" font="1">A4002566</text>
+<text top="327" left="29" width="5" height="1" font="5"><b>CAMIN</b></text>
+<text top="327" left="415" width="17" height="1" font="6">(*) Contractual rates applied.</text>
+<text top="327" left="523" width="4" height="1" font="6">#Error</text>
+<text top="327" left="788" width="7" height="1" font="5"><b>INVOICE</b></text>
+<text top="331" left="137" width="17" height="1" font="5"><b>Camin Cargo Control, Inc.</b></text>
+<text top="331" left="203" width="23" height="1" font="5"><b>Bank Name: Bank of America, N.A.</b></text>
+<text top="331" left="260" width="18" height="1" font="6">PAYMENT TERM - NET 30</text>
+<text top="337" left="29" width="63" height="11" font="7"><b>Description</b></text>
+<text top="337" left="383" width="29" height="11" font="7"><b>Units</b></text>
+<text top="337" left="486" width="34" height="11" font="7"><b>$/Unit</b></text>
+<text top="337" left="596" width="40" height="11" font="7"><b>Charge</b></text>
+<text top="337" left="658" width="32" height="11" font="7"><b>Share</b></text>
+<text top="337" left="718" width="66" height="11" font="7"><b>Discount (*)</b></text>
+<text top="337" left="804" width="75" height="11" font="7"><b>Share Charge</b></text>
+<text top="361" left="29" width="98" height="11" font="8"><b>Inspection Services</b></text>
+<text top="380" left="29" width="242" height="11" font="9">I-Vessel Sampling (per compartment) (w/o Cargo </text>
+<text top="393" left="29" width="114" height="11" font="9">Inspection) - First Tank</text>
+<text top="380" left="481" width="39" height="11" font="9">Flat Fee</text>
+<text top="380" left="597" width="39" height="11" font="9">$280.00</text>
+<text top="380" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="380" left="840" width="39" height="11" font="9">$280.00</text>
+<text top="408" left="29" width="242" height="11" font="9">I-Vessel Sampling (per compartment) (w/o Cargo </text>
+<text top="422" left="29" width="133" height="11" font="9">Inspection) - Ea Add'l Tank</text>
+<text top="408" left="406" width="6" height="11" font="9">4</text>
+<text top="408" left="487" width="33" height="11" font="9">$50.00</text>
+<text top="408" left="597" width="39" height="11" font="9">$200.00</text>
+<text top="408" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="408" left="840" width="39" height="11" font="9">$200.00</text>
+<text top="436" left="29" width="128" height="11" font="9">I-Pipeline / Line Sampling</text>
+<text top="436" left="406" width="6" height="11" font="9">2</text>
+<text top="436" left="487" width="33" height="11" font="9">$70.00</text>
+<text top="436" left="597" width="39" height="11" font="9">$140.00</text>
+<text top="436" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="436" left="840" width="39" height="11" font="9">$140.00</text>
+<text top="453" left="682" width="102" height="11" font="8"><b>Inspection Services:</b></text>
+<text top="453" left="840" width="39" height="11" font="8"><b>$620.00</b></text>
+<text top="472" left="29" width="104" height="11" font="8"><b>Laboratory Services</b></text>
+<text top="490" left="29" width="186" height="11" font="8"><b>A-Volumetric Composite (Sample 7)</b></text>
+<text top="507" left="29" width="160" height="11" font="9">L-API Gravity   (ASTM D-4052)</text>
+<text top="507" left="406" width="6" height="11" font="9">1</text>
+<text top="507" left="487" width="33" height="11" font="9">$35.00</text>
+<text top="507" left="603" width="33" height="11" font="9">$35.00</text>
+<text top="507" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="507" left="846" width="33" height="11" font="9">$35.00</text>
+<text top="523" left="29" width="162" height="11" font="9">L-Color ASTM  (ASTM D-1500)</text>
+<text top="523" left="406" width="6" height="11" font="9">1</text>
+<text top="523" left="487" width="33" height="11" font="9">$40.00</text>
+<text top="523" left="603" width="33" height="11" font="9">$40.00</text>
+<text top="523" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="523" left="846" width="33" height="11" font="9">$40.00</text>
+<text top="539" left="29" width="221" height="11" font="9">L-Flash Point P-M Close Cup   (ASTM D-93)</text>
+<text top="539" left="406" width="6" height="11" font="9">1</text>
+<text top="539" left="487" width="33" height="11" font="9">$65.00</text>
+<text top="539" left="603" width="33" height="11" font="9">$65.00</text>
+<text top="539" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="539" left="846" width="33" height="11" font="9">$65.00</text>
+<text top="555" left="29" width="140" height="11" font="9">L-Pour Point   (ASTM D-97)</text>
+<text top="555" left="406" width="6" height="11" font="9">1</text>
+<text top="555" left="487" width="33" height="11" font="9">$65.00</text>
+<text top="555" left="603" width="33" height="11" font="9">$65.00</text>
+<text top="555" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="555" left="846" width="33" height="11" font="9">$65.00</text>
+<text top="571" left="29" width="221" height="11" font="11">L-Viscosity @ 40° C / 104° F (ASTM D-445)</text>
+<text top="571" left="406" width="6" height="11" font="9">1</text>
+<text top="571" left="487" width="33" height="11" font="9">$75.00</text>
+<text top="571" left="603" width="33" height="11" font="9">$75.00</text>
+<text top="571" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="571" left="846" width="33" height="11" font="9">$75.00</text>
+<text top="588" left="29" width="143" height="11" font="9">L-Distillation   (ASTM D-86)</text>
+<text top="588" left="406" width="6" height="11" font="9">1</text>
+<text top="588" left="487" width="33" height="11" font="9">$85.00</text>
+<text top="588" left="603" width="33" height="11" font="9">$85.00</text>
+<text top="588" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="588" left="846" width="33" height="11" font="9">$85.00</text>
+<text top="604" left="29" width="232" height="11" font="9">L-Cetane Index Calculation   (ASTM D-4737A)</text>
+<text top="604" left="406" width="6" height="11" font="9">1</text>
+<text top="604" left="487" width="33" height="11" font="9">$25.00</text>
+<text top="604" left="603" width="33" height="11" font="9">$25.00</text>
+<text top="604" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="604" left="846" width="33" height="11" font="9">$25.00</text>
+<text top="620" left="29" width="239" height="11" font="9">L-Aromatics &amp; Olefins by FIA   (ASTM D-1319)</text>
+<text top="620" left="406" width="6" height="11" font="9">1</text>
+<text top="620" left="481" width="39" height="11" font="9">$105.00</text>
+<text top="620" left="597" width="39" height="11" font="9">$105.00</text>
+<text top="620" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="620" left="840" width="39" height="11" font="9">$105.00</text>
+<text top="636" left="29" width="273" height="11" font="9">L-Sulfur X-Ray W-Length Dispersive   (ASTM D-2622)</text>
+<text top="636" left="406" width="6" height="11" font="9">1</text>
+<text top="636" left="487" width="33" height="11" font="9">$95.00</text>
+<text top="636" left="603" width="33" height="11" font="9">$95.00</text>
+<text top="636" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="636" left="846" width="33" height="11" font="9">$95.00</text>
+<text top="652" left="29" width="156" height="11" font="9">L-Ash Content   (ASTM D-482)</text>
+<text top="652" left="406" width="6" height="11" font="9">1</text>
+<text top="652" left="487" width="33" height="11" font="9">$70.00</text>
+<text top="652" left="603" width="33" height="11" font="9">$70.00</text>
+<text top="652" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="652" left="846" width="33" height="11" font="9">$70.00</text>
+<text top="669" left="29" width="273" height="11" font="9">L-Carbon Residue Ramsbott. 10% Bott.  (ASTM D-524)</text>
+<text top="669" left="406" width="6" height="11" font="9">1</text>
+<text top="669" left="481" width="39" height="11" font="9">$160.00</text>
+<text top="669" left="597" width="39" height="11" font="9">$160.00</text>
+<text top="669" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="669" left="840" width="39" height="11" font="9">$160.00</text>
+<text top="685" left="29" width="261" height="11" font="9">L-Sediment &amp; Water by Centrifuge   (ASTM D-2709)</text>
+<text top="685" left="406" width="6" height="11" font="9">1</text>
+<text top="685" left="487" width="33" height="11" font="9">$55.00</text>
+<text top="685" left="603" width="33" height="11" font="9">$55.00</text>
+<text top="685" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="685" left="846" width="33" height="11" font="9">$55.00</text>
+<text top="701" left="29" width="202" height="11" font="9">L-Corrosion Copper Strip (ASTM D-130)</text>
+<text top="701" left="406" width="6" height="11" font="9">1</text>
+<text top="701" left="487" width="33" height="11" font="9">$55.00</text>
+<text top="701" left="603" width="33" height="11" font="9">$55.00</text>
+<text top="701" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="701" left="846" width="33" height="11" font="9">$55.00</text>
+<text top="717" left="29" width="213" height="11" font="9">L-Electrical Conductivity   (ASTM D-2624)</text>
+<text top="717" left="406" width="6" height="11" font="9">1</text>
+<text top="717" left="487" width="33" height="11" font="9">$50.00</text>
+<text top="717" left="603" width="33" height="11" font="9">$50.00</text>
+<text top="717" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="717" left="846" width="33" height="11" font="9">$50.00</text>
+<text top="733" left="29" width="181" height="11" font="9">L-Lubricity - HFRR (ASTM D-6079)</text>
+<text top="733" left="406" width="6" height="11" font="9">1</text>
+<text top="733" left="481" width="39" height="11" font="9">$190.00</text>
+<text top="733" left="597" width="39" height="11" font="9">$190.00</text>
+<text top="733" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="733" left="840" width="39" height="11" font="9">$190.00</text>
+<text top="750" left="29" width="260" height="11" font="9">L-Oxidation Stability - Accelerated   (ASTM D-2274)</text>
+<text top="750" left="406" width="6" height="11" font="9">1</text>
+<text top="750" left="481" width="39" height="11" font="9">$135.00</text>
+<text top="750" left="597" width="39" height="11" font="9">$135.00</text>
+<text top="750" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="750" left="840" width="39" height="11" font="9">$135.00</text>
+<text top="766" left="29" width="222" height="11" font="9">L-Particulate Contaminants   (ASTM D-6217)</text>
+<text top="766" left="406" width="6" height="11" font="9">1</text>
+<text top="766" left="487" width="33" height="11" font="9">$90.00</text>
+<text top="766" left="603" width="33" height="11" font="9">$90.00</text>
+<text top="766" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="766" left="846" width="33" height="11" font="9">$90.00</text>
+<text top="782" left="29" width="119" height="11" font="8"><b>A-Outsourced Analysis</b></text>
+<text top="798" left="29" width="243" height="11" font="9">L-Cetane Number  (ASTM D-613 / EN ISO 5165)</text>
+<text top="798" left="406" width="6" height="11" font="9">1</text>
+<text top="798" left="481" width="39" height="11" font="9">$577.50</text>
+<text top="798" left="597" width="39" height="11" font="9">$577.50</text>
+<text top="798" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="798" left="840" width="39" height="11" font="9">$577.50</text>
+<text top="814" left="29" width="228" height="11" font="9">L-Cold Filter Plugging Point   (ASTM D-6371)</text>
+<text top="814" left="406" width="6" height="11" font="9">1</text>
+<text top="814" left="481" width="39" height="11" font="9">$189.00</text>
+<text top="814" left="597" width="39" height="11" font="9">$189.00</text>
+<text top="814" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="814" left="840" width="39" height="11" font="9">$189.00</text>
+<text top="831" left="676" width="108" height="11" font="8"><b>Laboratory Services:</b></text>
+<text top="831" left="831" width="48" height="11" font="8"><b>$2,161.50</b></text>
+<text top="850" left="29" width="93" height="11" font="8"><b>Ancillary Services</b></text>
+<text top="869" left="29" width="248" height="11" font="9">I-Anchorage: In-Harbor Fee (per day per Inspector)</text>
+<text top="869" left="406" width="6" height="11" font="9">1</text>
+<text top="869" left="472" width="48" height="11" font="9">$2,000.00</text>
+<text top="869" left="588" width="48" height="11" font="9">$2,000.00</text>
+<text top="869" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="869" left="737" width="48" height="11" font="9">$1,300.00</text>
+<text top="869" left="840" width="39" height="11" font="9">$700.00</text>
+<text top="1073" left="30" width="409" height="8" font="12">All services provided are pursuant to the Terms and Conditions set at https://camincargo.com/termsandconditions</text>
+<text top="955" left="178" width="57" height="11" font="9">Bank Name</text>
+<text top="955" left="302" width="139" height="11" font="9">JP Morgan Chase Bank, N.A</text>
+<text top="955" left="480" width="136" height="11" font="9">JPMorgan Chase Bank, N.A</text>
+<text top="971" left="178" width="39" height="11" font="9">Address</text>
+<text top="971" left="302" width="107" height="11" font="9">235 North Wood Ave,</text>
+<text top="971" left="480" width="107" height="11" font="9">235 North Wood Ave.</text>
+<text top="987" left="302" width="53" height="11" font="9">Linden, NJ</text>
+<text top="987" left="480" width="86" height="11" font="9">Linden, NJ 07036</text>
+<text top="1003" left="178" width="67" height="11" font="9">Routing/ABA</text>
+<text top="1003" left="302" width="48" height="11" font="9">21202337</text>
+<text top="1003" left="480" width="54" height="11" font="9">021000021</text>
+<text top="1020" left="178" width="64" height="11" font="9">Camin Cargo</text>
+<text top="1020" left="242" width="4" height="11" font="11">’</text>
+<text top="1020" left="246" width="33" height="11" font="9">s Acct.</text>
+<text top="1020" left="304" width="54" height="11" font="9">809110174</text>
+<text top="1020" left="480" width="54" height="11" font="9">809110174</text>
+<text top="1053" left="302" width="69" height="11" font="9">* New Bank *</text>
+<text top="936" left="376" width="27" height="11" font="8"><b>ACH</b></text>
+<text top="936" left="552" width="33" height="11" font="8"><b>WIRE</b></text>
+<text top="1002" left="668" width="191" height="16" font="0"><b>Continued on Next Page </b></text>
+<text top="966" left="32" width="137" height="11" font="8"><b>Payment Mailing Address:</b></text>
+<text top="992" left="32" width="138" height="11" font="8"><b>Camin Cargo Control, Inc.</b></text>
+<text top="1006" left="32" width="85" height="11" font="8"><b>P.O. Box 731485</b></text>
+<text top="1019" left="32" width="116" height="11" font="8"><b>Dallas, TX 75373-1485</b></text>
+<text top="933" left="660" width="140" height="11" font="9">(*) Contractual rates applied.</text>
+<text top="1036" left="178" width="36" height="11" font="9">SWIFT</text>
+<text top="1036" left="302" width="6" height="11" font="9">  </text>
+<text top="1036" left="480" width="59" height="11" font="9">CHASUS33</text>
+<text top="1091" left="717" width="152" height="11" font="8"><b>PAYMENT TERM - NET 30 </b></text>
+<text top="1118" left="761" width="109" height="11" font="9">EXXM00-95 / 544619</text>
+<text top="1145" left="786" width="83" height="11" font="9">Report Page 1 : 2</text>
+<text top="1118" left="30" width="159" height="11" font="8"><b>Original - Yellow / Copy - Pink</b></text>
+<text top="915" left="32" width="21" height="11" font="8"><b>       </b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="27" left="362" width="126" height="135" src="./../output_data/1234/560/1136684/1136684-2_1.png"/>
+<text top="34" left="30" width="258" height="16" font="0"><b>ExxonMobil Sales &amp; Supply LLC</b></text>
+<text top="60" left="30" width="225" height="13" font="1">22777 Springwoods Village Parkway</text>
+<text top="80" left="30" width="109" height="13" font="1">Spring, TX 77389</text>
+<text top="99" left="30" width="144" height="13" font="2"><b>Attn: Leonardo Acedo</b></text>
+<text top="34" left="611" width="118" height="24" font="3"><b>INVOICE</b></text>
+<text top="72" left="611" width="207" height="16" font="0"><b>Camin Cargo Control, Inc.</b></text>
+<text top="94" left="611" width="104" height="13" font="1">P.O. Box 731485</text>
+<text top="111" left="611" width="142" height="13" font="1">Dallas, TX 75373-1485</text>
+<text top="137" left="611" width="130" height="13" font="1">Phone: 713-244-5015</text>
+<text top="156" left="611" width="225" height="13" font="1">Email: areceivable@camincargo.com</text>
+<text top="176" left="611" width="115" height="13" font="1">TEIN: 22-2581864</text>
+<text top="196" left="29" width="138" height="13" font="2"><b>IN REFERENCE TO</b></text>
+<text top="196" left="415" width="70" height="14" font="4">Invoice N:°</text>
+<text top="196" left="523" width="52" height="13" font="1">1136684</text>
+<text top="196" left="693" width="32" height="13" font="1">Date:</text>
+<text top="196" left="788" width="85" height="13" font="1">31-OCT-2020</text>
+<text top="215" left="29" width="79" height="13" font="1">Vessel/Tank:</text>
+<text top="215" left="137" width="79" height="13" font="1">Yasa Seagull</text>
+<text top="215" left="415" width="48" height="14" font="4">File N°:</text>
+<text top="215" left="523" width="72" height="13" font="1">PAN-11460</text>
+<text top="215" left="693" width="83" height="14" font="4">Customer N°:</text>
+<text top="215" left="788" width="79" height="13" font="1">EXXM00-95</text>
+<text top="235" left="29" width="69" height="13" font="1">Movement:</text>
+<text top="235" left="137" width="58" height="13" font="1">Sampling</text>
+<text top="235" left="259" width="231" height="13" font="1">Job Date:  09-OCT-2020 Ordered By:</text>
+<text top="235" left="523" width="100" height="13" font="1">Leonardo Acedo</text>
+<text top="255" left="29" width="57" height="13" font="1">Location:</text>
+<text top="255" left="137" width="169" height="13" font="1">Anchorage - Balboa, Panam</text>
+<text top="255" left="415" width="45" height="13" font="1">E-mail:</text>
+<text top="255" left="523" width="225" height="13" font="1">leonardo.g.acedo1@exxonmobil.com</text>
+<text top="274" left="29" width="67" height="13" font="1">Product(s):</text>
+<text top="274" left="137" width="39" height="13" font="1">ULSD</text>
+<text top="274" left="415" width="75" height="14" font="4">Job Ref. N°:</text>
+<text top="274" left="523" width="152" height="13" font="1">INTV005FIN-2009-0015</text>
+<text top="310" left="415" width="76" height="14" font="4">Contract N°:</text>
+<text top="310" left="523" width="63" height="13" font="1">A4002566</text>
+<text top="327" left="29" width="5" height="1" font="5"><b>CAMIN</b></text>
+<text top="327" left="415" width="17" height="1" font="6">(*) Contractual rates applied.</text>
+<text top="327" left="523" width="4" height="1" font="6">#Error</text>
+<text top="327" left="788" width="7" height="1" font="5"><b>INVOICE</b></text>
+<text top="331" left="137" width="17" height="1" font="5"><b>Camin Cargo Control, Inc.</b></text>
+<text top="331" left="203" width="23" height="1" font="5"><b>Bank Name: Bank of America, N.A.</b></text>
+<text top="331" left="260" width="18" height="1" font="6">PAYMENT TERM - NET 30</text>
+<text top="337" left="29" width="63" height="11" font="7"><b>Description</b></text>
+<text top="337" left="383" width="29" height="11" font="7"><b>Units</b></text>
+<text top="337" left="486" width="34" height="11" font="7"><b>$/Unit</b></text>
+<text top="337" left="596" width="40" height="11" font="7"><b>Charge</b></text>
+<text top="337" left="658" width="32" height="11" font="7"><b>Share</b></text>
+<text top="337" left="718" width="66" height="11" font="7"><b>Discount (*)</b></text>
+<text top="337" left="804" width="75" height="11" font="7"><b>Share Charge</b></text>
+<text top="359" left="29" width="161" height="11" font="9">A-Navarik 2% Discount (August </text>
+<text top="358" left="190" width="9" height="11" font="11">– </text>
+<text top="359" left="199" width="70" height="11" font="9">October 2020)</text>
+<text top="359" left="406" width="6" height="11" font="9">1</text>
+<text top="359" left="479" width="41" height="11" font="9">($54.30)</text>
+<text top="359" left="595" width="41" height="11" font="9">($54.30)</text>
+<text top="359" left="684" width="6" height="11" font="10"><i>1</i></text>
+<text top="359" left="838" width="41" height="11" font="9">($54.30)</text>
+<text top="375" left="688" width="97" height="11" font="8"><b>Ancillary Services:</b></text>
+<text top="375" left="840" width="39" height="11" font="8"><b>$645.70</b></text>
+<text top="1073" left="30" width="409" height="8" font="12">All services provided are pursuant to the Terms and Conditions set at https://camincargo.com/termsandconditions</text>
+<text top="955" left="178" width="57" height="11" font="9">Bank Name</text>
+<text top="955" left="302" width="139" height="11" font="9">JP Morgan Chase Bank, N.A</text>
+<text top="955" left="480" width="136" height="11" font="9">JPMorgan Chase Bank, N.A</text>
+<text top="971" left="178" width="39" height="11" font="9">Address</text>
+<text top="971" left="302" width="107" height="11" font="9">235 North Wood Ave,</text>
+<text top="971" left="480" width="107" height="11" font="9">235 North Wood Ave.</text>
+<text top="987" left="302" width="53" height="11" font="9">Linden, NJ</text>
+<text top="987" left="480" width="86" height="11" font="9">Linden, NJ 07036</text>
+<text top="1003" left="178" width="67" height="11" font="9">Routing/ABA</text>
+<text top="1003" left="302" width="48" height="11" font="9">21202337</text>
+<text top="1003" left="480" width="54" height="11" font="9">021000021</text>
+<text top="1020" left="178" width="64" height="11" font="9">Camin Cargo</text>
+<text top="1020" left="242" width="4" height="11" font="11">’</text>
+<text top="1020" left="246" width="33" height="11" font="9">s Acct.</text>
+<text top="1020" left="304" width="54" height="11" font="9">809110174</text>
+<text top="1020" left="480" width="54" height="11" font="9">809110174</text>
+<text top="1053" left="302" width="69" height="11" font="9">* New Bank *</text>
+<text top="936" left="376" width="27" height="11" font="8"><b>ACH</b></text>
+<text top="936" left="552" width="33" height="11" font="8"><b>WIRE</b></text>
+<text top="986" left="713" width="101" height="16" font="0"><b>Invoice Total</b></text>
+<text top="1006" left="699" width="129" height="16" font="0"><b>$3,427.20 (USD) </b></text>
+<text top="1024" left="709" width="110" height="11" font="9">Please pay this amount</text>
+<text top="966" left="32" width="137" height="11" font="8"><b>Payment Mailing Address:</b></text>
+<text top="992" left="32" width="138" height="11" font="8"><b>Camin Cargo Control, Inc.</b></text>
+<text top="1006" left="32" width="85" height="11" font="8"><b>P.O. Box 731485</b></text>
+<text top="1019" left="32" width="116" height="11" font="8"><b>Dallas, TX 75373-1485</b></text>
+<text top="933" left="660" width="140" height="11" font="9">(*) Contractual rates applied.</text>
+<text top="1036" left="178" width="36" height="11" font="9">SWIFT</text>
+<text top="1036" left="302" width="6" height="11" font="9">  </text>
+<text top="1036" left="480" width="59" height="11" font="9">CHASUS33</text>
+<text top="1091" left="717" width="152" height="11" font="8"><b>PAYMENT TERM - NET 30 </b></text>
+<text top="1118" left="761" width="109" height="11" font="9">EXXM00-95 / 544619</text>
+<text top="1145" left="786" width="83" height="11" font="9">Report Page 2 : 2</text>
+<text top="1118" left="30" width="159" height="11" font="8"><b>Original - Yellow / Copy - Pink</b></text>
+<text top="915" left="32" width="21" height="11" font="8"><b>       </b></text>
+</page>
+</pdf2xml>

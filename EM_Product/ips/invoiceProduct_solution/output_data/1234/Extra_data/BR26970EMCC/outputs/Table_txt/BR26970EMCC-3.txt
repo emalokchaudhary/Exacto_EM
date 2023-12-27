@@ -1,0 +1,15 @@
+Product: Benzene                                                                            Terminal:              Ergon
+Subject: Report of Loading                                                                  Port:                  Baton Rouge, Louisiana
+EMCC Ref. #: 5074792-10                                                                     File Number:           BR26970
+
+
+                                                      VESSEL MEASUREMENT REPORT
+                                                                  CHEM 3245 UPON ARRIVAL                                Ambient Temp  F: 83.0
+               Obs. Gauge      Gauge (Ft.)       Temp.                T.O.V.                     Water               API                        G.S.V
+   Tank          Height          Ullage           ( F)                Barrels         Gauge              Barrels    @ 60  F    V.C. F           Barrels
+    1P           17' 08''       00' 00''          60.0                 0.00           00' 00''            0.00       28.0      1.00000           0.00
+    1S         17' 08 1/4''     00' 00''          60.0                 0.00           00' 00''            0.00       28.0      1.00000           0.00
+    2P         17' 08 1/4''     00' 00''          60.0                 0.00           00' 00''            0.00       28.0      1.00000           0.00
+    2S         17' 08 1/4''     00' 00''          60.0                 0.00           00' 00''            0.00       28.0      1.00000           0.00
+    3P           17' 08''       00' 00''          60.0                 0.00           00' 00''            0.00       28.0      1.00000           0.00
+    3S         17' 08 1/4''     00' 00''          60.0                 0.00           00' 00''            0.00       28.0      1.00000           0.00

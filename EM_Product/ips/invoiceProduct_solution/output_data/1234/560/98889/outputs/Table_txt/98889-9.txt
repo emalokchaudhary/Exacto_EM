@@ -1,0 +1,16 @@
+Product:               CSO/MCB                                               Terminal:              P.F.T
+Subject:               Report of Loading                                     Port:                  MT Airy, Louisiana
+ExxonMobil Ref. #: 5048618                                                   File Number:           98889
+Cabot Ref. #: 108258-117517
+                                          LINE VERIFICATION REPORT
+
+
+                                            SHORE TANK NO.:                           217
+
+
+                                                                          Gauge                               Quantity
+
+           Shore Tank Measurment prior to line blow:                    04' 04 1/2"                          11,546.93
+
+
+             Shore Tank Measurment after line blow:                     04' 05 3/8"                          11,746.99

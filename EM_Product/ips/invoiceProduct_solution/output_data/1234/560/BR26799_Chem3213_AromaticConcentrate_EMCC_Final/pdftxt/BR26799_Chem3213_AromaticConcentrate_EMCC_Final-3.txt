@@ -1,0 +1,23 @@
+Detailed Hydrocarbon Analysis Detail Report -                                           Report Date: 9/2/2020 11:16:10 AM
+
+RawFile: C:\Chem32\2\DATA\090220A\081920B 2020-09-02 03-23-19\103F0301.D\103F0301.CDF   Acquired: 02-Sep-20, 07:13:34
+Sample: 090220-002                                                                      Analyzed: 9/2/2020 11:16:10 AM
+Processed 97 Peaks
+Reference File: C:\Chem32\2\References\PONA VII_MASTER.DHA
+                                                                                        Normalized to 100.0000%
+Comments:
+
+
+
+
+Oxygenates
+   Compound                          Mass%             Mass% Oxygen           Vol%
+
+   No Oxy Compounds Found            0.0000            0.0000                 0.0000
+
+Octane Number
+   Research Octane Number:           66.3
+   Motor Octane Number:              62.0
+
+   (Calculated from Individual Component Values)
+

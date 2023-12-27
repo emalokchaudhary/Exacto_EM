@@ -1,0 +1,7 @@
+
+2022-04-11 12:07:31,306:__main__:
+Filename: 4503678373-pages-1-2.pdf. Error occured in Business rules.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 302, in get_file_and_process
+    business_rule_final_dict = business_rules(business_rule_prev_dict['static'], business_user_id, config_id, company_code)
+UnboundLocalError: local variable 'business_rule_prev_dict' referenced before assignment

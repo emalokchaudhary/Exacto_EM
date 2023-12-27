@@ -1,0 +1,52 @@
+                                  COASTAL GULF &
+                                INTERNATIONAL, INC.
+                                                 "Precision"
+                                           Inspection & Analytical
+                                                   Services
+                                    P.O. Box 429 Kenner, LA. 70063-429
+                                   Phone (985)785-0765 Fax (985)785-1328                                                                                                                                       Assuring accuracy through expertise!
+
+Vessel:  FMT 6010                                                                                            Date:                     September 1, 2020
+Product: Benzene                                                                                             Terminal:                 Motiva
+Subject: Report of Discharge                                                                                 Port:                     Port Neches, Texas
+ExxonMobil Ref. #: USEBARGARO-2008-066                                                                       File Number:              BT11076
+Barge: FMT 6010                                                                         VESSEL ROB REPORT
+                                                                                                            TOV
+                                             Trim / List                             TOV                  Liquid &                        Free Water                                                                 VCF
+    Tank                 Ullage              Corrected         Non - Liquid        Non-Liquid            Non-Liquid                Innage            Volume                    GOV                 Temp.            Table               GSV
+   Number                Ft. In.              Innage             Innage             Barrels                Barrels                 Ft. In.           Barrels                  Barrels                °F             D1555              Barrels
+     1P                  00' 00"               00' 00"           00' 00"                     0.00           0.00                   00' 00"                   0.00                       0.00        60.0           1.00000                       0.00
+     1S                  00' 00"               00' 00"           00' 00"                     0.00           0.00                   00' 00"                   0.00                       0.00        60.0           1.00000                       0.00
+     2P                  00' 00"               00' 00"           00' 00"                     0.00           0.00                   00' 00"                   0.00                       0.00        60.0           1.00000                       0.00
+     2S                  00' 00"               00' 00"           00' 00"                     0.00           0.00                   00' 00"                   0.00                       0.00        60.0           1.00000                       0.00
+     3P                  00' 00"               00' 00"           00' 00"                     0.00           0.00                   00' 00"                   0.00                       0.00        60.0           1.00000                       0.00
+     3S                  00' 00"               00' 00"           00' 00"                     0.00           0.00                   00' 00"                   0.00                       0.00        60.0           1.00000                       0.00
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+                Water finding Paste: Kolor Kut                                                   0.00               0.00                                         0.00                   0.00        60.0                                         0.00
+Gauge Point Location:     Stand Pipe                              Type of Stand Pipe:                 N/A                                                      T.O.V.                          G.S.V.                         N.S.V.
+             Vessel Line Conditions: Empty                                           Fwd. Drafts:         01' 09"   Barrels @ 60°F                                          0.00                        0.00                                   0.00
+Tape #: 5559 Cal. Date: 11-25-19 PET #: n/a Cal Date: n/a                             Aft. Drafts:        01' 09"   Gallons @ 60°F                                          0.00                        0.00                                   0.00
+                                                                                              List              0   Pounds                                                  0.00                        0.00                                   0.00
+           Equipment Used: Inspector's                                    Lbs Per Gallon Factor: 7.364              Metric Tons (Air)                                      0.000                       0.000                                  0.000
+            Vessel's Equipment if Used: N/A                                                     API:     28.5       Metric Tons (Vac)                                      0.000                       0.000                                  0.000
+Vessel Measurments Taken By:                  Inspector Michael Linscomb                   S&W %:        0.000%     Short Tons                                             0.000                       0.000                                  0.000
+              Weather /Sea Conditions: Clear                                                                        Long Tons                                              0.000                       0.000                                  0.000
+                                                                                                                    Cubic Meters @ 15°C                                    0.000                       0.000                                  0.000
+Coastal Gulf & International, Inc.                                                                                  Liters                                                 0.000                       0.000                                  0.000
+                                                                               All Manual Gauges and Temps. And Samples were taking in accordance to API MPMS Chapters 3,1A,7,8.1 and 8.2. Volume Correction for Temperatures are based on
+Eddie Parker                                                                   ASTM 1250 orTerminal/Supplier tables, for which CGI can assume no responsibility.
+CGI Field Inspector                                                                                                                                                                                                          Version 7.0 06-05-13 NLE
+

@@ -1,0 +1,135 @@
+                                  COASTAL GULF &
+                                INTERNATIONAL, INC.
+                                                    "Precision"
+                                              Inspection & Analytical
+                                                      Services
+                                      2104 S Southland, Gonzales, LA 70737
+                                     Phone (225) 231-4990 Fax (225) 231-7875                        Assuring accuracy through expertise!
+
+Vessel:                 Kirby 10562                                            Date:                January 27, 2021
+Product:                Heptene                                                Terminal:            ExxonMobil
+Subject:                Report of Discharge                                    Port:                Baton Rouge, Louisiana
+EMCC Ref. #: 5067731                                                           File Number:         100323
+
+
+                                                           RECAPITULATION
+               OFFICIAL QUANTITY                                                              FOR REFERENCE ONLY
+
+METER FIGURES                                  QUANTITY                         BARGE FIGURES                             QUANTITY
+Barrels                                              9,188.00                  Barrels                                          9,196.32
+Gallons                                            385,896.00                  Gallons                                        386,245.44
+Pounds                                           2,288,363.00                  Pounds                                       2,290,435.00
+Metric Tons                                         1,037.985                  Metric Tons                                     1,038.925
+Short Tons                                          1,144.182                  Short Tons                                      1,145.218
+Long Tons                                           1,021.591                  Long Tons                                       1,022.516
+
+
+                                                         No Qualifying VEF Available
+
+
+
+BARGE FIGURES In Barrels
+BARGE                                            ARRIVAL                          DEPARTURE                             DIFFERENCE
+Kirby 10562                                       9,196.32                           0.00                                  9,196.32
+
+
+
+
+TOV BARRELS                                        9,138.76                               0.00                                9,138.76
+                                            9,196.32                                   0.00
+                           Survey was peformed by CGI Surveyor A,B,C,and D TEAMS
+                                Table Heptene used for Volume Correction purposes
+                          Surveyor equipment verified daily using Certified Thermometer
+                        Conditions during the inspection were Calm; between 00' and 01' Seas
+          "Survey performed as per and strictly adhering to methods set forth by API Chapters 3,7,8,17 & 12"
+      "All CGI measurement devices and methods used for quantity and quality determination meet the pertinent
+                 requirements of 40 CFR 98.3 et. Seq. (Greenhouse Gas Mandatory Reporting Rule)"
+
+
+Coastal Gulf & International, Inc.
+Jon Herrington
+Gonzales Communication Center                                                                                             Version 7.1 04-19-20 JMH
+                                 COASTAL GULF &
+                               INTERNATIONAL, INC.
+                                                "Precision"
+                                          Inspection & Analytical
+                                                  Services
+                                  2104 S Southland, Gonzales, LA 70737
+                                 Phone (225) 231-4990 Fax (225) 231-7875                  Assuring accuracy through expertise!
+
+Vessel:                  Kirby 10562                                       Date:          January 27, 2021
+Product:                 Heptene                                           Terminal:      ExxonMobil
+Subject:                 Report of Discharge                               Port:          Baton Rouge, Louisiana
+EMCC Ref. #: 5067731                                                       File Number:   100323
+
+
+                                                   TIME LOG OF EVENTS
+
+January 13, 2021            1315          hrs.     Barge(s) NOR Tendered
+January 26, 2021            1045          hrs.     Barge(s) called in
+January 26, 2021            1135          hrs.     Barge(s) arrived
+January 26, 2021            1140          hrs.     Surveyor notified
+January 26, 2021            1145          hrs.     Barge(s) docked
+January 26, 2021            1220          hrs.     Commenced arrival barge inspection
+January 26, 2021            1240          hrs.     Completed arrival barge inspection
+January 26, 2021            1400          hrs.     Cargo hose(s) connected
+January 26, 2021            1450          hrs.     Commenced transfer
+January 27, 2021            0630          hrs.     Surveyor notified
+January 27, 2021            0745          hrs.     Completed transfer
+January 27, 2021            0755          hrs.     Commenced departure barge inspection
+January 27, 2021            0815          hrs.     Completed departure barge inspection
+January 27, 2021            0825          hrs.     Cargo hose(s) disconnected
+January 27, 2021            0845          hrs.     Barge(s) Released
+January 27, 2021            0920          hrs.     Barge(s) Sailed
+
+
+
+
+Coastal Gulf & International, Inc.
+Jon Herrington
+Gonzales Communication Center                                                                                    Version 7.1 04-19-20 JMH
+                                  COASTAL GULF &
+                                INTERNATIONAL, INC.
+                                                "Precision"
+                                          Inspection & Analytical
+                                                  Services
+                      ®           2104 S Southland, Gonzales, LA 70737
+                                 Phone (225) 231-4990 Fax (225) 231-7875                                      Assuring accuracy through expertise!
+
+Vessel:                   Kirby 10562                                              Date:          January 27, 2021
+Product:                  Heptene                                                  Terminal:      ExxonMobil
+Subject:                  Report of    Discharge                                   Port:          Baton Rouge, Louisiana
+EMCC Ref. #: 5067731                                                               File Number:   100323
+                                                     VOYAGE ANALYSIS
+OUTTURN COMPARISON                                                   DATE                         NET BARRELS
+Load port Terminal:          Vopak, Deer Park                              January 7, 2021                 9,234.98
+Discharge Terminal:             ExxonMobil                                 January 27, 2021                9,188.00
+                                                                    Apparent Difference:                    46.98
+                                                               Adjustment for Bottoms:                       0.00
+                                                                     Adjusted Difference:                   46.98
+
+
+OBQ/ROB RECAPITULATION
+                                                   On Board Quantity at Load Port:                           0.00
+                             Remaining on Board Quantity at Discharge Port:                                  0.00
+                      Adjustment for Bottoms Pumped off or Left on Board:                                    0.00
+
+
+FREE WATER COMPARISON
+                                                 Free Water Quantity at Load Port:                           0.00
+                                         Free Water Quantity at Discharge Port:                              0.00
+                      Adjustment for Bottoms Pumped off or Left on Board:                                    0.00
+
+
+IN-TRANSIT COMPARISON
+                                                         Sailing Figures at Load port:                     9,194.42
+                                                 Arrival Figures at Discharge Port:                        9,196.32
+                                                                   In-Transit Difference:                    1.90
+
+
+
+
+Coastal Gulf & International, Inc.
+Jon Herrington
+Gonzales Communication Center                                                                                         Version 7.1 04-19-20 JMH
+

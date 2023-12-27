@@ -1,0 +1,22 @@
+TRIP: 2021-ITC-BPAL-EHC-09                                                                21E567437 VER 1 (ISSUED)
+
+Parcel Summary
+Transport       Location     Activity   Grade        Quantity   ETA    Supply Contract Window   Inspector   Inspection Requirements
+ CBC55          DEER         Load       EHC 45       3,095      03     n/a                      COASTAL     Quality / Quantity / Time
+ (VS00023106)   PARK, TX                BULK.STOCK   Barrels    Apr                             GULF        log
+                - ITC TER-              6802 CD                 2021
+                MINAL
+                (United
+                States)
+ CBC55          DEER         Load       EHC 65,      6,190      03     n/a                      COASTAL     Quality / Quantity / Time
+ (VS00023106)   PARK, TX                BULK.STOCK   Barrels    Apr                             GULF        log
+                - ITC TER-              7279                    2021
+                MINAL
+                (United
+                States)
+
+
+
+
+                                                        Page 1 of 7
+

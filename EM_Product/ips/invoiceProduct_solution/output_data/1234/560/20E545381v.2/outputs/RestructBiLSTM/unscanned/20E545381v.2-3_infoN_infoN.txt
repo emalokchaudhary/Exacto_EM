@@ -1,0 +1,70 @@
+TRIP: USEBARGARO-2012-001                                                      20E545381 VER 2 (ISSUED)
+
+Load / Discharge Instructions:
+This is a two barge tow nomination.
+LOAD TO MAX DRAFT
+
+Load inspector: Port Neches Saybolt
+Disch inspector: Baton Rouge CGI
+
+Please pull retain samples at LOAD.
+
+Notes:
+1. All samples to be kept for 90 days only unless otherwise stated.
+2. Site-specific practices may require additional testing/retention of samples.
+
+Plant Code for Inspection service:
+USID @ LOAD CC-C023210734      USI5 @ DISCHARGE CC-C02123029
+**THIS IS AN INTERCOMPANY SALE **
+Material Codes: GEMS - 5007121     GOM - 90001007
+
+
+Inspections must utilize Global Inspection Contract Rates (July 2019 - June 2026).
+
+Pre-loading inspections are required and shall be performed by the inspection companies per API 17.8
+Manual of Petroleum Measurement Standards
+
+Inspection invoices are to be submitted into Navarik if nomination received via Navarik or by email to
+PMI.Chemicals.Inspection.Invoices@exxonmobil.com if nomination received via Outlook. Invoices submitted
+via Outlook must reference a valid EMCC Nomination Key.
+
+Acceptance of inspection invoices submitted via Ariba, Basware, and the below mentioned shared mailboxes
+will be discontinued as of 22nd of July 2019. Please do not use these channels for submission:
+emcc.oa.invoices@exxonmobil.com
+emcc.int&syn.inspection.invoices@exxonmobil.com
+intermed.invoices@exxonmobil.com
+
+
+Please send a copy of the load report to the respective barge company email below that was used for this
+nomination:
+
+Canal Barge: Afterhours@canalbarge.com
+ACBL: acblloadingreports@bargeacbl.com
+FMT: chris.develle@flmarine.com; dispatch@flmarine.com; billing@flmarine.com
+Kirby: Barrel.Temp@kirbycorp.com
+
+Quality Inspection Instructions:
+SET 1
+            Description: 2 Foot Sample
+       Sample Location: Vessel First Foot
+Quality Test Comments:
+For AC/PyGas barges with Toluene, Raffinate, Benzene, AC, or PyGas as prior cargo:
+No need to take 2 foot sample.
+
+
+For AC/PyGas with different prior cargo than mentioned above:
+Take 7 samples in quart-sized containers.
+Send 6 samples to site lab.
+Seal last sample and retain in inspector's lab.
+
+
+For all other products:
+Take 5 samples in quart-sized containers.
+Send 4 samples to site lab.
+Seal last sample and retain in inspector's lab.
+
+
+
+
+                                                  Page 3 of 6
+

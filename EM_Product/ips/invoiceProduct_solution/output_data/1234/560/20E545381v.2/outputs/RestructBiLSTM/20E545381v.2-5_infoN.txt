@@ -1,0 +1,70 @@
+TRIP: USEBARGARO-2012-001                                                                          20E545381 VER 2 (ISSUED)
+
+DS-SRM-Inspection-reports-mailbox@exxonmobil.com;
+emcc.oa.survey.reports@exxonmobil.com;
+fred.j.turk@exxonmobil.com;
+brcp.pmi.chem.is@exxonmobil.com;
+marianela.valdatti@exxonmobil.com;
+mats.mto-fairfax@exxonmobil.com;
+wendy.m.lauwong@exxonmobil.com;
+
+Email Quality Results To:
+aimee.l.duke@exxonmobil.com;
+pmichem.babsc3@exxonmobil.com;
+BMCP.PMI.CHEM.IS@exxonmobil.com;
+DS-SRM-Inspection-reports-mailbox@exxonmobil.com;
+emcc.oa.survey.reports@exxonmobil.com;
+fred.j.turk@exxonmobil.com;
+brcp.pmi.chem.is@exxonmobil.com;
+nerina.y.galban@exxonmobil.com;
+marianela.valdatti@exxonmobil.com;
+mats.mto-fairfax@exxonmobil.com;
+monica.i.ortiz@exxonmobil.com;
+wendy.m.lauwong@exxonmobil.com;
+
+Load / Discharge Instructions:
+This is a two barge tow nomination.
+LOAD TO MAX DRAFT
+
+Load inspector: Port Neches Saybolt
+Disch inspector: Baton Rouge CGI
+
+Please pull retain samples at LOAD.
+
+Plant Code for Inspection service:
+USID @ LOAD CC-C023210734      USI5 @ DISCHARGE CC-C02123029
+**THIS IS AN INTERCOMPANY SALE **
+Material Codes: GEMS - 5007121     GOM - 90001007
+
+
+Inspections must utilize Global Inspection Contract Rates (July 2019 - June 2026).
+
+Pre-loading inspections are required and shall be performed by the inspection companies per API 17.8
+Manual of Petroleum Measurement Standards
+
+Inspection invoices are to be submitted into Navarik if nomination received via Navarik or by email to
+PMI.Chemicals.Inspection.Invoices@exxonmobil.com if nomination received via Outlook. Invoices submitted
+via Outlook must reference a valid EMCC Nomination Key.
+
+Acceptance of inspection invoices submitted via Ariba, Basware, and the below mentioned shared mailbox-
+es will be discontinued as of 22nd of July 2019. Please do not use these channels for submission:
+emcc.oa.invoices@exxonmobil.com
+emcc.int&syn.inspection.invoices@exxonmobil.com
+intermed.invoices@exxonmobil.com
+
+Invoice Instructions:
+  Bill Invoice To                                                                           Item to Bill   Split   Contact / Comment
+ 0102 ExxonMobil Chemical Company - U.S. (Div ExxonMobil Chemical Co) (Legal Entity:        Quantity       100%
+ 0102 EM Chemical America (0102))                                                           only
+
+Recipient List:
+Sayboltus.Intdesk@corelab.com; saybolt.portneches@corelab.com; sayboltus.intdesk@corelab.com; batonrouge@coastalgulf.com; jherring-
+ton@coastalgulf.com
+aimee.l.duke@exxonmobil.com;
+nicole.e.pfeiffer@exxonmobil.com;
+wendy.m.lauwong@exxonmobil.com;
+MATS.MTO@exxonmobil.com;
+BRRF.Marine.Super@exxonmobil.com;
+
+                                                            Page 5 of 6
+

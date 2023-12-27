@@ -1,0 +1,67 @@
+TRIP: USEBARGCHE-2012-047                                                                           20E552683 VER 1 (ISSUED)
+
+SET 3
+            Description: Barge final composite
+       Sample Location: Vessel/Barge Composite
+Quality Test Comments:
+Take sample and submit to the lab for testing.
+
+
+
+                                                                                                        RO = Report Only    Req. = Required
+ Test                                 Methods               Min   Max      UOM       Typical         R.O.        Req.      Comment
+ Additional Tests
+ catch sample - no retention          [OTHER] n/a                                                    No          No
+
+Invoice Instructions:
+  Bill Invoice To                                                                Item to Bill               Split     Contact / Comment
+ 0102 ExxonMobil Chemical Company - U.S. (Div ExxonMobil Chemical Co) (Legal     Quantity only              100%
+ Entity: 0102 EM Chemical America (0102))
+                                                                                 Test: Retain sample        100%
+                                                                                 -90 days
+                                                                                 Test: Retain sample        100%
+                                                                                 -90 days
+                                                                                 Test: catch sample -       100%
+                                                                                 no retention
+
+ DISCHARGE: CBC1383 (VS00055325) - DEER PARK, TX - VOPAK (UNITED STATES)
+                                  Inspector: Saybolt                                             Inspection Status: Accepted
+                                       Hub: Americas North and South (International                    Created On: 21 Dec 2020 by
+                                             Desk Houston)                                                          Fabiola Roxadelli
+                                                                                                                    Arnold
+                                     Coordinator: Christopher Baiamonte (saybol-                     Last Modified: 05 Jan 2021 by
+                                                  tus.intdesk@corelab.com)                                          Christopher Baia-
+                                                                                                                    monte
+                                    Local Office: Saybolt USA Deer Park, TX (Houston,
+                                                  Pasadena) (Say-
+                                                  bolt.DeerParkOps@corelab.com)
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5104721-20
+                                           Grade: IPA BR VL                              Contract Number:
+                                             ETA: 30 Dec 2020                                  Parcel Ref:
+                                             ETD:                                             Destination:
+                  Supply Contract Window Start: n/a                                      Source Location:
+                   Supply Contract Window End: n/a                                               Supplier:
+                      Total Nominated Quantity: 1,300,000 Kilograms                              Receiver:
+Transport / Voyage Number / Quantity / Tolerance: CBC1383 (VS00055325) / 1,300,000 Kilo-  Delivery Terms:
+                                                  grams +/- 5 pct
+                                                                                           Mother Vessel:
+
+Load / Discharge Instructions:
+Notes:
+1. All samples to be kept for 90 days only unless otherwise stated.
+2. Refer to "Docks Chemicals Sample Sheet" for additional instructions.
+
+Quality Inspection Instructions:
+SET 1
+            Description:
+       Sample Location: As Per Standard Terminal Practice
+Quality Test Comments:
+1-foot
+
+Composite of Barge Compartments - Test individual Barge compartments separately ONLY if the Barge com-
+posite fails or results are outside reproducibility of COA
+
+
+                                                             Page 3 of 4
+

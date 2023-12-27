@@ -1,0 +1,20 @@
+TRIP: USEBARGFIN-2009-078                                                                          20E540636 VER 1 (ISSUED)
+
+ Bill Invoice To                                                                             Item to Bill   Split    Contact / Comment
+ 3862 - ExxonMobil Oil Corporation (Legal Entity: ExxonMobil Oil Corp. (EMOC) - Mktg & Ref   Quantity       50%
+ U.S. Gen Ledger (3862))                                                                     only
+ CABOT CORPORATION                                                                           Quantity       50%
+                                                                                             only
+
+Recipient List:
+cgi@coastalgulf.com; bkraemer@coastalgulf.com
+eplaisance@apexoil.com; beilers@apexoil.com; pft4084@apexoil.com; jjackson@apexoil.com
+
+delores.l.lewis@exxonmobil.com; Chris.Furtado@cabotcorp.com;
+                                                                                                                    REPORT GENERATED 29 SEP 2020
+
+
+
+
+                                                              Page 2 of 2
+

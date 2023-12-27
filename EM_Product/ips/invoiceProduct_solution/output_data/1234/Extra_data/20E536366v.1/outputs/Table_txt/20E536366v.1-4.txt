@@ -1,0 +1,2 @@
+ Test                       Methods                                      Min     Max     UOM     Typical     R.O.       Req.     Comment
+ Total Nitrogen             [ASTM] ASTM D4629 (mod)                              1       wppm                No         Yes

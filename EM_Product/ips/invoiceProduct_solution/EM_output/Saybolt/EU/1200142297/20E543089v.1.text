@@ -1,0 +1,105 @@
+TRIP: INTB009FIN-2010-0279                                                                   20E543089 VER 1 (ISSUED)
+
+ Region: EAME                                                             Other Reference:
+Operator: RICK ARENDS (rick.arends@exxonmobil.com)                         Business Group: 0530 Esso Nederland BV
+  Phone:                                                                             Desk:
+ Mobile:                                                                  Nomination Type: Marine
+
+Documentary Instructions: n/a
+
+
+ LOAD: PUCCINI (VS00050603) - ROTTERDAM REFINERY, NETHERLANDS (NETHERLANDS)
+                                   Inspector: Saybolt                                    Inspection Status:        Accepted
+                                        Hub: Europe/Africa/Russia/ME (International Desk       Created On:         16 Oct 2020 by
+                                              Rotterdam)                                                           Rick Arends
+                                 Coordinator: Cora Ligt (intdesk.saynl@corelab.com)          Last Modified:        16 Oct 2020 by
+                                                                                                                   Cora Ligt
+                                    Local Office: Saybolt Netherlands Rotterdam (Say-
+                                                  bolt.Rotterdam.Mineral@corelab.com)
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5077578-10
+                                           Grade: NAPHTHA REFORMING                   Contract Number:
+                                             ETA: 18 Oct 2020                               Parcel Ref:
+                                             ETD:                                          Destination:
+                  Supply Contract Window Start: n/a                                   Source Location:
+                   Supply Contract Window End: n/a                                            Supplier:
+                      Total Nominated Quantity: 1,700 Metric tonnes                           Receiver:
+Transport / Voyage Number / Quantity / Tolerance: PUCCINI (VS00050603) / 1,700 Metric  Delivery Terms: FOB (Free On
+                                                  tonnes                                                Board)
+                                                                                        Mother Vessel:
+
+Email Quantity Results To:
+supplybnl.lpgscheduler@exxonmobil.com; esup.inspection@exxonmobil.com; MTOBargingLights@exxonmobil.com;
+ivan.svekus@exxonmobil.com; gaultier.spriet@exxonmobil.com; Rotterdam.pc.offsite@exxonmobil.com;
+soir@exxonmobil.com
+
+Quality Inspection Instructions:
+SET 1
+    Description:
+Sample Location: Ship – As Per Standard Terminal Practice
+
+                                                                                               RO = Report Only          Req. = Required
+ Test                              Methods                                Min   Max   UOM    Typical   R.O.       Req.     Comment
+ Saybolt Colour                    [ASTM] ASTM D156                                                    No         Yes
+ Density                           [ISO] ISO 12185, [ASTM] ASTM D4052     730   765   g/               No         Yes
+                                                                                      cm³
+ Benzene                           [OTHER] GC                                         %vol             No         Yes
+ n-Hexane                          [OTHER] GC                                         wt %             No         Yes
+ Toluene                           [OTHER] GC                                         %vol             No         Yes
+ N+2A                              [OTHER] GC                                         %vol             No         Yes
+ Total Paraffins                   [OTHER] GC                                         %vol             No         Yes
+ Olefins                           [OTHER] GC                                         %vol             No         Yes
+ Naphthenes                        [OTHER] GC                                         vol%             No         Yes
+ Aromatics                         [OTHER] GC                                         vol%             No         Yes
+ Unsaturates                       [OTHER] GC                                         %vol             No         Yes
+ Distillation - IBP                [ASTM] ASTM D86, [EN] EN ISO 3405      50          °C               No         Yes
+ Distillation 5 vol% recovered @   [ASTM] ASTM D86                        65    120   °C               No         Yes
+ 95% Recovered                     [ASTM] ASTM D86                        140   170   °C               No         Yes
+ Final Boiling Point               [ASTM] ASTM D86                              180   °C               No         Yes
+ 5% - 90% Evaporated               [ASTM] ASTM D86                                    °C               Yes        Yes
+
+
+                                                            Page 1 of 2
+TRIP: INTB009FIN-2010-0279                                                                               20E543089 VER 1 (ISSUED)
+
+                                                                                                           RO = Report Only          Req. = Required
+ Test                             Methods                                        Min   Max     UOM       Typical   R.O.       Req.     Comment
+ Dry Vapor Presssure Equiva-      [ASTM] ASTM D5191                                     20     kPa                 No         Yes
+ lent
+ Arsenic                          [OTHER] AAS / ICP, [OTHER] ICP                               μg/                 Yes        Yes
+                                                                                               kg
+ Copper                           [OTHER] AAS / ICP                                            mg/                 No         Yes
+                                                                                               kg
+ Organic Chlorine                 [ASTM] ASTM D5808, [EN] EN 14077                             mg/                 Yes        Yes
+                                                                                               kg
+ H2S in Liquid                    [IP] IP 570, [IP] IP 570 PROCEDURE A                         ppm                 No         Yes
+ Lead                             [OTHER] AAS                                           0.05   ppb                 No         Yes
+ Mercury                          [UOP] UOP 938, [OTHER] AAS                            5      ppb                 No         Yes
+ MTBE + ETBE + Ethanol +          [OTHER] Agilent GC                                           mg/                 Yes        Yes
+ Methanol / Ethers containing 5                                                                kg
+ or more carbon atoms
+ Nitrogen                         [ASTM] ASTM D5762, [ASTM] ASTM D4629                  18     ppm                 No         Yes
+ Phosphorus                       [ASTM] ASTM D3231, [ASTM] ASTM D4951,                        mg/                 Yes        Yes
+                                  [ASTM] ASTM D3231-83, [ASTM] ASTM                            kg
+                                  3231, [ASTM] ASTM D5184
+ Sodium                           [OTHER] AA, [OTHER] AA/ICP                            0.1    mg/                 No         Yes
+                                                                                               kg
+ Sulphur                          [ASTM] ASTM D4294                                     500    ppm                 No         Yes
+ Free Water                       [OTHER] ITM 1057 visual                                                          Yes        Yes
+
+Invoice Instructions:
+  Bill Invoice To                                           Item to Bill                                       Split      Contact / Comment
+ 0530 Esso Nederland BV (Legal Entity: Esso Nederland       Quantity only                                      100%
+ BV (0530))
+                                                            Slate: BNL Light Product Scheduler - R'dam         100%
+                                                            PFFD export
+
+Recipient List:
+intdesk.saynl@corelab.com; Saybolt.Rotterdam.Mineral@corelab.com
+                                                                                                                        REPORT GENERATED 16 OCT 2020
+
+
+
+
+                                                               Page 2 of 2
+

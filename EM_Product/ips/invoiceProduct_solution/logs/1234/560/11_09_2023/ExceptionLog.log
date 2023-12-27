@@ -1,0 +1,27 @@
+
+2023-09-11 12:46:46,204:__main__:
+Filename: Inv_306463.pdf. Error occured in ocr module.
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/start_exacto.py", line 555, in __single_doc_process
+    ocr_success, text_files_path, phase, ocr_flag = drive_ocr_flow(esett.OCR_MODEL_PATHS, document_path, output_path)
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 77, in drive_ocr_flow
+    return ocr_success, text_files_path, phase, ocr_flag
+UnboundLocalError: local variable 'text_files_path' referenced before assignment
+
+2023-09-11 12:47:47,100:__main__:
+Filename: Inv_306463.pdf. Error occured in ocr module.
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/start_exacto.py", line 555, in __single_doc_process
+    ocr_success, text_files_path, phase, ocr_flag = drive_ocr_flow(esett.OCR_MODEL_PATHS, document_path, output_path)
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 77, in drive_ocr_flow
+    return ocr_success, text_files_path, phase, ocr_flag
+UnboundLocalError: local variable 'text_files_path' referenced before assignment
+
+2023-09-11 12:47:47,100:__main__:
+Filename: Inv_306463.pdf. Error occured in ocr module.
+Traceback (most recent call last):
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/start_exacto.py", line 555, in __single_doc_process
+    ocr_success, text_files_path, phase, ocr_flag = drive_ocr_flow(esett.OCR_MODEL_PATHS, document_path, output_path)
+  File "/datadrive/EM_Product/ips/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 77, in drive_ocr_flow
+    return ocr_success, text_files_path, phase, ocr_flag
+UnboundLocalError: local variable 'text_files_path' referenced before assignment

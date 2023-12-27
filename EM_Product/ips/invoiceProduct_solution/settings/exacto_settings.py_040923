@@ -1,0 +1,57 @@
+import os, traceback
+import pyodbc
+
+
+
+class ExactoSettings:
+
+  def __init__(self):
+    #self.ROOT_INPUT_DIR = "/datadrive/unzip/eips_data/invoice_data"
+    self.ROOT_INPUT_DIR = "/datadrive/unzip/ips/invoiceProduct_solution/EM_input/Camin"
+    self.PATTERNS_PATH = "/datadrive/unzip/eips_data/user_active_learning_data"
+    self.INVOICE_LOG = "/datadrive/unzip/ips/invoiceProduct_solution/logs"
+    self.OUTPUT_DIR = './../output_data/'
+    self.DEFAULT_USER_ID = '123'
+    self.DEFAULT_CONFIG_ID = 'c1'
+    self.DEFAULT_COMPANY_CODE = 'ccode1'
+    self.XML_DIR = os.path.join(self.OUTPUT_DIR, 'XML')
+    self.DOC_OUTPUT = os.path.join(self.OUTPUT_DIR, 'doc_output')
+    self.OCR_MODEL_PATHS  = { 
+
+                            'checkpoint_path'  :   './data/models/resnet',
+                            'checkpointPath'   :   './data/models/orientationClassifier',
+                            'checkpointMeta'  :   './data/models/orientationClassifier/orientationHighmark-model.meta',
+                            'classModel'      :   './data/models/harrisClassifier/classificationHarris-model.meta',
+                            'classModelDir'   :   './data/models/harrisClassifier',
+                            'xml_dir'         :    self.XML_DIR
+
+                      }
+
+    self.create_req_dir()
+
+  @staticmethod
+  def safely_create_dir(path):
+    if not os.path.exists(path):
+      os.mkdir(path)
+    return
+
+  def create_req_dir(self):
+    ExactoSettings.safely_create_dir(self.ROOT_INPUT_DIR)
+    ExactoSettings.safely_create_dir(self.OUTPUT_DIR)
+    ExactoSettings.safely_create_dir(self.DOC_OUTPUT)
+    ExactoSettings.safely_create_dir(self.XML_DIR)
+    ExactoSettings.safely_create_dir(self.INVOICE_LOG)
+    return
+
+
+
+
+
+
+
+
+
+
+
+
+

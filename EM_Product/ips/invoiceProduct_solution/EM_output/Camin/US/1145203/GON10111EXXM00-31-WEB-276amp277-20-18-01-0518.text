@@ -1,0 +1,50 @@
+                                         VESSEL EXPERIENCE FACTOR REPORT
+VESSEL          : WEB - 276 & 277                                                                       DATE                : 01-DEC-2020
+
+           Date           Voyage         Location              Cargo                       Vessel       Shore       Ratio Qual. Rejection Reason
+                          Number                                                             Bbls        Bbls
+  Last     03-NOV-2020                   IMTT - St. Rose, LA   HAFO                        33,640       33,610    1.00089    Y
+   2nd     10-OCT-2020                   ExxonMobil -          MIXED LUBE EXTRACT          42,355       42,448    0.99781    Y
+                                         Baytown, TX
+   3rd     08-FEB-2019                   Garyville             RESID                       38,451       38,470    0.99951    Y
+   4th     08-JAN-2019                   Peoria                ASPHALT                     31,341       31,512    0.99457    N
+   5th     21-AUG-2018                   IMTT - St. Rose, LA   HAFO                        35,003       35,062    0.99832    Y
+   6th     21-AUG-2018                   IMTT St. Rose         FUEL OIL                    35,003       35,062    0.99832    Y
+   7th     24-JUL-2018                   IMTT St. Rose         RESID                       40,449       40,354    1.00235    N
+   8th     06-JUL-2018                   Garyville             RESID                       38,916       38,855    1.00157    Y
+   9th     29-JUN-2018                   New Orleans           VACUUM TOWER                39,875       40,044    0.99578    N
+                                                               BOTTOMS
+  10th     08-MAY-2018                   Garyville             FUEL OIL                    38,535       38,429    1.00276    N
+  11th     05-FEB-2018                   Corpus Christi        VGO                         46,071       46,097    0.99944    Y
+  12th     05-FEB-2018                   Citgo - Corpus        HS-VGO                      46,071       46,097    0.99944    Y
+                                         Christi,TX
+  13th     10-JAN-2017                   Mobile, Alabama       ASPHALT                     38,481       38,537    0.99855    Y
+  14th     14-OCT-2016                   Houston, Texas        ASPHALT                     40,202       40,567    0.99100    N
+  15th     15-APR-2016                   Mobile, Alabama       ASPHALT                     38,862       39,048    0.99524    N
+  16th     28-NOV-2015                   Houston, Texas        ASPHALT                     39,560       39,263    1.00756    N
+  17th     07-NOV-2015                   Houston, Texas        ASPHALT                     39,614       39,088    1.01346    N
+  18th     09-SEP-2015                   Mobile, Alabama       ROOFERS FLUX                39,684       39,802    0.99704    Y
+  19th     28-JUN-2015                   Mobile, Alabama       ROOFERS FLUX                40,222       40,403    0.99552    N
+  20th     27-OCT-2014                   New Madrid            BITUMEN PG 67-22            35,640       35,980    0.99055    N
+
+
+
+
+Totals:        20 considered voyages (TCV Bbls)                                                              777,975         778,728
+
+               10 qualifying voyages (TCV Bbls)                                                              393,675        394,040
+
+
+                                                                                                            All voyages Ratio:         0.99903
+                                                                                                    Qualifying Range (*1.003):         1.00203
+                                                                                                                     (*0.997):         0.99603
+N: Excluded (not in qualifying range)                                                Vessel Experience Factor (DISCHARGE) :            0.9991
+
+Calculated as per API Ch. 17.9 3rd Edition, 2019. Method: Primary
+Some figures were obtained from vessels records. We cannot certify their accuracy.
+
+
+
+
+                                                                             Page 1 of 1
+

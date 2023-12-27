@@ -1,0 +1,92 @@
+                                              VESSEL EXPERIENCE FACTOR REPORT N°
+VESSEL              : Legacy 750-1 (OB)                                                                         MOVEMENT             : Discharge
+                       KMI - Tampa, FL | REK Berth -
+LOCATION            : Tampa, FL | TPSI - Tampa, FL |                                                            JOB COMPLETED : 09-AUG-2020
+                      Buckeye - South Tampa, FL
+PRODUCT             : CBOB 84 | ULSD | CBOB 91                                                                  REFERENCE N°         : V-750-1-LEGACY-0808
+                                                                                                                                       4961114-20
+
+              Date              Voyage             Location            Cargo                       Vessel       Shore       Ratio Qual. Rejection Reason
+                                Number                                                               Bbls        Bbls
+   Last       31-JUL-2020                          Marathon - Tampa    ULSD | CBOB 84             192,776      192,776    1.00000         Vessel Measurement
+                                                   Bay, FL
+    2nd       30-JUL-2020                          TPSI - Tampa, FL      ULSD | CBOB 84 | CBOB    239,457      119,435    2.00491         Gross Error
+                                                                         91
+    3rd       21-JUL-2020                          Marathon - Tampa      ULSD | CBOB 84 | CBOB    145,431      145,431    1.00000         Vessel Measurement
+                                                   Bay, FL               91
+    4th       20-JUL-2020                          TPSI - Port Manatee, ULSD | CBOB 84 | CBOB     170,372      169,685    1.00405     Y
+                                                   FL                    91
+    5th       15-JUL-2020 N/A                      Marathon - Garyville, TRANSMIX                   1,199        1,199    1.00000         Vessel Measurement
+                                                   LA
+    6th       13-JUL-2020 N/A                      Marathon - Garyville, LCO | SOUR NAPHTHA       155,712      155,712    1.00000         Vessel Measurement
+                                                   LA
+    7th       11-APR-2020                          TPSI - Cape           ULSD | CBOB 84 | CBOB    150,216      149,756    1.00307     Y
+                                                   Canaveral, FL         91
+    8th       09-APR-2020                          Marathon -            ULSD | CBOB 84 | CBOB    155,090      155,188    0.99937     Y
+                                                   Jacksonville          91
+    9th       28-MAR-2020                          TPSI - Cape           ULSD | CBOB 84 | CBOB    160,158      159,601    1.00349     Y
+                                                   Canaveral, FL         91
+   10th       27-MAR-2020                          Marathon -            ULSD | CBOB 84 | CBOB    110,137      110,092    1.00041     Y
+                                                   Jacksonville          93
+   11th       25-MAR-2020 TR-116-20                SFPS Dock at PTEV ULSD                          34,962       34,962    1.00000         Vessel Measurement
+   12th       14-MAR-2020                          TPSI - Cape           ULSD | CBOB 84           114,969      114,980    0.99990     Y
+                                                   Canaveral, FL
+   13th       12-MAR-2020                          Marathon -            CBOB 84                  116,236      115,839    1.00343     Y
+                                                   Jacksonville
+   14th       10-MAR-2020 281/085-20               SFPS Dock at PTEV ULSD | CBOB 84                85,967       85,967    1.00000         Vessel Measurement
+   15th       27-FEB-2020 280                      TPSI - Cape           ULSD | CBOB 84 | CBOB    155,024      154,994    1.00019     Y
+                                                   Canaveral, FL         91
+   16th       26-FEB-2020                          Marathon -            ULSD | CBOB 84 | CBOB    157,623      157,353    1.00172     Y
+                                                   Jacksonville          91
+   17th       15-FEB-2020                          Marathon -            ULSD | CBOB 84 | CBOB    188,534      188,505    1.00015     Y
+                                                   Jacksonville          91
+   18th       13-FEB-2020                          TPSI - Cape           ULSD | CBOB 84 | CBOB    135,251      134,992    1.00192     Y
+                                                   Canaveral, FL         91
+
+
+
+Totals:            20 considered voyages (TCV Bbls)                                                                1,932,285        1,929,139
+
+                   13 qualifying voyages (TCV Bbls)                                                                1,932,285        1,929,139
+
+
+                                                                                                                    All voyages Ratio:          1.00163
+                                                                                                            Qualifying Range (*1.003):          1.00463
+                                                                                                                             (*0.997):          0.99863
+N: Excluded (not in qualifying range)                                                        Vessel Experience Factor (DISCHARGE) :             1.0016
+
+Calculated as per API Ch. 17.9 3rd Edition, 2019. Method: Primary
+
+3001 SW 3rd Avenue #8 Fort Lauderdale, FL 33315-3315
+Office Phone: 954-467-9299
+Email: OpsPortEverglades@camincargo.com
+
+MARA04-22 / 535078 / Report Generated: August 10, 2020                     Page 1 of 2
+              Date              Voyage             Location        Cargo                     Vessel       Shore       Ratio Qual. Rejection Reason
+                                Number                                                         Bbls        Bbls
+   19th       02-FEB-2020                          Marathon -      ULSD | CBOB 84 | CBOB    173,569      173,447    1.00070     Y
+                                                   Jacksonville    91
+   20th       31-JAN-2020                          TPSI - Cape     ULSD | CBOB 84 | CBOB    145,106      144,707    1.00276     Y
+                                                   Canaveral, FL   91
+
+
+
+
+Totals:            20 considered voyages (TCV Bbls)                                                          1,932,285        1,929,139
+
+                   13 qualifying voyages (TCV Bbls)                                                          1,932,285        1,929,139
+
+
+                                                                                                              All voyages Ratio:          1.00163
+                                                                                                      Qualifying Range (*1.003):          1.00463
+                                                                                                                       (*0.997):          0.99863
+N: Excluded (not in qualifying range)                                                  Vessel Experience Factor (DISCHARGE) :             1.0016
+
+Calculated as per API Ch. 17.9 3rd Edition, 2019. Method: Primary
+
+3001 SW 3rd Avenue #8 Fort Lauderdale, FL 33315-3315
+Office Phone: 954-467-9299
+Email: OpsPortEverglades@camincargo.com
+
+MARA04-22 / 535078 / Report Generated: August 10, 2020                Page 2 of 2
+

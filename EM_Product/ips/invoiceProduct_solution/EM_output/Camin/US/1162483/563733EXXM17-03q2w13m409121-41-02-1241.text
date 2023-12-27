@@ -1,0 +1,657 @@
+ExxonMobil Oil Corporation
+22777 Springwoods Village Parkway
+Ste. 6137
+Spring, TX 77389
+
+Attention                  : Alex Wood
+                                                                        Contents
+MOVEMENT                   : Load                                        Voyage Analysis Report
+                                                                         Shore Tank Quantity
+VESSEL                     : Kirby - 28168 & MMI - 3031                  Vessel Quantity Report
+LOCATION                   : ExxonMobil - Baton Rouge, LA                Timelog
+                                                                         LOP/NAD
+File N°                    : GON-10304                                   Analytical Report
+DATE                       : 02/24/2021 - 03/02/2021
+REFERENCE N°               : 5310230-10
+
+
+Dear Client,
+
+Please find attached our Inspection Report No. GON-10304 corresponding to the Load operation of the
+captioned vessel, at place and date(s) shown above. The complete report is composed of individual field
+reports, which we believe are self-explanatory.
+
+
+We trust that this report supplies the proper input needed so that we comply with your requirements. Should
+there be any points that need further clarification, please do not hesitate to contact us.
+
+
+
+
+All Camin Cargo Control measurement devices and methods used for quantity and quality determination meet
+the pertinent requirements of 40 CFR 98.3 et. seq. (Greenhouse Gas Mandatory Reporting Rule)
+
+
+
+
+                                                                     Yours Sincerely,
+
+                                                                     Camin Cargo Control
+                                                                     2137 S. Phillipe Ave. Gonzales, LA 70737
+                                                                     Phone: 225-307-0900
+                                                                     OpsGonzales@camincargo.com
+ EXXM17-03 / 563733                                                  www.camincargo.com
+
+
+
+
+                                                   Page 1 of 13
+                                          VOYAGE ANALYSIS REPORT N° GON-10304
+VESSEL                 : Kirby - 28168 & MMI - 3031                                                                       MOVEMENT               : Load
+LOCATION               : ExxonMobil - Baton Rouge, LA                                                                     JOB COMPLETED          : 26-FEB-2021
+PRODUCT                : RAFFINATE                                                                                        REFERENCE N°           : 5310230-10
+
+                          Port                                                                                     VCF    Voyage#                  Gauge Date
+LOAD                     : ExxonMobil - Baton Rouge, LA                                                            6B                              26-FEB-2021
+DISCHARGE
+Barrels @ 60 °F                      API @ 60 °F                     TCV                   FW                  GSV                  S&W                  NSV          Reference
+I. SHORE/SHORE COMPARISON-NOT AVAILABLE
+1.   Loading Quantity                        74.3            53,688.00                    0.00             53,688.00                   0.00          53,688.00
+2.   Outturn
+3.   Difference                                                                                                                                                       (2-1)
+4.   Difference %                                                                                                                                                     (3/1*100)
+     Adjusted TCV Difference                                                                                                                                          (3-b+l)
+
+
+II. VESSEL/SHORE COMPARISON AT LOADPORT
+a.   After Loading                                           53,480.42                    0.00             53,480.42                   Liquid            Non-Liquid
+b.   OBQ                                                             0.00                 0.00                     0.00
+
+c.   Vessel Received                                         53,480.42                    0.00             53,480.42                                                  (a-b)
+d.   Difference                                                -207.58                    0.00               -207.58                                                  (c-1)
+e.   Difference %                                                -0.39                                         -0.39                                                  (d/1*100)
+f.   Load Ratio                                                      0.99613
+                                                                                                                                                                      (c/1)
+g.   VEF
+h.   Theoretical Shore                                                                                                                                                (c/g)
+i.   Theoretical Shore Diff.                                                                                                                                          (h-1)
+j.   Theoretical Shore Diff. %                                                                                                                                        (i/1*100)
+III. VESSEL/SHORE COMPARISON AT DISPORT-NOT AVAILABLE
+k.   Before Discharge                                                                                                                  Liquid            Non-Liquid
+l.   ROB
+m. Vessel Delivered                                                                                                                                                   (k-l)
+n.   Difference                                                                                                                                                       (2-m)
+o.   Difference %                                                                                                                                                     (n/2*100)
+p.   Discharge Ratio                                                                                                                                                  (m/2)
+q.   VEF
+r.   Theoretical Shore                                                                                                                                                (m/q)
+s.   Theoretical Shore Diff.                                                                                                                                          (2-r)
+t.   Theoretical Shore Diff. %                                                                                                                                        (s/2*100)
+IV. VESSEL IN TRANSIT COMPARISON-NOT AVAILABLE
+u.   In-Transit Diff.                                                                                                                                                 (k-a)
+v.   In-Transit Diff. %                                                                                                                Liquid            Non-Liquid (u/a*100)
+w. OBQ/ROB Difference                                                                                                                                                 (b-l)
+                          Adjusted TCV Difference                                                S&W at Loadport     0.000 %        S&W at Disport ---
+There are an insufficient number of voyages to compute a Load VEF.
+
+
+
+
+Calculated as per Chapter 17.5
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+2137 S. Phillipe Ave.
+Gonzales, LA 70737
+Office Phone: 225-307-0900
+Email: OpsGonzales@camincargo.com
+
+EXXM17-03 / 563733 / March 2, 2021
+                                                                                     Page 2 of 13
+                                                   QUANTITY CERTIFICATE N° GON- 10304
+                                                                             Based on Shore Measurements
+VESSEL                 : Kirby - 28168 & MMI - 3031                                                                               MOVEMENT      : Load
+LOCATION               : ExxonMobil - Baton Rouge, LA                                                                             JOB COMPLETED : 26-FEB-2021
+PRODUCT                : RAFFINATE                                                                                                REFERENCE N° : 5310230-10
+
+
+            Reading               TOV               Meter      Temp.       API        VCF        Pressure       Pressure Corr. Comp. Corr.       GSV          S&W       S&W Vol.       NSV
+
+Meter: #2DockLine                                                          Gauge Date Open: 24-Feb 22:56                                           Gauge Date Close: 26-Feb 05:52
+            M (Inn.)              Bbls             Factor       °F        @ 60°F       6B                          Factor        Factor       Bbls @ 60°F     %          @ 60°F     Bbls @ 60°F
+ O                        0
+                                      53,688.00       1.0005      82.1     74.3 (T)   0.98305           26.70        1.000000       1.0000       53,688.00        ---         ---      53,688.00
+ C                     53688
+                                                                                                Line:                                                   ---
+                                                                                                Adjustment:                                             ---
+S=Submitted / C=Calculated / T=Tested by CCC / W=Tested by Terminal/Refinery & Witnessed by CCC
+Totals computed using appropriate tables corresponding to Delivered API.
+Notes for #2DockLine: *Please note the "Meter Factor, PC Factor, CC Factor" are for reference only and weren't used for the GSV/NSV calculations. The factors were already pre-
+calculated into the Meter figure provided to us by the Terminal.
+
+                                                                     RAFFINATE - TOTAL QUANTITIES - DELIVERED
+TCV, Barrels @ 60 °F                              53,688.00           S&W         ---
+Free Water Barrels                                     0.00                ---
+                                                  GSV                        NSV                                                                  GSW                        NSW
+Barrels @ 60 °F                                   53,688.00                 53,688.00              Long Tons - Air                                5,761.235                  5,761.235
+Gallons @ 60 °F                              2,254,896.00                2,254,896.00              Metric Tons - Air                              5,853.685                  5,853.685
+API Gravity @ 60 °F (T)                               74.3                                         Short Tons - Air                               6,452.584                  6,452.584
+Lb/Gal @ 60 °F                                    5.723176167                                      Kilograms - Air                            5,853,685.0                5,853,685.0
+                                                                                                   Pounds - Air                              12,905,167.0               12,905,167.0
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 2137 S. Phillipe Ave.
+ Gonzales, LA 70737
+ Office Phone: 225-307-0900
+ Email: OpsGonzales@camincargo.com
+
+ EXXM17-03 / 563733 / March 2, 2021                                                         Page 3 of 13
+                                               VESSEL QUANTITY REPORT N° GON-10304
+VESSEL                 : Kirby - 28168                                                                      MOVEMENT      : Load
+LOCATION               : ExxonMobil - Baton Rouge, LA                                                       JOB COMPLETED : 26-FEB-2021
+PRODUCT                : RAFFINATE                                                                          REFERENCE N° : 5310230-10
+Comp. Chart RH                 Phy GH           Gauge          TOV       Water             Water          Temp.      VCF   GSV @ 60 °F
+No      Ft-In                    Ft-In          Ft-In          Bbls      Gauge              Bbls            °F        6B        Bbls
+01P      16-07    03/04   16-07       03/04   00-00    00/00      Nil      ----             Nil
+01S      16-07    01/04   16-07       01/04   00-00    00/00      Nil      ----             Nil
+02P      16-07    01/02   16-07       01/02   00-00    00/00      Nil      ----             Nil
+02S      16-07    01/02   16-07       01/02   00-00    00/00      Nil      ----             Nil
+03P      16-06    00/00   16-06       00/00   00-00    00/00      Nil      ----             Nil
+03S      16-05    01/04   16-05       01/04   00-00    00/00      Nil      ----             Nil
+                                                                  Nil                        Nil
+
+
+
+Draft (Ft-in)        Fwd (P)                   Fwd (S)         Aft (P)      Aft (S)                Trim           List
+Before               02-00                     02-00           01-09        01-09                  -00-03 00/00   0.00
+Note:
+No Trim Correction was applied.
+
+
+VESSEL QUANTITIES                             ARRIVAL
+TCV, Barrels @ 60 °F                              0.00
+Free Water Barrels                                0.00
+                                                   GSV
+Barrels @ 60 °F                                    0.00
+Gallons @ 60 °F                                    0.00
+API Gravity @ 60 °F
+Lb/Gal @ 60 °F
+
+
+
+
+ 2137 S. Phillipe Ave.
+ Gonzales, LA 70737
+ Office Phone: 225-307-0900
+ Email: OpsGonzales@camincargo.com
+
+ EXXM17-03 / 563733 / March 2, 2021
+                                                                            Page 4 of 13
+                                                VESSEL QUANTITY REPORT N° GON-10304
+VESSEL                 : Kirby - 28168                                                                                    MOVEMENT      : Load
+LOCATION               : ExxonMobil - Baton Rouge, LA                                                                     JOB COMPLETED : 26-FEB-2021
+PRODUCT                : RAFFINATE                                                                                        REFERENCE N° : 5310230-10
+Comp. Chart RH                 Phy GH            Gauge            TOV            Water               Water             Temp.          VCF    GSV @ 60 °F
+No      Ft-In                    Ft-In           Ft-In            Bbls           Gauge                Bbls               °F            6B         Bbls
+01P      16-07    03/04   16-08       00/00    04-01    00/00    4,491.86             ----              Nil              74.7      0.98875      4,441.33
+01S      16-07    01/04   16-07       01/02    04-00    01/02    4,495.37             ----              Nil              74.7      0.98875      4,444.80
+02P      16-07    01/02   16-07       01/02    03-11    01/02    4,543.55             ----              Nil              75.9      0.98782      4,488.21
+02S      16-07    01/02   16-07       01/02    03-11    00/00    4,571.91             ----              Nil              75.7      0.98798      4,516.96
+03P      16-06    00/00   16-06       01/04    03-10    03/04    4,244.28             ----              Nil              75.8      0.98790      4,192.92
+03S      16-05    01/04   16-05       01/04    03-11    03/04    4,228.72             ----              Nil              75.7      0.98798      4,177.89
+                                                                26,575.69                                 Nil            75.4                  26,262.11
+
+
+
+Draft (Ft-in)        Fwd (P)                    Fwd (S)           Aft (P)              Aft (S)                  Trim              List
+Before               02-00                      02-00             01-09                01-09                    -00-03 00/00      0.00
+After                08-06                      08-06             08-06                08-06                    00-00 00/00       0.00
+Note:
+No Trim Correction was applied.
+
+
+
+VESSEL QUANTITIES                             DEPARTURE               RECEIVED
+TCV, Barrels @ 60 °F                           26,262.11              26,262.11           S&W         ---
+Free Water Barrels                                  0.00                   0.00                       ---
+                                                   GSV                     GSV                         NSV                                        GSW             NSW
+Barrels @ 60 °F                               26,262.11               26,262.11                      26,262.11         Long Tons - Air           2,818.175       2,818.175
+Gallons @ 60 °F                          1,103,008.62             1,103,008.62                   1,103,008.62          Metric Tons - Air         2,863.398       2,863.398
+API Gravity @ 60 °F                                74.3(T)                  74.3(T)                                    Short Tons - Air          3,156.356       3,156.356
+Lb/Gal @ 60 °F                                    5.723176167               5.723176167                                Kilograms - Air       2,863,398.0     2,863,398.0
+                                                                                                                       Pounds - Air          6,312,713.0     6,312,713.0
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 2137 S. Phillipe Ave.
+ Gonzales, LA 70737
+ Office Phone: 225-307-0900
+ Email: OpsGonzales@camincargo.com
+
+ EXXM17-03 / 563733 / March 2, 2021
+                                                                                      Page 5 of 13
+                                               VESSEL QUANTITY REPORT N° GON-10304
+VESSEL                 : MMI - 3031                                                                         MOVEMENT      : Load
+LOCATION               : ExxonMobil - Baton Rouge, LA                                                       JOB COMPLETED : 26-FEB-2021
+PRODUCT                : RAFFINATE                                                                          REFERENCE N° : 5310230-10
+Comp. Chart RH                 Phy GH           Gauge          TOV       Water             Water          Temp.      VCF   GSV @ 60 °F
+No      Ft-In                    Ft-In          Ft-In          Bbls      Gauge              Bbls            °F        6B        Bbls
+1P       15-04    01/02   16-11       01/04   00-00    00/00      Nil      ----             Nil
+1S       15-04    01/02   16-11       00/00   00-00    00/00      Nil      ----             Nil
+2P       15-04    01/04   16-10       03/04   00-00    00/00      Nil      ----             Nil
+2S       15-04    01/02   16-11       01/02   00-00    00/00      Nil      ----             Nil
+3P       15-04    01/04   16-11       00/00   00-00    00/00      Nil      ----             Nil
+3S       15-04    01/02   16-11       00/00   00-00    00/00      Nil      ----             Nil
+                                                                  Nil                        Nil
+
+
+
+Draft (Ft-in)        Fwd (P)                   Fwd (S)         Aft (P)      Aft (S)                Trim           List
+Before               02-00                     02-00           01-09        01-09                  -00-03 00/00   0.00
+Note:
+No Trim Correction was applied.
+Vessel was gauged/sampled using a Closed/Restricted System
+
+
+VESSEL QUANTITIES                             ARRIVAL
+TCV, Barrels @ 60 °F                              0.00
+Free Water Barrels                                0.00
+                                                   GSV
+Barrels @ 60 °F                                    0.00
+Gallons @ 60 °F                                    0.00
+API Gravity @ 60 °F
+Lb/Gal @ 60 °F
+
+
+
+
+ 2137 S. Phillipe Ave.
+ Gonzales, LA 70737
+ Office Phone: 225-307-0900
+ Email: OpsGonzales@camincargo.com
+
+ EXXM17-03 / 563733 / March 2, 2021
+                                                                            Page 6 of 13
+                                          VESSEL QUANTITY REPORT N° GON-10304
+VESSEL                 : MMI - 3031                                                                                      MOVEMENT      : Load
+LOCATION               : ExxonMobil - Baton Rouge, LA                                                                    JOB COMPLETED : 26-FEB-2021
+PRODUCT                : RAFFINATE                                                                                       REFERENCE N° : 5310230-10
+Comp. Chart RH          Phy GH         Gauge        Corr. Gauge                TOV        Water            Water         Temp.             VCF      GSV @ 60 °F
+No    Ft-In             Ft-In          Ft-In                                   Bbls       Gauge             Bbls           °F               6B           Bbls
+1P       15-04 01/02 16-10 01/02 03-08 00/00         02-02 00/00             4,801.13      ----                Nil         75.9          0.98782        4,742.65
+1S       15-04 01/02 16-10 01/02 03-08 01/02         02-02 01/02             4,785.86      ----                Nil         75.9          0.98782        4,727.57
+2P       15-04 01/04 16-10 01/02 03-08 01/04         02-02 00/00             4,541.83      ----                Nil         75.8          0.98790        4,486.87
+2S       15-04 01/02 16-10 01/02 03-07 01/04         02-01 01/04             4,570.58      ----                Nil         75.9          0.98782        4,514.91
+3P       15-04 01/04 16-10 01/04 04-02 01/04         02-08 01/04             4,381.42      ----                Nil         76.3          0.98752        4,326.74
+3S       15-04 01/02 16-11 01/02 03-11 01/02         02-04 01/02             4,475.11      ----                Nil         76.2          0.98759        4,419.57
+                                                                             27,555.93                         Nil         76.0                        27,218.31
+
+
+
+
+Draft (Ft-in)        Fwd (P)              Fwd (S)                  Aft (P)               Aft (S)               Trim               List
+Before               02-00                02-00                    01-09                 01-09                 -00-03 00/00       0.00
+After                08-06                08-06                    08-06                 08-06                 00-00 00/00        0.00
+Note:
+Trim Correction was applied.
+Vessel was gauged/sampled using a Closed/Restricted System
+
+
+
+VESSEL QUANTITIES                       DEPARTURE                      RECEIVED
+TCV, Barrels @ 60 °F                     27,218.31                     27,218.31            S&W          ---
+Free Water Barrels                            0.00                          0.00                         ---
+                                              GSV                           GSV                           NSV                                           GSW             NSW
+Barrels @ 60 °F                          27,218.31                     27,218.31                        27,218.31     Long Tons - Air                  2,920.785       2,920.785
+Gallons @ 60 °F                       1,143,169.02                 1,143,169.02                    1,143,169.02       Metric Tons - Air                2,967.654       2,967.654
+API Gravity @ 60 °F                          74.3(T)                           74.3(T)                                Short Tons - Air                 3,271.279       3,271.279
+Lb/Gal @ 60 °F                              5.723176167                       5.723176167                             Kilograms - Air              2,967,654.0     2,967,654.0
+                                                                                                                      Pounds - Air                 6,542,558.0     6,542,558.0
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 2137 S. Phillipe Ave.
+ Gonzales, LA 70737
+ Office Phone: 225-307-0900
+ Email: OpsGonzales@camincargo.com
+
+ EXXM17-03 / 563733 / March 2, 2021
+                                                                                         Page 7 of 13
+                                                       TIME LOG REPORT N° GON-10304
+VESSEL            : Kirby - 28168 & MMI - 3031                                                            MOVEMENT        : Load
+LOCATION          : ExxonMobil - Baton Rouge, LA                                                          JOB COMPLETED   : 26-FEB-2021
+PRODUCT           : RAFFINATE                                                                             REFERENCE N°    : 5310230-10
+
+Date        Time                Description
+24-FEB-2021 12:45               Notice of Readiness Tendered
+            18:43               Inspector Notified
+            19:25               Barge(s) Arrived
+            19:50               Barge(s) Docked
+            20:15               Inspector Arrived
+            20:17               Inspector on Board
+            20:20               Preliminary Inspection Commenced
+            20:35               Preliminary Inspection Completed
+            20:35               Preliminary Calculations Commenced
+            20:40               Preliminary Calculations Completed
+            23:00               Cargo Hose(s) Connected
+25-FEB-2021 00:40               Load Commenced
+            07:50               Shutdown due to MVR Maintenance
+            12:30               Load Resumed
+26-FEB-2021 05:15               Inspector Notified
+            05:55               Load Completed
+            06:25               Inspector Arrived
+            07:15               Cargo Hose(s) Disconnected
+            07:38               Inspector on Board
+            07:42               Final Inspection Commenced
+            08:44               Final Inspection Completed
+            08:44               Final Calculations Commenced
+            08:49               Final Calculations Completed
+            08:50               Inspector Departed
+            09:00               Released by Inspector
+            21:37               Sent for/Awaiting Confirmation
+02-MAR-2021 07:20               Received confirmation from the terminal
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+2137 S. Phillipe Ave.
+Gonzales, LA 70737
+Office Phone: 225-307-0900
+Email: OpsGonzales@camincargo.com
+
+EXXM17-03 / 563733 / March 2, 2021                                                Page 8 of 13
+                                             LETTER OF PROTEST ° GON-10304
+VESSEL              : Kirby - 28168 & MMI - 3031                                           MOVEMENT      : Load
+LOCATION            : ExxonMobil - Baton Rouge, LA                                         JOB COMPLETED : 26-FEB-2021
+PRODUCT             : RAFFINATE
+
+
+
+
+TO                  : Other                                                                REFERENCE         : VAR
+
+On Behalf of our Principals, we do hereby note the following Protest:
+
+Loading Quantity: 53,688.00 bbls.
+Vessel Received: 53,480.42 bbls.
+Difference: -207.58 bbls.
+Difference %: -0.39
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                    Respectfully,
+Signature:
+Print Name:
+Position:                                                                          ___________________________________
+Date/Time:                                                                                      Camin Cargo Control
+
+2137 S. Phillipe Ave.
+Gonzales, LA 70737
+Office Phone: 225-307-0900
+Email: OpsGonzales@camincargo.com
+
+EXXM17-03 / 563733 / March 2, 2021
+                                                                  Page 9 of 13
+                                             LETTER OF PROTEST ° GON-10304
+VESSEL              : Kirby - 28168 & MMI - 3031                                                 MOVEMENT      : Load
+LOCATION            : ExxonMobil - Baton Rouge, LA                                               JOB COMPLETED : 26-FEB-2021
+PRODUCT             : RAFFINATE
+
+
+
+
+TO                  : Terminal                                                                   REFERENCE       : Line Displacement
+
+On Behalf of our Principals, we do hereby note the following Protest:
+Terminal advised no Line Displacement to be performed due to Metered Shore Tank(s) for the movement
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                         Respectfully,
+Signature:
+Print Name:
+Position:                                                                                ___________________________________
+Date/Time:                                                                                            Camin Cargo Control
+
+2137 S. Phillipe Ave.
+Gonzales, LA 70737
+Office Phone: 225-307-0900
+Email: OpsGonzales@camincargo.com
+
+EXXM17-03 / 563733 / March 2, 2021
+                                                                      Page 10 of 13
+                                             LETTER OF PROTEST ° GON-10304
+VESSEL              : Kirby - 28168 & MMI - 3031                                           MOVEMENT      : Load
+LOCATION            : ExxonMobil - Baton Rouge, LA                                         JOB COMPLETED : 26-FEB-2021
+PRODUCT             : RAFFINATE
+
+
+
+
+TO                  : Vessel                                                               REFERENCE         : VEF
+
+On Behalf of our Principals, we do hereby note the following Protest:
+- No qualifying VEF available due to insufficient number of voyages
+- Towing company unable to provide sequential port log for the subject tow
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                    Respectfully,
+Signature:
+Print Name:
+Position:                                                                             ___________________________________
+Date/Time:                                                                                      Camin Cargo Control
+
+2137 S. Phillipe Ave.
+Gonzales, LA 70737
+Office Phone: 225-307-0900
+Email: OpsGonzales@camincargo.com
+
+EXXM17-03 / 563733 / March 2, 2021
+                                                                      Page 11 of 13
+                                                 CERTIFICATE OF ANALYSIS N° GON-10304
+      VESSEL                      : Kirby - 28168 & MMI - 3031
+      LOCATION                    : ExxonMobil - Baton Rouge, LA                                                   MOVEMENT    : Load
+      PRODUCT                     : RAFFINATE                                                                      REF. NO.    : 5310230-10
+
+
+003   TK :                       02P                  Running                  After Load               ~   Sample N° :   3        26-FEB-2021
+                                                                                                                                   Sampled at
+                                                                                                                                   12:00
+      Description :              Kirby - 28168 : RVP
+                                                                                                                               0
+
+
+
+
+      D 5191 (1L)                DVPE (EPA)                                       5.76 psi
+001   TK :                       2S                   Running                  After Load               ~   Sample N° :   10       26-FEB-2021
+  0                                                                                                                                Sampled at
+                                                                                                                                   12:01
+      Description :              MMI - 3031 : RVP
+                                                                                                                               0
+
+
+
+
+      D 5191 (1L)                DVPE (EPA)                                       5.67 psi
+001                                                   Volumetric               After Load                   Sample N° :   13       26-FEB-2021
+  3                                                   Composite                                                                    Sampled at
+                                                                                                                                   12:02
+      Description :              Kirby - 28168 & MMI - 3031
+                                                                                                                               0
+
+
+
+
+      D 4176 (1)                 Appearance                               Clear & Bright
+      D 86                       Distillation of Petroleum Products
+                                   IBP                                            141.8    °F
+                                   10%                                            156.5    °F
+                                   50%                                            169.1    °F
+                                   90%                                            199.7    °F
+                                   95%                                            209.0    °F
+                                   EP                                             244.4    °F
+                                   Evaporation @ 200 °F                            90.2    %
+                                                                                                                               0
+
+
+
+
+      D   2699                   Octanes, RON                                        65    Rating
+                                                                                                                               0
+
+
+
+
+      D   2700                   Octanes, MON                                        64    Rating
+                                                                                                                               0
+
+
+
+
+      D   5769                   Aromatics by GC-MS                                 5.9    Vol. %
+                                                                                                                               0
+
+
+
+
+      D   6550                   Olefins (Correlated to D1319)                      3.6    Vol. %
+                                                                                                                               0
+
+
+
+
+      D   3606 Proc B            Benzene (Correlated to D5769)                     0.16    Vol. %
+                                                                                                                               0
+
+
+
+
+      D   2622                   Sulfur                                            <1.0    mg/kg(ppm)
+      D   5599                   Oxygenates by GC
+                                   Methanol                                      <0.10     Wt. %
+                                   Ethanol                                       <0.10     Wt. %
+                                   i - Propanol                                  <0.10     Wt. %
+                                   t - Butanol                                   <0.10     Wt. %
+                                   n - Propanol                                  <0.10     Wt. %
+                                   MTBE                                          <0.10     Wt. %
+                                   s - Butanol                                   <0.10     Wt. %
+                                   DIPE                                          <0.10     Wt. %
+                                   i - Butanol                                   <0.10     Wt. %
+                                   ETBE                                          <0.10     Wt. %
+                                   t - Pentanol                                  <0.10     Wt. %
+                                   n - Butanol                                   <0.10     Wt. %
+                                   TAME                                          <0.10     Wt. %
+                                   Oxygenates                                    <0.10     Vol. %
+                                   Oxygen                                         <0.1     Wt. %
+                                                                                                                               0
+
+
+
+
+      D 130                      Copper Corrosion @ 122 °F/50°C (3 hrs)             1a
+
+
+ 2137 S. Phillipe Ave.
+ Gonzales, LA 70737
+ Office Phone: 225-307-0900
+ Email: OpsGonzales@camincargo.com
+
+ EXXM17-03 / 563733 / OK / R-1 / 7032008 / Generated: March 2, 2021
+
+
+
+
+                                                                           Page 12 of 13
+                                                 CERTIFICATE OF ANALYSIS N° GON-10304
+      VESSEL                      : Kirby - 28168 & MMI - 3031
+      LOCATION                    : ExxonMobil - Baton Rouge, LA                                                                        MOVEMENT                  : Load
+      PRODUCT                     : RAFFINATE                                                                                           REF. NO.                  : 5310230-10
+
+
+001                                                   Volumetric                            After Load                         Sample N° :        13                   26-FEB-2021
+  3                                                   Composite                                                                                                        Sampled at
+                                                                                                                                                                       12:02
+      Description :              Kirby - 28168 & MMI - 3031
+                                                                                                                                                                   0
+
+
+
+
+      D 7671-A                   Silver Corrosion @ 50°C/122°F (3 hrs)                            0
+                                                                                                                                                                   0
+
+
+
+
+      D 381                      Gum, Solvent Unwashed                                         <0.5     mg/100mL
+                                                                                                                                                                   0
+
+
+
+
+      D 381                      Gum, Solvent Washed                                           <0.5     mg/100mL
+                                                                                                                                                                   0
+
+
+
+
+      D 3227                     Mercaptan Sulfur                                           <0.0003     Wt. %
+                                                                                                                                                                   0
+
+
+
+
+      D 525                      Oxidation Stability                                          >240      min
+      IP 377                     Metals - Ashing & Fusion
+                                 (Scope: Al & Si)
+                                    Silicon                                                       <1 mg/kg(ppm)
+REPORT HEADER
+
+
+
+
+The results apply to the samples as received and specifically to the items listed on this certificate.
+Data contained in this report is confidential to the addressee and shall not be disclosed to any other party without their approval. This report may not be reproduced except
+in full without the written consent of the Camin Cargo Control.
+Samples taken as per Standard Practice for Manual Sampling of Petroleum and Petroleum Products (ASTM D4057 / API MPMS Chapter 8.1) via a Closed System Sampler.
+Customer is advised that, due to its limitations, the samples may not fully represent the entire cargo.
+All testing is performed on premises by Camin Cargo Control and in accordance to the latest referenced test method unless specifically stated otherwise.
+
+
+
+
+ 2137 S. Phillipe Ave.
+ Gonzales, LA 70737
+ Office Phone: 225-307-0900
+ Email: OpsGonzales@camincargo.com
+
+ EXXM17-03 / 563733 / OK / R-1 / 7032008 / Generated: March 2, 2021
+
+
+                                                                                        Page 13 of 13
+

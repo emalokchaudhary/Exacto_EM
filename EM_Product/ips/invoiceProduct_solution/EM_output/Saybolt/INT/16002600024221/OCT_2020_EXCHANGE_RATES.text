@@ -1,0 +1,89 @@
+                                                             CORE LABORATORIES
+                                                         ATTN: ACCOUNTING MANAGERS
+                                                             Exchange Rate Table
+
+
+                                                                   OCT TransACT ion Rates              SEP TransACTion Rates
+                                                                   SEP TransLAT ion Rates             AUG TransLATion Rates
+         ORACLE                                                     Measurement 9/30/2020              Measurement 8/31/2020        US $
+WORLD    SYSTEM              COUNTRY        CURRENCY               US $            CURRENCY           US $            CURRENCY     EQUIV %
+CODE      CODE               LOCATION                               V              PER U S $            V             PER U S $    CHANGE
+
+UDS       AED       UAE/ABU DHABI       DIRHAM                 0.2722940776              3.67250   0.2722940776          3.67250      0.00%
+AMD       AMD       ARMENIA             DRAM                   0.0020637279            484.56000   0.0020637279        484.56000      0.00%
+ANG       ANG       CURACAO             GUILDER                0.5586592179              1.79000   0.5586592179          1.79000      0.00%
+AWG       AWG       ARUBA               FLORIN                 0.5586592179              1.79000   0.5586592179          1.79000      0.00%
+AOA       AOA       ANGOLA              KWANZA SPOT            0.0015934785            627.55789   0.0016526057        605.10502      3.58%
+APS       ARS       ARGENTINA           PESO                   0.0131544330             76.02000   0.0135317997         73.90000      2.79%
+ADS       AUD       AUSTRALIA           DOLLAR                 0.7165000000              1.39567   0.7377000000          1.35556      2.87%
+AZN       AZN       AZERBAIJAN          NEW MANAT              0.5882352941              1.70000   0.5882352941          1.70000      0.00%
+BGN       BGN       BULGARIA            LEVA                   0.5986195832              1.67051   0.6104819755          1.63805      1.94%
+BDS       BHD       BAHRAIN             DINAR                  2.6525198939              0.37700   2.6525198939          0.37700      0.00%
+BOS       BOB       BOLIVIA             BOLIVIANO              0.1446131598              6.91500   0.1446131598          6.91500      0.00%
+BRL       BRL       BRAZIL              REAL                   0.1787437887              5.59460   0.1820266851          5.49370      1.80%
+BSD       BSD       BAHAMAS             DOLLAR SPOT            1.0000000000              1.00000   1.0000000000          1.00000      0.00%
+BYB       BYB       BELARUSSIAN         RUBLE                  0.0000382519         26,142.49227   0.0000376301     26,574.47097     -1.65%
+CDS       CAD       CANADA              DOLLAR                 0.7508071177              1.33190   0.7667535654          1.30420      2.08%
+SFS       CHF       SWITZERLAND         FRANC                  1.0856584519              0.92110   1.1068068622          0.90350      1.91%
+CHS       CLP       CHILE               PESO                   0.0012875647            776.66000   0.0012875647        776.66000      0.00%
+CCS       CNY       CHINA               RENMINBI SPOT          0.1460173761              6.84850   0.1460173761          6.84850      0.00%
+CLS       COP       COLOMBIA            PESO                   0.0002578024          3,878.93984   0.0002659306      3,760.37959      3.06%
+CRC       CRC       COSTA RICA          COLON                  0.0016522371            605.24001   0.0016968710        589.31999      2.63%
+DKS       DKK       DENMARK             KRONE                  0.1574877553              6.34970   0.1603617762          6.23590      1.79%
+DPS       DOP       DOM REP             PESO                   0.0171638461             58.26200   0.0171638461         58.26200      0.00%
+DZD       DZD       ALGERIAN            DINAR                  0.0078071814            128.08720   0.0078071814        128.08720      0.00%
+ESS       ECS       ECUADOR             SUCRE                  0.0000400000         25,000.00000   0.0000400000     25,000.00000      0.00%
+EPS       EGP       EGYPT               POUND                  0.0635380529             15.73860   0.0626283882         15.96720     -1.45%
+EUR       EUR       EUROPEAN EMU        EURO                   1.1725000000              0.85288   1.1937000000          0.83773      1.78%
+BPS       GBP       U KINGDOM           STERLING               1.2920000000              0.77399   1.3368000000          0.74806      3.35%
+GEL       GEL       GEORGIA             LARI                   0.3041547539              3.28780   0.3257753453          3.06960      6.64%
+GQS       GTQ       GUATEMALA           QUETZAL                0.1284790521              7.78337   0.1298069122          7.70375      1.02%
+HDS       HKD       HONG KONG           DOLLAR                 0.1283186408              7.79310   0.1283186408          7.79310      0.00%
+HUF       HUF       HUNGARY             FORINT                 0.0032253903            310.04000   0.0033599892        297.62000      4.01%
+ IDR       IDR      INDONESIA           RUPIAH                 0.0000670331         14,918.00320   0.0000687096     14,918.00320      2.44%
+ IQD      IQD       IRAQI               DINAR                  0.0008382355          1,192.98216   0.0008382355      1,192.98216      0.00%
+ IRS       INR      INDIA               RUPEE                  0.0135832654             73.62000   0.0135832654         73.62000      0.00%
+JMD       JMD       JAMAICA             DOLLAR SPOT            0.0070693510            141.45570   0.0067195360        148.81980     -5.21%
+JDS       JOD       JORDAN              DINAR                  1.4104372355              0.70900   1.4104372355          0.70900      0.00%
+JYS       JPY       JAPAN               YEN                    0.0094437624            105.89000   0.0094437624        105.89000      0.00%
+KSS       KES       KENYA               SHILLING               0.0091886428            108.83000   0.0093196645        107.30000      1.41%
+KWS       KRW       SOUTH KOREA         WON                    0.0008545767          1,170.16998   0.0008419209      1,187.76004     -1.50%
+KWD       KWD       KUWAIT              DINAR                  3.2736438930              0.30547   3.2736438930          0.30547      0.00%
+KTS       KZT       KAZAKHSTAN          TENGE                  0.0023121387            432.50001   0.0023720290        421.58001      2.52%
+LYD       LYD       LIBYA               DINAR                  0.7275902212              1.37440   0.7275902212          1.37440      0.00%
+MNT       MNT       MONGOLIA            TUGRIK                 0.0003490682          2,864.76969   0.0003490682      2,864.76969      0.00%
+MPS       MXN       MEXICO              PESO                   0.0445289505             22.45730   0.0452144976         22.11680      1.52%
+MRS       MYR       MALAYSIA            RINGGIT                0.2401536984              4.16400   0.2401536984          4.16400      0.00%
+NGN       NGN       NIGERIA             NAIRA                  0.0026237767            381.12999   0.0025872552        386.51000     -1.41%
+NOK       NOK       NORWAY              KRONE                  0.1071639072              9.33150   0.1145869142          8.72700      6.48%
+NDS       NZD       NEW ZEALAND         DOLLAR                 0.6621000000              1.51035   0.6741000000          1.48346      1.78%
+OMR       OMR       OMANI               RIAL                   2.5974700642              0.38499   2.5974700642          0.38499      0.00%
+PAB       PAB       PANAMA              BALBOA SPOT            1.0000000000              1.00000   1.0000000000          1.00000      0.00%
+PSS       PEN       PERU                NEW SOL                0.2775850104              3.60250   0.2823901502          3.54120      1.70%
+PKS       PGK       NEW GUINEA          KINA                   0.2853000000              3.50508   0.2853000000          3.50508      0.00%
+PPS       PHP       PHILLIPINES         PESO                   0.0206624378             48.39700   0.0206624378         48.39700      0.00%
+PRS       PKR       PAKISTAN            RUPEE                  0.0060424786            165.49500   0.0060424786        165.49500      0.00%
+PZS       PLN       POLAND              ZLOTY                  0.2549199551              3.92280   0.2703945056          3.69830      5.72%
+PGS       PYG       PARAGUAY            GUARANI                0.0001444711          6,921.79958   0.0001444711      6,921.79958      0.00%
+QRS       QAR       QATAR               RIYAL                  0.2726653033              3.66750   0.2726653033          3.66750      0.00%
+RLS       RON       ROMANIA             LEU                    0.2399347378              4.16780   0.2458693942          4.06720      2.41%
+RRS       RUR       RUSSIA              RUBLE                  0.0125494921             79.68450   0.0133979651         74.63820      6.33%
+SRS       SAR       SAUDI ARABIA        RIYAL                  0.2666311159              3.75050   0.2666311159          3.75050      0.00%
+SEK       SEK       SWEDEN              KRONE                  0.1116632237              8.95550   0.1155575072          8.65370      3.37%
+SDS       SGD       SINGAPORE           DOLLAR                 0.7351860021              1.36020   0.7351860021          1.36020      0.00%
+TBS       THB       THAILAND            BAHT                   0.0316415644             31.60400   0.0320051208         31.24500      1.14%
+TMT       TMM       TURKMENISTAN        MANAT                  0.2857142857              3.50000   0.2857142857          3.50000      0.00%
+TND       TND       TUNISIA             DINAR                  0.3616113401              2.76540   0.3672689878          2.72280      1.54%
+TRY       TRY       TURKEY              LIRA                   0.1280737705              7.80800   0.1368925394          7.30500      6.44%
+TTS       TTD       TRINIDAD            DOLLAR                 0.1488959366              6.71610   0.1488959366          6.71610      0.00%
+NTS       TWD       NEW TAIWAN          DOLLAR                 0.0344601813             29.01900   0.0338249222         29.56400     -1.88%
+UAH       UAH       UKRAINE             HRYVNIA                0.0353279494             28.30620   0.0363955321         27.47590      2.93%
+VEF       VEF       VENEZUELA           FUERTE BOL             0.0000023220        430,663.22136   0.0000030806    324,612.08855     24.63%
+VDS       VND       VIETNAM             DONG                   0.0000429520         23,281.80294   0.0000429520     23,281.80294      0.00%
+XAF       XAF       CENT. AFR. REPUB    CFA FRANC BEAC         0.0017986388            555.97600   0.0017986388        555.97600      0.00%
+YER       YER       Yemen               Rial                   0.0026315789            380.00001   0.0026315789        380.00001      0.00%
+SAS       ZAR       SOUTH AFRICA        RAND                   0.0596651591             16.76020   0.0585062192         17.09220     -1.98%
+
+        Currencies used in Oracle
+        Statutory Rates
+

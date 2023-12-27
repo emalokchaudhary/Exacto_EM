@@ -1,0 +1,127 @@
+TRIP: USEBARGFIN-2105-093                                                                   21E576091 VER 1 (ISSUED)
+
+ Region: Americas                                                              Other Reference:   BRG 5/30 TAR
+Operator: MARTIN SCHNELL (martin.l.schnell1@exxonmobil.com)                     Business Group:   S/R INLAND BARGING
+  Phone:                                                                                  Desk:   Feedstocks
+ Mobile:                                                                       Nomination Type:   Marine
+
+Documentary Instructions: n/a
+
+
+ LOAD: WEB276 (VS00053764) / WEB277 (VS00053765) - BATON ROUGE REFINERY, LA (UNITED STATES)
+                                       Inspector: Camin Cargo Control Inc.       Inspection Status: Accepted
+                                             Hub: Camin Cargo Control - Head Of-       Created On: 28 May 2021 by Martin
+                                                  fice - U.S.                                       Schnell
+                                    Coordinator: Ari Camin                           Last Modified: 28 May 2021 by Josias
+                                                  (acamin@camincargo.com)                           Rivero
+                                    Local Office: Baton Rouge, LA (OpsGonza-
+                                                  les@camincargo.com)
+                               INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5497348-10
+                                           Grade: SC TAR                          Contract Number:
+                                             ETA: 30 May 2021                           Parcel Ref:
+                                             ETD:                                      Destination:
+                  Supply Contract Window Start: n/a                               Source Location: BATON ROUGE REFIN-
+                                                                                                    ERY, LA (United States)
+                   Supply Contract Window End: n/a                                        Supplier:
+                      Total Nominated Quantity: 33,000 Barrels                            Receiver:
+Transport / Voyage Number / Quantity / Tolerance: WEB276 (VS00053764) / 16,500     Delivery Terms:
+                                                  Barrels +/- 10 pct
+                                                  WEB277 (VS00053765) / 16,500      Mother Vessel:
+                                                  Barrels +/- 10 pct
+
+Email Quantity Results To:
+mats.mto@exxonmobil.com;ffx_oilloss@exxonmobil.com; marine.backup@exxonmobil.com; ds-srm-inspection-
+reports-mailbox@exxonmobil.com; miscellaneous.charges@exxonmobil.com; jeff.m.norton@exxonmobil.com;
+michael.t.koehn@exxonmobil.com; jonathan.w.martin@exxonmobil.com; Allison.l.hellwig@exxonmobil.com;
+sarah.s.munday@exxonmobil.com; martin.l.schnell1@exxonmobil.com; timothy.i.mcgregor@exxonmobil.com
+
+Email Quality Results To:
+mats.mto@exxonmobil.com; jeff.m.norton@exxonmobil.com; nathan.t.mcguire@exxonmobil.com; mar-
+tin.l.schnell1@exxonmobil.com; jonathan.w.martin@exxonmobil.com; richard.l.collier@exxonmobil.com; rl-
+collier@ecolab.com; Allison.l.hellwig@exxonmobil.com; sarah.s.munday@exxonmobil.com;
+alyssa.r.revis@exxonmobil.com; timothy.i.mcgregor@exxonmobil.com
+
+Load / Discharge Instructions:
+LINE VERIFICATION: NO
+
+TANK: 179
+CUSTOMER: EM
+TUG: HUGH S MONSTED
+VETTING ID: arsmit2-633693
+INCOTERMS: DAP
+
+
+
+Terminal and Inspector must confirm equipment and orders match those of the towing company during the
+pre-transfer conference. If there are any discrepancies, please contact the scheduler. No transfers
+shall begin until discrepancies have been cleared via issuing of new orders.
+
+Overtime: Not Approved
+
+===========================================
+INSPECTION INSTRUCTIONS
+===========================================
+GLOBAL INSPECTION CONTRACT effective from July 2019 to June 2026 is to be used.
+
+IF FOB:
+
+                                                        Page 1 of 2
+TRIP: USEBARGFIN-2105-093                                                                                  21E576091 VER 1 (ISSUED)
+
+-QUALITY IS BASED ON SHORE TANK PRIOR TO LOAD OR BARGE COMP IF LOAD IS ACTIVE.
+-QUANTITY IS BASED ON STATIC SHORE TANK DOWNGAUGE AT LOAD OR STATIC UPGAUGE ADJUSTED FOR ROB/OBQ IF LOAD
+IS ACTIVE.
+
+IF DES:
+-QUALITY IS BASED ON BARGE COMP ANALYSIS.
+-QUANTITY IS BASED ON STATIC SHORE TANK UPGAUGE AT DISCHARGE OR STATIC UPGAUGE ADJUSTED FOR ROB/OBQ IF
+LOAD IS ACTIVE.
+
+Quality Inspection Instructions:
+SET 1
+    Description:
+Sample Location: Vessel/Barge Composite
+
+                                                                                                             RO = Report Only          Req. = Required
+ Test                        Methods                                              Min     Max     UOM      Typical   R.O.       Req.     Comment
+ Aluminium                   [IP] IP 501                                                          mg/kg              No         Yes
+ API Gravity @ 60 F          [ASTM] ASTM D1298, [ASTM] ASTM D4052                                 API                No         Yes
+ Flash Point (PMCC)          [ASTM] ASTM D93, [ASTM] ASTM D93 Proce-                              °F                 No         Yes
+                             dure B
+ Pour Point                  [ASTM] ASTM D97                                                      °C                 No         Yes
+ Zinc                        [IP] IP 501                                                          mg/kg              No         Yes
+ Phosphorus                  [IP] IP 501                                                          g/l                No         Yes
+ Calcium                     [IP] IP 501                                                          mg/kg              No         Yes
+ Silicon                     [IP] IP 501                                                          mg/kg              No         Yes
+ Sodium                      [IP] IP 501                                                          mg/kg              No         Yes
+ Sulfur                      [ASTM] ASTM D4294                                                    g/kg               No         Yes
+ Vanadium                    [IP] IP 501                                                          mg/kg              No         Yes
+ Viscosity cSt @             [ASTM] ASTM D445                                                     cSt                No         Yes
+ 50°C(122°F)
+ H2S in Vapor                [ASTM] ASTM D5705                                                    ppm v/             No         Yes
+                                                                                                  v
+ Water by Distillaton        [ASTM] ASTM D95                                                      Vol %              No         Yes
+ Sediment by Extraction      [ASTM] ASTM D473                                                     %m                 No         Yes
+
+Invoice Instructions:
+  Bill Invoice To                                                                       Item to Bill             Split      Contact / Comment
+ 3862 - ExxonMobil Oil Corporation (Legal Entity: ExxonMobil Oil Corp. (EMOC) -         Quantity only            100%
+ Mktg & Ref U.S. Gen Ledger (3862))
+                                                                                        Slate: US BLKO TAR       100%
+                                                                                        SLATE 2020
+
+Recipient List:
+navarik_coordinator@camincargo.com; OpsGonzales@camincargo.com; acamin@camincargo.com
+carol.d.coleman@exxonmobil.com; tyler.j.dickinson@exxonmobil.com; mats.mto@exxonmobil.com; derrek.c.lathon@exxonmobil.com; br-
+rf.rva.docks@exxonmobil.com; brrf-orders-mail@exxonmobil.com; ALICIA.A.BROWNING@exxonmobil.com; marine.backup@exxonmobil.com;
+brrf.marine.super@exxonmobil.com; jeff.m.norton@exxonmobil.com; michael.t.koehn@exxonmobil.com; Nathan.t.mcguire@exxonmobil.com;
+jonathan.w.martin@exxonmobil.com; Allison.l.hellwig@exxonmobil.com; martin.l.schnell1@exxonmobil.com; alyssa.r.revis@exxonmobil.com;
+sarah.s.munday@exxonmobil.com; timothy.i.mcgregor@exxonmobil.com
+                                                                                                                          REPORT GENERATED 28 MAY 2021
+
+
+
+
+                                                              Page 2 of 2
+

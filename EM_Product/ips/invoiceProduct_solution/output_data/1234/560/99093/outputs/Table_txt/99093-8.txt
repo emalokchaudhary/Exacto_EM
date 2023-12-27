@@ -1,0 +1,16 @@
+Product:              CSO/MCB                                                     Terminal:               P.F.T.
+Subject:              Report of Loading                                           Port:                   Mt Airy, Louisiana
+ExxonMobil Ref. #: 5107066-10                                                     File Number:            99093
+Cabot Ref. #: 108282-118106
+                                SHORE LINE VERIFICATION REPORT
+
+           Comparison made for Line Displacement at:                       Loading
+
+                                           SHORE TANK NO.:                                 217
+
+                                               Innage Gauge                                           Gross Barrels
+                  OPEN:                            16' 00"                                             43,404.27
+                  CLOSE:                         15' 09 1/8"                                           42,747.77
+                  GROSS BARRELS:                      Delivered                                          656.50
+
+                                                 BARGE:                      EMS 3004B

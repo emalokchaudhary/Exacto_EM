@@ -1,0 +1,67 @@
+TRIP: USEBARGARO-2012-001                                                                       20E545381 VER 2 (ISSUED)
+
+                                                                                                     RO = Report Only     Req. = Required
+ Test                             Methods             Min      Max        UOM   Typical         R.O.         Req.       Comment
+ Additional Tests
+ Retain sample -90 days           [OTHER] n/a                                                   No           No
+
+SET 2
+            Description: Final Composite Sample
+       Sample Location: Vessel/Barge Composite
+Quality Test Comments:
+For all tanks:
+
+
+For AC:
+Take 6 quart-sized samples and send to site lab.
+Take one sample per tank, seal them, and retain in inspector's lab.
+
+
+For all other products:
+Take 4 quart-sized samples and send to site lab.
+Take one sample (three samples for PyGas) per tank, seal them, and retain in inspector's lab.
+
+
+
+                                                                                                     RO = Report Only     Req. = Required
+ Test                             Methods             Min      Max        UOM   Typical         R.O.         Req.       Comment
+ Additional Tests
+ Retain sample -90 days           [OTHER] n/a                                                   No           No
+
+Invoice Instructions:
+  Bill Invoice To                                                               Item to Bill             Split      Contact / Comment
+ 0102 ExxonMobil Chemical Company - U.S. (Div ExxonMobil Chemical Co) (Legal    Quantity only            100%
+ Entity: 0102 EM Chemical America (0102))
+                                                                                Test: Retain sam-        100%
+                                                                                ple -90 days
+                                                                                Test: Retain sam-        100%
+                                                                                ple -90 days
+
+ DISCHARGE: HTCO3084 (VS00047641) / KIRBY29044 (VS00053864) - BATON ROUGE REFINERY, LA (UNITED STATES)
+                                       Inspector: COASTAL GULF                     Inspection Status: Accepted
+                                             Hub: Coastal Gulf - Baton Rouge             Created On: 03 Nov 2020 by
+                                                                                                      ExxonMobil Webser-
+                                                                                                      vice
+                                    Coordinator: Jon Herrington (jherring-             Last Modified: 03 Nov 2020 by Ross
+                                                  ton@coastalgulf.com)                                Ewart
+                                    Local Office:
+                                     INSPECTION REQUIREMENTS: QUANTITY / TIME LOG
+      Voyage Parcel External Reference Number: 5102685-20
+                                           Grade: AROM CONCENTRATE VL BULK          Contract Number:
+                                             ETA: 06 Nov 2020                             Parcel Ref:
+                                             ETD:                                        Destination:
+                  Supply Contract Window Start: n/a                                 Source Location:
+                   Supply Contract Window End: n/a                                          Supplier:
+                      Total Nominated Quantity: 52,000 Barrels                              Receiver:
+Transport / Voyage Number / Quantity / Tolerance: HTCO3084 (VS00047641) / 26,000     Delivery Terms:
+                                                  Barrels
+                                                  KIRBY29044 (VS00053864) / 26,000    Mother Vessel:
+                                                  Barrels load to max safe draft
+
+Email Quantity Results To:
+aimee.l.duke@exxonmobil.com;
+pmichem.babsc3@exxonmobil.com;
+BMCP.PMI.CHEM.IS@exxonmobil.com;
+
+                                                            Page 4 of 6
+

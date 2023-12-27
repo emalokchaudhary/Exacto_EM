@@ -1,0 +1,16 @@
+Product:            Benzene                                                               Terminal:                Motiva
+Subject:            Report of Discharge                                                   Port:                    Port Neches, Texas
+ExxonMobil Ref. #: USEBARGARO-2008-066                                                    File Number:             BT11076
+                                                              QUANTITY SUMMARY
+
+                                                   Vessel Figures                                                Vessel Figures With VEF Applied
+                                T.C.V.                   G.S.V.                     N.S.V.                    T.C.V.                   G.S.V.                     N.S.V.
+ Barrels @ 60 F                 19413.72                  19413.72                   19413.72                  19413.72                 19413.72                   19413.72
+ Gallons @ 60 F                815376.24                 815376.24                  815376.24                 815376.24                815376.24                  815376.24
+ Pounds                       6004431.00                6004431.00                 6004431.00                6004431.00               6004431.00                 6004431.00
+ Metric Tons (Air)               2723.57                   2723.57                    2723.57                   2723.57                  2723.57                    2723.57
+ Metric Tons (Vac)               2729.73                   2729.73                    2729.73                   2729.73                  2729.73                    2729.73
+ Short Tons                      3002.22                   3002.22                    3002.22                   3002.22                  3002.22                    3002.22
+ Long Tons                       2680.55                   2680.55                    2680.55                   2680.55                  2680.55                    2680.55
+ Cubic Meters @ 15 C             3086.54                   3086.54                    3086.54                   3086.54                  3086.54                    3086.54
+ Liters                       3086533.37                3086533.37                 3086533.37                3086533.37               3086533.37                 3086533.37

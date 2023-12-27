@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="20.11.0">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="21" family="AAAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="1" size="11" family="AAAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="2" size="12" family="AAAAAB+Arial" color="#000000"/>
+	<fontspec id="3" size="13" family="AAAAAB+Arial" color="#000000"/>
+	<fontspec id="4" size="13" family="AAAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="5" size="10" family="AAAAAB+Arial" color="#000000"/>
+	<fontspec id="6" size="14" family="AAAAAB+Arial" color="#000000"/>
+	<fontspec id="7" size="14" family="ArialMT" color="#000000"/>
+<image top="27" left="27" width="75" height="75" src="./../output_data/1234/560/103951_GM10061019_ResidV_B20210607003_XOM_Final/103951_GM10061019_ResidV_B20210607003_XOM_Final-1_1.png"/>
+<image top="811" left="641" width="144" height="37" src="./../output_data/1234/560/103951_GM10061019_ResidV_B20210607003_XOM_Final/103951_GM10061019_ResidV_B20210607003_XOM_Final-1_2.png"/>
+<image top="796" left="72" width="158" height="56" src="./../output_data/1234/560/103951_GM10061019_ResidV_B20210607003_XOM_Final/103951_GM10061019_ResidV_B20210607003_XOM_Final-1_3.png"/>
+<text top="56" left="347" width="224" height="24" font="0"><b>Certificate of Analysis</b></text>
+<text top="84" left="667" width="70" height="13" font="1"><b>Report Date:</b></text>
+<text top="82" left="753" width="117" height="14" font="2">6/8/2021  9:47:03AM</text>
+<text top="174" left="696" width="52" height="15" font="3">5495746</text>
+<text top="120" left="699" width="45" height="15" font="3">103951</text>
+<text top="120" left="245" width="101" height="15" font="3">GM 1006 &amp; 1019</text>
+<text top="121" left="36" width="117" height="15" font="4"><b>Vessel/Equipment:</b></text>
+<text top="157" left="67" width="54" height="15" font="4"><b>Product:</b></text>
+<text top="175" left="65" width="58" height="15" font="4"><b>Terminal:</b></text>
+<text top="121" left="473" width="80" height="15" font="4"><b>File Number:</b></text>
+<text top="157" left="493" width="41" height="15" font="4"><b>Client:</b></text>
+<text top="175" left="459" width="108" height="15" font="4"><b>Client Reference:</b></text>
+<text top="174" left="206" width="179" height="15" font="3">ExxonMobil, Baton Rouge, LA</text>
+<text top="192" left="265" width="62" height="15" font="3">After Load</text>
+<text top="156" left="272" width="47" height="15" font="3">Resid V</text>
+<text top="139" left="472" width="81" height="15" font="4"><b>Lab Number:</b></text>
+<text top="138" left="676" width="91" height="15" font="3">B20210607003</text>
+<text top="156" left="687" width="69" height="15" font="3">ExxonMobil</text>
+<text top="193" left="69" width="52" height="15" font="4"><b>Subject:</b></text>
+<text top="138" left="288" width="15" height="15" font="3">24</text>
+<text top="139" left="59" width="71" height="15" font="4"><b>Shore Tank</b></text>
+<text top="215" left="273" width="45" height="15" font="3">105144</text>
+<text top="233" left="258" width="75" height="15" font="3">H2S Sample</text>
+<text top="233" left="717" width="55" height="15" font="3">GM 1006</text>
+<text top="271" left="692" width="104" height="15" font="3">Min       -       Max</text>
+<text top="271" left="815" width="53" height="15" font="3">Off-Spec</text>
+<text top="253" left="728" width="31" height="15" font="3">Spec</text>
+<text top="271" left="589" width="31" height="15" font="3">Units</text>
+<text top="271" left="429" width="38" height="15" font="3">Result</text>
+<text top="271" left="164" width="69" height="15" font="3">Component</text>
+<text top="271" left="33" width="45" height="15" font="3">Method</text>
+<text top="217" left="42" width="104" height="15" font="4"><b>Sample Number:</b></text>
+<text top="235" left="458" width="109" height="15" font="4"><b>Sample Location:</b></text>
+<text top="235" left="52" width="84" height="15" font="4"><b>Sample Type:</b></text>
+<text top="296" left="33" width="51" height="15" font="3">D5705M</text>
+<text top="296" left="164" width="192" height="15" font="3">Hydrogen Sulfide (Vapor Phase)</text>
+<text top="296" left="429" width="15" height="15" font="3">50</text>
+<text top="296" left="589" width="26" height="15" font="3">ppm</text>
+<text top="298" left="734" width="8" height="15" font="3"> -</text>
+<text top="318" left="33" width="51" height="15" font="3">D5705M</text>
+<text top="318" left="164" width="75" height="15" font="3">Temperature</text>
+<text top="318" left="429" width="22" height="15" font="3">275</text>
+<text top="318" left="589" width="14" height="15" font="3">°F</text>
+<text top="320" left="734" width="8" height="15" font="3"> -</text>
+<text top="340" left="273" width="45" height="15" font="3">105153</text>
+<text top="358" left="258" width="75" height="15" font="3">H2S Sample</text>
+<text top="358" left="717" width="55" height="15" font="3">GM 1019</text>
+<text top="395" left="692" width="104" height="15" font="3">Min       -       Max</text>
+<text top="395" left="815" width="53" height="15" font="3">Off-Spec</text>
+<text top="377" left="728" width="31" height="15" font="3">Spec</text>
+<text top="395" left="589" width="31" height="15" font="3">Units</text>
+<text top="395" left="429" width="38" height="15" font="3">Result</text>
+<text top="395" left="164" width="69" height="15" font="3">Component</text>
+<text top="395" left="33" width="45" height="15" font="3">Method</text>
+<text top="342" left="42" width="104" height="15" font="4"><b>Sample Number:</b></text>
+<text top="360" left="458" width="109" height="15" font="4"><b>Sample Location:</b></text>
+<text top="360" left="52" width="84" height="15" font="4"><b>Sample Type:</b></text>
+<text top="421" left="33" width="51" height="15" font="3">D5705M</text>
+<text top="421" left="164" width="192" height="15" font="3">Hydrogen Sulfide (Vapor Phase)</text>
+<text top="421" left="429" width="15" height="15" font="3">10</text>
+<text top="421" left="589" width="26" height="15" font="3">ppm</text>
+<text top="422" left="734" width="8" height="15" font="3"> -</text>
+<text top="443" left="33" width="51" height="15" font="3">D5705M</text>
+<text top="443" left="164" width="75" height="15" font="3">Temperature</text>
+<text top="443" left="429" width="22" height="15" font="3">275</text>
+<text top="443" left="589" width="14" height="15" font="3">°F</text>
+<text top="444" left="734" width="8" height="15" font="3"> -</text>
+<text top="465" left="273" width="45" height="15" font="3">105155</text>
+<text top="483" left="264" width="64" height="15" font="3">Composite</text>
+<text top="483" left="694" width="101" height="15" font="3">GM 1006 &amp; 1019</text>
+<text top="520" left="692" width="104" height="15" font="3">Min       -       Max</text>
+<text top="520" left="815" width="53" height="15" font="3">Off-Spec</text>
+<text top="502" left="728" width="31" height="15" font="3">Spec</text>
+<text top="520" left="589" width="31" height="15" font="3">Units</text>
+<text top="520" left="429" width="38" height="15" font="3">Result</text>
+<text top="520" left="164" width="69" height="15" font="3">Component</text>
+<text top="520" left="33" width="45" height="15" font="3">Method</text>
+<text top="467" left="42" width="104" height="15" font="4"><b>Sample Number:</b></text>
+<text top="485" left="458" width="109" height="15" font="4"><b>Sample Location:</b></text>
+<text top="485" left="52" width="84" height="15" font="4"><b>Sample Type:</b></text>
+<text top="888" left="567" width="81" height="15" font="3">Reviewed by:</text>
+<text top="888" left="675" width="86" height="15" font="3">Glenn Hanson</text>
+<text top="906" left="675" width="111" height="15" font="3">VP of Laboratories</text>
+<text top="888" left="33" width="46" height="15" font="3">Signed:</text>
+<text top="843" left="27" width="13" height="15" font="3">X </text>
+<text top="840" left="568" width="13" height="15" font="3">X </text>
+<text top="887" left="102" width="77" height="15" font="3">Kody Dauzat</text>
+<text top="905" left="102" width="137" height="15" font="3">Assistant Lab Manager</text>
+<text top="1142" left="455" width="7" height="15" font="3">1</text>
+<text top="1097" left="372" width="172" height="12" font="5">13615 River Road, Luling, LA 70070</text>
+<text top="1115" left="333" width="251" height="12" font="5">Phone: (985) 785-0765   Email: cgi@coastalgulf.com</text>
+<text top="546" left="33" width="55" height="16" font="6">D4052-M</text>
+<text top="546" left="164" width="115" height="16" font="6">API Gravity at 60°F</text>
+<text top="546" left="429" width="19" height="16" font="6">7.3</text>
+<text top="546" left="734" width="8" height="16" font="6"> -</text>
+<text top="568" left="33" width="40" height="16" font="6">D4294</text>
+<text top="568" left="73" width="16" height="16" font="7">-M</text>
+<text top="568" left="164" width="86" height="16" font="6">Sulfur Content</text>
+<text top="568" left="429" width="26" height="16" font="6">3.44</text>
+<text top="568" left="589" width="25" height="16" font="6">wt%</text>
+<text top="568" left="734" width="8" height="16" font="6"> -</text>
+<text top="589" left="33" width="32" height="16" font="6">D445</text>
+<text top="589" left="164" width="178" height="16" font="6">Viscosity - Kinematic at 275°F</text>
+<text top="589" left="429" width="34" height="16" font="6">282.3</text>
+<text top="589" left="589" width="19" height="16" font="6">cSt</text>
+<text top="589" left="734" width="8" height="16" font="6"> -</text>
+<text top="611" left="33" width="25" height="16" font="6">D92</text>
+<text top="611" left="164" width="119" height="16" font="6">Flash Point by COC</text>
+<text top="611" left="429" width="22" height="16" font="6">345</text>
+<text top="611" left="589" width="15" height="16" font="6">°C</text>
+<text top="611" left="734" width="8" height="16" font="6"> -</text>
+<text top="633" left="33" width="32" height="16" font="6">D189</text>
+<text top="633" left="164" width="166" height="16" font="6">Conradson Carbon Residue</text>
+<text top="633" left="429" width="26" height="16" font="6">20.0</text>
+<text top="633" left="589" width="12" height="16" font="6">%</text>
+<text top="633" left="734" width="8" height="16" font="6"> -</text>
+<text top="655" left="33" width="17" height="16" font="6">D5</text>
+<text top="655" left="164" width="69" height="16" font="6">Penetration</text>
+<text top="655" left="429" width="15" height="16" font="6">10</text>
+<text top="655" left="589" width="22" height="16" font="6">mm</text>
+<text top="655" left="734" width="8" height="16" font="6"> -</text>
+<text top="676" left="33" width="46" height="16" font="6">IP501M</text>
+<text top="676" left="164" width="60" height="16" font="6">Aluminum</text>
+<text top="676" left="429" width="15" height="16" font="6">13</text>
+<text top="676" left="589" width="26" height="16" font="6">ppm</text>
+<text top="676" left="734" width="8" height="16" font="6"> -</text>
+<text top="698" left="33" width="46" height="16" font="6">IP501M</text>
+<text top="698" left="164" width="40" height="16" font="6">Silicon</text>
+<text top="698" left="429" width="15" height="16" font="6">18</text>
+<text top="698" left="589" width="26" height="16" font="6">ppm</text>
+<text top="698" left="734" width="8" height="16" font="6"> -</text>
+<text top="720" left="33" width="46" height="16" font="6">IP501M</text>
+<text top="720" left="164" width="46" height="16" font="6">Sodium</text>
+<text top="720" left="429" width="15" height="16" font="6">28</text>
+<text top="720" left="589" width="26" height="16" font="6">ppm</text>
+<text top="720" left="734" width="8" height="16" font="6"> -</text>
+<text top="742" left="33" width="46" height="16" font="6">IP501M</text>
+<text top="742" left="164" width="59" height="16" font="6">Vanadium</text>
+<text top="742" left="429" width="22" height="16" font="6">161</text>
+<text top="742" left="589" width="26" height="16" font="6">ppm</text>
+<text top="742" left="734" width="8" height="16" font="6"> -</text>
+<text top="762" left="33" width="47" height="16" font="7">D6560  </text>
+<text top="762" left="141" width="100" height="16" font="7">      Asphaltenes </text>
+<text top="762" left="411" width="45" height="16" font="7">    12.2 </text>
+<text top="762" left="573" width="69" height="16" font="7">    % (m/m) </text>
+<text top="762" left="681" width="60" height="16" font="7">               -</text>
+</page>
+</pdf2xml>

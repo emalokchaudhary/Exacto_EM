@@ -1,0 +1,39 @@
+
+2022-03-11 08:25:24,604:__main__:
+Filename: R3021002_acceptIT_Simonswerk_Wartung_MDM.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2022-03-11 08:31:35,749:__main__:
+Filename: R3021002_acceptIT_Simonswerk_Wartung_MDM.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2022-03-11 14:44:31,582:__main__:
+Filename: midpoints_R3021080.pdf. Error occured in NLP flow module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 337, in __single_doc_process
+    sta, dyn,config_id = drive_nlp_flow(os.path.splitext(document_path)[0], text_files_path, custom_extractor_obj, user=self.user_id, config=self.config_id)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 84, in drive_nlp_flow
+    info_folder_path = egut.create_output_folder(text_files_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_general_utils.py", line 120, in create_output_folder
+    info_folder_path = os.path.join(text_files_path, "outputs")
+  File "/data/common/miniconda3/envs/cba_gpu/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType

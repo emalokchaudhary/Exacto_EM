@@ -1,0 +1,47 @@
+CLEANED !!!
+                            COASTAL GULF &
+                          INTERNATIONAL, INC.
+                                            "Precision"
+                                     Inspection & Analytical
+                                              Services
+                          1900 Industrial Park Rd. Neederland, TX 77628
+                            Phone (409) 853-1150 Fax (409) 853-1465                                              Assuring accuracy through expertise!
+
+Vessel:                  FMT 3015                                                   Date:               June 15, 2021
+Product:                 SCN VL BULK                                                Terminal:           Total Energies
+Subject:                 Report of Discharge                                        Port:               Port Arthur, Texas
+EMCC Ref. #: USEBARGARO-2105-070                                                    File Number:        104110
+                                 2130
+                                                         TIME LOG OF EVENTS
+June 11, 2021                0930             hrs.       Barge(s) Tendered
+June 13, 2021                2040             hrs.       Surveyor notified
+June 13, 2021                2140             hrs.       Surveyor arrived at terminal
+June 13, 2021                2240             hrs.       Barge(s) arrived
+June 13, 2021                2250             hrs.       Barge(s) docked
+June 14, 2021                0100             hrs.       Commenced arrival barge inspection
+June 14, 2021                0135             hrs.       Completed arrival barge inspection
+June 14, 2021                0225             hrs.       Cargo hose(s) connected
+June 14, 2021                0815             hrs.       Commenced transfer
+June 15, 2021                0820             hrs.       Surveyor notified
+June 15, 2021                0925             hrs.       Surveyor arrived at terminal
+June 15, 2021                0940             hrs.       Completed transfer
+June 15, 2021                0945             hrs.       Commenced departure barge inspection
+June 15, 2021                0950             hrs.       Completed departure barge inspection
+June 15, 2021                1000             hrs.       Cargo hose(s) disconnected
+June 15, 2021                1005             hrs.       Barge(s) released to terminal
+
+
+
+
+Delays:                                                                           Date          Time    Date      Time               Duration
+Awaiting incorrect boat to be switched to vetted boat prior to                 6/13/2021        22:50   6/14/2021    0:45              01:55
+gangway being secured                                                                                                                  00:00
+Awaiting tankerman                                                             6/14/2021        1:40     6/14/2021       2:25          00:45
+Barge engine shutdown/Awaiting mechanic for repair                             6/14/2021        2:35     6/14/2021       8:15          05:40
+                                                                                                                                       00:00
+                                                                                                                                       00:00
+
+Coastal Gulf & International, Inc.
+Harold Douga
+Port Arthur Communication Center                                                                                          Version 8.0 05-15-15 NLE
+ 

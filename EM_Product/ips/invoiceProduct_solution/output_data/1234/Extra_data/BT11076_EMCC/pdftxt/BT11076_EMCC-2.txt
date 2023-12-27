@@ -1,0 +1,58 @@
+                          COASTAL GULF &
+                        INTERNATIONAL, INC.
+                                         "Precision"
+                                  Inspection & Analytical
+                                           Services
+                       1900 Industrial Park Rd. Neederland, TX 77628
+                         Phone (409) 853-1150 Fax (409) 853-1465                                                                                Assuring accuracy through expertise!
+
+Vessel:             FMT 6010                                                              Date:                    September 1, 2020
+Product:            Benzene                                                               Terminal:                Motiva
+Subject:            Report of Discharge                                                   Port:                    Port Neches, Texas
+ExxonMobil Ref. #: USEBARGARO-2008-066                                                    File Number:             BT11076
+                                                              QUANTITY SUMMARY
+
+                                                   Vessel Figures                                                Vessel Figures With VEF Applied
+                                T.C.V.                   G.S.V.                     N.S.V.                    T.C.V.                   G.S.V.                     N.S.V.
+ Barrels @ 60°F                 19413.72                  19413.72                   19413.72                  19413.72                 19413.72                   19413.72
+ Gallons @ 60°F                815376.24                 815376.24                  815376.24                 815376.24                815376.24                  815376.24
+ Pounds                       6004431.00                6004431.00                 6004431.00                6004431.00               6004431.00                 6004431.00
+ Metric Tons (Air)               2723.57                   2723.57                    2723.57                   2723.57                  2723.57                    2723.57
+ Metric Tons (Vac)               2729.73                   2729.73                    2729.73                   2729.73                  2729.73                    2729.73
+ Short Tons                      3002.22                   3002.22                    3002.22                   3002.22                  3002.22                    3002.22
+ Long Tons                       2680.55                   2680.55                    2680.55                   2680.55                  2680.55                    2680.55
+ Cubic Meters @ 15°C             3086.54                   3086.54                    3086.54                   3086.54                  3086.54                    3086.54
+ Liters                       3086533.37                3086533.37                 3086533.37                3086533.37               3086533.37                 3086533.37
+
+
+
+
+                                    Arrival                      Departure                         Delivered                                            Vessel w/ V.E.F.
+        Vessel                       GSV                           GSV                               GSV                          V.E.F.                     GSV
+ Barge: FMT 6010                      19,413.72                                 0.00                   19,413.72                   1.000000                     19,413.72
+
+
+
+
+                 Totals:          19,413.72                            0.00                        19,413.72                                                 19,413.72
+
+
+
+
+     Comments:
+
+
+
+
+           "All CGI measurement devices and methods used for quantity and quality determination meet the pertinent requirements
+                                 of 40 CFR 98.3 et. Seq. (Greenhouse Gas Mandatory Reporting Rule)"
+
+
+Coastal Gulf & International, Inc.
+                                                                              All Manual Gauges and Temps. And Samples were taking in accordance to API MPMS Chapters 3,1A,7,8.1
+
+Eddie Parker                                                                  and 8.2. Volume Correction for Temperatures are based on ASTM 1250 or Terminal/Supplier tables, for
+                                                                              which CGI can assume no responsibility.
+
+Port Arthur Communication Center                                                                                                                          Version 8.0 05-15-15 NLE
+

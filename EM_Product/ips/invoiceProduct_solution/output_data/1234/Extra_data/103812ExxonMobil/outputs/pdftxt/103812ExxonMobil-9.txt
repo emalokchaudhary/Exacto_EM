@@ -1,0 +1,38 @@
+                              COASTAL GULF &
+                            INTERNATIONAL, INC.
+                                               "Precision"
+                                         Inspection & Analytical
+                                                 Services
+                                 2104 S Southland, Gonzales, LA 70737
+                 ®              Phone (225) 231-4990 Fax (225) 231-7875                                             Assuring accuracy through expertise!
+
+Vessel:              Ionic Artemis                                                  Date:                 June 2, 2021
+Product:             HSVGO                                                          Terminal:             ExxonMobil
+Subject:             Report of Discharge                                            Port:                 Baton Rouge, Louisiana
+ExxonMobil Ref. #: 5497396                                                          File Number:          103812
+
+                                        VESSEL TEMPERATURE REPORT
+                                             Vessel Name:                         Ionic Artemis
+
+                                                Arrival Temperatures °C                              Departure Temperatures °C
+           Tank No.                    Upper           Middle             Lower     Average       Upper    Middle        Lower           Average
+2P                                      46.9            46.9               46.9       46.9         15.5     15.5          15.6             15.5
+2S                                      48.1            48.1               48.1       48.1         15.5     15.5          15.6             15.5
+5P                                      48.9            49.0               49.0       49.0         15.5     15.5          15.6             15.5
+5S                                      50.2            50.2               50.3       50.2         15.5     15.5          15.6             15.5
+Slop P                                  53.3            53.4               53.5       53.4         15.5     15.5          15.6             15.5
+Slop S                                  49.6            49.6               49.6       49.6         15.5     15.5          15.6             15.5
+
+
+
+
+                                                        Vessel Average °C:             49.5                Vessel Average °C:                15.5
+                                                        Vessel Average °F:            121.2                Vessel Average °F:                60.0
+
+
+
+
+Coastal Gulf & International, Inc.
+Jon Herrington
+Gonzales Communication Center                                                                                               Version 7.1 04-19-20 JMH
+

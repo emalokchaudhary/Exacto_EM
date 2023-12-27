@@ -1,0 +1,22 @@
+CLEANED !!!
+ VESSEL: EMS 3009 (1050403) / EMS                                                       ACTIVITY: LOAD                                                                          DATE: 02 Oct 2020
+ 3041B (1063452)
+  1       2              3                    4                5              6           7               8             9          10        11         12           13              14             15
+        Voyage         Grade              Location            Date       Vessel Sail-    OBQ            Load         B/L TCV      Vessel    Step 1     Step 2    Vessel TCV       Shore TCV      Current
+                                                                          ing TCV                       TCV                        Load      Has     Qualified                                   Port Call
+                                                                                                                                   Ratio    Gross     Voyage
+                                                                                                 Bbls                                        Error   (> 0.30%)
+                                                                                                                                            (> 2%)
+ 20th            High Pour Coker     Lake Charles (Unit-   25 Aug 2017      24,704.65     1,711.54       22,993.11    22,958.34   1.00151              YES          22,993.11       22,958.34      YES
+                 Gas Oil             ed States)
+                                                                                           Totals:      707,925.09   706,691.76                        Totals:     324,130.44          323,687
+                 Gross Error Range: 0.98000 to 1.02000                                         Average TCV Ratio:       1.00175                        Vessel Experience Fac- 1.0014
+                                                                                                                                                                          tor:
+                  Qualifying Range: 0.99874 to 1.00476                                                                                                 Num of Qualifying Voy- 9
+                                                                                                                                                                        ages:
+
+
+
+
+EMS 3009 (1050403) / EMS 3041B (1063452)                                                       Page 2 of 2                                                                        2020-10-02 17:57:17
+ 

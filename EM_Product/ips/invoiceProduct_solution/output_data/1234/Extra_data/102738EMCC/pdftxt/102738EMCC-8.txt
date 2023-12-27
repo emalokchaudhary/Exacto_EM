@@ -1,0 +1,69 @@
+                             COASTAL GULF &
+                           INTERNATIONAL, INC.                                   VESSEL EXPERIENCE FACTOR SEQUENTIAL
+                                           "Precision"
+                                     Inspection & Analytical
+                                            Services
+                               P.O. Box 429 Kenner, LA. 70063-429
+                             Phone (985)785-0765 Fax (985)785-1328                                                                                                             Assuring accuracy through expertise!
+
+Vessel:          Chem 3248                                                                                                                Date:     April 15, 2021
+
+Type of Movement:            Load
+                                                                                                    Enter all units as Barrels                                        Step 2
+                                                                                                                                                            Step 1     Qual       Qualifying Voyages
+                                                                                     Vessel                          Vessel
+                                                                                                                                                            Gross      Voy
+             Voyage        Cargo                 Terminal or                         Sailing          Vessel          Load          Outturn                 Error > (+0.30%      Vessel              Shore
+ Cargo       Number      Description                Port               Date           TCV             OBQ             TCV            TCV          Ratio      2%?     ) Y/N ?     TCV                 TCV
+      Last              Benzene           Baton Rouge (United        15-Oct-20         24,576.21               0      24,576.21       24,540.19   1.00147              YES         24,576.21           24,540.19
+                                          States)
+      2nd               Benzene           Baton Rouge (United        4-Oct-20          24,036.45               0      24,036.45       23,881.25    1.0065              YES         24,036.45           23,881.25
+                                          States)
+       3rd              Benzene           Baton Rouge (United        25-Sep-20         23,956.31               0      23,956.31       23,886.38   1.00293              YES         23,956.31           23,886.38
+                                          States)
+       4th              Benzene           Baton Rouge (United        14-Sep-20         23,924.50               0      23,924.50       23,884.88   1.00166              YES         23,924.50           23,884.88
+                                          States)
+       5th              Benzene           Baton Rouge (United        3-Sep-20          24,084.82               0      24,084.82       23,992.66   1.00384              YES         24,084.82           23,992.66
+                                          States)
+       6th              Benzene           Baton Rouge (United        21-Aug-20         24,403.57               0      24,403.57       24,263.58   1.00577              YES         24,403.57           24,263.58
+                                          States)
+       7th              Benzene           Baton Rouge (United        9-Aug-20          24,206.31               0      24,206.31       24,121.61   1.00351              YES         24,206.31           24,121.61
+                                          States)
+       8th              Benzene           Baton Rouge (United        29-Jul-20         24,237.06               0      24,237.06       24,095.71   1.00587              YES         24,237.06           24,095.71
+                                          States)
+       9th              Benzene           Baton Rouge (United        19-Jul-20         25,350.30               0      25,350.30       25,227.28   1.00488              YES         25,350.30           25,227.28
+                                          States)
+      10th              Benzene           Baton Rouge (United         2-Jul-20         24,222.32               0      24,222.32       24,109.12    1.0047              YES         24,222.32           24,109.12
+                                          States)
+      11th              Benzene           Baton Rouge (United        22-Jun-20         24,167.19               0      24,167.19       24,047.05     1.005              YES         24,167.19           24,047.05
+                                          States)
+      12th              Benzene           Baton Rouge (United        10-Jun-20         24,253.02               0      24,253.02       24,138.53   1.00474              YES         24,253.02           24,138.53
+                                          States)
+      13th              Benzene           Baton Rouge (United        1-Jun-20          24,212.51               0      24,212.51       24,043.98   1.00701              NO
+                                          States)
+      14th              Benzene           Baton Rouge (United        21-May-20         24,177.79               0      24,177.79       24,081.38     1.004              YES         24,177.79           24,081.38
+                                          States)
+      15th              Benzene           Baton Rouge (United        12-May-20         26,018.66               0      26,018.66       26,139.53   0.99538              NO
+                                          States)
+      16th              Benzene           Baton Rouge (United        17-Mar-20         26,174.20               0      26,174.20       26,071.90   1.00392              YES         26,174.20           26,071.90
+                                          States)
+      17th              Benzene           Baton Rouge (United        21-Feb-20         25,150.21               0      25,150.21       25,044.83   1.00421              YES         25,150.21           25,044.83
+                                          States)
+      18th              Benzene           Baton Rouge (United        31-Jan-20         26,107.01               0      26,107.01       26,009.63   1.00374              YES         26,107.01           26,009.63
+                                          States)
+      19th              Benzene           Baton Rouge (United        23-Jan-20         25,173.89               0      25,173.89       25,039.54   1.00537              YES         25,173.89           25,039.54
+                                          States)
+      20th              Benzene           Baton Rouge (United        14-Jan-20         25,137.68               0      25,137.68       25,057.77   1.00319              YES         25,137.68           25,057.77
+                                          States)
+                                                                                                   Totals:      493,570.01          491,676.80                       Totals:    443,338.84         441,493.29
+Voyages excluded                                                                                    Average TCV Ratio:                1.00385                        TCV vessel/ TCV shore:        1.00418
+ A. Voyages where only vessel measurements were available
+ B. Maiden voyage and voyage following dry dock                                                                                                                       VEF =                1.0042
+ C. Voyages prior to vessels last dry dock, unless verified that:
+             no desludging was performed                                                                                          Qualifying Range (excluding Gross Errors)
+          no significant structural, measurement equipment, tables                                                                   LOW:       1.00084 HIGH: 1.00686
+          or procedural changes were made affecting vessel measurement
+ D. Voyages where the VLR or VDR is less than 0.98000 or greater than 1.02000
+ E. When the VLR or VDR is not within + or - 0.3% of the ratio of the totals of vessels and shore quantities
+ F. Voyages where the vessel's figures are known to be inaccurate
+

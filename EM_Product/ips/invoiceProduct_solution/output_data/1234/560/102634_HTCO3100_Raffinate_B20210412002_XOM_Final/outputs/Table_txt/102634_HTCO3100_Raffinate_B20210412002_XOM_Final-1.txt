@@ -1,0 +1,41 @@
+Method               Component                                        Result                           Units            Min    -   Max      Off-Spec
+D5191                Dry Vapor Pressure Equivalent                   5.57                              psi                      -
+D5191                Container Size                                  1L                                                         -
+  Sample Number:                          98852
+   Sample Type:                         Composite                           Sample Location:                              HTCO 3100
+                                                                                                                              Spec
+Method               Component                                        Result                           Units            Min    -   Max      Off-Spec
+D130                 Corrosion Copper Strip                          1A                                                         -
+D130                 Temperature                                     50                                 C                       -
+D130                 Time                                            3                                 Hours                    -
+D1319                Aromatics                                       <5.0                              vol%                     -
+D1319                Olefins                                         3.8                               vol%                     -
+D2699                Research Octane Number                          65                                                         -
+D2700                Motor Octane Number                             63                                                         -
+D3227                Mercaptan Sulfur                                <0.0003                           wt%                      -
+D3606                Benzene                                         0.24                              vol%                     -
+D381                 Gums Existent, Unwashed                         <0.5                              mg/100 mL                -
+D381                 Gums Existent, Washed                           <0.5                              mg/100 mL                -
+D4176                Clear and Bright                                Pass                                                       -
+D4176                Free Water                                      Pass                                                       -
+D4176                Particulates                                    Pass                                                       -
+D4176                Test Temperature                                21.0                               C                       -
+D5453                Total Sulfur                                    <1.0                              ppm                      -
+D5599                Methanol                                        <0.1                              wt%                      -
+D5599                Ethanol                                         <0.1                              wt%                      -
+D5599                Isopropanol                                     <0.1                              wt%                      -
+D5599                tert-Butanol                                    <0.1                              wt%                      -
+D5599                n-Propanol                                      <0.1                              wt%                      -
+D5599                MTBE                                            <0.1                              wt%                      -
+D5599                sec-Butanol                                     <0.1                              wt%                      -
+D5599                DIPE                                            <0.1                              wt%                      -
+D5599                Isobutanol                                      <0.1                              wt%                      -
+D5599                ETBE                                            <0.1                              wt%                      -
+D5599                tert-Pentanol                                   <0.1                              wt%                      -
+D5599                n-Butanol                                       <0.1                              wt%                      -
+
+
+                                                           13615 River Road, Luling, LA 70070
+                                                    Phone: (985) 785-0765 Email: cgi@coastalgulf.com
+
+                                                                            1

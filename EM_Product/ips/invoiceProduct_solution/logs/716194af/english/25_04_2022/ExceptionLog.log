@@ -1,0 +1,128 @@
+
+2022-04-25 08:10:06,276:__main__:
+Filename: Invoice_2-4-2021.pdf. Error occured in ocr module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 552, in __single_doc_process
+    ocr_success, text_files_path, phase, ocr_flag = drive_ocr_flow(esett.OCR_MODEL_PATHS, document_path, output_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 77, in drive_ocr_flow
+    return ocr_success, text_files_path, phase, ocr_flag
+UnboundLocalError: local variable 'text_files_path' referenced before assignment
+
+2022-04-25 08:10:06,323:__main__:
+Filename: Invoice_2-4-2021.pdf. Error occured in Business rules.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 187, in run_exacto
+    business_rule_final_dict = business_rules(business_rule_prev_dict['static'], business_user_id, config_id, company_code)
+UnboundLocalError: local variable 'business_rule_prev_dict' referenced before assignment
+
+2022-04-25 08:18:23,146:__main__:
+Filename: Invoice_2-4-2021.pdf. Error occured in ocr module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 552, in __single_doc_process
+    ocr_success, text_files_path, phase, ocr_flag = drive_ocr_flow(esett.OCR_MODEL_PATHS, document_path, output_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 77, in drive_ocr_flow
+    return ocr_success, text_files_path, phase, ocr_flag
+UnboundLocalError: local variable 'text_files_path' referenced before assignment
+
+2022-04-25 08:18:23,146:__main__:
+Filename: Invoice_2-4-2021.pdf. Error occured in ocr module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 552, in __single_doc_process
+    ocr_success, text_files_path, phase, ocr_flag = drive_ocr_flow(esett.OCR_MODEL_PATHS, document_path, output_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 77, in drive_ocr_flow
+    return ocr_success, text_files_path, phase, ocr_flag
+UnboundLocalError: local variable 'text_files_path' referenced before assignment
+
+2022-04-25 08:18:23,146:__main__:
+Filename: Invoice_2-4-2021.pdf. Error occured in ocr module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 552, in __single_doc_process
+    ocr_success, text_files_path, phase, ocr_flag = drive_ocr_flow(esett.OCR_MODEL_PATHS, document_path, output_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 77, in drive_ocr_flow
+    return ocr_success, text_files_path, phase, ocr_flag
+UnboundLocalError: local variable 'text_files_path' referenced before assignment
+
+2022-04-25 08:18:23,146:__main__:
+Filename: Invoice_2-4-2021.pdf. Error occured in ocr module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 552, in __single_doc_process
+    ocr_success, text_files_path, phase, ocr_flag = drive_ocr_flow(esett.OCR_MODEL_PATHS, document_path, output_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 77, in drive_ocr_flow
+    return ocr_success, text_files_path, phase, ocr_flag
+UnboundLocalError: local variable 'text_files_path' referenced before assignment
+
+2022-04-25 08:18:23,146:__main__:
+Filename: Invoice_2-4-2021.pdf. Error occured in ocr module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 552, in __single_doc_process
+    ocr_success, text_files_path, phase, ocr_flag = drive_ocr_flow(esett.OCR_MODEL_PATHS, document_path, output_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 77, in drive_ocr_flow
+    return ocr_success, text_files_path, phase, ocr_flag
+UnboundLocalError: local variable 'text_files_path' referenced before assignment
+
+2022-04-25 08:18:23,146:__main__:
+Filename: Invoice_2-4-2021.pdf. Error occured in ocr module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 552, in __single_doc_process
+    ocr_success, text_files_path, phase, ocr_flag = drive_ocr_flow(esett.OCR_MODEL_PATHS, document_path, output_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 77, in drive_ocr_flow
+    return ocr_success, text_files_path, phase, ocr_flag
+UnboundLocalError: local variable 'text_files_path' referenced before assignment
+
+2022-04-25 08:18:23,146:__main__:
+Filename: Invoice_2-4-2021.pdf. Error occured in ocr module.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 552, in __single_doc_process
+    ocr_success, text_files_path, phase, ocr_flag = drive_ocr_flow(esett.OCR_MODEL_PATHS, document_path, output_path)
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/exacto_extraction_flow.py", line 77, in drive_ocr_flow
+    return ocr_success, text_files_path, phase, ocr_flag
+UnboundLocalError: local variable 'text_files_path' referenced before assignment
+
+2022-04-25 08:18:23,207:__main__:
+Filename: Invoice_2-4-2021.pdf. Error occured in Business rules.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 187, in run_exacto
+    business_rule_final_dict = business_rules(business_rule_prev_dict['static'], business_user_id, config_id, company_code)
+UnboundLocalError: local variable 'business_rule_prev_dict' referenced before assignment
+
+2022-04-25 08:18:23,207:__main__:
+Filename: Invoice_2-4-2021.pdf. Error occured in Business rules.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 187, in run_exacto
+    business_rule_final_dict = business_rules(business_rule_prev_dict['static'], business_user_id, config_id, company_code)
+UnboundLocalError: local variable 'business_rule_prev_dict' referenced before assignment
+
+2022-04-25 08:18:23,207:__main__:
+Filename: Invoice_2-4-2021.pdf. Error occured in Business rules.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 187, in run_exacto
+    business_rule_final_dict = business_rules(business_rule_prev_dict['static'], business_user_id, config_id, company_code)
+UnboundLocalError: local variable 'business_rule_prev_dict' referenced before assignment
+
+2022-04-25 08:18:23,207:__main__:
+Filename: Invoice_2-4-2021.pdf. Error occured in Business rules.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 187, in run_exacto
+    business_rule_final_dict = business_rules(business_rule_prev_dict['static'], business_user_id, config_id, company_code)
+UnboundLocalError: local variable 'business_rule_prev_dict' referenced before assignment
+
+2022-04-25 08:18:23,207:__main__:
+Filename: Invoice_2-4-2021.pdf. Error occured in Business rules.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 187, in run_exacto
+    business_rule_final_dict = business_rules(business_rule_prev_dict['static'], business_user_id, config_id, company_code)
+UnboundLocalError: local variable 'business_rule_prev_dict' referenced before assignment
+
+2022-04-25 08:18:23,207:__main__:
+Filename: Invoice_2-4-2021.pdf. Error occured in Business rules.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 187, in run_exacto
+    business_rule_final_dict = business_rules(business_rule_prev_dict['static'], business_user_id, config_id, company_code)
+UnboundLocalError: local variable 'business_rule_prev_dict' referenced before assignment
+
+2022-04-25 08:18:23,207:__main__:
+Filename: Invoice_2-4-2021.pdf. Error occured in Business rules.
+Traceback (most recent call last):
+  File "/drive/mnt/pradeep/invoiceProduct_solution/apps/start_exacto.py", line 187, in run_exacto
+    business_rule_final_dict = business_rules(business_rule_prev_dict['static'], business_user_id, config_id, company_code)
+UnboundLocalError: local variable 'business_rule_prev_dict' referenced before assignment

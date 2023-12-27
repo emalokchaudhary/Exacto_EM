@@ -1,0 +1,146 @@
+                                  COASTAL GULF &
+                                INTERNATIONAL, INC.
+                                                 "Precision"
+                                           Inspection & Analytical
+                                                   Services
+                                2104 South Southland Ave. Gonzales, LA 70737
+                                  Phone (225) 231-4990 Fax (225) 231-7875                          Assuring accuracy through expertise!
+
+Vessel:                 Chem 3245                                              Date:               October 24, 2020
+Product:                Benzene                                                Terminal:           Ergon
+Subject:                Report of Loading                                      Port:               Baton Rouge, Louisiana
+EMCC Ref. #: 5074792-10                                                        File Number:        BR26970
+
+                                                         RECAPITULATION
+                OFFICIAL QUANTITY                                                           FOR REFERENCE ONLY
+
+DISPORT SHORE FIGURES                        QUANTITY                           BARGE FIGURES                            QUANTITY
+Barrels                                           21,541.97                    Barrels                                        21,248.44
+Gallons                                          904,762.74                    Gallons                                       892,434.48
+Pounds                                         6,664,663.00                    Pounds                                      6,573,851.00
+Metric Tons                                       3,023.040                    Metric Tons                                    2,981.852
+Short Tons                                        3,332.332                    Short Tons                                     3,286.926
+Long Tons                                         2,975.296                    Long Tons                                      2,934.755
+
+
+                                                             For Comparison only
+                              VEF:               0.99970                         Barge With VEF Applied:           21,254.82
+
+BARGE FIGURES In Barrels
+BARGE                                         ARRIVAL                             DEPARTURE                            DIFFERENCE
+CHEM 3245                                       0.00                                21,248.44                            21,248.44
+
+
+
+
+TOV BARRELS                                        0.00                                21,580.15                            21,580.15
+
+                                 Survey was peformed by CGI Surveyor Tony Buchanan
+                              Table Benzene D1555 used for Volume Correction purposes
+                            Surveyor equipment verified daily using Certified Thermometer
+                          Conditions during the inspection were Calm; between 00' and 01' Seas
+
+           Survey performed as per and strictly adhering to methods set forth by API Chapters 3, 7, 8, 12, & 17
+
+     "All CGI measurement devices and methods used for quantity and quality determination meet the pertinent
+               requirements of 40 CFR 98.3 et. Seq. (Greenhouse Gas Mandatory Reporting Rule)"
+
+
+Coastal Gulf & International, Inc.
+Rusty Mitchell
+Gonzales Communication Center                                                                                           Version 7.0 06-05-13 NLE
+                                 COASTAL GULF &
+                               INTERNATIONAL, INC.
+                                                "Precision"
+                                          Inspection & Analytical
+                                                  Services
+                               2104 South Southland Ave. Gonzales, LA 70737
+                                 Phone (225) 231-4990 Fax (225) 231-7875                     Assuring accuracy through expertise!
+
+Vessel:                  Chem 3245                                            Date:          October 24, 2020
+Product:                 Benzene                                              Terminal:      Ergon
+Subject:                 Report of Loading                                    Port:          Baton Rouge, Louisiana
+EMCC Ref. #: 5074792-10                                                       File Number:   BR26970
+
+
+                                                    TIME LOG OF EVENTS
+
+October 23, 2020            0001          hrs.      Barge(s) NOR Tendered
+October 23, 2020            2035          hrs.      Surveyor notified
+October 24, 2020            0430          hrs.      Barge(s) called in
+October 24, 2020            0734          hrs.      Surveyor arrived at terminal
+October 24, 2020            0810          hrs.      Barge(s) arrived
+October 24, 2020            0830          hrs.      Barge(s) docked
+October 24, 2020            0835          hrs.      Commenced arrival barge inspection
+October 24, 2020            0842          hrs.      Completed arrival barge inspection
+October 24, 2020            0855          hrs.      Cargo hose(s) connected
+October 24, 2020            0930          hrs.      Commenced transfer
+October 24, 2020            1328          hrs.      Surveyor notified
+October 24, 2020            1420          hrs.      Surveyor arrived at terminal
+October 24, 2020            1440          hrs.      Completed transfer
+October 24, 2020            1445          hrs.      Commenced departure barge inspection
+October 24, 2020            1525          hrs.      Cargo hose(s) disconnected
+October 24, 2020            1540          hrs.      Completed departure barge inspection
+October 24, 2020            1600          hrs.      Barge(s) Released
+
+
+
+
+Coastal Gulf & International, Inc.
+Rusty Mitchell
+Gonzales Communication Center                                                                                       Version 7.0 06-05-13 NLE
+                                         COASTAL GULF &
+                                       INTERNATIONAL, INC.
+                                                        "Precision"
+                                                  Inspection & Analytical
+                                                          Services
+                                       2104 South Southland Ave. Gonzales, LA 70737
+                                         Phone (225) 231-4990 Fax (225) 231-7875                                       Assuring accuracy through expertise!
+Vessel:       Chem 3245                                                                     Date:                  October 24, 2020
+Product: Benzene                                                                            Terminal:              Ergon
+Subject: Report of Loading                                                                  Port:                  Baton Rouge, Louisiana
+EMCC Ref. #: 5074792-10                                                                     File Number:           BR26970
+
+
+                                                      VESSEL MEASUREMENT REPORT
+                                                                  CHEM 3245 UPON ARRIVAL                                Ambient Temp °F: 83.0
+               Obs. Gauge      Gauge (Ft.)       Temp.                T.O.V.                     Water               API                        G.S.V
+   Tank          Height          Ullage           (°F)                Barrels         Gauge              Barrels    @ 60° F    V.C. F           Barrels
+    1P           17' 08''       00' 00''          60.0                 0.00           00' 00''            0.00       28.0      1.00000           0.00
+    1S         17' 08 1/4''     00' 00''          60.0                 0.00           00' 00''            0.00       28.0      1.00000           0.00
+    2P         17' 08 1/4''     00' 00''          60.0                 0.00           00' 00''            0.00       28.0      1.00000           0.00
+    2S         17' 08 1/4''     00' 00''          60.0                 0.00           00' 00''            0.00       28.0      1.00000           0.00
+    3P           17' 08''       00' 00''          60.0                 0.00           00' 00''            0.00       28.0      1.00000           0.00
+    3S         17' 08 1/4''     00' 00''          60.0                 0.00           00' 00''            0.00       28.0      1.00000           0.00
+
+
+
+
+Tape Serial #: 25990   Probe Serial #: 25990                                                              0.00                Total:                       0.00
+                                 Avg. Temp °F: 60.0            T.O.V. bbls Total             0.00
+                                                                  CHEM 3245 UPON DEPARTURE                              Ambient Temp °F: 79.0
+               Obs. Gauge      Gauge (Ft.)       Temp.                T.O.V.                     Water               API                         G.S.V
+   Tank          Height          Ullage           (°F)                Barrels         Gauge              Barrels    @ 60° F    V.C. F            Barrels
+    1P           17' 08''      04' 11 1/2''       83.2               3,779.06         00' 00''            0.00       28.0      0.98464          3,721.01
+    1S         17' 08 1/4''      05' 08''         83.2               3,553.69         00' 00''            0.00       28.0      0.98464          3,499.11
+    2P         17' 08 1/4''      04' 08''         83.3               4,033.94         00' 00''            0.00       28.0      0.98458          3,971.74
+    2S         17' 08 1/4''    04' 07 1/4''       83.2               4,055.91         00' 00''            0.00       28.0      0.98464          3,993.61
+    3P           17' 08''        07' 05''         83.2               3,070.24         00' 00''            0.00       28.0      0.98464          3,023.08
+    3S         17' 08 1/4''    07' 04 1/2''       83.2               3,087.31         00' 00''            0.00       28.0      0.98464          3,039.89
+
+
+
+
+Tape Serial #: 25990   Probe Serial #: 25990                                                              0.00                Total:                21,248.44
+Arrival:                         Avg. Temp °F: 83.2            T.O.V. bbls Total       21,580.15                 TOTAL QUANTITY
+ Fwd Port:       02' 00'''        Fwd Stbd: 02' 00'''                                                Barrels @ 60 °F              21,248.44
+  Aft Port:      02' 00''         Aft Stbd.: 02' 00''                                                Gallons @ 60 °F             892,434.48
+Departure:                                                                                           TCV Barrels                  21,248.44
+ Fwd Port:       08' 09''         Fwd Stbd: 08' 09''                                                 Pounds                    6,573,851.00
+  Aft Port:      08' 09''         Aft Stbd.: 08' 09''                                                Metric Tons                  2,981.852
+   Trim or List Correction Applied:                 No                                               Short Tons                   3,286.926
+                                                                                                     Long Tons                    2,934.755
+Coastal Gulf & International, Inc.                                                                   Lbs / Gallon                                     7.3662
+Rusty Mitchell                                                                                       API Gravity @ 60°F                                 28.00
+Gonzales Communication Center                                                                                                            Version 7.0 06-05-13 NLE
+

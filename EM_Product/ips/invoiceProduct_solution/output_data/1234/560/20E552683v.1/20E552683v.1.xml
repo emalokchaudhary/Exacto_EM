@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="20.11.0">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="13" family="PXAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="1" size="12" family="PXAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="2" size="12" family="PXAAAB+Arial" color="#000000"/>
+	<fontspec id="3" size="15" family="PXAAAA+Arial,Bold" color="#000000"/>
+	<fontspec id="4" size="15" family="PXAAAB+Arial" color="#999999"/>
+<image top="15" left="89" width="290" height="60" src="./../output_data/1234/560/20E552683v.1/20E552683v.1-1_1.png"/>
+<text top="128" left="89" width="106" height="15" font="0"><b>Parcel Summary</b></text>
+<text top="147" left="97" width="56" height="13" font="1"><b>Transport</b></text>
+<text top="147" left="190" width="50" height="13" font="1"><b>Location</b></text>
+<text top="147" left="270" width="43" height="13" font="1"><b>Activity</b></text>
+<text top="147" left="339" width="35" height="13" font="1"><b>Grade</b></text>
+<text top="147" left="389" width="49" height="13" font="1"><b>Quantity</b></text>
+<text top="147" left="458" width="24" height="13" font="1"><b>ETA</b></text>
+<text top="147" left="501" width="142" height="13" font="1"><b>Supply Contract Window</b></text>
+<text top="147" left="658" width="54" height="13" font="1"><b>Inspector</b></text>
+<text top="147" left="729" width="143" height="13" font="1"><b>Inspection Requirements</b></text>
+<text top="168" left="97" width="52" height="13" font="2">CBC1383</text>
+<text top="183" left="97" width="77" height="13" font="2">(VS00055325)</text>
+<text top="168" left="190" width="41" height="13" font="2">BATON</text>
+<text top="183" left="190" width="44" height="13" font="2">ROUGE</text>
+<text top="197" left="190" width="64" height="13" font="2">REFINERY,</text>
+<text top="212" left="190" width="57" height="13" font="2">LA (United</text>
+<text top="226" left="190" width="38" height="13" font="2">States)</text>
+<text top="168" left="270" width="27" height="13" font="2">Load</text>
+<text top="168" left="340" width="19" height="13" font="2">IPA</text>
+<text top="183" left="340" width="17" height="13" font="2">BR</text>
+<text top="197" left="340" width="15" height="13" font="2">VL</text>
+<text top="168" left="390" width="53" height="13" font="2">1,300,000</text>
+<text top="183" left="390" width="53" height="13" font="2">Kilograms</text>
+<text top="168" left="459" width="13" height="13" font="2">23</text>
+<text top="183" left="459" width="21" height="13" font="2">Dec</text>
+<text top="197" left="459" width="27" height="13" font="2">2020</text>
+<text top="168" left="501" width="17" height="13" font="2">n/a</text>
+<text top="168" left="658" width="56" height="13" font="2">COASTAL</text>
+<text top="183" left="658" width="32" height="13" font="2">GULF</text>
+<text top="168" left="730" width="129" height="13" font="2">Quality / Quantity / Time</text>
+<text top="183" left="730" width="16" height="13" font="2">log</text>
+<text top="247" left="97" width="52" height="13" font="2">CBC1383</text>
+<text top="262" left="97" width="77" height="13" font="2">(VS00055325)</text>
+<text top="247" left="190" width="33" height="13" font="2">DEER</text>
+<text top="262" left="190" width="62" height="13" font="2">PARK, TX -</text>
+<text top="276" left="190" width="41" height="13" font="2">VOPAK</text>
+<text top="290" left="190" width="39" height="13" font="2">(United</text>
+<text top="305" left="190" width="38" height="13" font="2">States)</text>
+<text top="247" left="270" width="54" height="13" font="2">Discharge</text>
+<text top="247" left="340" width="19" height="13" font="2">IPA</text>
+<text top="262" left="340" width="17" height="13" font="2">BR</text>
+<text top="276" left="340" width="15" height="13" font="2">VL</text>
+<text top="247" left="390" width="53" height="13" font="2">1,300,000</text>
+<text top="262" left="390" width="53" height="13" font="2">Kilograms</text>
+<text top="247" left="459" width="13" height="13" font="2">30</text>
+<text top="262" left="459" width="21" height="13" font="2">Dec</text>
+<text top="276" left="459" width="27" height="13" font="2">2020</text>
+<text top="247" left="501" width="17" height="13" font="2">n/a</text>
+<text top="247" left="658" width="40" height="13" font="2">Saybolt</text>
+<text top="247" left="730" width="129" height="13" font="2">Quality / Quantity / Time</text>
+<text top="262" left="730" width="16" height="13" font="2">log</text>
+<text top="92" left="89" width="229" height="18" font="3"><b>TRIP: USEBARGCHE-2012-047</b></text>
+<text top="92" left="650" width="204" height="18" font="3"><b>20E552683 VER 1 (ISSUED)</b></text>
+<text top="1129" left="433" width="77" height="17" font="4">Page 1 of 4</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="5" size="12" family="PXAAAA+Arial,Bold" color="#ffffff"/>
+	<fontspec id="6" size="12" family="PXAAAC+CourierNew" color="#000000"/>
+	<fontspec id="7" size="13" family="PXAAAA+Arial,Bold" color="#ffffff"/>
+	<fontspec id="8" size="9" family="PXAAAA+Arial,Bold" color="#999999"/>
+<image top="15" left="89" width="290" height="60" src="./../output_data/1234/560/20E552683v.1/20E552683v.1-2_1.png"/>
+<text top="142" left="100" width="46" height="14" font="1"><b>Region:</b></text>
+<text top="142" left="153" width="52" height="14" font="2">Americas</text>
+<text top="142" left="590" width="100" height="14" font="1"><b>Other Reference:</b></text>
+<text top="142" left="697" width="69" height="14" font="2">4911649678</text>
+<text top="156" left="89" width="56" height="14" font="1"><b>Operator:</b></text>
+<text top="156" left="153" width="414" height="14" font="2">FABIOLA ROXADELLI ARNOLD (fabiola.roxadelliarnold@exxonmobil.com)</text>
+<text top="156" left="590" width="100" height="14" font="1"><b>Business Group:</b></text>
+<text top="156" left="697" width="137" height="14" font="2">CHEMICAL: AM FLUIDS</text>
+<text top="171" left="104" width="42" height="14" font="1"><b>Phone:</b></text>
+<text top="171" left="656" width="34" height="14" font="1"><b>Desk:</b></text>
+<text top="171" left="697" width="151" height="14" font="2">CHEM AM S&amp;OP - FLUIDS</text>
+<text top="186" left="102" width="43" height="14" font="1"><b>Mobile:</b></text>
+<text top="186" left="585" width="104" height="14" font="1"><b>Nomination Type:</b></text>
+<text top="186" left="697" width="38" height="14" font="2">Marine</text>
+<text top="217" left="95" width="153" height="13" font="1"><b>Documentary Instructions:</b></text>
+<text top="217" left="251" width="17" height="13" font="2">n/a</text>
+<text top="265" left="97" width="483" height="14" font="5"><b>LOAD: CBC1383 (VS00055325) - BATON ROUGE REFINERY, LA (UNITED STATES)</b></text>
+<text top="281" left="325" width="60" height="14" font="1"><b>Inspector:</b></text>
+<text top="281" left="392" width="94" height="14" font="2">COASTAL GULF</text>
+<text top="281" left="595" width="107" height="14" font="1"><b>Inspection Status:</b></text>
+<text top="281" left="710" width="52" height="14" font="2">Accepted</text>
+<text top="295" left="357" width="28" height="14" font="1"><b>Hub:</b></text>
+<text top="295" left="392" width="151" height="14" font="2">Coastal Gulf - Baton Rouge</text>
+<text top="295" left="632" width="71" height="14" font="1"><b>Created On:</b></text>
+<text top="295" left="710" width="131" height="14" font="2">21 Dec 2020 by Fabiola</text>
+<text top="310" left="710" width="90" height="14" font="2">Roxadelli Arnold</text>
+<text top="325" left="310" width="75" height="14" font="1"><b>Coordinator:</b></text>
+<text top="325" left="392" width="162" height="14" font="2">Baton Rouge Dispatch (brdis-</text>
+<text top="340" left="392" width="133" height="14" font="2">patch@coastalgulf.com)</text>
+<text top="325" left="619" width="84" height="14" font="1"><b>Last Modified:</b></text>
+<text top="325" left="710" width="131" height="14" font="2">05 Jan 2021 by Christo-</text>
+<text top="340" left="710" width="87" height="14" font="2">pher Baiamonte</text>
+<text top="355" left="310" width="75" height="14" font="1"><b>Local Office:</b></text>
+<text top="371" left="283" width="384" height="14" font="1"><b>INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG</b></text>
+<text top="387" left="130" width="254" height="14" font="1"><b>Voyage Parcel External Reference Number:</b></text>
+<text top="387" left="392" width="66" height="14" font="2">5104721-10</text>
+<text top="402" left="345" width="40" height="14" font="1"><b>Grade:</b></text>
+<text top="402" left="392" width="59" height="14" font="2">IPA BR VL</text>
+<text top="402" left="597" width="105" height="14" font="1"><b>Contract Number:</b></text>
+<text top="417" left="356" width="29" height="14" font="1"><b>ETA:</b></text>
+<text top="417" left="392" width="70" height="14" font="2">23 Dec 2020</text>
+<text top="417" left="638" width="65" height="14" font="1"><b>Parcel Ref:</b></text>
+<text top="431" left="356" width="29" height="14" font="1"><b>ETD:</b></text>
+<text top="431" left="631" width="71" height="14" font="1"><b>Destination:</b></text>
+<text top="446" left="203" width="182" height="14" font="1"><b>Supply Contract Window Start:</b></text>
+<text top="446" left="392" width="17" height="14" font="2">n/a</text>
+<text top="446" left="602" width="101" height="14" font="1"><b>Source Location:</b></text>
+<text top="461" left="208" width="177" height="14" font="1"><b>Supply Contract Window End:</b></text>
+<text top="461" left="392" width="17" height="14" font="2">n/a</text>
+<text top="461" left="649" width="54" height="14" font="1"><b>Supplier:</b></text>
+<text top="476" left="230" width="155" height="14" font="1"><b>Total Nominated Quantity:</b></text>
+<text top="476" left="392" width="117" height="14" font="2">1,300,000 Kilograms</text>
+<text top="476" left="647" width="56" height="14" font="1"><b>Receiver:</b></text>
+<text top="491" left="89" width="295" height="14" font="1"><b>Transport / Voyage Number / Quantity / Tolerance:</b></text>
+<text top="491" left="392" width="144" height="14" font="2">CBC1383 (VS00055325) /</text>
+<text top="506" left="392" width="162" height="14" font="2">1,300,000 Kilograms +/- 5 pct</text>
+<text top="491" left="610" width="93" height="14" font="1"><b>Delivery Terms:</b></text>
+<text top="491" left="710" width="137" height="14" font="2">DAT (Delivered at Termi-</text>
+<text top="506" left="710" width="21" height="14" font="2">nal)</text>
+<text top="520" left="615" width="88" height="14" font="1"><b>Mother Vessel:</b></text>
+<text top="550" left="89" width="105" height="13" font="1"><b>Parcel Comments:</b></text>
+<text top="570" left="95" width="475" height="14" font="6">- All samples to be kept for 90 days only unless otherwise stated.</text>
+<text top="584" left="95" width="511" height="14" font="6">- Customer-specific agreements may require additional sampling/testing.</text>
+<text top="599" left="95" width="727" height="14" font="6">- Please refer to &#34;Dock Chemicals Sample Sheet&#34; available in the dock office for additional, product-</text>
+<text top="613" left="95" width="216" height="14" font="6">specific sampling requirement.</text>
+<text top="613" left="325" width="504" height="14" font="6">However, please make sure that all sample points included in this tem-</text>
+<text top="628" left="95" width="497" height="14" font="6">plate are tested or retained as well as per the template instructions</text>
+<text top="662" left="89" width="180" height="13" font="1"><b>Quality Inspection Instructions:</b></text>
+<text top="678" left="90" width="37" height="15" font="7"><b>SET 1</b></text>
+<text top="695" left="159" width="72" height="14" font="1"><b>Description:</b></text>
+<text top="695" left="239" width="91" height="13" font="2">Dock line sample</text>
+<text top="710" left="128" width="103" height="14" font="1"><b>Sample Location:</b></text>
+<text top="710" left="239" width="132" height="13" font="2">Shore Line Grab Sample</text>
+<text top="725" left="89" width="142" height="14" font="1"><b>Quality Test Comments:</b></text>
+<text top="745" left="95" width="418" height="14" font="6">Take one sample and send to inspector's lab for retention.</text>
+<text top="798" left="669" width="75" height="10" font="8"><b>RO = Report Only</b></text>
+<text top="798" left="778" width="69" height="10" font="8"><b>Req. = Required</b></text>
+<text top="812" left="97" width="25" height="13" font="1"><b>Test</b></text>
+<text top="812" left="294" width="49" height="13" font="1"><b>Methods</b></text>
+<text top="812" left="411" width="21" height="13" font="1"><b>Min</b></text>
+<text top="812" left="461" width="23" height="13" font="1"><b>Max</b></text>
+<text top="812" left="514" width="28" height="13" font="1"><b>UOM</b></text>
+<text top="812" left="574" width="41" height="13" font="1"><b>Typical</b></text>
+<text top="812" left="652" width="25" height="13" font="1"><b>R.O.</b></text>
+<text top="812" left="707" width="26" height="13" font="1"><b>Req.</b></text>
+<text top="812" left="764" width="55" height="13" font="1"><b>Comment</b></text>
+<text top="833" left="97" width="93" height="13" font="1"><b>Additional Tests</b></text>
+<text top="855" left="97" width="126" height="13" font="2">Retain sample -90 days</text>
+<text top="855" left="294" width="69" height="13" font="2">[OTHER] n/a</text>
+<text top="855" left="652" width="15" height="13" font="2">No</text>
+<text top="855" left="707" width="15" height="13" font="2">No</text>
+<text top="889" left="90" width="37" height="15" font="7"><b>SET 2</b></text>
+<text top="907" left="159" width="72" height="14" font="1"><b>Description:</b></text>
+<text top="907" left="239" width="120" height="13" font="2">Barge first foot sample</text>
+<text top="921" left="128" width="103" height="14" font="1"><b>Sample Location:</b></text>
+<text top="921" left="239" width="90" height="13" font="2">Vessel First Foot</text>
+<text top="936" left="89" width="142" height="14" font="1"><b>Quality Test Comments:</b></text>
+<text top="956" left="95" width="734" height="14" font="6">Take two samples. Send one sample to site lab for testing, and the other sample to inspector's lab for</text>
+<text top="971" left="95" width="72" height="14" font="6">retention.</text>
+<text top="1023" left="669" width="75" height="10" font="8"><b>RO = Report Only</b></text>
+<text top="1023" left="778" width="69" height="10" font="8"><b>Req. = Required</b></text>
+<text top="1038" left="97" width="25" height="13" font="1"><b>Test</b></text>
+<text top="1038" left="294" width="49" height="13" font="1"><b>Methods</b></text>
+<text top="1038" left="411" width="21" height="13" font="1"><b>Min</b></text>
+<text top="1038" left="461" width="23" height="13" font="1"><b>Max</b></text>
+<text top="1038" left="514" width="28" height="13" font="1"><b>UOM</b></text>
+<text top="1038" left="574" width="41" height="13" font="1"><b>Typical</b></text>
+<text top="1038" left="652" width="25" height="13" font="1"><b>R.O.</b></text>
+<text top="1038" left="707" width="26" height="13" font="1"><b>Req.</b></text>
+<text top="1038" left="764" width="55" height="13" font="1"><b>Comment</b></text>
+<text top="1059" left="97" width="93" height="13" font="1"><b>Additional Tests</b></text>
+<text top="1081" left="97" width="126" height="13" font="2">Retain sample -90 days</text>
+<text top="1081" left="294" width="69" height="13" font="2">[OTHER] n/a</text>
+<text top="1081" left="652" width="15" height="13" font="2">No</text>
+<text top="1081" left="707" width="15" height="13" font="2">No</text>
+<text top="92" left="89" width="229" height="18" font="3"><b>TRIP: USEBARGCHE-2012-047</b></text>
+<text top="92" left="650" width="204" height="18" font="3"><b>20E552683 VER 1 (ISSUED)</b></text>
+<text top="1129" left="433" width="77" height="17" font="4">Page 2 of 4</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="15" left="89" width="290" height="60" src="./../output_data/1234/560/20E552683v.1/20E552683v.1-3_1.png"/>
+<text top="129" left="90" width="37" height="15" font="7"><b>SET 3</b></text>
+<text top="147" left="159" width="72" height="14" font="1"><b>Description:</b></text>
+<text top="147" left="239" width="115" height="13" font="2">Barge final composite</text>
+<text top="161" left="128" width="103" height="14" font="1"><b>Sample Location:</b></text>
+<text top="161" left="239" width="132" height="13" font="2">Vessel/Barge Composite</text>
+<text top="176" left="89" width="142" height="14" font="1"><b>Quality Test Comments:</b></text>
+<text top="196" left="95" width="331" height="14" font="6">Take sample and submit to the lab for testing.</text>
+<text top="249" left="669" width="75" height="10" font="8"><b>RO = Report Only</b></text>
+<text top="249" left="778" width="69" height="10" font="8"><b>Req. = Required</b></text>
+<text top="264" left="97" width="25" height="13" font="1"><b>Test</b></text>
+<text top="264" left="312" width="49" height="13" font="1"><b>Methods</b></text>
+<text top="264" left="426" width="21" height="13" font="1"><b>Min</b></text>
+<text top="264" left="474" width="23" height="13" font="1"><b>Max</b></text>
+<text top="264" left="525" width="28" height="13" font="1"><b>UOM</b></text>
+<text top="264" left="583" width="41" height="13" font="1"><b>Typical</b></text>
+<text top="264" left="659" width="25" height="13" font="1"><b>R.O.</b></text>
+<text top="264" left="712" width="26" height="13" font="1"><b>Req.</b></text>
+<text top="264" left="767" width="55" height="13" font="1"><b>Comment</b></text>
+<text top="285" left="97" width="93" height="13" font="1"><b>Additional Tests</b></text>
+<text top="306" left="97" width="145" height="13" font="2">catch sample - no retention</text>
+<text top="306" left="313" width="69" height="13" font="2">[OTHER] n/a</text>
+<text top="306" left="659" width="15" height="13" font="2">No</text>
+<text top="306" left="712" width="15" height="13" font="2">No</text>
+<text top="339" left="89" width="117" height="13" font="1"><b>Invoice Instructions:</b></text>
+<text top="357" left="97" width="81" height="13" font="1"><b>Bill Invoice To</b></text>
+<text top="357" left="561" width="61" height="13" font="1"><b>Item to Bill</b></text>
+<text top="357" left="690" width="26" height="13" font="1"><b>Split</b></text>
+<text top="357" left="737" width="110" height="13" font="1"><b>Contact / Comment</b></text>
+<text top="378" left="97" width="437" height="13" font="2">0102 ExxonMobil Chemical Company - U.S. (Div ExxonMobil Chemical Co) (Legal</text>
+<text top="392" left="97" width="227" height="13" font="2">Entity: 0102 EM Chemical America (0102))</text>
+<text top="378" left="561" width="70" height="13" font="2">Quantity only</text>
+<text top="378" left="691" width="31" height="13" font="2">100%</text>
+<text top="413" left="561" width="107" height="13" font="2">Test: Retain sample</text>
+<text top="428" left="561" width="46" height="13" font="2">-90 days</text>
+<text top="413" left="691" width="31" height="13" font="2">100%</text>
+<text top="449" left="561" width="107" height="13" font="2">Test: Retain sample</text>
+<text top="463" left="561" width="46" height="13" font="2">-90 days</text>
+<text top="449" left="691" width="31" height="13" font="2">100%</text>
+<text top="485" left="561" width="108" height="13" font="2">Test: catch sample -</text>
+<text top="499" left="561" width="63" height="13" font="2">no retention</text>
+<text top="485" left="691" width="31" height="13" font="2">100%</text>
+<text top="533" left="97" width="491" height="14" font="5"><b>DISCHARGE: CBC1383 (VS00055325) - DEER PARK, TX - VOPAK (UNITED STATES)</b></text>
+<text top="549" left="325" width="60" height="14" font="1"><b>Inspector:</b></text>
+<text top="549" left="392" width="41" height="14" font="2">Saybolt</text>
+<text top="549" left="632" width="107" height="14" font="1"><b>Inspection Status:</b></text>
+<text top="549" left="747" width="52" height="14" font="2">Accepted</text>
+<text top="564" left="357" width="28" height="14" font="1"><b>Hub:</b></text>
+<text top="564" left="392" width="221" height="14" font="2">Americas North and South (International</text>
+<text top="579" left="392" width="82" height="14" font="2">Desk Houston)</text>
+<text top="564" left="668" width="71" height="14" font="1"><b>Created On:</b></text>
+<text top="564" left="747" width="87" height="14" font="2">21 Dec 2020 by</text>
+<text top="579" left="747" width="95" height="14" font="2">Fabiola Roxadelli</text>
+<text top="594" left="747" width="36" height="14" font="2">Arnold</text>
+<text top="609" left="310" width="75" height="14" font="1"><b>Coordinator:</b></text>
+<text top="609" left="392" width="174" height="14" font="2">Christopher Baiamonte (saybol-</text>
+<text top="623" left="392" width="143" height="14" font="2">tus.intdesk@corelab.com)</text>
+<text top="609" left="655" width="84" height="14" font="1"><b>Last Modified:</b></text>
+<text top="609" left="747" width="85" height="14" font="2">05 Jan 2021 by</text>
+<text top="623" left="747" width="96" height="14" font="2">Christopher Baia-</text>
+<text top="638" left="747" width="34" height="14" font="2">monte</text>
+<text top="653" left="310" width="75" height="14" font="1"><b>Local Office:</b></text>
+<text top="653" left="392" width="209" height="14" font="2">Saybolt USA Deer Park, TX (Houston,</text>
+<text top="668" left="392" width="93" height="14" font="2">Pasadena) (Say-</text>
+<text top="683" left="392" width="182" height="14" font="2">bolt.DeerParkOps@corelab.com)</text>
+<text top="699" left="283" width="384" height="14" font="1"><b>INSPECTION REQUIREMENTS: QUALITY / QUANTITY / TIME LOG</b></text>
+<text top="715" left="130" width="254" height="14" font="1"><b>Voyage Parcel External Reference Number:</b></text>
+<text top="715" left="392" width="66" height="14" font="2">5104721-20</text>
+<text top="730" left="345" width="40" height="14" font="1"><b>Grade:</b></text>
+<text top="730" left="392" width="59" height="14" font="2">IPA BR VL</text>
+<text top="730" left="634" width="105" height="14" font="1"><b>Contract Number:</b></text>
+<text top="745" left="356" width="29" height="14" font="1"><b>ETA:</b></text>
+<text top="745" left="392" width="70" height="14" font="2">30 Dec 2020</text>
+<text top="745" left="675" width="65" height="14" font="1"><b>Parcel Ref:</b></text>
+<text top="759" left="356" width="29" height="14" font="1"><b>ETD:</b></text>
+<text top="759" left="668" width="71" height="14" font="1"><b>Destination:</b></text>
+<text top="774" left="203" width="182" height="14" font="1"><b>Supply Contract Window Start:</b></text>
+<text top="774" left="392" width="17" height="14" font="2">n/a</text>
+<text top="774" left="638" width="101" height="14" font="1"><b>Source Location:</b></text>
+<text top="789" left="208" width="177" height="14" font="1"><b>Supply Contract Window End:</b></text>
+<text top="789" left="392" width="17" height="14" font="2">n/a</text>
+<text top="789" left="686" width="54" height="14" font="1"><b>Supplier:</b></text>
+<text top="804" left="230" width="155" height="14" font="1"><b>Total Nominated Quantity:</b></text>
+<text top="804" left="392" width="117" height="14" font="2">1,300,000 Kilograms</text>
+<text top="804" left="684" width="56" height="14" font="1"><b>Receiver:</b></text>
+<text top="819" left="89" width="295" height="14" font="1"><b>Transport / Voyage Number / Quantity / Tolerance:</b></text>
+<text top="819" left="392" width="230" height="14" font="2">CBC1383 (VS00055325) / 1,300,000 Kilo-</text>
+<text top="834" left="392" width="83" height="14" font="2">grams +/- 5 pct</text>
+<text top="819" left="646" width="93" height="14" font="1"><b>Delivery Terms:</b></text>
+<text top="848" left="651" width="88" height="14" font="1"><b>Mother Vessel:</b></text>
+<text top="878" left="89" width="173" height="13" font="1"><b>Load / Discharge Instructions:</b></text>
+<text top="898" left="95" width="43" height="14" font="6">Notes:</text>
+<text top="912" left="95" width="482" height="14" font="6">1. All samples to be kept for 90 days only unless otherwise stated.</text>
+<text top="927" left="95" width="511" height="14" font="6">2. Refer to &#34;Docks Chemicals Sample Sheet&#34; for additional instructions.</text>
+<text top="962" left="89" width="180" height="13" font="1"><b>Quality Inspection Instructions:</b></text>
+<text top="977" left="90" width="37" height="15" font="7"><b>SET 1</b></text>
+<text top="994" left="159" width="72" height="14" font="1"><b>Description:</b></text>
+<text top="1009" left="128" width="103" height="14" font="1"><b>Sample Location:</b></text>
+<text top="1009" left="239" width="185" height="13" font="2">As Per Standard Terminal Practice</text>
+<text top="1024" left="89" width="142" height="14" font="1"><b>Quality Test Comments:</b></text>
+<text top="1044" left="95" width="43" height="14" font="6">1-foot</text>
+<text top="1073" left="95" width="734" height="14" font="6">Composite of Barge Compartments - Test individual Barge compartments separately ONLY if the Barge com-</text>
+<text top="1087" left="95" width="418" height="14" font="6">posite fails or results are outside reproducibility of COA</text>
+<text top="92" left="89" width="229" height="18" font="3"><b>TRIP: USEBARGCHE-2012-047</b></text>
+<text top="92" left="650" width="204" height="18" font="3"><b>20E552683 VER 1 (ISSUED)</b></text>
+<text top="1129" left="433" width="77" height="17" font="4">Page 3 of 4</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="9" size="7" family="PXAAAB+Arial" color="#999999"/>
+<image top="15" left="89" width="290" height="60" src="./../output_data/1234/560/20E552683v.1/20E552683v.1-4_1.png"/>
+<text top="148" left="95" width="209" height="14" font="6">Pumps/Manifold/Discharge Line</text>
+<text top="215" left="669" width="75" height="10" font="8"><b>RO = Report Only</b></text>
+<text top="215" left="778" width="69" height="10" font="8"><b>Req. = Required</b></text>
+<text top="229" left="97" width="25" height="13" font="1"><b>Test</b></text>
+<text top="229" left="260" width="49" height="13" font="1"><b>Methods</b></text>
+<text top="229" left="442" width="21" height="13" font="1"><b>Min</b></text>
+<text top="229" left="494" width="23" height="13" font="1"><b>Max</b></text>
+<text top="229" left="546" width="28" height="13" font="1"><b>UOM</b></text>
+<text top="229" left="622" width="41" height="13" font="1"><b>Typical</b></text>
+<text top="229" left="711" width="25" height="13" font="1"><b>R.O.</b></text>
+<text top="229" left="750" width="26" height="13" font="1"><b>Req.</b></text>
+<text top="229" left="791" width="55" height="13" font="1"><b>Comment</b></text>
+<text top="251" left="97" width="65" height="13" font="2">Appearance</text>
+<text top="251" left="261" width="85" height="13" font="2">[OTHER] Visual</text>
+<text top="251" left="622" width="34" height="13" font="2">CFSM</text>
+<text top="251" left="711" width="15" height="13" font="2">No</text>
+<text top="251" left="751" width="21" height="13" font="2">Yes</text>
+<text top="272" left="97" width="71" height="13" font="2">SG@20/20 C</text>
+<text top="272" left="261" width="115" height="13" font="2">[ASTM] ASTM D4052</text>
+<text top="272" left="442" width="37" height="13" font="2">0.7862</text>
+<text top="272" left="494" width="37" height="13" font="2">0.7870</text>
+<text top="272" left="547" width="17" height="13" font="2">n/a</text>
+<text top="272" left="711" width="15" height="13" font="2">No</text>
+<text top="272" left="751" width="21" height="13" font="2">Yes</text>
+<text top="294" left="97" width="87" height="13" font="2">COLOR, PT-CO</text>
+<text top="294" left="261" width="162" height="13" font="2">[ASTM] ASTM D5386, [ASTM]</text>
+<text top="308" left="261" width="72" height="13" font="2">ASTM D1209</text>
+<text top="294" left="494" width="7" height="13" font="2">5</text>
+<text top="294" left="711" width="15" height="13" font="2">No</text>
+<text top="294" left="751" width="21" height="13" font="2">Yes</text>
+<text top="330" left="97" width="75" height="13" font="2">Water content</text>
+<text top="330" left="261" width="115" height="13" font="2">[ASTM] ASTM D1364</text>
+<text top="330" left="494" width="17" height="13" font="2">0.1</text>
+<text top="330" left="547" width="23" height="13" font="2">wt%</text>
+<text top="330" left="711" width="15" height="13" font="2">No</text>
+<text top="330" left="751" width="21" height="13" font="2">Yes</text>
+<text top="351" left="97" width="27" height="13" font="2">Odor</text>
+<text top="351" left="261" width="115" height="13" font="2">[ASTM] ASTM D1296</text>
+<text top="351" left="547" width="59" height="13" font="2">Marketable</text>
+<text top="351" left="622" width="73" height="13" font="2">Characteristic</text>
+<text top="351" left="711" width="15" height="13" font="2">No</text>
+<text top="351" left="751" width="21" height="13" font="2">Yes</text>
+<text top="373" left="97" width="93" height="13" font="2">Distillation Range</text>
+<text top="373" left="261" width="115" height="13" font="2">[ASTM] ASTM D1078</text>
+<text top="373" left="494" width="17" height="13" font="2">1.0</text>
+<text top="373" left="547" width="13" height="13" font="2">°C</text>
+<text top="373" left="622" width="48" height="13" font="2">Including</text>
+<text top="387" left="622" width="32" height="13" font="2">82.3C</text>
+<text top="373" left="711" width="15" height="13" font="2">No</text>
+<text top="373" left="751" width="21" height="13" font="2">Yes</text>
+<text top="409" left="97" width="65" height="13" font="2">Appearance</text>
+<text top="409" left="261" width="85" height="13" font="2">[OTHER] Visual</text>
+<text top="409" left="622" width="34" height="13" font="2">CFSM</text>
+<text top="409" left="711" width="15" height="13" font="2">No</text>
+<text top="409" left="751" width="21" height="13" font="2">Yes</text>
+<text top="430" left="97" width="135" height="13" font="2">ACIDITY (ACETIC ACID)</text>
+<text top="430" left="261" width="115" height="13" font="2">[ASTM] ASTM D1613</text>
+<text top="430" left="494" width="30" height="13" font="2">0.001</text>
+<text top="430" left="547" width="23" height="13" font="2">wt%</text>
+<text top="430" left="711" width="15" height="13" font="2">No</text>
+<text top="430" left="751" width="21" height="13" font="2">Yes</text>
+<text top="452" left="97" width="71" height="13" font="2">SG@20/20 C</text>
+<text top="452" left="261" width="115" height="13" font="2">[ASTM] ASTM D4052</text>
+<text top="452" left="442" width="37" height="13" font="2">0.7862</text>
+<text top="452" left="494" width="37" height="13" font="2">0.7870</text>
+<text top="452" left="547" width="17" height="13" font="2">n/a</text>
+<text top="452" left="711" width="15" height="13" font="2">No</text>
+<text top="452" left="751" width="21" height="13" font="2">Yes</text>
+<text top="473" left="97" width="147" height="13" font="2">SPECIFIC GRAVITY @ 25/</text>
+<text top="488" left="97" width="25" height="13" font="2">25 C</text>
+<text top="473" left="261" width="115" height="13" font="2">[ASTM] ASTM D4052</text>
+<text top="473" left="442" width="37" height="13" font="2">0.7830</text>
+<text top="473" left="494" width="37" height="13" font="2">0.7840</text>
+<text top="473" left="547" width="17" height="13" font="2">n/a</text>
+<text top="473" left="711" width="15" height="13" font="2">No</text>
+<text top="473" left="751" width="21" height="13" font="2">Yes</text>
+<text top="509" left="97" width="87" height="13" font="2">COLOR, PT-CO</text>
+<text top="509" left="261" width="162" height="13" font="2">[ASTM] ASTM D1209, [ASTM]</text>
+<text top="524" left="261" width="72" height="13" font="2">ASTM D5386</text>
+<text top="509" left="494" width="7" height="13" font="2">5</text>
+<text top="509" left="711" width="15" height="13" font="2">No</text>
+<text top="509" left="751" width="21" height="13" font="2">Yes</text>
+<text top="545" left="97" width="75" height="13" font="2">Water content</text>
+<text top="545" left="261" width="115" height="13" font="2">[ASTM] ASTM D1364</text>
+<text top="545" left="494" width="17" height="13" font="2">0.1</text>
+<text top="545" left="547" width="23" height="13" font="2">wt%</text>
+<text top="545" left="711" width="15" height="13" font="2">No</text>
+<text top="545" left="751" width="21" height="13" font="2">Yes</text>
+<text top="567" left="97" width="117" height="13" font="2">WATER MISCIBILITY</text>
+<text top="567" left="261" width="115" height="13" font="2">[ASTM] ASTM D1722</text>
+<text top="567" left="547" width="17" height="13" font="2">n/a</text>
+<text top="567" left="622" width="73" height="13" font="2">clear/miscible</text>
+<text top="567" left="711" width="15" height="13" font="2">No</text>
+<text top="567" left="751" width="21" height="13" font="2">Yes</text>
+<text top="588" left="97" width="143" height="13" font="2">NON VOLATILE MATTER,</text>
+<text top="603" left="97" width="53" height="13" font="2">per 100ml</text>
+<text top="588" left="261" width="115" height="13" font="2">[ASTM] ASTM D1353</text>
+<text top="588" left="494" width="30" height="13" font="2">0.001</text>
+<text top="588" left="547" width="17" height="13" font="2">mg</text>
+<text top="588" left="711" width="15" height="13" font="2">No</text>
+<text top="588" left="751" width="21" height="13" font="2">Yes</text>
+<text top="624" left="97" width="68" height="13" font="2">Purity by GC</text>
+<text top="624" left="261" width="70" height="13" font="2">[OTHER] GC</text>
+<text top="624" left="442" width="23" height="13" font="2">99.9</text>
+<text top="624" left="547" width="23" height="13" font="2">%wt</text>
+<text top="624" left="711" width="15" height="13" font="2">No</text>
+<text top="624" left="751" width="21" height="13" font="2">Yes</text>
+<text top="646" left="97" width="142" height="13" font="2">Acidity, ML 0.020 N NAOH</text>
+<text top="660" left="97" width="67" height="13" font="2">to Neutralize</text>
+<text top="646" left="261" width="77" height="13" font="2">[OTHER] USP</text>
+<text top="646" left="494" width="17" height="13" font="2">0.7</text>
+<text top="646" left="547" width="13" height="13" font="2">ml</text>
+<text top="646" left="711" width="15" height="13" font="2">No</text>
+<text top="646" left="751" width="21" height="13" font="2">Yes</text>
+<text top="682" left="97" width="130" height="13" font="2">IDENTIFICATION BY IR</text>
+<text top="682" left="261" width="64" height="13" font="2">[OTHER] IR</text>
+<text top="682" left="547" width="17" height="13" font="2">n/a</text>
+<text top="682" left="622" width="25" height="13" font="2">pass</text>
+<text top="682" left="711" width="15" height="13" font="2">No</text>
+<text top="682" left="751" width="21" height="13" font="2">Yes</text>
+<text top="703" left="97" width="65" height="13" font="2">Appearance</text>
+<text top="703" left="261" width="85" height="13" font="2">[OTHER] Visual</text>
+<text top="703" left="622" width="34" height="13" font="2">CFSM</text>
+<text top="703" left="711" width="15" height="13" font="2">No</text>
+<text top="703" left="751" width="21" height="13" font="2">Yes</text>
+<text top="725" left="97" width="71" height="13" font="2">SG@20/20 C</text>
+<text top="725" left="261" width="115" height="13" font="2">[ASTM] ASTM D4052</text>
+<text top="725" left="442" width="37" height="13" font="2">0.7862</text>
+<text top="725" left="494" width="37" height="13" font="2">0.7870</text>
+<text top="725" left="547" width="17" height="13" font="2">n/a</text>
+<text top="725" left="711" width="15" height="13" font="2">No</text>
+<text top="725" left="751" width="21" height="13" font="2">Yes</text>
+<text top="746" left="97" width="87" height="13" font="2">COLOR, PT-CO</text>
+<text top="746" left="261" width="115" height="13" font="2">[ASTM] ASTM D1209</text>
+<text top="746" left="494" width="7" height="13" font="2">5</text>
+<text top="746" left="711" width="15" height="13" font="2">No</text>
+<text top="746" left="751" width="21" height="13" font="2">Yes</text>
+<text top="768" left="97" width="75" height="13" font="2">Water content</text>
+<text top="768" left="261" width="115" height="13" font="2">[ASTM] ASTM D1364</text>
+<text top="768" left="494" width="17" height="13" font="2">0.1</text>
+<text top="768" left="547" width="23" height="13" font="2">wt%</text>
+<text top="768" left="711" width="15" height="13" font="2">No</text>
+<text top="768" left="751" width="21" height="13" font="2">Yes</text>
+<text top="801" left="89" width="117" height="13" font="1"><b>Invoice Instructions:</b></text>
+<text top="818" left="97" width="81" height="13" font="1"><b>Bill Invoice To</b></text>
+<text top="818" left="510" width="61" height="13" font="1"><b>Item to Bill</b></text>
+<text top="818" left="690" width="26" height="13" font="1"><b>Split</b></text>
+<text top="818" left="737" width="110" height="13" font="1"><b>Contact / Comment</b></text>
+<text top="839" left="97" width="377" height="13" font="2">0102 ExxonMobil Chemical Company - U.S. (Div ExxonMobil Chemical</text>
+<text top="854" left="97" width="287" height="13" font="2">Co) (Legal Entity: 0102 EM Chemical America (0102))</text>
+<text top="839" left="510" width="70" height="13" font="2">Quantity only</text>
+<text top="839" left="691" width="31" height="13" font="2">100%</text>
+<text top="875" left="510" width="142" height="13" font="2">Slate: CHEM-AM-FLU-Lab</text>
+<text top="889" left="510" width="88" height="13" font="2">Sheet IPA 1-foot</text>
+<text top="875" left="691" width="31" height="13" font="2">100%</text>
+<text top="911" left="510" width="142" height="13" font="2">Slate: CHEM-AM-FLU-Lab</text>
+<text top="925" left="510" width="137" height="13" font="2">Sheet IPA Composite Full</text>
+<text top="911" left="691" width="31" height="13" font="2">100%</text>
+<text top="946" left="510" width="142" height="13" font="2">Slate: CHEM-AM-FLU-Lab</text>
+<text top="961" left="510" width="80" height="13" font="2">Sheet IPA Line</text>
+<text top="946" left="691" width="31" height="13" font="2">100%</text>
+<text top="994" left="89" width="83" height="13" font="1"><b>Recipient List:</b></text>
+<text top="1008" left="89" width="738" height="13" font="2">batonrouge@coastalgulf.com; brdispatch@coastalgulf.com; Sayboltus.Intdesk@corelab.com; Saybolt.DeerParkOps@corelab.com; saybol-</text>
+<text top="1022" left="89" width="135" height="13" font="2">tus.intdesk@corelab.com</text>
+<text top="1043" left="727" width="127" height="8" font="9">REPORT GENERATED 21 DEC 2020</text>
+<text top="92" left="89" width="229" height="18" font="3"><b>TRIP: USEBARGCHE-2012-047</b></text>
+<text top="92" left="650" width="204" height="18" font="3"><b>20E552683 VER 1 (ISSUED)</b></text>
+<text top="1129" left="433" width="77" height="17" font="4">Page 4 of 4</text>
+</page>
+</pdf2xml>

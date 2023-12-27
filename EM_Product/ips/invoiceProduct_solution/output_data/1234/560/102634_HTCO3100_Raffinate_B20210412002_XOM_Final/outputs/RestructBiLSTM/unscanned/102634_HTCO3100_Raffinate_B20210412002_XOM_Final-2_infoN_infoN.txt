@@ -1,0 +1,48 @@
+    Vessel/Equipment:                     HTCO 3100                             File Number:                        102634
+       Shore Tank                         Meter Ticket                          Lab Number:                      B20210412002
+        Product:                           Raffinate                                Client:                       ExxonMobil
+        Terminal:                  ExxonMobil, Baton Rouge, LA                Client Reference:                    5408894
+        Subject:                        Barge After Load
+
+D5599                   TAME                                           <0.1                              wt%              -
+D5599                   Total Oxygen                                   <0.1                              wt%              -
+D7671                   Silver Corrosion                               0                                                  -
+D7671                   Temperature                                    50                                °C               -
+D7671                   Duration                                       3                                 Hours            -
+D86                     Distillation Corrected to                      101.3 kPa                                          -
+D86                     Initial Boiling Point                          143.9                             °F               -
+D86                     5% Recovered                                   153.0                             °F               -
+D86                     10% Recovered                                  155.1                             °F               -
+D86                     20% Recovered                                  157.6                             °F               -
+D86                     30% Recovered                                  160.6                             °F               -
+D86                     40% Recovered                                  163.0                             °F               -
+D86                     50% Recovered                                  166.2                             °F               -
+D86                     60% Recovered                                  170.0                             °F               -
+D86                     70% Recovered                                  175.2                             °F               -
+D86                     80% Recovered                                  183.0                             °F               -
+D86                     90% Recovered                                  195.6                             °F               -
+D86                     95% Recovered                                  206.6                             °F               -
+D86                     Final Boiling Point                            233.7                             °F               -
+D86                     90% Evaporated                                 193.7                             °F               -
+D86                     Recovery                                       98.0                              %                -
+D86                     Residue                                        1.0                               %                -
+D86                     Loss                                           0.9                               %                -
+IP377                   Silicon                                        <10                               ppm              -
+
+
+
+
+X                                                                                                 X
+
+
+Signed:      Aaron Manguno                                                                        Reviewed by:   Glenn Hanson
+             Laboratory Supervisor                                                                               VP of Laboratories
+
+
+
+
+                                                             13615 River Road, Luling, LA 70070
+                                                      Phone: (985) 785-0765 Email: cgi@coastalgulf.com
+
+                                                                              2
+

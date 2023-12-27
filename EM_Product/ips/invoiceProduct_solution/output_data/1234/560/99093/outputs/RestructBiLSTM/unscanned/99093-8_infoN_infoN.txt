@@ -1,0 +1,50 @@
+                               COASTAL GULF &
+                             INTERNATIONAL, INC.
+                                             "Precision"
+                                       Inspection & Analytical
+                                               Services
+                                13615 River Road, Luling, LA. 70070
+                               Phone (985)785-0765 Fax (985)785-1328                                      Assuring accuracy through expertise!
+
+Vessel:               EMS 3001 & 3004B                                            Date:                   November 7, 2020
+Product:              CSO/MCB                                                     Terminal:               P.F.T.
+Subject:              Report of Loading                                           Port:                   Mt Airy, Louisiana
+ExxonMobil Ref. #: 5107066-10                                                     File Number:            99093
+Cabot Ref. #: 108282-118106
+                                SHORE LINE VERIFICATION REPORT
+
+           Comparison made for Line Displacement at:                       Loading
+
+                                           SHORE TANK NO.:                                 217
+
+                                               Innage Gauge                                           Gross Barrels
+                  OPEN:                            16' 00"                                             43,404.27
+                  CLOSE:                         15' 09 1/8"                                           42,747.77
+                  GROSS BARRELS:                      Delivered                                          656.50
+
+                                                 BARGE:                      EMS 3004B
+                Prior to Displacement:                                                    On Completion of Displacement:
+ Tank #            Ullage           Gross Barrels                                  Tank #        Ullage           Gross Barrels
+   3p              14' 00"             135.02                                        3p          13' 08"             254.99
+   3s              14' 00"             135.02                                        3s        13' 05 1/4"           337.47
+    0                 0                 0.00                                          0             0                 0.00
+    0                 0                 0.00                                          0             0                 0.00
+    0                 0                 0.00                                          0             0                 0.00
+    0                 0                 0.00                                          0             0                 0.00
+                                       270.04                                                                        592.46
+
+                                                            Gross Barrels:                322.42
+
+                Vessel to Shore Difference:                  334.08                        Line Status:               Empty
+                            Line Capacity:                   300.00
+                                 Variance:                    34.08                 Line Discrepency:                10.57%
+
+                      Shore Line                                       Capacity                           Tolerance*
+                         14"                                            300.00                              50.00
+
+
+
+Coastal Gulf & International, Inc.
+Bentley Kraemer
+Central Communication Center                                                                                                     Version 7.0 06-05-13 NLE
+

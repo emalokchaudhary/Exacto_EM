@@ -1,0 +1,19 @@
+Product: Benzene                                                                                      Terminal:                 Motiva
+Subject: Report of Discharge                                                                          Port:                     Port Neches, Texas
+ExxonMobil Ref. #: USEBARGARO-2008-066                                                                File Number: BT11076
+
+Barge: FMT 6010                                       VESSEL ULLAGE REPORT
+                                  Trim / List                                                                                               V.C.F.               G.S.V.
+     Tank           Ullage        Corrected Temp.                     T.O.V.                       Water         API                         Table               Barrels
+      No.            (Ft.)                     ( F)                   Barrels               (Ft.)      Barrels  @ 60  F                     D1555                @ 60 F
+1P                 07' 08 1/2"     07' 08 1/2" 88.4                       2,758.30         00' 00"          0.00 28.5                      0.981160                  2,706.33
+1S                07' 09 1/2"     07' 09 1/2" 88.5                        2,727.93         00' 00"          0.00 28.5                      0.981100                  2,676.37
+2P                07' 07 1/4"     07' 07 1/4" 88.4                        3,590.91         00' 00"          0.00 28.5                      0.981160                  3,523.26
+2S                08' 01 00"      08' 01 00"   88.4                       3,413.74         00' 00"          0.00 28.5                      0.981160                  3,349.43
+3P                07' 03 00"      07' 03 00"   88.5                       3,677.39         00' 00"          0.00 28.5                      0.981100                  3,607.89
+3S                07' 05 1/2"     07' 05 1/2" 88.2                        3,618.10         00' 00"          0.00 28.5                      0.981300                  3,550.44
+
+
+
+
+                                                      88.4                 19,786.37                                   0.00                                            19,413.72

@@ -1,0 +1,54 @@
+                    Certificate of Analysis                                                                             Report Date:         9/2/2020
+Vessel/Equipment:                 Chem 3213                    File Number:                                                  BR26799
+Shore Tank:                            N/A                     Lab Number:                                                  090220-002
+Product:                  Aromatic Concentrate                 Client:                                                        EMCC
+Terminal:                     Placid, Port Allen, LA           Client Reference:                                            4997409-10
+Subject:                        Barge After Load
+Sample Type:         Nitrogen Purged Amber Bottle              Sample Location:                                             Chem 3213
+
+
+
+Method                            Component                    Result                        Units           Min        -        Max         Off-Spec
+D1022M                   Hydrogen Peroxide                                0.4                mg/kg                      -
+Sample Type:                      Composite                    Sample Location:                                             Chem 3213
+
+
+
+Method                            Component                    Result                        Units           Min        -        Max         Off-Spec
+D4052                    API Gravity @ 60°F                              62.2                                           -
+D4052                  Specific Gravity @ 60°F                         0.7304                g/cm3                      -
+D4176                         Clear and Bright                           Pass                                           -
+D4176                           Free Water                               Pass                                           -
+D4176                           Particulates                             Pass                                           -
+D4176                     Test Temperature                               22.0                Deg C.                     -
+D1209                              Color                                  <5              Pt-Co Units                   -        30
+D5453                           Total Sulfur                             <1.0                mg.kg                      -        1
+D4629                             Nitrogen                               <0.3                mg.kg                      -        1
+D7536M                        Total Chlorides                            <0.4                mg.kg                      -       0.4
+D7011                           Thiophene                                <0.6                mg.kg                      -       0.6
+D6730                            Benzene                               25.105                 wt%                  20   -
+D6730                             Toluene                                3.551                wt%                       -        25
+D6730                             Olefins                                0.990                wt%                       -        4
+D6730                             Diolefins                              0.029                wt%                       -       0.15
+D6730                 C4 & Lighter Hydrocarbons                        <0.001                 wt%                       -        1
+D6730                     C5 Hydrocarbons                                0.177                wt%                       -        7
+D6730                          C8 Aromatics                              0.016                wt%                       -        4
+D6730                C9 & Heavier Hydrocarbons                           0.002                wt%                       -       2.5
+D6730                            Benzene                               20.765                 vol%                      -
+D6730                             Toluene                                2.978                vol%                      -
+D6730                          C8 Aromatics                              0.013                vol%                      -
+D7754M                             MTBE                                  <10                 mg/kg                      -       100
+
+
+
+
+           Kody Dauzat
+Signed:         Kody Dauzat                                                                         Reviewed by:         Glenn Hanson
+      Assistant Lab Manager                                                                                             VP of Laboratories
+
+
+
+
+                                                         13615 River Road, Luling, LA 70070
+                                                 Phone: (985) 785-0765 Email: cgi@coastalgulf.com
+

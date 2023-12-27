@@ -1,0 +1,46 @@
+2023-12-21 03:39:10,524 - ExtractCustomFields.EM_logging - INFO - -----------------------------------------------------------------------------------------------------------------------------------------
+2023-12-21 03:39:14,538 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT PROCESSING START...
+2023-12-21 03:39:14,818 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 047e9369 VENDOR_NAME Camin INVOICE_NUMBER 1170275 FILE_NAME 21E566230v.1.pdf
+2023-12-21 03:39:14,819 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-21 03:39:14,820 - ExtractCustomFields.EM_logging - INFO - Header Data Nomination - {'TripNumber': 'USEBARGINT-2103-150', 'NominationNumber': '21E566230', 'Region': 'Americas', 'doc_uuid': '047e9369'}
+2023-12-21 03:39:14,822 - ExtractCustomFields.EM_logging - INFO - Parcel data extraction (pracel summary not available) - [[{'ActivityType': 'DISCHARGE', 'VesselName': 'KIRBY28061  / KIRBY28169', 'JobLocation': 'NEDERLAND, TX - BEAUMONT P 66 (UNITED STATES)', 'VendorName': 'Camin Cargo Control Inc.', 'NominationKey': '5380341-10', 'ProductName': 'NAPHTHA HEAVY', 'JobDate': '26 Mar 2021', 'NominatedQuantity': '50000', 'UnitOfMeasure': 'Barrels', 'TypeofInspection': 'QUANTITY', 'EmAffiliates': '3862 - ExxonMobil Oil Corporation (Legal Entity: ExxonMobil Oil Corp. (EMOC) - Mktg & Ref U.S. Gen Ledger (3862))'}]]
+2023-12-21 03:39:14,955 - ExtractCustomFields.EM_logging - INFO - Quality line data Nomination - [[{'Test Name': '', 'Test Code': '', 'Comment': '', 'set_no': '', 'set_description': '', 'sample_location': '', 'vessel': '', 'vessel_location': ''}]]
+2023-12-21 03:39:14,955 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL
+2023-12-21 03:39:15,175 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-21 03:39:15,175 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-21 03:39:15,175 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-21 03:46:10,987 - ExtractCustomFields.EM_logging - INFO - -----------------------------------------------------------------------------------------------------------------------------------------
+2023-12-21 03:55:38,724 - ExtractCustomFields.EM_logging - INFO - -----------------------------------------------------------------------------------------------------------------------------------------
+2023-12-21 03:55:39,312 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT PROCESSING START...
+2023-12-21 03:55:39,347 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 6e0eb129 VENDOR_NAME Camin INVOICE_NUMBER 1170275 FILE_NAME 21E566230v.1.pdf
+2023-12-21 03:55:39,347 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-21 03:55:39,348 - ExtractCustomFields.EM_logging - INFO - Header Data Nomination - {'TripNumber': 'USEBARGINT-2103-150', 'NominationNumber': '21E566230', 'Region': 'Americas', 'doc_uuid': '6e0eb129'}
+2023-12-21 03:55:39,351 - ExtractCustomFields.EM_logging - INFO - Parcel data extraction (pracel summary not available) - [[{'ActivityType': 'DISCHARGE', 'VesselName': 'KIRBY28061  / KIRBY28169', 'JobLocation': 'NEDERLAND, TX - BEAUMONT P 66 (UNITED STATES)', 'VendorName': 'Camin Cargo Control Inc.', 'NominationKey': '5380341-10', 'ProductName': 'NAPHTHA HEAVY', 'JobDate': '26 Mar 2021', 'NominatedQuantity': '50000', 'UnitOfMeasure': 'Barrels', 'TypeofInspection': 'QUANTITY', 'EmAffiliates': '3862 - ExxonMobil Oil Corporation (Legal Entity: ExxonMobil Oil Corp. (EMOC) - Mktg & Ref U.S. Gen Ledger (3862))'}]]
+2023-12-21 03:55:39,484 - ExtractCustomFields.EM_logging - INFO - Quality line data Nomination - [[{'Test Name': '', 'Test Code': '', 'Comment': '', 'set_no': '', 'set_description': '', 'sample_location': '', 'vessel': '', 'vessel_location': ''}]]
+2023-12-21 03:55:39,484 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL
+2023-12-21 03:55:39,581 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-21 03:55:39,581 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-21 03:55:39,581 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-21 04:07:40,406 - ExtractCustomFields.EM_logging - INFO - -----------------------------------------------------------------------------------------------------------------------------------------
+2023-12-21 04:07:40,984 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT PROCESSING START...
+2023-12-21 04:07:41,020 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is dd1f3147 VENDOR_NAME Camin INVOICE_NUMBER 1170275 FILE_NAME 21E566230v.1.pdf
+2023-12-21 04:07:41,020 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-21 04:07:41,021 - ExtractCustomFields.EM_logging - INFO - Header Data Nomination - {'TripNumber': 'USEBARGINT-2103-150', 'NominationNumber': '21E566230', 'Region': 'Americas', 'doc_uuid': 'dd1f3147'}
+2023-12-21 04:07:41,024 - ExtractCustomFields.EM_logging - INFO - Parcel data extraction (pracel summary not available) - [[{'ActivityType': 'DISCHARGE', 'VesselName': 'KIRBY28061  / KIRBY28169', 'JobLocation': 'NEDERLAND, TX - BEAUMONT P 66 (UNITED STATES)', 'VendorName': 'Camin Cargo Control Inc.', 'NominationKey': '5380341-10', 'ProductName': 'NAPHTHA HEAVY', 'JobDate': '26 Mar 2021', 'NominatedQuantity': '50000', 'UnitOfMeasure': 'Barrels', 'TypeofInspection': 'QUANTITY', 'EmAffiliates': '3862 - ExxonMobil Oil Corporation (Legal Entity: ExxonMobil Oil Corp. (EMOC) - Mktg & Ref U.S. Gen Ledger (3862))'}]]
+2023-12-21 04:07:41,157 - ExtractCustomFields.EM_logging - INFO - Quality line data Nomination - [[{'Test Name': '', 'Test Code': '', 'Comment': '', 'set_no': '', 'set_description': '', 'sample_location': '', 'vessel': '', 'vessel_location': ''}]]
+2023-12-21 04:07:41,157 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL
+2023-12-21 04:07:41,263 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-21 04:07:41,263 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-21 04:07:41,263 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-21 04:13:39,024 - ExtractCustomFields.EM_logging - INFO - -----------------------------------------------------------------------------------------------------------------------------------------
+2023-12-21 04:13:39,597 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT PROCESSING START...
+2023-12-21 04:13:39,630 - ExtractCustomFields.EM_logging - INFO - CAMIN DOCUMENT UUID is 47e1a062 VENDOR_NAME Camin INVOICE_NUMBER 1170275 FILE_NAME 21E566230v.1.pdf
+2023-12-21 04:13:39,631 - ExtractCustomFields.EM_logging - INFO - THIS DOC IS CLASSIFIED AS Nomination
+2023-12-21 04:13:39,631 - ExtractCustomFields.EM_logging - INFO - Header Data Nomination - {'TripNumber': 'USEBARGINT-2103-150', 'NominationNumber': '21E566230', 'Region': 'Americas', 'doc_uuid': '47e1a062'}
+2023-12-21 04:13:39,635 - ExtractCustomFields.EM_logging - INFO - Parcel data extraction (pracel summary not available) - [[{'ActivityType': 'DISCHARGE', 'VesselName': 'KIRBY28061  / KIRBY28169', 'JobLocation': 'NEDERLAND, TX - BEAUMONT P 66 (UNITED STATES)', 'VendorName': 'Camin Cargo Control Inc.', 'NominationKey': '5380341-10', 'ProductName': 'NAPHTHA HEAVY', 'JobDate': '2021-03-26', 'NominatedQuantity': '50000', 'UnitOfMeasure': 'Barrels', 'TypeofInspection': 'QUANTITY', 'EmAffiliates': '3862 - ExxonMobil Oil Corporation (Legal Entity: ExxonMobil Oil Corp. (EMOC) - Mktg & Ref U.S. Gen Ledger (3862))'}]]
+2023-12-21 04:13:39,767 - ExtractCustomFields.EM_logging - INFO - Quality line data Nomination - [[{'Test Name': '', 'Test Code': '', 'Comment': '', 'set_no': '', 'set_description': '', 'sample_location': '', 'vessel': '', 'vessel_location': ''}]]
+2023-12-21 04:13:39,767 - ExtractCustomFields.EM_logging - INFO - EXTRACTION OF NOMINATION IS SUCCESSFULL
+2023-12-21 04:13:39,866 - ExtractCustomFields.EM_logging - INFO - EXACTO DB : NOMINATION DATA SUCCESSFULL
+2023-12-21 04:13:39,866 - ExtractCustomFields.EM_logging - INFO - #################### GOING TO PUSH DATA FROM EXACTO STAGING TABLE TO TOSCANA WITH FILE NO. InvNO ####################
+2023-12-21 04:13:39,867 - ExtractCustomFields.EM_logging - INFO - THIS IS THE ROWID WHICH IS BEING USED FOR DOCKER BLOB : NA
+2023-12-21 04:45:58,870 - ExtractCustomFields.EM_logging - INFO - -----------------------------------------------------------------------------------------------------------------------------------------

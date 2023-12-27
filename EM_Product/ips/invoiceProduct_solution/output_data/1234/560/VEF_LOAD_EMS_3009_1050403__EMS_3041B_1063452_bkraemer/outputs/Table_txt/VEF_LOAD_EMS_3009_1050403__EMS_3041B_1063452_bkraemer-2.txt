@@ -1,0 +1,8 @@
+        Voyage         Grade              Location            Date       Vessel Sail-    OBQ            Load         B/L TCV      Vessel    Step 1     Step 2    Vessel TCV       Shore TCV      Current
+                                                                          ing TCV                       TCV                        Load      Has     Qualified                                   Port Call
+                                                                                                                                   Ratio    Gross     Voyage
+                                                                                                 Bbls                                        Error   (> 0.30%)
+                                                                                                                                            (> 2%)
+ 20th            High Pour Coker     Lake Charles (Unit-   25 Aug 2017      24,704.65     1,711.54       22,993.11    22,958.34   1.00151              YES          22,993.11       22,958.34      YES
+                 Gas Oil             ed States)
+                                                                                           Totals:      707,925.09   706,691.76                        Totals:     324,130.44          323,687

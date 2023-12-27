@@ -1,0 +1,445 @@
+ExxonMobil Chemical Co.
+22777 Springwoods Village Parkway
+Spring, TX 77389
+
+Attention                  : Patricia Garcia
+                                                                        Contents
+MOVEMENT                   : Load                                        Voyage Analysis Report
+                                                                         Shore Tank Quantity
+VESSEL                     : MPX - 208                                   Vessel Quantity Report
+LOCATION                   : ExxonMobil - Baytown, TX                    Line Displacement
+                                                                         Timelog
+File N°                    : BAY-2408                                    LOP/NAD
+DATE                       : 06/25/2021 - 06/29/2021
+REFERENCE N°               : 5431035-10
+
+
+Dear Client,
+
+Please find attached our Inspection Report No. BAY-2408 corresponding to the Load operation of the
+captioned vessel, at place and date(s) shown above. The complete report is composed of individual field
+reports, which we believe are self-explanatory.
+
+
+We trust that this report supplies the proper input needed so that we comply with your requirements. Should
+there be any points that need further clarification, please do not hesitate to contact us.
+
+
+
+
+All Camin Cargo Control measurement devices and methods used for quantity and quality determination meet
+the pertinent requirements of 40 CFR 98.3 et. seq. (Greenhouse Gas Mandatory Reporting Rule)
+
+
+
+
+                                                                     Yours Sincerely,
+
+                                                                     Camin Cargo Control
+                                                                     6118 Bayway Drive Baytown, TX 77520
+                                                                     Phone: (832) 982-2001
+                                                                     opsbaytown@camincargo.com
+ EXXO06-09 / 582073                                                  www.camincargo.com
+
+
+
+
+                                                   Page 1 of 10
+                                            VOYAGE ANALYSIS REPORT N° BAY-2408
+VESSEL                 : MPX - 208                                                                                        MOVEMENT               : Load
+LOCATION               : ExxonMobil - Baytown, TX                                                                         JOB COMPLETED          : 27-JUN-2021
+PRODUCT                : AROMATIC 150 BT VL                                                                               REFERENCE N°           : 5431035-10
+
+                           Port                                                                                    VCF    Voyage#                  Gauge Date
+LOAD                     : ExxonMobil - Baytown, TX                                                                D1555 n/a                       27-JUN-2021
+DISCHARGE
+Barrels @ 60 °F                      API @ 60 °F                  TCV                      FW                  GSV                  S&W                    NSV         Reference
+I. SHORE/SHORE COMPARISON-NOT AVAILABLE
+1.   Loading Quantity                        25.3            9,179.95                     0.00              9,179.95                   0.00              9,179.95
+2.   Outturn
+3.   Difference                                                                                                                                                        (2-1)
+4.   Difference %                                                                                                                                                      (3/1*100)
+     Adjusted TCV Difference                                                                                                                                           (3-b+l)
+
+
+II. VESSEL/SHORE COMPARISON AT LOADPORT
+a.   After Loading                                           9,197.73                     0.00              9,197.73                   Liquid             Non-Liquid
+b.   OBQ                                                          0.00                    0.00                     0.00
+
+c.   Vessel Received                                         9,197.73                     0.00              9,197.73                                                   (a-b)
+d.   Difference                                                 17.78                     0.00                 17.78                                                   (c-1)
+e.   Difference %                                                 0.19                                             0.19                                                (d/1*100)
+f.   Load Ratio                                                   1.00194
+                                                                                                                                                                       (c/1)
+g.   VEF                                                          1.0000
+
+h.   Theoretical Shore                                       9,197.73                                                                                                  (c/g)
+i.   Theoretical Shore Diff.                                    17.78
+                                                                                                                                                                       (h-1)
+j.   Theoretical Shore Diff. %                                    0.19                                                                                                 (i/1*100)
+III. VESSEL/SHORE COMPARISON AT DISPORT-NOT AVAILABLE
+k.   Before Discharge                                                                                                                  Liquid             Non-Liquid
+l.   ROB
+m. Vessel Delivered                                                                                                                                                    (k-l)
+n.   Difference                                                                                                                                                        (2-m)
+o.   Difference %                                                                                                                                                      (n/2*100)
+p.   Discharge Ratio                                                                                                                                                   (m/2)
+q.   VEF
+r.   Theoretical Shore                                                                                                                                                 (m/q)
+s.   Theoretical Shore Diff.                                                                                                                                           (2-r)
+t.   Theoretical Shore Diff. %                                                                                                                                         (s/2*100)
+IV. VESSEL IN TRANSIT COMPARISON-NOT AVAILABLE
+u.   In-Transit Diff.                                                                                                                                                  (k-a)
+v.   In-Transit Diff. %                                                                                                                Liquid             Non-Liquid (u/a*100)
+w. OBQ/ROB Difference                                                                                                                                                  (b-l)
+                          Adjusted TCV Difference                                                S&W at Loadport     0.000 %        S&W at Disport ---
+
+
+
+
+Calculated as per Chapter 17.5
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: (832) 982-2001
+Email: opsbaytown@camincargo.com
+
+EXXO06-09 / 582073 / July 1, 2021
+                                                                                     Page 2 of 10
+                                                   QUANTITY CERTIFICATE N° BAY- 2408
+                                                                            Based on Shore Measurements
+VESSEL                 : MPX - 208                                                                                                  MOVEMENT      : Load
+LOCATION               : ExxonMobil - Baytown, TX                                                                                   JOB COMPLETED : 27-JUN-2021
+PRODUCT                : AROMATIC 150 BT VL                                                                                         REFERENCE N° : 5431035-10
+
+
+                                     Water         Water                    Roof                       Amb.                                                                  S&W
+         Gauge           TOV                                     CTSh                     GOV                       Temp.     API       VCF          GSV          S&W                         NSV
+                                     Gauge          Vol.                    Corr.                      Temp                                                                   Vol.
+Tank: 767                                          Ref. Gauge Ht: 40-02-00/0                          Gauge Date Open: 26-Jun 16:15                   Gauge Date Close: 26-Jun 08:15
+      Ft-In (Inn.)       Bbls        Ft-In           Bbls        Factor     Bbls          Bbls           °F          °F      @ 60°F     Supp      Bbls @ 60°F     %         @ 60°F         Bbls @ 60°F
+ O     31-01 01/08       15,555.87           ---        Nil      1.00036            ---   15,561.47       90.0        89.4   25.3 (S)   0.98566      15,338.32        ---            ---      15,338.32
+ C     12-06 03/04        6,243.88           ---        Nil      1.00036            ---    6,246.13       90.0        88.8   25.3 (S)   0.98595       6,158.37        ---            ---       6,158.37
+                          9,311.99                          0                              9,315.34                                                   9,179.95                                 9,179.95
+Obs. Gauge Ht(O): 40-02 00/00                      OGH vs RGH (O): 0-0 0/0                            Line:                                                 ---
+
+Obs. Gauge Ht(C): 40-02 00/00                      OGH vs RGH (C): 0-0 0/0                            Adjustment:                                           ---
+
+S=Submitted / C=Calculated / T=Tested by CCC / W=Tested by Terminal/Refinery & Witnessed by CCC
+Totals computed using appropriate tables corresponding to Delivered API.
+Notes for 767: REMOTE STOP 11-0-4
+
+                                                                AROMATIC 150 BT VL - TOTAL QUANTITIES - DELIVERED
+TCV, Barrels @ 60 °F                           9,179.95             S&W          ---
+Free Water Barrels                                 0.00                   ---
+                                               GSV                          NSV                                                                     GSW                         NSW
+Barrels @ 60 °F                                9,179.95                     9,179.95             Long Tons - Air                                    1,293.477                   1,293.477
+Gallons @ 60 °F                              385,557.90                    385,557.90            Metric Tons - Air                                  1,314.234                   1,314.234
+API Gravity @ 60 °F (S)                              25.3                                        Short Tons - Air                                   1,448.695                   1,448.695
+Lb/Gal @ 60 °F                               7.514796702                                         Kilograms - Air                               1,314,234.0                  1,314,234.0
+                                                                                                 Pounds - Air                                  2,897,389.0                  2,897,389.0
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 6118 Bayway Drive
+ Baytown, TX 77520
+ Office Phone: (832) 982-2001
+ Email: opsbaytown@camincargo.com
+
+ EXXO06-09 / 582073 / July 1, 2021                                                          Page 3 of 10
+                                            VESSEL QUANTITY REPORT N° BAY-2408
+VESSEL                  : MPX - 208                                                                       MOVEMENT      : Load
+LOCATION                : ExxonMobil - Baytown, TX                                                        JOB COMPLETED : 27-JUN-2021
+PRODUCT                 : AROMATIC 150 BT VL                                                              REFERENCE N° : 5431035-10
+Comp. Chart RH                  Phy GH      Gauge            TOV       Water             Water          Temp.      VCF      GSV @ 60 °F
+No      Ft-In                     Ft-In     Ft-In            Bbls      Gauge              Bbls            °F      D1555          Bbls
+1C       15-08 01/02 15-08 01/02 00-00 00/00                    Nil      ----             Nil
+2C       15-08 01/04 15-08 01/04 00-00 00/00                    Nil      ----             Nil
+3C       15-08 01/04 15-08 01/04 00-00 00/00                    Nil      ----             Nil
+                                                                Nil                        Nil
+Gauge Date             General Information                                                                                           Sea Valves
+26-JUN-2021            Last Three Cargoes   : ON FILE                                                                  SN=19891      N/A
+                       Sea Condition        : Calm                                                                     SN=9A-10311
+Draft (Ft-in)        Fwd (P)              Fwd (S)            Aft (P)      Aft (S)                Trim           List
+Before               01-09                01-09              01-09        01-09                  00-00 00/00    0.0
+Note:
+No Trim Correction was applied.
+Vessel was gauged/sampled using a Closed/Restricted System
+
+
+VESSEL QUANTITIES                         ARRIVAL
+TCV, Barrels @ 60 °F                          0.00
+Free Water Barrels                            0.00
+                                              GSV
+Barrels @ 60 °F                               0.00
+Gallons @ 60 °F                               0.00
+API Gravity @ 60 °F
+Lb/Gal @ 60 °F
+
+
+
+
+ 6118 Bayway Drive
+ Baytown, TX 77520
+ Office Phone: (832) 982-2001
+ Email: opsbaytown@camincargo.com
+
+ EXXO06-09 / 582073 / July 1, 2021
+                                                                          Page 4 of 10
+                                             VESSEL QUANTITY REPORT N° BAY-2408
+VESSEL                  : MPX - 208                                                                                       MOVEMENT      : Load
+LOCATION                : ExxonMobil - Baytown, TX                                                                        JOB COMPLETED : 27-JUN-2021
+PRODUCT                 : AROMATIC 150 BT VL                                                                              REFERENCE N° : 5431035-10
+Comp. Chart RH                  Phy GH       Gauge               TOV            Water               Water              Temp.           VCF      GSV @ 60 °F
+No      Ft-In                     Ft-In      Ft-In               Bbls           Gauge                Bbls                °F           D1555          Bbls
+1C       15-08 01/02 15-08 01/02 02-08 00/00                   3,167.08             ----              Nil                87.2      0.98673          3,125.05
+2C       15-08 01/04 15-08 01/04 02-09 01/04                   3,505.73             ----              Nil                87.4      0.98663          3,458.86
+3C       15-08 01/04 15-08 01/04 04-07 03/04                   2,648.84             ----              Nil                87.1      0.98678          2,613.82
+                                                               9,321.65                                   Nil            87.2                       9,197.73
+Gauge Date             General Information                                                                                                               Sea Valves
+27-JUN-2021            Last Three Cargoes   : ON FILE                                                                                      SN=19890      N/A
+                       Sea Condition        : Calm                                                                                         SN=9A-10309
+Draft (Ft-in)        Fwd (P)              Fwd (S)               Aft (P)               Aft (S)                   Trim              List
+Before               01-09                  01-09               01-09                 01-09                     00-00 00/00       0.0
+After                09-00                  09-00               09-00                 09-00                     00-00 00/00       0.00
+Note:
+No Trim Correction was applied.
+Vessel was gauged/sampled using a Closed/Restricted System
+
+
+
+VESSEL QUANTITIES                         DEPARTURE                  RECEIVED
+TCV, Barrels @ 60 °F                        9,197.73                  9,197.73           S&W        ---
+Free Water Barrels                              0.00                      0.00                      ---
+                                                GSV                         GSV                      NSV                                             GSW                   NSW
+Barrels @ 60 °F                             9,197.73                    9,197.73                    9,197.73           Long Tons - Air              1,295.983             1,295.983
+Gallons @ 60 °F                           386,304.66                386,304.66                   386,304.66            Metric Tons - Air            1,316.779             1,316.779
+API Gravity @ 60 °F                            25.3(S)                    25.3(S)                                      Short Tons - Air             1,451.500             1,451.500
+Lb/Gal @ 60 °F                                7.514796702                 7.514796702                                  Kilograms - Air          1,316,779.0           1,316,779.0
+                                                                                                                       Pounds - Air             2,903,001.0           2,903,001.0
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 6118 Bayway Drive
+ Baytown, TX 77520
+ Office Phone: (832) 982-2001
+ Email: opsbaytown@camincargo.com
+
+ EXXO06-09 / 582073 / July 1, 2021
+                                                                                     Page 5 of 10
+                                          LINE DISPLACEMENT REPORT N° BAY-2408
+VESSEL                  : MPX - 208                                                                                      MOVEMENT      : Load
+LOCATION                : ExxonMobil - Baytown, TX                                                                       JOB COMPLETED : 27-JUN-2021
+PRODUCT                 : AROMATIC 150 BT VL                                                                             REFERENCE N° : 5431035-10
+
+
+                   Shore Tank              Observed Gauges                    TOV           Temp.            API                  VCF                   TCV
+
+            Gauge Date: 26-JUN-2021            Ft-In (Inn.)                   Bbls            °F           @ 60 °F                6B                Bbls @ 60 °F
+                                     O        31-01 01/08               15,555.87
+                        767                                                                  89.4           25.3              0.98739                 779.82
+                                      C       29-06 01/04               14,766.09
+                                                                          789.78
+
+                                                  Total                   789.78                                                                      779.82
+
+           Shore Line                             Length                      Size               Nominal Capacity              Condition Before Displacement
+                                                   0 km                       0″                  750.00 Bbls                                Full
+
+
+                        Vessel              Observed Gauges                   TOV           Temp.            API                  VCF                   TCV
+
+                     MPX - 208                 Ft-In (Ull.)                   Bbls            °F           @ 60 °F                6B                Bbls @ 60 °F
+                                      O       00-00 00/00                     0.00
+                        1C                                                                   0.0             25.3              1.02544                802.56
+                                      C       03-02 03/04                 782.65
+                                                                          782.65
+
+                                                   Total                  782.65                                                                      802.56
+
+          Vessel's System                    Condition Before          Condition After           Nominal Capacity            Adjusted Volume Displaced
+                                                 Empty                      Full                   0.00 Bbls                                0.00
+
+
+
+
+                                                                                     TOV
+                                                           Barrels                                             Gallons
+           Total Tank                                                789.78                                          33,170.76
+
+           Total Vessel                                              782.65                                          32,871.30
+
+           Volume Difference                                          -7.13                                            -299.46
+
+           % Difference                                                0.90                                                0.90
+
+
+As per API Ch. 17.6 TOV of the product displaced was at least 120% of the combined capacity of all designated vessel and shore transfer lines unless the conditions referred to in
+17.6.8.1.1 applied, then 100 % of line capacity.
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+ 6118 Bayway Drive
+ Baytown, TX 77520
+ Office Phone: (832) 982-2001
+ Email: opsbaytown@camincargo.com
+
+ EXXO06-09 / 582073 / July 1, 2021                                                   Page 6 of 10
+                                                           TIME LOG REPORT N° BAY-2408
+VESSEL             : MPX - 208                                                                  MOVEMENT        : Load
+LOCATION           : ExxonMobil - Baytown, TX                                                   JOB COMPLETED   : 27-JUN-2021
+PRODUCT            : AROMATIC 150 BT VL                                                         REFERENCE N°    : 5431035-10
+
+Date              Time              Description
+25-JUN-2021       23:35             Barge(s) Arrived
+                  23:50             Barge(s) Docked
+                  23:51             Inspector Notified
+26-JUN-2021       00:01             Inspector D. Cooper Arrived 8 Berth
+                  00:05             Inspector D. Cooper on Board
+                  00:10             Preliminary Inspection Commenced
+                  00:25             Preliminary Inspection Completed
+                  00:30             Preliminary Calculations Completed
+                  00:35             Inspector D. Cooper Departed 8 Berth
+                  00:40             Delay Waiting For Exxon Dockline Analysis
+                  15:00             Cargo Hose(s) Connected
+                  15:11             Inspector R.Longtine Notified Shore Tank 767 Was Ready
+                  15:45             Inspector R.Longtine Arrived At Shore Tank 767
+                  15:55             Operator Arrived
+                  16:15             Shore Tank 767 Gauged Open
+                  16:30             Inspector R.Longtine Departed
+                  17:45             Load Commenced
+                  18:30             Load Suspended For Line Verification
+                  18:30             Inspector Notified
+                  18:45             Inspector D.Cooper Arrived 8 Berth
+                  18:50             Inspector D.Cooper on Board
+                  18:50             Inspector T. Garcia Arrived Shore Tank 767
+                  18:55             Commenced Gauging Barge For Line Verification
+                  19:00             Completed Gauging Barge For Line Verification
+                  19:05             Commenced Sampling 1 Meters
+                  19:15             Completed Sampling 1 Meters
+                  19:20             Inspector D.Cooper Departed 8 Berth
+                  19:20             Shore Tank Operator Arrived
+                  19:25             1 Meter Samples delivered To Exxon Lab
+                  19:30             Shore Tank 767 Gauged For Line Verification
+                  19:35             Line Verification Calculations Completed
+                  19:40             Line Verification Approved
+                  19:45             Exxon Notified Via Email & Phone Call
+                  19:50             Inspector T.Garcia Departed Shore Tank 767
+27-JUN-2021       06:15             Load Completed
+                  06:45             Cargo Hose(s) Disconnected
+                  07:00             Inspector R.Longtine Notified
+                  07:11             Inspector R.Longtine on Board
+                  07:16             Final Inspection Commenced
+                  07:35             Final Inspection Completed
+                  07:40             Final Calculations Commenced
+                  07:45             Final Calculations Completed
+                  07:50             Released To Terminal
+                  08:00             Inspector Arrived Shore Tank 767
+                  08:10             Operator Arrived Shore Tank 767
+                  08:15             Shore Tank 767 Gauged Close
+                  08:20             Inspector R.Longtine Departed
+
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: (832) 982-2001
+Email: opsbaytown@camincargo.com
+
+EXXO06-09 / 582073 / July 1, 2021
+
+                                                                                 Page 7 of 10
+                                                            TIME LOG REPORT N° BAY-2408
+VESSEL             : MPX - 208                                                                            MOVEMENT        : Load
+LOCATION           : ExxonMobil - Baytown, TX                                                             JOB COMPLETED   : 27-JUN-2021
+PRODUCT            : AROMATIC 150 BT VL                                                                   REFERENCE N°    : 5431035-10
+
+Date              Time              Description
+29-JUN-2021       10:40             Sent For Confirmation
+                  15:34             Received confirmation from the terminal
+
+
+
+
+All gauges, temperatures and volumes were obtained in accordance to the latest API and ASTM procedures.
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: (832) 982-2001
+Email: opsbaytown@camincargo.com
+
+EXXO06-09 / 582073 / July 1, 2021                                                 Page 8 of 10
+                                                 LETTER OF PROTEST ° BAY-2408
+VESSEL              : MPX - 208                                                            MOVEMENT      : Load
+LOCATION            : ExxonMobil - Baytown, TX                                             JOB COMPLETED : 27-JUN-2021
+PRODUCT             : AROMATIC 150 BT VL
+
+
+
+
+TO                  : Vessel                                                               REFERENCE         : Shore to Vessel variance after
+                                                                                                               Load
+
+On Behalf of our Principals, we do hereby note the following Protest:
+Shore to vsl difference noted upon completion of loading
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                    Respectfully,
+Signature:
+Print Name:
+Position:                                                                          ___________________________________
+Date/Time:                                                                                      Camin Cargo Control
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: (832) 982-2001
+Email: opsbaytown@camincargo.com
+
+EXXO06-09 / 582073 / July 1, 2021
+                                                                  Page 9 of 10
+                                                 LETTER OF PROTEST ° BAY-2408
+VESSEL              : MPX - 208                                                            MOVEMENT      : Load
+LOCATION            : ExxonMobil - Baytown, TX                                             JOB COMPLETED : 27-JUN-2021
+PRODUCT             : AROMATIC 150 BT VL
+
+
+
+
+TO                  : Terminal                                                             REFERENCE         : Shore to Vessel variance after
+                                                                                                               Load
+
+On Behalf of our Principals, we do hereby note the following Protest:
+Shore to vsl difference noted upon completion of loading
+
+
+
+
+We hereby reserve the right of our Principals to refer to this matter at a later date and to take such action as may be deemed necessary.
+
+The signature below is for receipt only.
+                                                                                                    Respectfully,
+Signature:
+Print Name:
+Position:                                                                          ___________________________________
+Date/Time:                                                                                      Camin Cargo Control
+
+6118 Bayway Drive
+Baytown, TX 77520
+Office Phone: (832) 982-2001
+Email: opsbaytown@camincargo.com
+
+EXXO06-09 / 582073 / July 1, 2021
+                                                                  Page 10 of 10
+
